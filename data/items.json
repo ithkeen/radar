@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "generated_at": "2026-06-16T16:56:44Z",
+  "generated_at": "2026-06-16T22:11:56Z",
   "display_window_days": 30,
   "retention_days": 365,
   "source_status": {
     "openai-news": {
       "name": "OpenAI News",
       "status": "live",
-      "latest_item_at": "2026-06-14T17:00:00Z",
-      "fetched_at": "2026-06-16T16:56:44Z",
-      "item_count": 1006,
+      "latest_item_at": "2026-06-16T00:00:00Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
+      "item_count": 1007,
       "error": null
     },
     "anthropic-news": {
       "name": "Anthropic News",
       "status": "disabled",
       "latest_item_at": null,
-      "fetched_at": "2026-06-16T16:56:44Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
       "item_count": 0,
       "error": null
     },
@@ -24,7 +24,7 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-16T16:56:44Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
       "item_count": 20,
       "error": null
     },
@@ -32,7 +32,7 @@
       "name": "Hugging Face Blog",
       "status": "live",
       "latest_item_at": "2026-06-12T15:56:10Z",
-      "fetched_at": "2026-06-16T16:56:44Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
       "item_count": 797,
       "error": null
     },
@@ -40,7 +40,7 @@
       "name": "Microsoft AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-16T13:41:44Z",
-      "fetched_at": "2026-06-16T16:56:44Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
       "item_count": 10,
       "error": null
     },
@@ -48,7 +48,7 @@
       "name": "arXiv AI/ML/CL",
       "status": "live",
       "latest_item_at": "2026-06-15T17:59:58Z",
-      "fetched_at": "2026-06-16T16:56:44Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
       "item_count": 50,
       "error": null
     },
@@ -56,7 +56,7 @@
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T17:29:59Z",
-      "fetched_at": "2026-06-16T16:56:44Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
       "item_count": 10,
       "error": null
     },
@@ -64,28 +64,80 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T05:27:20Z",
-      "fetched_at": "2026-06-16T16:56:44Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
       "item_count": 10,
       "error": null
     },
     "github-ollama": {
       "name": "Ollama Releases",
       "status": "live",
-      "latest_item_at": "2026-06-16T15:23:33Z",
-      "fetched_at": "2026-06-16T16:56:44Z",
+      "latest_item_at": "2026-06-16T21:11:57Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
       "item_count": 10,
       "error": null
     },
     "github-openai-python": {
       "name": "OpenAI Python Releases",
       "status": "live",
-      "latest_item_at": "2026-06-10T16:09:44Z",
-      "fetched_at": "2026-06-16T16:56:44Z",
+      "latest_item_at": "2026-06-16T21:51:39Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
       "item_count": 10,
       "error": null
     }
   },
   "items": [
+    {
+      "id": "1295c8c692cc1422",
+      "title": "v2.42.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.42.0",
+      "source_id": "github-openai-python",
+      "source_name": "OpenAI Python Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-16T21:51:39Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "open-source",
+        "product"
+      ],
+      "summary": "2.42.0 (2026-06-16) Full Changelog: v2.41.1...v2.42.0 Features api: admin spend_alerts ( 6134198 ) api: manual updates ( f337bf4 ) api: update OpenAPI spec or Stainless config ( 7015158 ) Build System fix release workflow permissions ( #33...",
+      "raw_excerpt": "2.42.0 (2026-06-16) Full Changelog: v2.41.1...v2.42.0 Features api: admin spend_alerts ( 6134198 ) api: manual updates ( f337bf4 ) api: update OpenAPI spec or Stainless config ( 7015158 ) Build System fix release workflow permissions ( #3389 ) ( a526ee8 ) Use CI environment for examples API key ( #3394 ) ( d64d811 )",
+      "score": 82,
+      "score_reasons": [
+        "trusted source weight 42",
+        "published in the last 24h",
+        "github_release source",
+        "matched tags: agents, open-source, product"
+      ],
+      "content_hash": "685983bb594bfee5"
+    },
+    {
+      "id": "49b7c11304c81c74",
+      "title": "v0.30.9",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9-rc2",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-16T21:11:57Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "product"
+      ],
+      "summary": "What's Changed Support for Cohere2Moe architecture Fixed LFM2 parser/render for cases where thinking was not emitted Fixed issue where ollama launch claude and other coding agent or assistant use cases would only output one token Ollama wi...",
+      "raw_excerpt": "What's Changed Support for Cohere2Moe architecture Fixed LFM2 parser/render for cases where thinking was not emitted Fixed issue where ollama launch claude and other coding agent or assistant use cases would only output one token Ollama will now return an error if a single message is larger than the current context window Full Changelog : v0.30.8...v0.30.9-rc1",
+      "score": 83,
+      "score_reasons": [
+        "trusted source weight 43",
+        "published in the last 24h",
+        "github_release source",
+        "matched tags: model, agents, product"
+      ],
+      "content_hash": "6453ecbc0ce8ecb2"
+    },
     {
       "id": "cc1fb30b41076bca",
       "title": "v0.30.9",
@@ -136,6 +188,33 @@
         "matched tags: safety, product"
       ],
       "content_hash": "a17d68f20a3f7e30"
+    },
+    {
+      "id": "c000018ba1f03575",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-16T00:00:00Z",
+      "fetched_at": "2026-06-16T22:11:56Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research",
+        "open-source",
+        "safety"
+      ],
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "raw_excerpt": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: model, research, open-source, safety"
+      ],
+      "content_hash": "3444aa2350566431"
     },
     {
       "id": "a11f22ad34b92c17",
