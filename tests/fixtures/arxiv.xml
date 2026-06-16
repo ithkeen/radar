@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:arxiv="http://arxiv.org/schemas/atom">
+  <title>arXiv Query</title>
+  <entry>
+    <id>http://arxiv.org/abs/2606.00001v1</id>
+    <updated>2026-06-16T04:00:00Z</updated>
+    <published>2026-06-16T04:00:00Z</published>
+    <title>Benchmarking multimodal agent systems</title>
+    <summary>We evaluate multimodal agents across tool-use tasks.</summary>
+    <link href="http://arxiv.org/abs/2606.00001v1" rel="alternate" type="text/html"/>
+    <arxiv:primary_category term="cs.AI"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>

@@ -1,3 +1,7 @@
 .idea/
 .cadence/
 .playwright-mcp/
+_site/
+__pycache__/
+*.pyc
+.pytest_cache/

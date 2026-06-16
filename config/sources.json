@@ -1,0 +1,104 @@
+{
+  "sources": [
+    {
+      "id": "openai-news",
+      "name": "OpenAI News",
+      "type": "official",
+      "url": "https://openai.com/news/rss.xml",
+      "language": "en",
+      "category": "company",
+      "weight": 56,
+      "enabled": true
+    },
+    {
+      "id": "anthropic-news",
+      "name": "Anthropic News",
+      "type": "official",
+      "url": "https://www.anthropic.com/news/rss.xml",
+      "language": "en",
+      "category": "company",
+      "weight": 55,
+      "enabled": false
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI Blog",
+      "type": "official",
+      "url": "https://blog.google/technology/ai/rss/",
+      "language": "en",
+      "category": "company",
+      "weight": 52,
+      "enabled": true
+    },
+    {
+      "id": "huggingface-blog",
+      "name": "Hugging Face Blog",
+      "type": "official",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "language": "en",
+      "category": "company",
+      "weight": 50,
+      "enabled": true
+    },
+    {
+      "id": "microsoft-ai",
+      "name": "Microsoft AI Blog",
+      "type": "official",
+      "url": "https://news.microsoft.com/source/topics/ai/feed/",
+      "language": "en",
+      "category": "company",
+      "weight": 50,
+      "enabled": true
+    },
+    {
+      "id": "arxiv-ai",
+      "name": "arXiv AI/ML/CL",
+      "type": "paper",
+      "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL+OR+cat:stat.ML&sortBy=submittedDate&sortOrder=descending&max_results=50",
+      "language": "en",
+      "category": "research",
+      "weight": 46,
+      "enabled": true
+    },
+    {
+      "id": "github-transformers",
+      "name": "Hugging Face Transformers Releases",
+      "type": "github_release",
+      "url": "https://github.com/huggingface/transformers/releases.atom",
+      "language": "en",
+      "category": "open-source",
+      "weight": 44,
+      "enabled": true
+    },
+    {
+      "id": "github-vllm",
+      "name": "vLLM Releases",
+      "type": "github_release",
+      "url": "https://github.com/vllm-project/vllm/releases.atom",
+      "language": "en",
+      "category": "open-source",
+      "weight": 44,
+      "enabled": true
+    },
+    {
+      "id": "github-ollama",
+      "name": "Ollama Releases",
+      "type": "github_release",
+      "url": "https://github.com/ollama/ollama/releases.atom",
+      "language": "en",
+      "category": "open-source",
+      "weight": 43,
+      "enabled": true
+    },
+    {
+      "id": "github-openai-python",
+      "name": "OpenAI Python Releases",
+      "type": "github_release",
+      "url": "https://github.com/openai/openai-python/releases.atom",
+      "language": "en",
+      "category": "open-source",
+      "weight": 42,
+      "enabled": true
+    }
+  ]
+}

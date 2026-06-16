@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Release notes from transformers</title>
+  <entry>
+    <id>tag:github.com,2008:Repository/155220641/v5.0.0</id>
+    <updated>2026-06-14T12:00:00Z</updated>
+    <published>2026-06-14T12:00:00Z</published>
+    <title>v5.0.0</title>
+    <link href="https://github.com/huggingface/transformers/releases/tag/v5.0.0" rel="alternate"/>
+    <content type="html">Release adds new inference APIs and open-source model support.</content>
+  </entry>
+</feed>

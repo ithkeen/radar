@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Missing Date</title>
+    <item>
+      <title>Chinese AI model 发布</title>
+      <link>https://example.cn/model</link>
+      <description>一个新的中文大模型产品发布。</description>
+    </item>
+  </channel>
+</rss>

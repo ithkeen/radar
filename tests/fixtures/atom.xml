@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Company Atom</title>
+  <entry>
+    <title>OpenAI releases new reasoning model</title>
+    <link href="https://mirror.example.com/news/reasoning-model"/>
+    <updated>2026-06-16T09:30:00Z</updated>
+    <summary>Duplicate coverage of the new reasoning model release.</summary>
+    <category term="model"/>
+  </entry>
+</feed>

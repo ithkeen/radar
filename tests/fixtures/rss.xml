@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Official AI Feed</title>
+    <item>
+      <title>OpenAI releases new reasoning model</title>
+      <link>https://example.com/news/reasoning-model?utm_source=newsletter</link>
+      <pubDate>Tue, 16 Jun 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[The company launched a new model with stronger tool use and agent workflows.]]></description>
+      <category>model</category>
+    </item>
+    <item>
+      <title>AI policy update for model safety</title>
+      <link>https://example.com/news/safety-policy</link>
+      <pubDate>Mon, 15 Jun 2026 08:00:00 GMT</pubDate>
+      <description>New safety policy and evaluation details.</description>
+      <category>safety</category>
+    </item>
+  </channel>
+</rss>

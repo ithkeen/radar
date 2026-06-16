@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Radar</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <a class="brand" href="./" aria-label="AI Radar home">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>AI Radar</span>
+        </a>
+        <p class="tagline">Trusted AI and technology signals from official feeds.</p>
+      </div>
+      <div class="topbar-meta">
+        <span class="status-pill" id="run-health">Loading</span>
+        <span id="last-updated">Last updated: --</span>
+      </div>
+    </header>
+
+    <main class="app-shell">
+      <aside class="filter-rail" aria-label="Filters">
+        <section class="panel compact-panel">
+          <div class="panel-heading">
+            <h2>Time Window</h2>
+          </div>
+          <div class="segmented" role="group" aria-label="Time range">
+            <button class="segmented-button" type="button" data-range="1">24h</button>
+            <button class="segmented-button" type="button" data-range="7">7d</button>
+            <button class="segmented-button is-active" type="button" data-range="30">30d</button>
+          </div>
+        </section>
+
+        <section class="panel compact-panel">
+          <div class="panel-heading">
+            <h2>Filters</h2>
+          </div>
+          <label class="control-label" for="query">Search</label>
+          <input id="query" class="text-input" type="search" placeholder="model, agent, policy...">
+
+          <label class="control-label" for="language">Language</label>
+          <select id="language" class="select-input">
+            <option value="all">All languages</option>
+          </select>
+
+          <label class="control-label" for="source">Source</label>
+          <select id="source" class="select-input">
+            <option value="all">All sources</option>
+          </select>
+
+          <label class="control-label" for="tag">Tag</label>
+          <select id="tag" class="select-input">
+            <option value="all">All tags</option>
+          </select>
+        </section>
+
+        <section class="panel compact-panel">
+          <div class="panel-heading">
+            <h2>Dataset</h2>
+          </div>
+          <dl class="metric-list">
+            <div>
+              <dt>Total retained</dt>
+              <dd id="total-count">0</dd>
+            </div>
+            <div>
+              <dt>Visible now</dt>
+              <dd id="visible-count">0</dd>
+            </div>
+            <div>
+              <dt>Retention</dt>
+              <dd id="retention-days">--</dd>
+            </div>
+          </dl>
+          <a class="data-link" href="data/items.json">Open JSON</a>
+        </section>
+      </aside>
+
+      <section class="feed-column" aria-live="polite">
+        <div class="feed-header">
+          <div>
+            <h1>Latest Signals</h1>
+            <p id="feed-subtitle">Ranked by recency, source quality, and topic match.</p>
+          </div>
+          <div class="sort-note">Deterministic score</div>
+        </div>
+        <div id="items" class="item-list"></div>
+      </section>
+
+      <aside class="right-rail">
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>Source Health</h2>
+            <span id="source-count">0 sources</span>
+          </div>
+          <div id="source-health" class="source-list"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-heading">
+            <h2>Tag Mix</h2>
+          </div>
+          <div id="tag-cloud" class="tag-cloud"></div>
+        </section>
+      </aside>
+    </main>
+
+    <template id="empty-template">
+      <div class="empty-state">
+        <h2>No signals match these filters.</h2>
+        <p>Try widening the time window, clearing search, or choosing all sources.</p>
+      </div>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
