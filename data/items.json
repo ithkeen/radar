@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-06-16T10:14:46Z",
+  "generated_at": "2026-06-16T16:56:44Z",
   "display_window_days": 30,
   "retention_days": 365,
   "source_status": {
@@ -8,7 +8,7 @@
       "name": "OpenAI News",
       "status": "live",
       "latest_item_at": "2026-06-14T17:00:00Z",
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 1006,
       "error": null
     },
@@ -16,7 +16,7 @@
       "name": "Anthropic News",
       "status": "disabled",
       "latest_item_at": null,
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 0,
       "error": null
     },
@@ -24,7 +24,7 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 20,
       "error": null
     },
@@ -32,15 +32,15 @@
       "name": "Hugging Face Blog",
       "status": "live",
       "latest_item_at": "2026-06-12T15:56:10Z",
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 797,
       "error": null
     },
     "microsoft-ai": {
       "name": "Microsoft AI Blog",
       "status": "live",
-      "latest_item_at": "2026-06-09T15:05:35Z",
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "latest_item_at": "2026-06-16T13:41:44Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 10,
       "error": null
     },
@@ -48,7 +48,7 @@
       "name": "arXiv AI/ML/CL",
       "status": "live",
       "latest_item_at": "2026-06-15T17:59:58Z",
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 50,
       "error": null
     },
@@ -56,7 +56,7 @@
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T17:29:59Z",
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 10,
       "error": null
     },
@@ -64,15 +64,15 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T05:27:20Z",
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 10,
       "error": null
     },
     "github-ollama": {
       "name": "Ollama Releases",
       "status": "live",
-      "latest_item_at": "2026-06-15T22:30:48Z",
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "latest_item_at": "2026-06-16T15:23:33Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 10,
       "error": null
     },
@@ -80,7 +80,7 @@
       "name": "OpenAI Python Releases",
       "status": "live",
       "latest_item_at": "2026-06-10T16:09:44Z",
-      "fetched_at": "2026-06-16T10:14:46Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "item_count": 10,
       "error": null
     }
@@ -93,22 +93,49 @@
       "source_id": "github-ollama",
       "source_name": "Ollama Releases",
       "source_type": "github_release",
-      "published_at": "2026-06-15T22:30:48Z",
-      "fetched_at": "2026-06-16T09:56:14Z",
+      "published_at": "2026-06-16T15:23:33Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
       "language": "en",
       "tags": [
-        "model"
+        "model",
+        "agents",
+        "product"
       ],
-      "summary": "What's Changed llama: update llama.cpp to b9637 by @jmorganca in #16609 Full Changelog : v0.30.8...v0.30.9-rc0",
-      "raw_excerpt": "What's Changed llama: update llama.cpp to b9637 by @jmorganca in #16609 Full Changelog : v0.30.8...v0.30.9-rc0",
-      "score": 77,
+      "summary": "What's Changed Support for Cohere2Moe architecture Fixed LFM2 parser/render for cases where thinking was not emitted Fixed issue where ollama launch claude and other coding agent or assistant use cases would only output one token Ollama wi...",
+      "raw_excerpt": "What's Changed Support for Cohere2Moe architecture Fixed LFM2 parser/render for cases where thinking was not emitted Fixed issue where ollama launch claude and other coding agent or assistant use cases would only output one token Ollama will now return an error if a single message is larger than the current context window Full Changelog : v0.30.8...v0.30.9-rc1",
+      "score": 83,
       "score_reasons": [
         "trusted source weight 43",
         "published in the last 24h",
         "github_release source",
-        "matched tags: model"
+        "matched tags: model, agents, product"
       ],
-      "content_hash": "7691ec98fe3bbed2"
+      "content_hash": "6453ecbc0ce8ecb2"
+    },
+    {
+      "id": "46ead61b916ae16d",
+      "title": "Farming is risky business. This app helps Turkish growers succeed",
+      "url": "https://news.microsoft.com/source/emea/features/farming-is-risky-business-this-app-helps-turkish-growers-succeed",
+      "source_id": "microsoft-ai",
+      "source_name": "Microsoft AI Blog",
+      "source_type": "official",
+      "published_at": "2026-06-16T13:41:44Z",
+      "fetched_at": "2026-06-16T16:56:44Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "product"
+      ],
+      "summary": "The post Farming is risky business. This app helps Turkish growers succeed appeared first on Source .",
+      "raw_excerpt": "The post Farming is risky business. This app helps Turkish growers succeed appeared first on Source .",
+      "score": 91,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 24h",
+        "official source",
+        "matched tags: safety, product"
+      ],
+      "content_hash": "a17d68f20a3f7e30"
     },
     {
       "id": "a11f22ad34b92c17",
