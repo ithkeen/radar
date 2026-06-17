@@ -1,15 +1,22 @@
-const VIEW_LABELS = {
-  curated: "Curated",
-  all: "All",
-  papers: "Papers",
-  "open-source": "Open source",
+const CHANNEL_LABELS = {
+  ai: "AI",
+  finance: "Finance",
+};
+
+const FOCUS_LABELS = {
+  priority: "Top signals",
+  models: "Model updates",
+  evaluations: "Model evaluations",
+  "coding-agents": "Coding agents",
+  "agent-practice": "Agent practice",
+  builders: "Builder opinions",
   health: "Source health",
 };
 
 const state = {
   rangeDays: 30,
-  view: "curated",
-  language: "all",
+  channel: "ai",
+  focus: "priority",
   source: "all",
   tag: "all",
   query: "",
@@ -27,19 +34,146 @@ const els = {
   loadedCount: document.querySelector("#loaded-count"),
   visibleCount: document.querySelector("#visible-count"),
   retentionDays: document.querySelector("#retention-days"),
-  sourceCount: document.querySelector("#source-count"),
   items: document.querySelector("#items"),
-  sourceHealth: document.querySelector("#source-health"),
-  tagCloud: document.querySelector("#tag-cloud"),
-  language: document.querySelector("#language"),
   source: document.querySelector("#source"),
   tag: document.querySelector("#tag"),
   archive: document.querySelector("#archive"),
   query: document.querySelector("#query"),
+  feedTitle: document.querySelector("#feed-title"),
   feedSubtitle: document.querySelector("#feed-subtitle"),
   sortNote: document.querySelector("#sort-note"),
   emptyTemplate: document.querySelector("#empty-template"),
 };
+
+const MODEL_UPDATE_KEYWORDS = [
+  "new model",
+  "model update",
+  "model release",
+  "frontier model",
+  "open weights",
+  "released model",
+  "technical report",
+  "new capabilities",
+];
+
+const MODEL_NAME_KEYWORDS = [
+  "weights",
+  "gpt",
+  "claude",
+  "gemini",
+  "llama",
+  "qwen",
+  "deepseek",
+  "mistral",
+  "o3",
+  "o4",
+];
+
+const MODEL_UPDATE_ACTION_KEYWORDS = [
+  "announce",
+  "announcing",
+  "introduce",
+  "introducing",
+  "launch",
+  "launches",
+  "release",
+  "released",
+  "available",
+  "capabilities",
+  "preview",
+];
+
+const EVALUATION_KEYWORDS = [
+  "benchmark",
+  "benchmarks",
+  "evaluation",
+  "evaluations",
+  "evaluate",
+  "validated",
+  "validation",
+  "leaderboard",
+  "arena",
+  "swe-bench",
+  "terminal-bench",
+  "red-team",
+  "robustness",
+];
+
+const CODING_AGENT_KEYWORDS = [
+  "codex",
+  "claude code",
+  "coding agent",
+  "code agent",
+  "software engineering",
+  "swe-bench",
+  "developer tool",
+  "github copilot",
+  "cursor",
+  "windsurf",
+  "pull request",
+  "repository issue",
+  "github issue",
+  "code generation",
+];
+
+const AGENT_TERMS = [
+  "agent",
+  "agents",
+  "agentic",
+  "multi-agent",
+  "tool use",
+  "computer use",
+  "browser use",
+  "mcp",
+];
+
+const AGENT_PRACTICE_TERMS = [
+  "build",
+  "building",
+  "deploy",
+  "production",
+  "workflow",
+  "practice",
+  "guide",
+  "pattern",
+  "lessons",
+  "implementation",
+  "orchestration",
+  "developer",
+];
+
+const BUILDER_OPINION_KEYWORDS = [
+  "opinion",
+  "perspective",
+  "interview",
+  "essay",
+  "memo",
+  "notes",
+  "lessons",
+  "how we",
+  "why we",
+  "behind",
+  "researcher",
+  "engineer",
+  "team",
+];
+
+const PAPER_DOMAIN_EXCLUSIONS = [
+  "robot",
+  "robotics",
+  "clinical",
+  "medical",
+  "healthcare",
+  "cardiac",
+  "legal",
+  "judicial",
+  "astronomical",
+  "biology",
+  "sensor",
+  "cyber-defense",
+  "cyber threat",
+  "red agent",
+];
 
 async function loadJson(path) {
   const response = await fetch(path, { cache: "no-store" });
@@ -86,7 +220,7 @@ function parseDate(value) {
 function formatDate(value) {
   const date = parseDate(value);
   if (!date) return "--";
-  return new Intl.DateTimeFormat(undefined, {
+  return new Intl.DateTimeFormat("en-US", {
     month: "short",
     day: "numeric",
     hour: "2-digit",
@@ -150,26 +284,109 @@ function itemMatchesRange(item) {
   return date.getTime() >= cutoff;
 }
 
-function itemMatchesView(item) {
-  if (state.view === "curated") {
-    return ["must_read", "noteworthy"].includes(item.tier);
+// Builds a single lower-case search surface; it does not mutate persisted item fields.
+function itemSearchText(item) {
+  return [item.title, item.summary, item.source_name, ...(item.tags || [])].join(" ").toLowerCase();
+}
+
+// Uses substring checks because feed summaries are short and already normalized by the collector.
+function matchesAny(text, keywords) {
+  return keywords.some((keyword) => text.includes(keyword));
+}
+
+// The AI channel deliberately narrows papers to practical model, eval, and coding-agent signals.
+function isTargetAiPaper(item) {
+  if (item.source_type !== "paper") return false;
+  const text = itemSearchText(item);
+  const excludedDomain = matchesAny(text, PAPER_DOMAIN_EXCLUSIONS);
+  const evaluationSignal = matchesEvaluation(item);
+  const codingAgentSignal = matchesCodingAgent(item);
+  const modelReleaseSignal =
+    matchesModelUpdate(item) &&
+    matchesAny(text, ["model release", "technical report", "open weights", "released model", "release of"]);
+  if (excludedDomain && !codingAgentSignal && !evaluationSignal) return false;
+  return codingAgentSignal || evaluationSignal || modelReleaseSignal;
+}
+
+// Treats model names as relevant only when paired with release or capability-update language.
+function matchesModelUpdate(item) {
+  const text = itemSearchText(item);
+  return (
+    matchesAny(text, MODEL_UPDATE_KEYWORDS) ||
+    (matchesAny(text, MODEL_NAME_KEYWORDS) && matchesAny(text, MODEL_UPDATE_ACTION_KEYWORDS))
+  );
+}
+
+// Keeps benchmarks tied to models, agents, or coding rather than broad academic evaluation.
+function matchesEvaluation(item) {
+  const text = itemSearchText(item);
+  const hasEvaluation = matchesAny(text, EVALUATION_KEYWORDS);
+  const hasAiSubject = matchesAny(text, [
+    ...MODEL_UPDATE_KEYWORDS,
+    ...MODEL_NAME_KEYWORDS,
+    ...AGENT_TERMS,
+    ...CODING_AGENT_KEYWORDS,
+    "llm",
+    "language model",
+  ]);
+  return hasEvaluation && hasAiSubject;
+}
+
+// Captures Codex, Claude Code, and adjacent software-engineering agent updates.
+function matchesCodingAgent(item) {
+  const text = itemSearchText(item);
+  return matchesAny(text, CODING_AGENT_KEYWORDS);
+}
+
+// Requires both an agent term and a practical-build term to avoid generic agent research.
+function matchesAgentPractice(item) {
+  const text = itemSearchText(item);
+  return matchesAny(text, AGENT_TERMS) && matchesAny(text, AGENT_PRACTICE_TERMS);
+}
+
+// Employee and builder viewpoints are expected from company/blog feeds, not arXiv papers.
+function matchesBuilderOpinion(item) {
+  if (item.source_type === "paper") return false;
+  const text = itemSearchText(item);
+  return matchesAny(text, BUILDER_OPINION_KEYWORDS);
+}
+
+// Defines the AI channel's top-level admission rule before focus-specific filtering.
+function isPreferredAiSignal(item) {
+  if (item.source_type === "paper") {
+    return isTargetAiPaper(item);
   }
-  if (state.view === "papers") {
-    return item.source_type === "paper" || (item.tags || []).includes("research");
-  }
-  if (state.view === "open-source") {
-    return item.source_type === "github_release" || (item.tags || []).includes("open-source");
-  }
-  return true;
+  return (
+    matchesModelUpdate(item) ||
+    matchesEvaluation(item) ||
+    matchesCodingAgent(item) ||
+    matchesAgentPractice(item) ||
+    matchesBuilderOpinion(item)
+  );
+}
+
+// Finance is intentionally reserved, so only AI items can enter the current channel feed.
+function itemMatchesChannel(item) {
+  return state.channel === "ai" && isPreferredAiSignal(item);
+}
+
+// Applies the selected AI focus after the channel-level admission rule has passed.
+function itemMatchesFocus(item) {
+  if (!isPreferredAiSignal(item)) return false;
+  if (state.focus === "models") return matchesModelUpdate(item);
+  if (state.focus === "evaluations") return matchesEvaluation(item);
+  if (state.focus === "coding-agents") return matchesCodingAgent(item);
+  if (state.focus === "agent-practice") return matchesAgentPractice(item);
+  if (state.focus === "builders") return matchesBuilderOpinion(item);
+  return ["must_read", "noteworthy"].includes(item.tier);
 }
 
 function itemMatchesFilters(item) {
   const query = state.query.trim().toLowerCase();
-  const searchable = [item.title, item.summary, item.source_name, ...(item.tags || [])].join(" ").toLowerCase();
+  const searchable = itemSearchText(item);
   return (
     itemMatchesRange(item) &&
-    itemMatchesView(item) &&
-    (state.language === "all" || item.language === state.language) &&
+    itemMatchesFocus(item) &&
     (state.source === "all" || item.source_id === state.source) &&
     (state.tag === "all" || (item.tags || []).includes(state.tag)) &&
     (!query || searchable.includes(query))
@@ -211,13 +428,24 @@ function updateRunHealth(statuses) {
 }
 
 function updateSubtitle(visibleCount) {
-  const viewName = VIEW_LABELS[state.view] || "Curated";
   const shard = state.activeArchive === "latest" ? `latest ${state.rangeDays}d` : `${state.activeArchive} archive`;
-  els.feedSubtitle.textContent =
-    state.view === "health"
-      ? "Source status from the latest collection run."
-      : `${viewName} view · ${shard} · ${visibleCount} visible signals.`;
-  els.sortNote.textContent = state.view === "health" ? "Run status" : "Quality score";
+  els.feedTitle.textContent = `${CHANNEL_LABELS[state.channel] || "AI"} Channel`;
+
+  if (state.channel === "finance") {
+    els.feedSubtitle.textContent = "Finance is reserved for a future channel.";
+    els.sortNote.textContent = "Reserved";
+    return;
+  }
+
+  if (state.focus === "health") {
+    els.feedSubtitle.textContent = "Source status from the latest collection run.";
+    els.sortNote.textContent = "Run status";
+    return;
+  }
+
+  const focusName = FOCUS_LABELS[state.focus] || "Top signals";
+  els.feedSubtitle.textContent = `${focusName} · ${shard} · ${visibleCount} visible signals.`;
+  els.sortNote.textContent = "AI relevance";
 }
 
 function renderMetrics(visibleCount) {
@@ -228,7 +456,6 @@ function renderMetrics(visibleCount) {
   els.loadedCount.textContent = String((data.items || []).length);
   els.visibleCount.textContent = String(visibleCount);
   els.retentionDays.textContent = `${index.retention_days || "--"}d`;
-  els.sourceCount.textContent = `${Object.keys(currentStatuses()).length} sources`;
   updateRunHealth(currentStatuses());
 }
 
@@ -255,7 +482,6 @@ function renderItems(items) {
           <span>${escapeHtml(item.source_name)}</span>
           <span>${formatDate(item.published_at)}</span>
           <span>${timeAgo(item.published_at)}</span>
-          <span>${escapeHtml(item.language || "unknown")}</span>
           <span class="tier ${escapeHtml(item.tier || "raw")}">${tierLabel(item.tier)}</span>
         </div>
         <p class="item-summary">${escapeHtml(item.summary || "No feed summary available.")}</p>
@@ -302,66 +528,47 @@ function renderHealthFeed(statuses) {
   }
 }
 
-function renderSources(statuses) {
-  els.sourceHealth.innerHTML = "";
-  const entries = Object.entries(statuses).sort(([, a], [, b]) => a.name.localeCompare(b.name));
-  for (const [sourceId, status] of entries) {
-    const card = document.createElement("div");
-    card.className = "source-card";
-    card.innerHTML = `
-      <div class="source-card-header">
-        <span class="health-dot ${escapeHtml(status.status)}" aria-hidden="true"></span>
-        <span>${escapeHtml(status.name || sourceId)}</span>
-      </div>
-      <p>${statusLabel(status.status)} · ${escapeHtml(status.item_count || 0)} fetched · latest ${formatDate(status.latest_item_at)}</p>
-      ${status.error ? `<p class="source-error">${escapeHtml(status.error)}</p>` : ""}
-    `;
-    els.sourceHealth.append(card);
-  }
-}
-
-function renderTagCloud(items) {
-  const counts = new Map();
-  for (const item of items) {
-    for (const tag of item.tags || []) {
-      counts.set(tag, (counts.get(tag) || 0) + 1);
-    }
-  }
-  const tags = [...counts.entries()].sort((a, b) => b[1] - a[1]).slice(0, 14);
-  els.tagCloud.innerHTML = tags.length
-    ? tags.map(([tag, count]) => `<span class="tag">${escapeHtml(tag)} · ${count}</span>`).join("")
-    : '<span class="reason">No tags yet</span>';
+// Renders the placeholder channel without inventing finance data or metrics.
+function renderReservedChannel() {
+  els.items.innerHTML = `
+    <div class="empty-state reserved-state">
+      <h2>Finance channel is reserved.</h2>
+      <p>The current build keeps the feed focused on AI signals.</p>
+    </div>
+  `;
 }
 
 function hydrateFilters(items) {
-  const languages = uniqueSorted(items.map((item) => item.language));
   const sources = uniqueSorted(items.map((item) => item.source_id));
   const tags = uniqueSorted(items.flatMap((item) => item.tags || []));
-  setOptions(els.language, languages, "All languages");
   setOptions(els.source, sources, "All sources");
   setOptions(els.tag, tags, "All tags");
 }
 
 function render() {
-  const items = state.data?.items || [];
+  const channelItems = (state.data?.items || []).filter(itemMatchesChannel);
   hydrateArchiveOptions();
-  hydrateFilters(items);
-  renderSources(currentStatuses());
+  hydrateFilters(channelItems);
 
-  if (state.view === "health") {
+  if (state.channel === "finance") {
+    renderMetrics(0);
+    updateSubtitle(0);
+    renderReservedChannel();
+    return;
+  }
+
+  if (state.focus === "health") {
     const visibleCount = Object.keys(currentStatuses()).length;
     renderMetrics(visibleCount);
     updateSubtitle(visibleCount);
     renderHealthFeed(currentStatuses());
-    renderTagCloud(items);
     return;
   }
 
-  const filtered = items.filter(itemMatchesFilters);
+  const filtered = channelItems.filter(itemMatchesFilters);
   renderMetrics(filtered.length);
   updateSubtitle(filtered.length);
   renderItems(filtered);
-  renderTagCloud(filtered);
 }
 
 function setActiveButton(selector, activeValue, attrName) {
@@ -371,10 +578,18 @@ function setActiveButton(selector, activeValue, attrName) {
 }
 
 function bindControls() {
-  document.querySelectorAll("[data-view]").forEach((button) => {
+  document.querySelectorAll("[data-channel]").forEach((button) => {
     button.addEventListener("click", () => {
-      state.view = button.dataset.view;
-      setActiveButton("[data-view]", state.view, "view");
+      state.channel = button.dataset.channel;
+      setActiveButton("[data-channel]", state.channel, "channel");
+      render();
+    });
+  });
+
+  document.querySelectorAll("[data-focus]").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.focus = button.dataset.focus;
+      setActiveButton("[data-focus]", state.focus, "focus");
       render();
     });
   });
@@ -387,10 +602,6 @@ function bindControls() {
     });
   });
 
-  els.language.addEventListener("change", () => {
-    state.language = els.language.value;
-    render();
-  });
   els.source.addEventListener("change", () => {
     state.source = els.source.value;
     render();

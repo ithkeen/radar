@@ -13,7 +13,7 @@
           <span class="brand-mark" aria-hidden="true"></span>
           <span>AI Radar</span>
         </a>
-        <p class="tagline">Trusted AI and technology signals from official feeds.</p>
+        <p class="tagline">Signals for model updates, agent tooling, evaluations, and builder insight.</p>
       </div>
       <div class="topbar-meta">
         <span class="status-pill" id="run-health">Loading</span>
@@ -25,14 +25,26 @@
       <aside class="filter-rail" aria-label="Filters">
         <section class="panel compact-panel">
           <div class="panel-heading">
-            <h2>View</h2>
+            <h2>Channel</h2>
           </div>
-          <div class="segmented stacked" role="group" aria-label="Content view">
-            <button class="segmented-button is-active" type="button" data-view="curated">Curated</button>
-            <button class="segmented-button" type="button" data-view="all">All</button>
-            <button class="segmented-button" type="button" data-view="papers">Papers</button>
-            <button class="segmented-button" type="button" data-view="open-source">Open source</button>
-            <button class="segmented-button" type="button" data-view="health">Source health</button>
+          <div class="segmented stacked channel-switcher" role="group" aria-label="Channel">
+            <button class="segmented-button is-active" type="button" data-channel="ai">AI</button>
+            <button class="segmented-button is-reserved" type="button" data-channel="finance">Finance <span>Reserved</span></button>
+          </div>
+        </section>
+
+        <section class="panel compact-panel">
+          <div class="panel-heading">
+            <h2>AI Focus</h2>
+          </div>
+          <div class="segmented stacked" role="group" aria-label="AI focus">
+            <button class="segmented-button is-active" type="button" data-focus="priority">Top signals</button>
+            <button class="segmented-button" type="button" data-focus="models">Model updates</button>
+            <button class="segmented-button" type="button" data-focus="evaluations">Model evaluations</button>
+            <button class="segmented-button" type="button" data-focus="coding-agents">Coding agents</button>
+            <button class="segmented-button" type="button" data-focus="agent-practice">Agent practice</button>
+            <button class="segmented-button" type="button" data-focus="builders">Builder opinions</button>
+            <button class="segmented-button" type="button" data-focus="health">Source health</button>
           </div>
         </section>
 
@@ -52,12 +64,7 @@
             <h2>Filters</h2>
           </div>
           <label class="control-label" for="query">Search</label>
-          <input id="query" class="text-input" type="search" placeholder="model, agent, policy...">
-
-          <label class="control-label" for="language">Language</label>
-          <select id="language" class="select-input">
-            <option value="all">All languages</option>
-          </select>
+          <input id="query" class="text-input" type="search" placeholder="model, benchmark, codex...">
 
           <label class="control-label" for="source">Source</label>
           <select id="source" class="select-input">
@@ -104,35 +111,18 @@
       <section class="feed-column" aria-live="polite">
         <div class="feed-header">
           <div>
-            <h1>Latest Signals</h1>
+            <h1 id="feed-title">AI Channel</h1>
             <p id="feed-subtitle">Curated by quality, recency, and source diversity.</p>
           </div>
           <div class="sort-note" id="sort-note">Quality score</div>
         </div>
         <div id="items" class="item-list"></div>
       </section>
-
-      <aside class="right-rail">
-        <section class="panel">
-          <div class="panel-heading">
-            <h2>Source Health</h2>
-            <span id="source-count">0 sources</span>
-          </div>
-          <div id="source-health" class="source-list"></div>
-        </section>
-
-        <section class="panel">
-          <div class="panel-heading">
-            <h2>Tag Mix</h2>
-          </div>
-          <div id="tag-cloud" class="tag-cloud"></div>
-        </section>
-      </aside>
     </main>
 
     <template id="empty-template">
       <div class="empty-state">
-        <h2>No signals match these filters.</h2>
+        <h2>No signals match this focus.</h2>
         <p>Try widening the time window, clearing search, or choosing all sources.</p>
       </div>
     </template>

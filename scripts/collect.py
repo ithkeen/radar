@@ -28,18 +28,21 @@ TAG_KEYWORDS: dict[str, tuple[str, ...]] = {
     "model": ("model", "llm", "gpt", "claude", "gemini", "llama", "qwen", "deepseek", "模型", "大模型"),
     "multimodal": ("multimodal", "vision", "audio", "video", "image", "多模态", "视觉", "语音", "视频"),
     "agents": ("agent", "agents", "tool use", "workflow", "mcp", "代理", "智能体"),
+    "coding-agent": ("codex", "claude code", "coding agent", "code agent", "swe-bench", "software engineering"),
+    "evaluation": ("benchmark", "evaluation", "evaluate", "leaderboard", "validation", "swe-bench", "terminal-bench"),
     "research": ("paper", "arxiv", "benchmark", "evaluation", "dataset", "论文", "评测", "基准"),
     "open-source": ("open source", "github", "release", "weights", "开源", "权重"),
     "inference": ("inference", "latency", "serving", "quantization", "推理", "量化", "部署"),
     "safety": ("safety", "alignment", "policy", "risk", "安全", "对齐", "风险"),
     "product": ("launch", "product", "api", "app", "preview", "发布", "产品", "接口"),
+    "builder-opinion": ("opinion", "perspective", "interview", "essay", "lessons", "how we", "why we"),
     "regulation": ("regulation", "policy", "law", "standard", "监管", "政策", "标准"),
     "hardware": ("gpu", "chip", "accelerator", "cuda", "芯片", "算力"),
 }
 
 SOURCE_TYPE_BONUS = {
     "official": 10,
-    "paper": 7,
+    "paper": 2,
     "github_release": 6,
     "blog": 5,
     "data": 5,
@@ -47,7 +50,7 @@ SOURCE_TYPE_BONUS = {
 
 DEFAULT_HOMEPAGE_LIMIT = {
     "official": 12,
-    "paper": 8,
+    "paper": 3,
     "github_release": 4,
     "blog": 8,
     "data": 6,
@@ -55,7 +58,7 @@ DEFAULT_HOMEPAGE_LIMIT = {
 
 DEFAULT_DAILY_LIMIT = {
     "official": 6,
-    "paper": 8,
+    "paper": 2,
     "github_release": 2,
     "blog": 5,
     "data": 4,
@@ -76,8 +79,12 @@ HIGH_IMPACT_KEYWORDS = (
     "api",
     "generally available",
     "benchmark",
-    "safety",
-    "policy",
+    "evaluation",
+    "leaderboard",
+    "codex",
+    "claude code",
+    "coding agent",
+    "agent workflow",
     "发布",
     "推出",
     "开源",
@@ -104,6 +111,134 @@ LOW_VALUE_KEYWORDS = (
     "客户案例",
 )
 
+MODEL_UPDATE_KEYWORDS = (
+    "new model",
+    "model update",
+    "model release",
+    "frontier model",
+    "open weights",
+    "released model",
+    "technical report",
+    "new capabilities",
+)
+
+MODEL_NAME_KEYWORDS = (
+    "weights",
+    "gpt",
+    "claude",
+    "gemini",
+    "llama",
+    "qwen",
+    "deepseek",
+    "mistral",
+)
+
+MODEL_UPDATE_ACTION_KEYWORDS = (
+    "announce",
+    "announcing",
+    "introduce",
+    "introducing",
+    "launch",
+    "launches",
+    "release",
+    "released",
+    "available",
+    "capabilities",
+    "preview",
+)
+
+EVALUATION_KEYWORDS = (
+    "benchmark",
+    "benchmarks",
+    "evaluation",
+    "evaluations",
+    "evaluate",
+    "validated",
+    "validation",
+    "leaderboard",
+    "arena",
+    "swe-bench",
+    "terminal-bench",
+    "red-team",
+    "robustness",
+)
+
+CODING_AGENT_KEYWORDS = (
+    "codex",
+    "claude code",
+    "coding agent",
+    "code agent",
+    "software engineering",
+    "swe-bench",
+    "developer tool",
+    "github copilot",
+    "cursor",
+    "windsurf",
+    "pull request",
+    "repository issue",
+    "github issue",
+    "code generation",
+)
+
+AGENT_TERMS = (
+    "agent",
+    "agents",
+    "agentic",
+    "multi-agent",
+    "tool use",
+    "computer use",
+    "browser use",
+    "mcp",
+)
+
+AGENT_PRACTICE_TERMS = (
+    "build",
+    "building",
+    "deploy",
+    "production",
+    "workflow",
+    "practice",
+    "guide",
+    "pattern",
+    "lessons",
+    "implementation",
+    "orchestration",
+    "developer",
+)
+
+BUILDER_OPINION_KEYWORDS = (
+    "opinion",
+    "perspective",
+    "interview",
+    "essay",
+    "memo",
+    "notes",
+    "lessons",
+    "how we",
+    "why we",
+    "behind",
+    "researcher",
+    "engineer",
+    "team",
+)
+
+PAPER_DOMAIN_EXCLUSIONS = (
+    "robot",
+    "robotics",
+    "clinical",
+    "medical",
+    "healthcare",
+    "cardiac",
+    "legal",
+    "judicial",
+    "astronomical",
+    "biology",
+    "sensor",
+    "cyber-defense",
+    "cyber threat",
+    "red agent",
+)
+
 SIGNAL_KEYWORDS = (
     "openai",
     "anthropic",
@@ -118,10 +253,13 @@ SIGNAL_KEYWORDS = (
     "qwen",
     "deepseek",
     "mcp",
+    "claude code",
+    "coding agent",
+    "swe-bench",
     "agent",
     "agents",
-    "safety",
     "benchmark",
+    "evaluation",
 )
 
 
@@ -537,6 +675,59 @@ def item_text(item: dict[str, Any]) -> str:
     return " ".join([str(item.get("title", "")), str(item.get("summary", "")), " ".join(item.get("tags", []))]).lower()
 
 
+def text_matches(text: str, keywords: tuple[str, ...]) -> bool:
+    """Return exact substring matches for the dashboard's deterministic curation rules."""
+    return any(keyword in text for keyword in keywords)
+
+
+def ai_interest_matches(item: dict[str, Any]) -> list[str]:
+    """Label the AI-channel interests an item satisfies without calling an external ranker."""
+    text = item_text(item)
+    tags = set(item.get("tags", []))
+    matches: list[str] = []
+
+    model_update = text_matches(text, MODEL_UPDATE_KEYWORDS) or (
+        text_matches(text, MODEL_NAME_KEYWORDS) and text_matches(text, MODEL_UPDATE_ACTION_KEYWORDS)
+    )
+    if model_update:
+        matches.append("model update")
+
+    has_evaluation = text_matches(text, EVALUATION_KEYWORDS) or "evaluation" in tags
+    has_ai_subject = text_matches(
+        text,
+        MODEL_UPDATE_KEYWORDS + MODEL_NAME_KEYWORDS + AGENT_TERMS + CODING_AGENT_KEYWORDS + ("llm", "language model"),
+    )
+    if has_evaluation and has_ai_subject:
+        matches.append("model evaluation")
+
+    if text_matches(text, CODING_AGENT_KEYWORDS) or "coding-agent" in tags:
+        matches.append("coding agent")
+
+    if text_matches(text, AGENT_TERMS) and text_matches(text, AGENT_PRACTICE_TERMS):
+        matches.append("agent practice")
+
+    if item.get("source_type") != "paper" and (text_matches(text, BUILDER_OPINION_KEYWORDS) or "builder-opinion" in tags):
+        matches.append("builder opinion")
+
+    return matches
+
+
+def target_ai_paper(item: dict[str, Any], interest_matches: list[str]) -> bool:
+    """Keep arXiv useful by admitting only papers tied to evals, coding agents, or model reports."""
+    if item.get("source_type") != "paper":
+        return False
+    text = item_text(item)
+    excluded_domain = text_matches(text, PAPER_DOMAIN_EXCLUSIONS)
+    model_report = text_matches(text, MODEL_UPDATE_KEYWORDS + MODEL_NAME_KEYWORDS) and text_matches(
+        text,
+        ("model release", "technical report", "open weights", "released model", "release of"),
+    )
+    practical_match = bool({"model evaluation", "coding agent"} & set(interest_matches))
+    if excluded_domain and not practical_match:
+        return False
+    return practical_match or model_report
+
+
 def configured_keywords(source: dict[str, Any], key: str) -> tuple[str, ...]:
     rules = source.get("quality_rules") or {}
     values = rules.get(key) if isinstance(rules, dict) else None
@@ -548,7 +739,11 @@ def configured_keywords(source: dict[str, Any], key: str) -> tuple[str, ...]:
 def signal_keys(item: dict[str, Any]) -> set[str]:
     text = item_text(item)
     keys = {keyword for keyword in SIGNAL_KEYWORDS if keyword in text}
-    keys.update(tag for tag in item.get("tags", []) if tag in {"model", "agents", "safety", "open-source"})
+    keys.update(
+        tag
+        for tag in item.get("tags", [])
+        if tag in {"model", "agents", "coding-agent", "evaluation", "open-source", "builder-opinion"}
+    )
     return keys
 
 
@@ -594,18 +789,34 @@ def evaluate_quality(
     tags = set(item.get("tags", []))
     high_keywords = HIGH_IMPACT_KEYWORDS + configured_keywords(source, "high_impact_keywords")
     low_keywords = LOW_VALUE_KEYWORDS + configured_keywords(source, "low_value_keywords")
+    focus_matches = ai_interest_matches(item)
+    paper_is_target = target_ai_paper(item, focus_matches)
 
-    if any(keyword in text for keyword in high_keywords):
+    if focus_matches:
         score += 8
-        reasons.append("high-impact launch/research keywords")
+        reasons.append("matches AI channel focus: " + ", ".join(focus_matches[:3]))
+    elif source_type == "paper":
+        score -= 24
+        reasons.append("paper outside AI channel focus")
+    else:
+        score -= 6
+        reasons.append("outside preferred AI focus")
+
+    if focus_matches and any(keyword in text for keyword in high_keywords):
+        score += 8
+        reasons.append("high-impact model, eval, or agent keywords")
 
     if source_type == "official" and {"model", "product"} & tags:
         score += 6
         reasons.append("official model or product signal")
 
-    if source_type == "paper" and "research" in tags:
-        score += 3
-        reasons.append("research feed item")
+    if source_type == "paper":
+        if paper_is_target:
+            score += 5
+            reasons.append("targeted model, eval, or coding-agent paper")
+        else:
+            score -= 28
+            reasons.append("demoted broad arXiv paper")
 
     if source_type == "github_release":
         if re.search(r"\bv?\d+\.\d+(\.\d+)?\b", str(item.get("title", "")).lower()):
@@ -630,7 +841,8 @@ def evaluate_quality(
         reasons.append("thin feed summary")
 
     final_score = max(0, min(100, score))
-    tier = "raw" if matched_low_value else tier_for_score(final_score)
+    force_raw = matched_low_value or not focus_matches or (source_type == "paper" and not paper_is_target)
+    tier = "raw" if force_raw else tier_for_score(final_score)
     if not reasons:
         reasons.append("baseline source and recency score")
     return final_score, tier, reasons

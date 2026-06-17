@@ -144,6 +144,21 @@ class CollectTests(unittest.TestCase):
         self.assertEqual(ranked[0]["tier"], "raw")
         self.assertTrue(any("low-signal" in reason for reason in ranked[0]["quality_reasons"]))
 
+    def test_broad_arxiv_paper_is_demoted_to_raw(self):
+        entry = {
+            "title": "Learning Red Agent Policy from Observations for Autonomous Cyber Agents",
+            "url": "https://example.com/arxiv-cyber-agent",
+            "summary": "A reinforcement learning paper about autonomous cyber-defense policies in simulated networks.",
+            "published_at": "2026-06-16T10:00:00Z",
+            "categories": ["cs.AI"],
+        }
+        src = source(id="arxiv", type="paper", weight=46)
+        item = collect.build_item(entry, src, NOW, NOW)
+        ranked = collect.apply_quality_tiers([item], [src], NOW, display_window_days=30)
+
+        self.assertEqual(ranked[0]["tier"], "raw")
+        self.assertTrue(any("broad arXiv" in reason for reason in ranked[0]["quality_reasons"]))
+
     def test_source_quota_limits_curated_homepage_items(self):
         src = source(id="papers", type="paper", weight=48, daily_limit=2, homepage_limit=2)
         items = []

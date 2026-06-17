@@ -22,7 +22,7 @@
       "weight": 55,
       "daily_limit": 5,
       "homepage_limit": 12,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "google-ai",
@@ -67,9 +67,9 @@
       "url": "https://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.LG+OR+cat:cs.CL+OR+cat:stat.ML&sortBy=submittedDate&sortOrder=descending&max_results=50",
       "language": "en",
       "category": "research",
-      "weight": 46,
-      "daily_limit": 8,
-      "homepage_limit": 10,
+      "weight": 38,
+      "daily_limit": 2,
+      "homepage_limit": 3,
       "enabled": true
     },
     {
