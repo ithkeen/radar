@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-17T04:10:17Z",
+  "generated_at": "2026-06-17T12:17:02Z",
   "display_window_days": 30,
   "retention_days": 365,
   "available_months": [
@@ -23,7 +23,7 @@
       "name": "OpenAI News",
       "status": "live",
       "latest_item_at": "2026-06-16T00:00:00Z",
-      "fetched_at": "2026-06-17T04:10:17Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
       "item_count": 1007,
       "error": null
     },
@@ -31,7 +31,7 @@
       "name": "Anthropic News",
       "status": "error",
       "latest_item_at": null,
-      "fetched_at": "2026-06-17T04:10:17Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
       "item_count": 0,
       "error": "HTTP Error 404: Not Found"
     },
@@ -39,23 +39,23 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-17T04:10:17Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
       "item_count": 20,
       "error": null
     },
     "huggingface-blog": {
       "name": "Hugging Face Blog",
       "status": "live",
-      "latest_item_at": "2026-06-12T15:56:10Z",
-      "fetched_at": "2026-06-17T04:10:17Z",
-      "item_count": 797,
+      "latest_item_at": "2026-06-17T10:18:05Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
+      "item_count": 799,
       "error": null
     },
     "microsoft-ai": {
       "name": "Microsoft AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-16T13:41:44Z",
-      "fetched_at": "2026-06-17T04:10:17Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
       "item_count": 10,
       "error": null
     },
@@ -63,7 +63,7 @@
       "name": "arXiv AI/ML/CL",
       "status": "live",
       "latest_item_at": "2026-06-16T17:59:04Z",
-      "fetched_at": "2026-06-17T04:10:17Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
       "item_count": 50,
       "error": null
     },
@@ -71,7 +71,7 @@
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T17:29:59Z",
-      "fetched_at": "2026-06-17T04:10:17Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
       "item_count": 10,
       "error": null
     },
@@ -79,15 +79,15 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T05:27:20Z",
-      "fetched_at": "2026-06-17T04:10:17Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
       "item_count": 10,
       "error": null
     },
     "github-ollama": {
       "name": "Ollama Releases",
       "status": "live",
-      "latest_item_at": "2026-06-17T00:25:33Z",
-      "fetched_at": "2026-06-17T04:10:17Z",
+      "latest_item_at": "2026-06-17T06:15:52Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
       "item_count": 10,
       "error": null
     },
@@ -95,11 +95,11 @@
       "name": "OpenAI Python Releases",
       "status": "live",
       "latest_item_at": "2026-06-16T21:51:39Z",
-      "fetched_at": "2026-06-17T04:10:17Z",
+      "fetched_at": "2026-06-17T12:17:02Z",
       "item_count": 10,
       "error": null
     }
   },
-  "total_retained": 783,
-  "latest_count": 181
+  "total_retained": 786,
+  "latest_count": 182
 }
