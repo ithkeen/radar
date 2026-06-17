@@ -4,69 +4,6 @@
   "retention_days": 365,
   "items": [
     {
-      "id": "1c9b44953320e0b2",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-29T03:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "raw_excerpt": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "50db97f88a05f918"
-    },
-    {
-      "id": "8c84b8422093501f",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "research",
-        "safety"
-      ],
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "raw_excerpt": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model, research, safety"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "582a1629520d3665"
-    },
-    {
       "id": "e46d28eec38083e8",
       "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
       "url": "https://openai.com/index/databricks",
@@ -83,7 +20,7 @@
       ],
       "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
       "raw_excerpt": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "score": 98,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -92,42 +29,235 @@
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: model evaluation, agent practice",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "7f27f1b789fdb978"
     },
     {
-      "id": "a1312e54bd28a28c",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "id": "0090139282200a1d",
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-14T00:00:00Z",
+      "published_at": "2026-05-15T00:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "model",
-        "safety"
+        "model"
       ],
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "raw_excerpt": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
-      "score": 95,
+      "summary": "See how sales teams can use ChatGPT Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "raw_excerpt": "See how sales teams can use ChatGPT Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: model, safety"
+        "matched tags: model"
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "ca2fe50a47db5441"
+      "content_hash": "0689cdbf6a7c4b49"
+    },
+    {
+      "id": "18f13afbd6901fb3",
+      "title": "Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-14T13:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "raw_excerpt": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "7999eccbf0fcbe46"
+    },
+    {
+      "id": "ce943383d65893df",
+      "title": "How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-12T15:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "raw_excerpt": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "81988270de7fffe7"
+    },
+    {
+      "id": "dd83ecd40f2ff407",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-12T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "raw_excerpt": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "a7c7526e743aa937"
+    },
+    {
+      "id": "66312b6309f0b1f1",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-12T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "raw_excerpt": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "16ce2a6c2f848bc3"
+    },
+    {
+      "id": "fd797e93058cd1d0",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-12T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "inference"
+      ],
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "raw_excerpt": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents, inference"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "def5d997f03832d2"
+    },
+    {
+      "id": "66be1220771465af",
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-08T12:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "raw_excerpt": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "febc6b1233adafb0"
     },
     {
       "id": "24a3c172de484200",
@@ -145,7 +275,7 @@
       ],
       "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
       "raw_excerpt": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "score": 95,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -154,7 +284,8 @@
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
@@ -176,7 +307,7 @@
       ],
       "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
       "raw_excerpt": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-      "score": 95,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -185,11 +316,44 @@
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "f761b2d736926e12"
+    },
+    {
+      "id": "a04d57070e9b202e",
+      "title": "Simplex rethinks software development with Codex",
+      "url": "https://openai.com/index/simplex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-07T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+      "raw_excerpt": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "bff7b315faaa026e"
     },
     {
       "id": "0001057cafdd5edc",
@@ -206,7 +370,7 @@
       ],
       "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
       "raw_excerpt": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
-      "score": 92,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -215,11 +379,479 @@
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "9672ca6e71a8e5df"
+    },
+    {
+      "id": "f9a6fe3e0b32193c",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-06T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "raw_excerpt": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "8571ad3f6ced9be4"
+    },
+    {
+      "id": "baeb7ae75753a1c1",
+      "title": "A new personal finance experience in ChatGPT",
+      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-15T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "raw_excerpt": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
+      "score": 95,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "c3fab5d3976f0cf9"
+    },
+    {
+      "id": "fa002821b90d7a82",
+      "title": "Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-07T11:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "raw_excerpt": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "score": 95,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "56480d5d232d5b5c"
+    },
+    {
+      "id": "5da970c023508896",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-15T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "raw_excerpt": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "71f2225cdd872adc"
+    },
+    {
+      "id": "578b3bdf5cbf1347",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-15T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "raw_excerpt": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "9ae70883b14ad9ba"
+    },
+    {
+      "id": "326607290d218cfb",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-14T20:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "raw_excerpt": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "15a1925b7d4d41e7"
+    },
+    {
+      "id": "4a3442a5ca8c1935",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-13T11:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+      "raw_excerpt": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "0db74ebc26fbd266"
+    },
+    {
+      "id": "57a55fcb205568a6",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-06T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "raw_excerpt": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ccc7cacc3b225bcd"
+    },
+    {
+      "id": "8c84b8422093501f",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-29T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research",
+        "safety"
+      ],
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "raw_excerpt": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "score": 92,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model, research, safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "582a1629520d3665"
+    },
+    {
+      "id": "880638aa77e3a8ee",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-29T12:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "raw_excerpt": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "e3f457e31245276a"
+    },
+    {
+      "id": "1c9b44953320e0b2",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-29T03:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "raw_excerpt": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "50db97f88a05f918"
+    },
+    {
+      "id": "2aa7e747964e595a",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-28T12:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent"
+      ],
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "raw_excerpt": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, coding-agent"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "ccd096bd34652fc7"
+    },
+    {
+      "id": "b7195bbec0581aa4",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-28T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "raw_excerpt": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "86c34def3daf4d93"
+    },
+    {
+      "id": "53e1da4b0cbcd14f",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-27T11:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "raw_excerpt": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "50d80262f5d11574"
+    },
+    {
+      "id": "c7affab7451ec44b",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-27T07:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent"
+      ],
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "raw_excerpt": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, coding-agent"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "c6cfbec220f54c99"
     },
     {
       "id": "ddd2460e2a3b9981",
@@ -247,7 +879,8 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "demoted by source diversity quota"
@@ -278,7 +911,8 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "demoted by source diversity quota"
@@ -286,163 +920,287 @@
       "content_hash": "868b5d23b62156fb"
     },
     {
-      "id": "fd797e93058cd1d0",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "id": "fabc6ef2e8763973",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-12T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2026-05-22T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [
-        "model",
-        "agents",
-        "inference"
+        "coding-agent",
+        "product"
       ],
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "raw_excerpt": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "raw_excerpt": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "score": 90,
       "score_reasons": [
         "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents, inference"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "def5d997f03832d2"
-    },
-    {
-      "id": "ea0c087279f61b70",
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-20T19:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 89,
-      "score_reasons": [
-        "trusted source weight 52",
         "published in the last 30 days",
         "official source",
-        "matched tags: model",
-        "no feed summary"
+        "matched tags: coding-agent, product"
       ],
-      "tier": "must_read",
+      "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal",
         "same theme appeared across multiple sources",
-        "thin feed summary"
+        "demoted by source diversity quota"
       ],
-      "content_hash": "d31b82f84e1d953e"
+      "content_hash": "deeaa0f11af27862"
     },
     {
-      "id": "f4ceaac705403a3b",
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 89,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "70fe4190acebbd0e"
-    },
-    {
-      "id": "3bbc92d9c76ebc83",
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "id": "bc79b84ae366f6d4",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-05T10:00:00Z",
+      "published_at": "2026-05-22T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent"
+      ],
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "raw_excerpt": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, coding-agent"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "21c6307708f4df8c"
+    },
+    {
+      "id": "57b488d288c29800",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-21T12:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "model",
-        "safety"
+        "agents"
       ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 88,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, safety",
-        "no feed summary"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "e7864ea3b5f96dd0"
-    },
-    {
-      "id": "ac3d09a478fb443d",
-      "title": "OpenAI’s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "safety",
-        "regulation"
-      ],
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "raw_excerpt": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "score": 87,
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "raw_excerpt": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "score": 90,
       "score_reasons": [
         "trusted source weight 56",
         "published in the last 30 days",
         "official source",
-        "matched tags: safety, regulation"
+        "matched tags: model, agents"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: agent practice",
+        "official model or product signal",
         "same theme appeared across multiple sources",
         "demoted by source diversity quota"
       ],
-      "content_hash": "c0387f60dfb88a9a"
+      "content_hash": "becfed396f30e584"
+    },
+    {
+      "id": "25e141fd02c9e561",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-20T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "raw_excerpt": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "9bc9c0f91e147030"
+    },
+    {
+      "id": "6f1209c6c0e07aba",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-18T10:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent"
+      ],
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "raw_excerpt": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, coding-agent"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "651dd8033923efa7"
+    },
+    {
+      "id": "1c93d6c1c7251e5f",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-20T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "raw_excerpt": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+      "score": 86,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "5e6355bc7927c37a"
+    },
+    {
+      "id": "2a6999bc8c1adf45",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-11T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "raw_excerpt": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "score": 86,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "af5a1ddd822a2f78"
+    },
+    {
+      "id": "2b843178b595da18",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-04T21:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "raw_excerpt": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "score": 86,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "34bfa4b6b09925d6"
+    },
+    {
+      "id": "334223edfa48462f",
+      "title": "Patch release v5.8.1",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.8.1",
+      "source_id": "github-transformers",
+      "source_name": "Hugging Face Transformers Releases",
+      "source_type": "github_release",
+      "published_at": "2026-05-13T03:21:23Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "open-source",
+        "inference"
+      ],
+      "summary": "Patch release v5.8.1 This release is mainly to fix the Deepseek V4 integration!!! [fix] Add fatal_error to ContinuousBatchingManager so the serving... by @qgallouedec , @remi-or Fix WeightConverter regex incorrectly matching shared_experts...",
+      "raw_excerpt": "Patch release v5.8.1 This release is mainly to fix the Deepseek V4 integration!!! [fix] Add fatal_error to ContinuousBatchingManager so the serving... by @qgallouedec , @remi-or Fix WeightConverter regex incorrectly matching shared_experts as experts by @silencelamb , @claude Fix deepseek v4 by @ArthurZucker ( #45892 ) Deepseek v4 csa mask collapse by @ArthurZucker , @Sawyer117 ( #45928 )",
+      "score": 83,
+      "score_reasons": [
+        "trusted source weight 44",
+        "older than 30 days",
+        "github_release source",
+        "matched tags: model, open-source, inference"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "routine versioned release",
+        "open-source AI infrastructure update",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "e77bf2d7d16f1634"
     },
     {
       "id": "ef1be95a55cb773f",
@@ -461,7 +1219,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 87,
+      "score": 81,
       "score_reasons": [
         "trusted source weight 52",
         "published in the last 30 days",
@@ -469,8 +1227,9 @@
         "matched tags: model, agents, product",
         "no feed summary"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
@@ -478,214 +1237,35 @@
       "content_hash": "31472cb0d2bdc343"
     },
     {
-      "id": "baeb7ae75753a1c1",
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "id": "a1312e54bd28a28c",
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-15T00:00:00Z",
+      "published_at": "2026-05-14T00:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "model",
-        "product"
+        "safety"
       ],
-      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "raw_excerpt": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities.",
-      "score": 87,
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "raw_excerpt": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "score": 81,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: model, product"
+        "matched tags: model, safety"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "c3fab5d3976f0cf9"
-    },
-    {
-      "id": "18f13afbd6901fb3",
-      "title": "Work with Codex from anywhere",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-14T13:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "raw_excerpt": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "7999eccbf0fcbe46"
-    },
-    {
-      "id": "dd83ecd40f2ff407",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "url": "https://openai.com/index/autoscout24",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-12T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "raw_excerpt": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "a7c7526e743aa937"
-    },
-    {
-      "id": "66312b6309f0b1f1",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-12T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "raw_excerpt": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "16ce2a6c2f848bc3"
-    },
-    {
-      "id": "66be1220771465af",
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-08T12:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "raw_excerpt": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "febc6b1233adafb0"
-    },
-    {
-      "id": "fa002821b90d7a82",
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-07T11:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-      "raw_excerpt": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "56480d5d232d5b5c"
-    },
-    {
-      "id": "a04d57070e9b202e",
-      "title": "Simplex rethinks software development with Codex",
-      "url": "https://openai.com/index/simplex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-07T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
-      "raw_excerpt": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "bff7b315faaa026e"
+      "content_hash": "ca2fe50a47db5441"
     },
     {
       "id": "01a8b52eee8198f5",
@@ -703,15 +1283,16 @@
       ],
       "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
       "raw_excerpt": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
-      "score": 87,
+      "score": 81,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model, product"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
@@ -733,197 +1314,49 @@
       ],
       "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
       "raw_excerpt": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
-      "score": 87,
+      "score": 81,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model, product"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "5a8346833be63616"
     },
     {
-      "id": "57a55fcb205568a6",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
+      "id": "2fd1ae66db94c087",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "raw_excerpt": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "score": 86,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "ccc7cacc3b225bcd"
-    },
-    {
-      "id": "a2a811b50a4c64f5",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-05T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "raw_excerpt": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "score": 86,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: open-source"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "987a17ba2bc4ccba"
-    },
-    {
-      "id": "2de76809a5988efa",
-      "title": "Advancing youth safety and wellbeing in EMEA",
-      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-05T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
-      "raw_excerpt": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
-      "score": 86,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: safety"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "4a8c226e7112e4e4"
-    },
-    {
-      "id": "b7195bbec0581aa4",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "raw_excerpt": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "score": 85,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model, agents"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "86c34def3daf4d93"
-    },
-    {
-      "id": "57b488d288c29800",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-21T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "raw_excerpt": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
-      "score": 85,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model, agents"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "becfed396f30e584"
-    },
-    {
-      "id": "e7455462824dd896",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-11T06:00:00Z",
+      "published_at": "2026-05-19T20:30:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "product"
       ],
-      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "raw_excerpt": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "score": 85,
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "raw_excerpt": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "score": 79,
       "score_reasons": [
         "trusted source weight 56",
-        "older than 30 days",
+        "published in the last 30 days",
         "official source",
         "matched tags: product"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "outside preferred AI focus",
         "official model or product signal"
       ],
-      "content_hash": "427393a86d0ef252"
+      "content_hash": "69580c89b775cad5"
     },
     {
       "id": "4963d35dbd16a0a9",
@@ -941,7 +1374,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 84,
+      "score": 78,
       "score_reasons": [
         "trusted source weight 52",
         "published in the last 30 days",
@@ -949,13 +1382,48 @@
         "matched tags: model, product",
         "no feed summary"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "f78006b38ce466f4"
+    },
+    {
+      "id": "197dd9de456a775c",
+      "title": "Release v5.9.0",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.9.0",
+      "source_id": "github-transformers",
+      "source_name": "Hugging Face Transformers Releases",
+      "source_type": "github_release",
+      "published_at": "2026-05-20T14:12:54Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "open-source"
+      ],
+      "summary": "Release v5.9.0 New Model additions Cohere2Moe Command A+ is a Mixture-of-Experts (MoE) language model from Cohere that features a hybrid attention pattern combining sliding window and full attention layers. The model incorporates both shar...",
+      "raw_excerpt": "Release v5.9.0 New Model additions Cohere2Moe Command A+ is a Mixture-of-Experts (MoE) language model from Cohere that features a hybrid attention pattern combining sliding window and full attention layers. The model incorporates both shared and routed experts and supports a very large context window for processing extensive text sequences. Links: Documentation Add new cohere2_moe model ( #46115 ) by @Cyrilvallez in #46115 Parakeet tdt ( #44171 ) Parakeet tdt ( #44171 ) by @lmaksym HRM-Text HRM-Text is an improved autoregressive language-modeling variant of the Hierarchical Reasoning Model (H...",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 44",
+        "published in the last 30 days",
+        "github_release source",
+        "matched tags: model, open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "routine versioned release",
+        "open-source AI infrastructure update",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "10c912120713d12e"
     },
     {
       "id": "d29ba31e882ca4ca",
@@ -973,7 +1441,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 84,
+      "score": 78,
       "score_reasons": [
         "trusted source weight 52",
         "published in the last 30 days",
@@ -981,43 +1449,14 @@
         "matched tags: model, product",
         "no feed summary"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "f34e47e91c351679"
-    },
-    {
-      "id": "f80637b404047562",
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-19T10:45:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-      "raw_excerpt": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-      "score": 84,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "ebbbac520aeb0db8"
     },
     {
       "id": "20383a0947db90dd",
@@ -1034,77 +1473,20 @@
       ],
       "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
       "raw_excerpt": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
-      "score": 84,
+      "score": 78,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "40975a6e32687538"
-    },
-    {
-      "id": "0090139282200a1d",
-      "title": "How sales teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-15T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "See how sales teams can use ChatGPT Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "raw_excerpt": "See how sales teams can use ChatGPT Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-      "score": 84,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "0689cdbf6a7c4b49"
-    },
-    {
-      "id": "ce943383d65893df",
-      "title": "How finance teams use Codex",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-12T15:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "raw_excerpt": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-      "score": 84,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "81988270de7fffe7"
     },
     {
       "id": "6262633bf7280870",
@@ -1121,15 +1503,16 @@
       ],
       "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "raw_excerpt": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
-      "score": 84,
+      "score": 78,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
@@ -1150,15 +1533,16 @@
       ],
       "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
       "raw_excerpt": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-      "score": 84,
+      "score": 78,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
@@ -1179,15 +1563,16 @@
       ],
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
       "raw_excerpt": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "score": 84,
+      "score": 78,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
@@ -1208,168 +1593,49 @@
       ],
       "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
       "raw_excerpt": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
-      "score": 84,
+      "score": 78,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "28950cf1acc9f4be"
     },
     {
-      "id": "f9a6fe3e0b32193c",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
+      "id": "ac3d09a478fb443d",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-06T00:00:00Z",
+      "published_at": "2026-05-28T00:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "model"
+        "safety",
+        "regulation"
       ],
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "raw_excerpt": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "score": 84,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "8571ad3f6ced9be4"
-    },
-    {
-      "id": "2fd1ae66db94c087",
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-19T20:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "raw_excerpt": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "score": 83,
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "raw_excerpt": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "score": 76,
       "score_reasons": [
         "trusted source weight 56",
         "published in the last 30 days",
         "official source",
-        "matched tags: product"
+        "matched tags: safety, regulation"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "demoted by source diversity quota"
+        "outside preferred AI focus"
       ],
-      "content_hash": "69580c89b775cad5"
-    },
-    {
-      "id": "880638aa77e3a8ee",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "url": "https://openai.com/index/braintrust",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "raw_excerpt": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-      "score": 82,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "e3f457e31245276a"
-    },
-    {
-      "id": "1c93d6c1c7251e5f",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "raw_excerpt": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-      "score": 82,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "5e6355bc7927c37a"
-    },
-    {
-      "id": "25e141fd02c9e561",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "raw_excerpt": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "score": 82,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "9bc9c0f91e147030"
+      "content_hash": "c0387f60dfb88a9a"
     },
     {
       "id": "9b127fb09eba018b",
@@ -1387,15 +1653,16 @@
       ],
       "summary": "The post At aged care provider Regis, AI takes on paperwork so staff can focus on residents appeared first on Source .",
       "raw_excerpt": "The post At aged care provider Regis, AI takes on paperwork so staff can focus on residents appeared first on Source .",
-      "score": 82,
+      "score": 76,
       "score_reasons": [
         "trusted source weight 50",
         "published in the last 30 days",
         "official source",
         "matched tags: research, product"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal"
       ],
       "content_hash": "bf9e3f799869dcac"
@@ -1415,7 +1682,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 81,
+      "score": 75,
       "score_reasons": [
         "trusted source weight 52",
         "published in the last 30 days",
@@ -1423,13 +1690,46 @@
         "matched tags: model",
         "no feed summary"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "50e978fc793c7ad2"
+    },
+    {
+      "id": "ea0c087279f61b70",
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-20T19:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 75,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "d31b82f84e1d953e"
     },
     {
       "id": "1799dd08952fa200",
@@ -1446,7 +1746,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 81,
+      "score": 75,
       "score_reasons": [
         "trusted source weight 52",
         "published in the last 30 days",
@@ -1454,13 +1754,46 @@
         "matched tags: model",
         "no feed summary"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "c5fddba834d48770"
+    },
+    {
+      "id": "f4ceaac705403a3b",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-19T17:45:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 75,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "70fe4190acebbd0e"
     },
     {
       "id": "48591fe0759e0b6e",
@@ -1478,19 +1811,53 @@
       ],
       "summary": "The post Costa Rican dairy cooperative turns AI agents into coworkers appeared first on Source .",
       "raw_excerpt": "The post Costa Rican dairy cooperative turns AI agents into coworkers appeared first on Source .",
-      "score": 81,
+      "score": 75,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
         "official source",
         "matched tags: agents, product"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "ee8bf0c4813947a6"
+    },
+    {
+      "id": "3bbc92d9c76ebc83",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-05T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 74,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, safety",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "e7864ea3b5f96dd0"
     },
     {
       "id": "6127cffe771bfad8",
@@ -1507,15 +1874,16 @@
       ],
       "summary": "The post There is no Copilot without the pilots, says Slovenian insurance executive appeared first on Source .",
       "raw_excerpt": "The post There is no Copilot without the pilots, says Slovenian insurance executive appeared first on Source .",
-      "score": 79,
+      "score": 73,
       "score_reasons": [
         "trusted source weight 50",
         "published in the last 30 days",
         "official source",
         "matched tags: product"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal"
       ],
       "content_hash": "06aa2d74a45b17b1"
@@ -1535,7 +1903,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 79,
+      "score": 73,
       "score_reasons": [
         "trusted source weight 50",
         "published in the last 30 days",
@@ -1543,8 +1911,9 @@
         "matched tags: model",
         "no feed summary"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
@@ -1552,120 +1921,61 @@
       "content_hash": "ecee04c436facff9"
     },
     {
-      "id": "43b7524e011327ab",
-      "title": "v2.38.0",
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.38.0",
-      "source_id": "github-openai-python",
-      "source_name": "OpenAI Python Releases",
-      "source_type": "github_release",
-      "published_at": "2026-05-21T21:23:25Z",
+      "id": "f80637b404047562",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-19T10:45:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "open-source",
-        "product"
+        "safety"
       ],
-      "summary": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custo...",
-      "raw_excerpt": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custom code sync ( 2638779 ) remove release automation trigger ( bd6eea5 ) trigger release automation ( f62d082 )",
-      "score": 78,
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "raw_excerpt": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "score": 73,
       "score_reasons": [
-        "trusted source weight 42",
+        "trusted source weight 56",
         "published in the last 30 days",
-        "github_release source",
-        "matched tags: open-source, product"
+        "official source",
+        "matched tags: safety"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
+        "outside preferred AI focus"
       ],
-      "content_hash": "e7e5e5ab1fe05d05"
+      "content_hash": "ebbbac520aeb0db8"
     },
     {
-      "id": "326607290d218cfb",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
+      "id": "a2a811b50a4c64f5",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-14T20:30:00Z",
+      "published_at": "2026-05-05T10:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "agents"
+        "open-source"
       ],
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "raw_excerpt": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "score": 78,
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "raw_excerpt": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "score": 72,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: agents"
+        "matched tags: open-source"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "15a1925b7d4d41e7"
-    },
-    {
-      "id": "2a6999bc8c1adf45",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "raw_excerpt": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "score": 78,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "af5a1ddd822a2f78"
-    },
-    {
-      "id": "2b843178b595da18",
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-04T21:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-      "raw_excerpt": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-      "score": 78,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "34bfa4b6b09925d6"
+      "content_hash": "987a17ba2bc4ccba"
     },
     {
       "id": "8939013f174d0f1e",
@@ -1682,196 +1992,123 @@
       ],
       "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what hap...",
       "raw_excerpt": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening defenses against evolving software supply chain threats.",
-      "score": 77,
+      "score": 71,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: product"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal"
       ],
       "content_hash": "392f69de08c081f8"
     },
     {
-      "id": "2aa7e747964e595a",
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
+      "id": "e7455462824dd896",
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-28T12:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "raw_excerpt": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "ccd096bd34652fc7"
-    },
-    {
-      "id": "c7affab7451ec44b",
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-27T07:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "raw_excerpt": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "c6cfbec220f54c99"
-    },
-    {
-      "id": "bc79b84ae366f6d4",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-22T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "raw_excerpt": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "21c6307708f4df8c"
-    },
-    {
-      "id": "6f1209c6c0e07aba",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-18T10:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "raw_excerpt": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "651dd8033923efa7"
-    },
-    {
-      "id": "fabc6ef2e8763973",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-22T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "published_at": "2026-05-11T06:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "product"
       ],
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "raw_excerpt": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "score": 75,
+      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "raw_excerpt": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "score": 71,
       "score_reasons": [
         "trusted source weight 56",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "matched tags: product"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "official model or product signal",
-        "demoted by source diversity quota"
+        "outside preferred AI focus",
+        "official model or product signal"
       ],
-      "content_hash": "deeaa0f11af27862"
+      "content_hash": "427393a86d0ef252"
     },
     {
-      "id": "334223edfa48462f",
-      "title": "Patch release v5.8.1",
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.8.1",
-      "source_id": "github-transformers",
-      "source_name": "Hugging Face Transformers Releases",
-      "source_type": "github_release",
-      "published_at": "2026-05-13T03:21:23Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "id": "e62972f402e43362",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-29T12:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
-      "tags": [
-        "model",
-        "open-source",
-        "inference"
-      ],
-      "summary": "Patch release v5.8.1 This release is mainly to fix the Deepseek V4 integration!!! [fix] Add fatal_error to ContinuousBatchingManager so the serving... by @qgallouedec , @remi-or Fix WeightConverter regex incorrectly matching shared_experts...",
-      "raw_excerpt": "Patch release v5.8.1 This release is mainly to fix the Deepseek V4 integration!!! [fix] Add fatal_error to ContinuousBatchingManager so the serving... by @qgallouedec , @remi-or Fix WeightConverter regex incorrectly matching shared_experts as experts by @silencelamb , @claude Fix deepseek v4 by @ArthurZucker ( #45892 ) Deepseek v4 csa mask collapse by @ArthurZucker , @Sawyer117 ( #45928 )",
-      "score": 75,
+      "tags": [],
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "raw_excerpt": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "score": 70,
       "score_reasons": [
-        "trusted source weight 44",
-        "older than 30 days",
-        "github_release source",
-        "matched tags: model, open-source, inference"
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
+        "outside preferred AI focus"
       ],
-      "content_hash": "e77bf2d7d16f1634"
+      "content_hash": "027559979beb20b4"
+    },
+    {
+      "id": "635db8ff3d721189",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-27T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "raw_excerpt": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "score": 70,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "439a3870398cc249"
+    },
+    {
+      "id": "aada05358e561891",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-20T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "raw_excerpt": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "score": 70,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "0950ab1fb1413732"
     },
     {
       "id": "7c1a813822f725a1",
@@ -1889,7 +2126,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 74,
+      "score": 68,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1897,8 +2134,9 @@
         "matched tags: model, inference",
         "no feed summary"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
@@ -1920,7 +2158,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 73,
+      "score": 67,
       "score_reasons": [
         "trusted source weight 50",
         "published in the last 30 days",
@@ -1930,64 +2168,43 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "1a2999ca1fff2ccd"
     },
     {
-      "id": "a47a46ac37978ebf",
-      "title": "We’re announcing new community investments in Missouri.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-20T20:40:00Z",
+      "id": "7eb8ca74004edf8e",
+      "title": "v0.22.0rc2: Fix early CUDA init (#43791)",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0rc2",
+      "source_id": "github-vllm",
+      "source_name": "vLLM Releases",
+      "source_type": "github_release",
+      "published_at": "2026-05-27T21:20:37Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 73,
+      "tags": [
+        "open-source",
+        "hardware"
+      ],
+      "summary": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
+      "raw_excerpt": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
+      "score": 66,
       "score_reasons": [
-        "trusted source weight 52",
+        "trusted source weight 44",
         "published in the last 30 days",
-        "official source",
-        "no feed summary"
+        "github_release source",
+        "matched tags: open-source, hardware"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
-        "thin feed summary"
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "06066519794674f7"
-    },
-    {
-      "id": "ed1c2193d6b80a8c",
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "thin feed summary"
-      ],
-      "content_hash": "9664f0d04586faf2"
+      "content_hash": "c3c7ebf37c9c6c14"
     },
     {
       "id": "f619397233a43837",
@@ -2004,7 +2221,7 @@
       ],
       "summary": "The post Inside Porsche Cup Brasil’s AI-powered race operations appeared first on Source .",
       "raw_excerpt": "The post Inside Porsche Cup Brasil’s AI-powered race operations appeared first on Source .",
-      "score": 71,
+      "score": 65,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -2013,6 +2230,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal"
       ],
       "content_hash": "44cf249dbd8f92ba"
@@ -2032,7 +2250,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 71,
+      "score": 65,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -2042,11 +2260,40 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "f63ad19a826b80ad"
+    },
+    {
+      "id": "2de76809a5988efa",
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-05T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "safety"
+      ],
+      "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "raw_excerpt": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "4a8c226e7112e4e4"
     },
     {
       "id": "5c3d93bd7160f244",
@@ -2063,7 +2310,7 @@
       ],
       "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
       "raw_excerpt": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-      "score": 71,
+      "score": 65,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -2072,75 +2319,41 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "baseline source and recency score"
+        "outside preferred AI focus"
       ],
       "content_hash": "83b39b688e8913e8"
     },
     {
-      "id": "7eb8ca74004edf8e",
-      "title": "v0.22.0rc2: Fix early CUDA init (#43791)",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0rc2",
-      "source_id": "github-vllm",
-      "source_name": "vLLM Releases",
+      "id": "43b7524e011327ab",
+      "title": "v2.38.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.38.0",
+      "source_id": "github-openai-python",
+      "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
-      "published_at": "2026-05-27T21:20:37Z",
+      "published_at": "2026-05-21T21:23:25Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "open-source",
-        "hardware"
+        "product"
       ],
-      "summary": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
-      "raw_excerpt": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
-      "score": 70,
+      "summary": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custo...",
+      "raw_excerpt": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custom code sync ( 2638779 ) remove release automation trigger ( bd6eea5 ) trigger release automation ( f62d082 )",
+      "score": 64,
       "score_reasons": [
-        "trusted source weight 44",
+        "trusted source weight 42",
         "published in the last 30 days",
         "github_release source",
-        "matched tags: open-source, hardware"
+        "matched tags: open-source, product"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "outside preferred AI focus",
         "routine versioned release",
         "open-source AI infrastructure update",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "c3c7ebf37c9c6c14"
-    },
-    {
-      "id": "197dd9de456a775c",
-      "title": "Release v5.9.0",
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.9.0",
-      "source_id": "github-transformers",
-      "source_name": "Hugging Face Transformers Releases",
-      "source_type": "github_release",
-      "published_at": "2026-05-20T14:12:54Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "open-source"
-      ],
-      "summary": "Release v5.9.0 New Model additions Cohere2Moe Command A+ is a Mixture-of-Experts (MoE) language model from Cohere that features a hybrid attention pattern combining sliding window and full attention layers. The model incorporates both shar...",
-      "raw_excerpt": "Release v5.9.0 New Model additions Cohere2Moe Command A+ is a Mixture-of-Experts (MoE) language model from Cohere that features a hybrid attention pattern combining sliding window and full attention layers. The model incorporates both shared and routed experts and supports a very large context window for processing extensive text sequences. Links: Documentation Add new cohere2_moe model ( #46115 ) by @Cyrilvallez in #46115 Parakeet tdt ( #44171 ) Parakeet tdt ( #44171 ) by @lmaksym HRM-Text HRM-Text is an improved autoregressive language-modeling variant of the Hierarchical Reasoning Model (H...",
-      "score": 70,
-      "score_reasons": [
-        "trusted source weight 44",
-        "published in the last 30 days",
-        "github_release source",
-        "matched tags: model, open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "10c912120713d12e"
+      "content_hash": "e7e5e5ab1fe05d05"
     },
     {
       "id": "41409da86d3e1896",
@@ -2157,7 +2370,7 @@
       ],
       "summary": "Signed-off-by: khluu khluu000@gmail.com Co-authored-by: Claude noreply@anthropic.com",
       "raw_excerpt": "Signed-off-by: khluu khluu000@gmail.com Co-authored-by: Claude noreply@anthropic.com",
-      "score": 69,
+      "score": 63,
       "score_reasons": [
         "trusted source weight 44",
         "published in the last 30 days",
@@ -2166,86 +2379,12 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "routine versioned release",
         "open-source AI infrastructure update",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "97e8c3a26c54f643"
-    },
-    {
-      "id": "5da970c023508896",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-15T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "raw_excerpt": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score"
-      ],
-      "content_hash": "71f2225cdd872adc"
-    },
-    {
-      "id": "578b3bdf5cbf1347",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-15T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "raw_excerpt": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score"
-      ],
-      "content_hash": "9ae70883b14ad9ba"
-    },
-    {
-      "id": "4a3442a5ca8c1935",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-13T11:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
-      "raw_excerpt": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score"
-      ],
-      "content_hash": "0db74ebc26fbd266"
     },
     {
       "id": "0ef58dbb67f9059c",
@@ -2260,7 +2399,7 @@
       "tags": [],
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
       "raw_excerpt": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-      "score": 68,
+      "score": 62,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -2268,113 +2407,9 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "baseline source and recency score"
+        "outside preferred AI focus"
       ],
       "content_hash": "df9e8a551e3bac88"
-    },
-    {
-      "id": "e62972f402e43362",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "raw_excerpt": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "score": 66,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "027559979beb20b4"
-    },
-    {
-      "id": "53e1da4b0cbcd14f",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-27T11:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "raw_excerpt": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "score": 66,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "50d80262f5d11574"
-    },
-    {
-      "id": "635db8ff3d721189",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "raw_excerpt": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "score": 66,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "439a3870398cc249"
-    },
-    {
-      "id": "aada05358e561891",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "raw_excerpt": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "score": 66,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "0950ab1fb1413732"
     },
     {
       "id": "303bbaef93552d73",
@@ -2384,12 +2419,12 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 65,
+      "score": 59,
       "score_reasons": [
         "trusted source weight 52",
         "published in the last 30 days",
@@ -2398,6 +2433,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "7764ea1829d5e373"
@@ -2410,12 +2446,12 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 65,
+      "score": 59,
       "score_reasons": [
         "trusted source weight 52",
         "published in the last 30 days",
@@ -2424,9 +2460,338 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "47aab3051d3ec63d"
+    },
+    {
+      "id": "59cf6521ecffda3d",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-22T18:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "2ca0f0f14a90a299"
+    },
+    {
+      "id": "a47a46ac37978ebf",
+      "title": "We’re announcing new community investments in Missouri.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-20T20:40:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "06066519794674f7"
+    },
+    {
+      "id": "7ee66273fd1d97ed",
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-20T16:45:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "ed33ee38c2d984de"
+    },
+    {
+      "id": "bc7fd26c97e73c33",
+      "title": "A new era for AI Search",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-19T17:45:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "0fe62f4051a30b40"
+    },
+    {
+      "id": "82ac488102113077",
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-19T17:45:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "9226cd951db22b79"
+    },
+    {
+      "id": "45d1296c52d2c46b",
+      "title": "New ways to create and get things done in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-19T17:45:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "c7363af4e2f65a50"
+    },
+    {
+      "id": "9bcec59458e97e4d",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-06T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "evaluation"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: evaluation",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "9a46b15b71d20242"
+    },
+    {
+      "id": "5b02604714f8043c",
+      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-29T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 57,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "df10b1e777b55828"
+    },
+    {
+      "id": "c3c696b5bf6b4f8c",
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-27T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 57,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "2de6e143c0d08d29"
+    },
+    {
+      "id": "9e899a157ff8ca68",
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-27T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 57,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "190398d04fc9fcc3"
+    },
+    {
+      "id": "ed1c2193d6b80a8c",
+      "title": "Introducing the Ettin Reranker Family",
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-19T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 57,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "9664f0d04586faf2"
+    },
+    {
+      "id": "0e90042cc61fe001",
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-18T15:12:46Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 57,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "1862b5c3b3e7e6e3"
     },
     {
       "id": "aea45e8990d4975c",
@@ -2443,7 +2808,7 @@
       ],
       "summary": "Signed-off-by: Vadim Gimpelson vadim.gimpelson@gmail.com Co-authored-by: Nick Hill nickhill123@gmail.com",
       "raw_excerpt": "Signed-off-by: Vadim Gimpelson vadim.gimpelson@gmail.com Co-authored-by: Nick Hill nickhill123@gmail.com",
-      "score": 65,
+      "score": 51,
       "score_reasons": [
         "trusted source weight 44",
         "published in the last 30 days",
@@ -2452,244 +2817,90 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "outside preferred AI focus",
         "routine versioned release"
       ],
       "content_hash": "10ca002e37db9e91"
     },
     {
-      "id": "59cf6521ecffda3d",
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "id": "069e67af342960db",
+      "title": "backup-before-rebase",
+      "url": "https://github.com/huggingface/transformers/releases/tag/backup-before-rebase",
+      "source_id": "github-transformers",
+      "source_name": "Hugging Face Transformers Releases",
+      "source_type": "github_release",
+      "published_at": "2026-05-18T04:47:43Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
+      "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
+      "raw_excerpt": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
+      "score": 51,
       "score_reasons": [
-        "trusted source weight 52",
+        "trusted source weight 44",
         "published in the last 30 days",
-        "official source",
-        "no feed summary"
+        "github_release source"
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
-      "content_hash": "2ca0f0f14a90a299"
+      "content_hash": "2a1bfb76dedd02d1"
     },
     {
-      "id": "7ee66273fd1d97ed",
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "ed33ee38c2d984de"
-    },
-    {
-      "id": "bc7fd26c97e73c33",
-      "title": "A new era for AI Search",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "0fe62f4051a30b40"
-    },
-    {
-      "id": "82ac488102113077",
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "9226cd951db22b79"
-    },
-    {
-      "id": "45d1296c52d2c46b",
-      "title": "New ways to create and get things done in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "c7363af4e2f65a50"
-    },
-    {
-      "id": "5b02604714f8043c",
-      "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
+      "id": "071ef486161ea852",
+      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
       "source_id": "huggingface-blog",
       "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "published_at": "2026-05-14T18:55:01Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 63,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
-      "content_hash": "df10b1e777b55828"
+      "content_hash": "bee0c4cd0ca4345d"
     },
     {
-      "id": "c3c696b5bf6b4f8c",
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "id": "86a2f22779894765",
+      "title": "Unlocking asynchronicity in continuous batching",
+      "url": "https://huggingface.co/blog/continuous_async",
       "source_id": "huggingface-blog",
       "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "published_at": "2026-05-14T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 63,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
-      "content_hash": "2de6e143c0d08d29"
-    },
-    {
-      "id": "9e899a157ff8ca68",
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 63,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "190398d04fc9fcc3"
-    },
-    {
-      "id": "0e90042cc61fe001",
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-18T15:12:46Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 63,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "1862b5c3b3e7e6e3"
+      "content_hash": "53559cbb73e1c0ba"
     },
     {
       "id": "1c267834056caec5",
@@ -2707,7 +2918,7 @@
       ],
       "summary": "2.35.1 (2026-05-06) Full Changelog: v2.35.0...v2.35.1 Bug Fixes api: fix imagegen size enum regression ( 4484653 )",
       "raw_excerpt": "2.35.1 (2026-05-06) Full Changelog: v2.35.0...v2.35.1 Bug Fixes api: fix imagegen size enum regression ( 4484653 )",
-      "score": 58,
+      "score": 44,
       "score_reasons": [
         "trusted source weight 42",
         "older than 30 days",
@@ -2716,7 +2927,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "outside preferred AI focus",
         "routine versioned release"
       ],
       "content_hash": "a0270ee381c90164"
@@ -2737,7 +2948,7 @@
       ],
       "summary": "2.35.0 (2026-05-06) Full Changelog: v2.34.0...v2.35.0 Features api: update image 2 ( 0ba55d7 ) api: manual updates ( 72bf67a ) Chores remove legacy python cli ( 32f36e4 ) rename legacy python cli entrypoint ( a3b182d ) Documentation api: u...",
       "raw_excerpt": "2.35.0 (2026-05-06) Full Changelog: v2.34.0...v2.35.0 Features api: update image 2 ( 0ba55d7 ) api: manual updates ( 72bf67a ) Chores remove legacy python cli ( 32f36e4 ) rename legacy python cli entrypoint ( a3b182d ) Documentation api: update top_logprobs parameter description across chat and responses ( f9d339f )",
-      "score": 58,
+      "score": 44,
       "score_reasons": [
         "trusted source weight 42",
         "older than 30 days",
@@ -2746,35 +2957,10 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "outside preferred AI focus",
         "routine versioned release"
       ],
       "content_hash": "cc7bae461b84e412"
-    },
-    {
-      "id": "069e67af342960db",
-      "title": "backup-before-rebase",
-      "url": "https://github.com/huggingface/transformers/releases/tag/backup-before-rebase",
-      "source_id": "github-transformers",
-      "source_name": "Hugging Face Transformers Releases",
-      "source_type": "github_release",
-      "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
-      "raw_excerpt": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
-      "score": 57,
-      "score_reasons": [
-        "trusted source weight 44",
-        "published in the last 30 days",
-        "github_release source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "2a1bfb76dedd02d1"
     },
     {
       "id": "46f46c09155c2402",
@@ -2791,7 +2977,7 @@
       ],
       "summary": "2.37.0 (2026-05-13) Full Changelog: v2.36.0...v2.37.0 Features api: add service_tier parameter to responses compact method ( 625827c ) internal/types: support eagerly validating pydantic iterators ( 7e527bc ) Remove unnecessary client_id w...",
       "raw_excerpt": "2.37.0 (2026-05-13) Full Changelog: v2.36.0...v2.37.0 Features api: add service_tier parameter to responses compact method ( 625827c ) internal/types: support eagerly validating pydantic iterators ( 7e527bc ) Remove unnecessary client_id when using workload identity provider for auth ( c39ea8d ) Bug Fixes client: add missing f-string prefix in file type error message ( c85ebd9 )",
-      "score": 55,
+      "score": 41,
       "score_reasons": [
         "trusted source weight 42",
         "older than 30 days",
@@ -2800,62 +2986,10 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "outside preferred AI focus",
         "routine versioned release"
       ],
       "content_hash": "3493e2045d3fc157"
-    },
-    {
-      "id": "071ef486161ea852",
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-14T18:55:01Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 55,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "bee0c4cd0ca4345d"
-    },
-    {
-      "id": "86a2f22779894765",
-      "title": "Unlocking asynchronicity in continuous batching",
-      "url": "https://huggingface.co/blog/continuous_async",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-14T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 55,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "53559cbb73e1c0ba"
     },
     {
       "id": "6ed3625a71d1eaba",
@@ -2872,7 +3006,7 @@
       ],
       "summary": "2.36.0 (2026-05-07) Full Changelog: v2.35.1...v2.36.0 Features api: manual updates ( 13c639c ) api: realtime 2 ( 8fe0ab8 )",
       "raw_excerpt": "2.36.0 (2026-05-07) Full Changelog: v2.35.1...v2.36.0 Features api: manual updates ( 13c639c ) api: realtime 2 ( 8fe0ab8 )",
-      "score": 55,
+      "score": 41,
       "score_reasons": [
         "trusted source weight 42",
         "older than 30 days",
@@ -2881,36 +3015,10 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "outside preferred AI focus",
         "routine versioned release"
       ],
       "content_hash": "7ef200cf9c44276a"
-    },
-    {
-      "id": "9bcec59458e97e4d",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 55,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "9a46b15b71d20242"
     },
     {
       "id": "5d49356f591b1f7d",
@@ -2920,12 +3028,12 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
       "raw_excerpt": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
-      "score": 46,
+      "score": 40,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -2933,6 +3041,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "low-signal content: event"
       ],
       "content_hash": "8cb0789bd68a048b"

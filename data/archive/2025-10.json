@@ -4,6 +4,39 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "2081c76ea2b4319d",
+      "title": "Introducing gpt-oss-safeguard",
+      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-29T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety",
+        "product"
+      ],
+      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "raw_excerpt": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, safety, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "28800d4a17d0904a"
+    },
+    {
       "id": "e943411c2e8b32ee",
       "title": "gpt-oss-safeguard technical report",
       "url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
@@ -30,43 +63,11 @@
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: model update",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "aff53cc702b984e5"
-    },
-    {
-      "id": "2081c76ea2b4319d",
-      "title": "Introducing gpt-oss-safeguard",
-      "url": "https://openai.com/index/introducing-gpt-oss-safeguard",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-29T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "safety",
-        "product"
-      ],
-      "summary": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "raw_excerpt": "OpenAI introduces gpt-oss-safeguard—open-weight reasoning models for safety classification that let developers apply and iterate on custom policies.",
-      "score": 98,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, safety, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "28800d4a17d0904a"
     },
     {
       "id": "408b38efbeaf9834",
@@ -85,7 +86,7 @@
       ],
       "summary": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
       "raw_excerpt": "This system card details GPT-5’s improvements in handling sensitive conversations, including new benchmarks for emotional reliance, mental health, and jailbreak resistance.",
-      "score": 98,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -94,7 +95,8 @@
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
@@ -117,6 +119,231 @@
       ],
       "summary": "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.",
       "raw_excerpt": "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "8b35f914cddcf529"
+    },
+    {
+      "id": "d47fffe1fb51fed8",
+      "title": "The next chapter for UK sovereign AI",
+      "url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-22T16:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI...",
+      "raw_excerpt": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "c6bc31dc1b8c7844"
+    },
+    {
+      "id": "240a05c02f85d4da",
+      "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
+      "url": "https://openai.com/index/introducing-chatgpt-atlas",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-21T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+      "raw_excerpt": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "5576462af88c5bdc"
+    },
+    {
+      "id": "ef12d7074e94053c",
+      "title": "Expert Council on Well-Being and AI",
+      "url": "https://openai.com/index/expert-council-on-well-being-and-ai",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-14T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more cari...",
+      "raw_excerpt": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "0e6efda53ba84be0"
+    },
+    {
+      "id": "796000f78fab5e9a",
+      "title": "Introducing apps in ChatGPT and the new Apps SDK",
+      "url": "https://openai.com/index/introducing-apps-in-chatgpt",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-06T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
+      "raw_excerpt": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "6df0ed340321ca53"
+    },
+    {
+      "id": "0661418088b8e271",
+      "title": "Introducing AgentKit, new Evals, and RFT for agents",
+      "url": "https://openai.com/index/introducing-agentkit",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-06T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
+      "raw_excerpt": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "bb54be6829965a7c"
+    },
+    {
+      "id": "80128a657db24a50",
+      "title": "Steuerrecht.com delivers client-ready legal analysis with ChatGPT",
+      "url": "https://openai.com/index/steuerrecht",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-27T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "regulation"
+      ],
+      "summary": "Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and deliver faster, client-ready analysis for law firms.",
+      "raw_excerpt": "Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and deliver faster, client-ready analysis for law firms.",
+      "score": 98,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents, regulation"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "59f6dde90386e0eb"
+    },
+    {
+      "id": "686919f72317bb09",
+      "title": "HiBob turns 2,500 GPTs into product and team growth",
+      "url": "https://openai.com/index/hibob",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-08T08:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "product"
+      ],
+      "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
+      "raw_excerpt": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
       "score": 98,
       "score_reasons": [
         "trusted source weight 56",
@@ -126,11 +353,42 @@
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: agent practice, builder opinion",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "8b35f914cddcf529"
+      "content_hash": "01330204f3c1f6df"
+    },
+    {
+      "id": "3556c47e80db65b8",
+      "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
+      "url": "https://openai.com/index/building-chatgpt-atlas",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-30T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
+      "raw_excerpt": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
+      "score": 95,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "22ab1f7f27b5a8d6"
     },
     {
       "id": "087387dbcb427fbc",
@@ -157,289 +415,11 @@
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: builder opinion",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "2e46449f176db17e"
-    },
-    {
-      "id": "d47fffe1fb51fed8",
-      "title": "The next chapter for UK sovereign AI",
-      "url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-22T16:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI...",
-      "raw_excerpt": "OpenAI expands its UK partnership with a new Ministry of Justice agreement, bringing ChatGPT to civil servants. It also introduces UK data residency for ChatGPT Enterprise, ChatGPT Edu, and the API Platform to support trusted and secure AI adoption.",
-      "score": 95,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "c6bc31dc1b8c7844"
-    },
-    {
-      "id": "240a05c02f85d4da",
-      "title": "Introducing ChatGPT Atlas, the browser with ChatGPT built in",
-      "url": "https://openai.com/index/introducing-chatgpt-atlas",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-21T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
-      "raw_excerpt": "ChatGPT Atlas, the browser with ChatGPT built it. Get instant answers, summaries, and smart web help—right from any page. With privacy settings you can control. Available now for MacOS.",
-      "score": 95,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "5576462af88c5bdc"
-    },
-    {
-      "id": "ef12d7074e94053c",
-      "title": "Expert Council on Well-Being and AI",
-      "url": "https://openai.com/index/expert-council-on-well-being-and-ai",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-14T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more cari...",
-      "raw_excerpt": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how their insights are shaping safer, more caring AI experiences.",
-      "score": 95,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "0e6efda53ba84be0"
-    },
-    {
-      "id": "796000f78fab5e9a",
-      "title": "Introducing apps in ChatGPT and the new Apps SDK",
-      "url": "https://openai.com/index/introducing-apps-in-chatgpt",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-06T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
-      "raw_excerpt": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
-      "score": 95,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "6df0ed340321ca53"
-    },
-    {
-      "id": "0661418088b8e271",
-      "title": "Introducing AgentKit, new Evals, and RFT for agents",
-      "url": "https://openai.com/index/introducing-agentkit",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-06T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
-      "raw_excerpt": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
-      "score": 95,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "bb54be6829965a7c"
-    },
-    {
-      "id": "68542ab316d77bf7",
-      "title": "Accelerating AI adoption in Europe",
-      "url": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-06T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "open-source",
-        "safety",
-        "regulation"
-      ],
-      "summary": "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.",
-      "raw_excerpt": "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.",
-      "score": 92,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: open-source, safety, regulation"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "e8aae62b709a0eee"
-    },
-    {
-      "id": "80128a657db24a50",
-      "title": "Steuerrecht.com delivers client-ready legal analysis with ChatGPT",
-      "url": "https://openai.com/index/steuerrecht",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-27T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "regulation"
-      ],
-      "summary": "Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and deliver faster, client-ready analysis for law firms.",
-      "raw_excerpt": "Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and deliver faster, client-ready analysis for law firms.",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents, regulation"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "59f6dde90386e0eb"
-    },
-    {
-      "id": "686919f72317bb09",
-      "title": "HiBob turns 2,500 GPTs into product and team growth",
-      "url": "https://openai.com/index/hibob",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-08T08:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "product"
-      ],
-      "summary": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
-      "raw_excerpt": "Discover how HiBob uses ChatGPT Enterprise and custom GPTs to scale AI adoption, boost revenue, streamline HR workflows, and deliver AI-powered features in the Bob platform.",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "01330204f3c1f6df"
-    },
-    {
-      "id": "3556c47e80db65b8",
-      "title": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
-      "url": "https://openai.com/index/building-chatgpt-atlas",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-30T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
-      "raw_excerpt": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "22ab1f7f27b5a8d6"
     },
     {
       "id": "c4837425d75b16bd",
@@ -457,15 +437,16 @@
       ],
       "summary": "OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make...",
       "raw_excerpt": "OpenAI has acquired Software Applications Incorporated, maker of Sky—a natural language interface for Mac that brings AI directly into your desktop experience. Together, we’re integrating Sky’s deep macOS capabilities into ChatGPT to make AI more intuitive, contextual, and action-oriented.",
-      "score": 87,
+      "score": 95,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model, product"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
+        "matches AI channel focus: model update",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
@@ -487,15 +468,16 @@
       ],
       "summary": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
       "raw_excerpt": "Company knowledge brings context from your apps into ChatGPT for answers specific to your business, with clear citations, security, privacy, and admin controls. Available now for Business, Enterprise, and Edu users.",
-      "score": 87,
+      "score": 95,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model, product"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
+        "matches AI channel focus: model update",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
@@ -517,49 +499,20 @@
       ],
       "summary": "ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.",
       "raw_excerpt": "ChatGPT will no longer be available on WhatsApp after January 15, 2026. Learn how to link your ChatGPT account and continue your conversations across devices.",
-      "score": 87,
+      "score": 95,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model, product"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
+        "matches AI channel focus: model update",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "6a231e68c9c7ae52"
-    },
-    {
-      "id": "5c375fe818a50015",
-      "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
-      "url": "https://openai.com/index/wrtn",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-02T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
-      "raw_excerpt": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "708f23dbcbb59401"
     },
     {
       "id": "fed198f10f4df35b",
@@ -576,16 +529,17 @@
       ],
       "summary": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
       "raw_excerpt": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-      "score": 86,
+      "score": 94,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: agents"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: builder opinion",
+        "high-impact model, eval, or agent keywords",
         "same theme appeared across multiple sources"
       ],
       "content_hash": "92fca508df42aa0f"
@@ -605,135 +559,20 @@
       ],
       "summary": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
       "raw_excerpt": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier to use and manage at scale.",
-      "score": 85,
+      "score": 93,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: product"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
         "official model or product signal"
       ],
       "content_hash": "79a1d2c8ba81858a"
-    },
-    {
-      "id": "5bff17ab9eadda38",
-      "title": "Advancing organizational transformation for business innovation",
-      "url": "https://openai.com/index/dai-nippon-printing",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-28T17:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "DNP rolled out ChatGPT Enterprise across ten core departments, achieving 95% faster patent research, 10x processing volume, 87% automation, and 70% knowledge reuse in three months.",
-      "raw_excerpt": "DNP rolled out ChatGPT Enterprise across ten core departments, achieving 95% faster patent research, 10x processing volume, 87% automation, and 70% knowledge reuse in three months.",
-      "score": 84,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "ebdfb41e3838c94a"
-    },
-    {
-      "id": "4b7ec9bbe34fe8a9",
-      "title": "Doppel’s AI defense system stops attacks before they spread",
-      "url": "https://openai.com/index/doppel",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-28T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "Doppel uses GPT-5 and reinforcement fine-tuning to stop deepfake and impersonation attacks, cutting analyst workloads by 80% and reducing response times from hours to minutes.",
-      "raw_excerpt": "Doppel uses GPT-5 and reinforcement fine-tuning to stop deepfake and impersonation attacks, cutting analyst workloads by 80% and reducing response times from hours to minutes.",
-      "score": 84,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "54c414f6f95d47a5"
-    },
-    {
-      "id": "598673c37b369723",
-      "title": "Plex Coffee delivers fast, personal service with ChatGPT",
-      "url": "https://openai.com/index/plex-coffee",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-15T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
-      "raw_excerpt": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
-      "score": 84,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "5ca0dfe29fc38e92"
-    },
-    {
-      "id": "eb9a8702520abacb",
-      "title": "HYGH speeds development and campaigns with ChatGPT Business",
-      "url": "https://openai.com/index/hygh",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-10T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
-      "raw_excerpt": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
-      "score": 84,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "3b52137c26d52294"
     },
     {
       "id": "b80206eeacbe4305",
@@ -750,15 +589,16 @@
       ],
       "summary": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
       "raw_excerpt": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
-      "score": 84,
+      "score": 92,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
+        "matches AI channel focus: model evaluation",
         "official model or product signal",
         "same theme appeared across multiple sources"
       ],
@@ -780,99 +620,19 @@
       ],
       "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
       "raw_excerpt": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
-      "score": 80,
+      "score": 88,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: product, hardware"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
+        "matches AI channel focus: builder opinion",
         "official model or product signal"
       ],
       "content_hash": "43f42aa5c451c261"
-    },
-    {
-      "id": "189a4e11d3eb475f",
-      "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
-      "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-13T06:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "hardware"
-      ],
-      "summary": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
-      "raw_excerpt": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
-      "score": 79,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: hardware"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "high-impact launch/research keywords"
-      ],
-      "content_hash": "6caac26d28bcf44d"
-    },
-    {
-      "id": "45bf1766b2d65219",
-      "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
-      "url": "https://openai.com/index/openai-amd-strategic-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-06T06:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "hardware"
-      ],
-      "summary": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
-      "raw_excerpt": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
-      "score": 79,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: hardware"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "high-impact launch/research keywords"
-      ],
-      "content_hash": "fded2acca098f30d"
-    },
-    {
-      "id": "15f17b33ed3ad7c7",
-      "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
-      "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-02T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
-      "raw_excerpt": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "high-impact launch/research keywords"
-      ],
-      "content_hash": "ea3f885714a3c333"
     },
     {
       "id": "7141b7bd4c90166a",
@@ -889,7 +649,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 73,
+      "score": 81,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -897,13 +657,224 @@
         "matched tags: agents",
         "no feed summary"
       ],
-      "tier": "raw",
+      "tier": "noteworthy",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "matches AI channel focus: agent practice",
+        "high-impact model, eval, or agent keywords",
         "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "ce6dcbbacade9038"
+    },
+    {
+      "id": "5c375fe818a50015",
+      "title": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
+      "url": "https://openai.com/index/wrtn",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-02T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
+      "raw_excerpt": "Wrtn scaled AI apps to 6.5M users in Korea with GPT-5, creating ‘Lifestyle AI’ that blends productivity, creativity, and learning—now expanding across East Asia.",
+      "score": 81,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "708f23dbcbb59401"
+    },
+    {
+      "id": "1ee19958e9912799",
+      "title": "Disrupting malicious uses of AI: October 2025",
+      "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-07T03:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "builder-opinion"
+      ],
+      "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
+      "raw_excerpt": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
+      "score": 79,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: builder-opinion"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion"
+      ],
+      "content_hash": "714125e9eb7a6138"
+    },
+    {
+      "id": "5bff17ab9eadda38",
+      "title": "Advancing organizational transformation for business innovation",
+      "url": "https://openai.com/index/dai-nippon-printing",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-28T17:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "DNP rolled out ChatGPT Enterprise across ten core departments, achieving 95% faster patent research, 10x processing volume, 87% automation, and 70% knowledge reuse in three months.",
+      "raw_excerpt": "DNP rolled out ChatGPT Enterprise across ten core departments, achieving 95% faster patent research, 10x processing volume, 87% automation, and 70% knowledge reuse in three months.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ebdfb41e3838c94a"
+    },
+    {
+      "id": "4b7ec9bbe34fe8a9",
+      "title": "Doppel’s AI defense system stops attacks before they spread",
+      "url": "https://openai.com/index/doppel",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-28T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "Doppel uses GPT-5 and reinforcement fine-tuning to stop deepfake and impersonation attacks, cutting analyst workloads by 80% and reducing response times from hours to minutes.",
+      "raw_excerpt": "Doppel uses GPT-5 and reinforcement fine-tuning to stop deepfake and impersonation attacks, cutting analyst workloads by 80% and reducing response times from hours to minutes.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "54c414f6f95d47a5"
+    },
+    {
+      "id": "598673c37b369723",
+      "title": "Plex Coffee delivers fast, personal service with ChatGPT",
+      "url": "https://openai.com/index/plex-coffee",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-15T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+      "raw_excerpt": "Learn how Plex Coffee uses ChatGPT Business to centralize knowledge, train staff faster, and preserve personal connections while expanding.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "5ca0dfe29fc38e92"
+    },
+    {
+      "id": "eb9a8702520abacb",
+      "title": "HYGH speeds development and campaigns with ChatGPT Business",
+      "url": "https://openai.com/index/hygh",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-10T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
+      "raw_excerpt": "HYGH speeds up software development and campaign delivery with ChatGPT Business, cutting turnaround times, scaling output, and driving revenue growth.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "3b52137c26d52294"
+    },
+    {
+      "id": "68542ab316d77bf7",
+      "title": "Accelerating AI adoption in Europe",
+      "url": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-06T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "safety",
+        "regulation"
+      ],
+      "summary": "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.",
+      "raw_excerpt": "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: open-source, safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "e8aae62b709a0eee"
     },
     {
       "id": "1d857c91a476e6c3",
@@ -920,7 +891,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 71,
+      "score": 65,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -930,6 +901,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
@@ -951,7 +923,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 71,
+      "score": 65,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -961,11 +933,245 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "official model or product signal",
         "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "a291d069d69433df"
+    },
+    {
+      "id": "189a4e11d3eb475f",
+      "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+      "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-13T06:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "hardware"
+      ],
+      "summary": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+      "raw_excerpt": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrastructure by 2029.",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: hardware"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "6caac26d28bcf44d"
+    },
+    {
+      "id": "45bf1766b2d65219",
+      "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+      "url": "https://openai.com/index/openai-amd-strategic-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-06T06:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "hardware"
+      ],
+      "summary": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
+      "raw_excerpt": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovation.",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: hardware"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "fded2acca098f30d"
+    },
+    {
+      "id": "6ddc65f91899439b",
+      "title": "BigCodeArena: Judging code generations end to end with code executions",
+      "url": "https://huggingface.co/blog/bigcode/arena",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-10-07T09:37:25Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 63,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation, coding agent",
+        "thin feed summary"
+      ],
+      "content_hash": "3fce458a346c3f5d"
+    },
+    {
+      "id": "ec91f7962379cef1",
+      "title": "The next chapter of the Microsoft–OpenAI partnership",
+      "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-28T06:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [],
+      "summary": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
+      "raw_excerpt": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "09c7b586f4cbca17"
+    },
+    {
+      "id": "6ce4835f1082a5a4",
+      "title": "Seizing the AI opportunity",
+      "url": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-27T12:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [],
+      "summary": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and...",
+      "raw_excerpt": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "2f3d4ba10d53fd8d"
+    },
+    {
+      "id": "25001ee07686a304",
+      "title": "AI in South Korea—OpenAI’s Economic Blueprint",
+      "url": "https://openai.com/index/south-korea-economic-blueprint",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-23T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
+      "raw_excerpt": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "b3a92a4cf73faf3a"
+    },
+    {
+      "id": "08a920a8718fa0e5",
+      "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
+      "url": "https://openai.com/index/japan-economic-blueprint",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-22T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
+      "raw_excerpt": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "9b319eec797f8e81"
+    },
+    {
+      "id": "242677b16f274495",
+      "title": "Argentina’s AI opportunity",
+      "url": "https://openai.com/global-affairs/argentinas-ai-opportunity",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-14T06:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
+      "raw_excerpt": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "e35051ae721a307b"
+    },
+    {
+      "id": "15f17b33ed3ad7c7",
+      "title": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+      "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-02T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
+      "raw_excerpt": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "ea3f885714a3c333"
     },
     {
       "id": "6409df0f92018357",
@@ -983,7 +1189,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 69,
+      "score": 62,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -993,160 +1199,11 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "high-impact launch/research keywords",
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "9d85652c73a7385f"
-    },
-    {
-      "id": "ec91f7962379cef1",
-      "title": "The next chapter of the Microsoft–OpenAI partnership",
-      "url": "https://openai.com/index/next-chapter-of-microsoft-openai-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-28T06:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
-      "raw_excerpt": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score"
-      ],
-      "content_hash": "09c7b586f4cbca17"
-    },
-    {
-      "id": "6ce4835f1082a5a4",
-      "title": "Seizing the AI opportunity",
-      "url": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-27T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and...",
-      "raw_excerpt": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score"
-      ],
-      "content_hash": "2f3d4ba10d53fd8d"
-    },
-    {
-      "id": "25001ee07686a304",
-      "title": "AI in South Korea—OpenAI’s Economic Blueprint",
-      "url": "https://openai.com/index/south-korea-economic-blueprint",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-23T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
-      "raw_excerpt": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score"
-      ],
-      "content_hash": "b3a92a4cf73faf3a"
-    },
-    {
-      "id": "08a920a8718fa0e5",
-      "title": "AI in Japan—OpenAI’s Japan Economic Blueprint",
-      "url": "https://openai.com/index/japan-economic-blueprint",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-22T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
-      "raw_excerpt": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score"
-      ],
-      "content_hash": "9b319eec797f8e81"
-    },
-    {
-      "id": "242677b16f274495",
-      "title": "Argentina’s AI opportunity",
-      "url": "https://openai.com/global-affairs/argentinas-ai-opportunity",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-14T06:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
-      "raw_excerpt": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score"
-      ],
-      "content_hash": "e35051ae721a307b"
-    },
-    {
-      "id": "1ee19958e9912799",
-      "title": "Disrupting malicious uses of AI: October 2025",
-      "url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-07T03:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
-      "raw_excerpt": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "baseline source and recency score"
-      ],
-      "content_hash": "714125e9eb7a6138"
     },
     {
       "id": "62cce022054f4014",
@@ -1163,7 +1220,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 65,
+      "score": 59,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1173,40 +1230,11 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "b964ff326a3c857b"
-    },
-    {
-      "id": "e8a15d30320c7f14",
-      "title": "Built to benefit everyone",
-      "url": "https://openai.com/index/built-to-benefit-everyone",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-28T06:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
-      "raw_excerpt": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
-      "score": 63,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "high-impact launch/research keywords",
-        "official model or product signal",
-        "low-signal content: recap"
-      ],
-      "content_hash": "5b78d432d4bec230"
     },
     {
       "id": "1f6d4afc853d3d71",
@@ -1216,14 +1244,14 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-27T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [
         "research"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 58,
+      "score": 52,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1233,6 +1261,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "8dd9c4c71280348f"
@@ -1245,14 +1274,14 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-21T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [
         "multimodal"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 58,
+      "score": 52,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1262,6 +1291,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "d920f04d6245bc7e"
@@ -1274,12 +1304,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-29T13:56:45Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1288,6 +1318,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "c202f553aee77a3f"
@@ -1300,12 +1331,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-29T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1314,6 +1345,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "114bbeac9735943e"
@@ -1326,12 +1358,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-28T20:42:35Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1340,6 +1372,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "e46dacf6e95cedd5"
@@ -1352,12 +1385,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-28T14:59:38Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1366,9 +1399,40 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "24f0f0cb534732e5"
+    },
+    {
+      "id": "e8a15d30320c7f14",
+      "title": "Built to benefit everyone",
+      "url": "https://openai.com/index/built-to-benefit-everyone",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-28T06:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
+      "raw_excerpt": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
+      "score": 49,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "low-signal content: recap"
+      ],
+      "content_hash": "5b78d432d4bec230"
     },
     {
       "id": "58c91beb9139df51",
@@ -1378,12 +1442,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-28T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1392,6 +1456,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "d140e881f2036429"
@@ -1404,12 +1469,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-27T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1418,6 +1483,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "1ab2ce13fe0a1b77"
@@ -1430,12 +1496,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-24T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1444,6 +1510,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "1832d363c93c5933"
@@ -1456,12 +1523,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-22T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1470,6 +1537,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "a7086da4b9e0efb0"
@@ -1482,12 +1550,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-22T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1496,6 +1564,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "82c486555057d36f"
@@ -1508,12 +1577,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-16T22:38:11Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1522,6 +1591,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "64a505e662962606"
@@ -1534,12 +1604,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-15T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1548,6 +1618,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "4d670c35404fdf1b"
@@ -1560,12 +1631,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-13T23:00:42Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1574,6 +1645,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "06dca8d7560245bd"
@@ -1586,12 +1658,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-10T17:35:04Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1600,35 +1672,10 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "d3eef0a45ea90bf8"
-    },
-    {
-      "id": "6ddc65f91899439b",
-      "title": "BigCodeArena: Judging code generations end to end with code executions",
-      "url": "https://huggingface.co/blog/bigcode/arena",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-10-07T09:37:25Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 55,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "thin feed summary"
-      ],
-      "content_hash": "3fce458a346c3f5d"
     },
     {
       "id": "db81f6c9048f4b30",
@@ -1638,12 +1685,12 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-02T00:00:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 55,
+      "score": 49,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1652,6 +1699,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "thin feed summary"
       ],
       "content_hash": "ed3698978ae491df"
@@ -1664,12 +1712,12 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-30T13:30:00Z",
-      "fetched_at": "2026-06-17T03:19:24Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
       "raw_excerpt": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
-      "score": 46,
+      "score": 40,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -1677,6 +1725,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
+        "outside preferred AI focus",
         "low-signal content: jobs"
       ],
       "content_hash": "3c609c5ba31e5202"
