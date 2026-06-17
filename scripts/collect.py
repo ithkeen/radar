@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collect trusted AI/technology feed items into the static dashboard dataset."""
+"""Collect trusted AI/technology feed items into static dashboard datasets."""
 
 from __future__ import annotations
 
@@ -18,9 +18,11 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Any
 
-DATA_VERSION = 1
-USER_AGENT = "radar-ai-feed-collector/1.0 (+https://github.com/ithkeen/radar)"
+DATA_VERSION = 2
+USER_AGENT = "radar-ai-feed-collector/1.1 (+https://github.com/ithkeen/radar)"
 DROP_QUERY_KEYS = {"fbclid", "gclid", "igshid", "mc_cid", "mc_eid", "ref", "ref_src"}
+ARCHIVE_DIRNAME = "archive"
+LEGACY_ITEMS_FILENAME = "items.json"
 
 TAG_KEYWORDS: dict[str, tuple[str, ...]] = {
     "model": ("model", "llm", "gpt", "claude", "gemini", "llama", "qwen", "deepseek", "模型", "大模型"),
@@ -42,6 +44,85 @@ SOURCE_TYPE_BONUS = {
     "blog": 5,
     "data": 5,
 }
+
+DEFAULT_HOMEPAGE_LIMIT = {
+    "official": 12,
+    "paper": 8,
+    "github_release": 4,
+    "blog": 8,
+    "data": 6,
+}
+
+DEFAULT_DAILY_LIMIT = {
+    "official": 6,
+    "paper": 8,
+    "github_release": 2,
+    "blog": 5,
+    "data": 4,
+}
+
+HIGH_IMPACT_KEYWORDS = (
+    "announce",
+    "announcing",
+    "introduce",
+    "introducing",
+    "launch",
+    "release",
+    "new model",
+    "frontier",
+    "state-of-the-art",
+    "open weights",
+    "open-source",
+    "api",
+    "generally available",
+    "benchmark",
+    "safety",
+    "policy",
+    "发布",
+    "推出",
+    "开源",
+    "模型",
+    "基准",
+)
+
+LOW_VALUE_KEYWORDS = (
+    "course",
+    "webinar",
+    "event",
+    "hiring",
+    "jobs",
+    "career",
+    "customer story",
+    "case study",
+    "academy",
+    "podcast",
+    "newsletter",
+    "recap",
+    "课程",
+    "招聘",
+    "活动",
+    "客户案例",
+)
+
+SIGNAL_KEYWORDS = (
+    "openai",
+    "anthropic",
+    "google",
+    "microsoft",
+    "hugging face",
+    "gemini",
+    "claude",
+    "gpt",
+    "codex",
+    "llama",
+    "qwen",
+    "deepseek",
+    "mcp",
+    "agent",
+    "agents",
+    "safety",
+    "benchmark",
+)
 
 
 def utc_now() -> dt.datetime:
@@ -245,7 +326,7 @@ def score_item(
     has_summary: bool,
     now: dt.datetime,
 ) -> tuple[int, list[str]]:
-    """Score items deterministically so GitHub Actions output is repeatable without an LLM."""
+    """Score feed relevance deterministically before the V1.1 quality tiering pass."""
     base = int(source.get("weight", 45))
     score = base
     reasons = [f"trusted source weight {base}"]
@@ -285,7 +366,7 @@ def score_item(
 
 
 def build_item(entry: dict[str, Any], source: dict[str, Any], fetched_at: dt.datetime, now: dt.datetime) -> dict[str, Any]:
-    """Normalize a raw feed entry into the public item schema documented in the project plan."""
+    """Normalize a raw feed entry into the public item schema before quality tiering."""
     published_dt = parse_datetime(entry.get("published_at"))
     missing_date = published_dt is None
     if published_dt is None:
@@ -318,6 +399,8 @@ def build_item(entry: dict[str, Any], source: dict[str, Any], fetched_at: dt.dat
         "raw_excerpt": raw_excerpt,
         "score": score,
         "score_reasons": score_reasons,
+        "tier": "raw",
+        "quality_reasons": [],
         "content_hash": content_hash,
     }
 
@@ -325,6 +408,11 @@ def build_item(entry: dict[str, Any], source: dict[str, Any], fetched_at: dt.dat
 def item_timestamp(item: dict[str, Any]) -> dt.datetime:
     parsed = parse_datetime(item.get("published_at")) or parse_datetime(item.get("fetched_at"))
     return parsed or dt.datetime(1970, 1, 1, tzinfo=dt.timezone.utc)
+
+
+def archive_month(item: dict[str, Any]) -> str:
+    timestamp = item_timestamp(item)
+    return f"{timestamp.year:04d}-{timestamp.month:02d}"
 
 
 def dedupe_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -343,7 +431,7 @@ def dedupe_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         seen.update(keys)
         unique.append(item)
 
-    return sorted(unique, key=lambda item: (-item_timestamp(item).timestamp(), -int(item.get("score", 0)), item.get("title", "")))
+    return sorted(unique, key=quality_sort_key)
 
 
 def merge_items(
@@ -352,7 +440,7 @@ def merge_items(
     now: dt.datetime,
     retention_days: int,
 ) -> list[dict[str, Any]]:
-    """Merge new and stored items, then enforce the one-year retention boundary."""
+    """Merge new and stored archive items, then enforce the retention boundary."""
     cutoff = now - dt.timedelta(days=retention_days)
     retained = [item for item in existing_items + new_items if item_timestamp(item) >= cutoff]
     return dedupe_items(retained)
@@ -367,12 +455,19 @@ def load_sources(path: Path) -> list[dict[str, Any]]:
     return sources
 
 
-def read_existing_items(path: Path) -> list[dict[str, Any]]:
-    if not path.exists():
+def read_archive_items(data_dir: Path) -> list[dict[str, Any]]:
+    """Load only V1.1 archive shards; the retired data/items.json contract is intentionally ignored."""
+    archive_dir = data_dir / ARCHIVE_DIRNAME
+    if not archive_dir.exists():
         return []
-    with path.open("r", encoding="utf-8") as handle:
-        payload = json.load(handle)
-    return list(payload.get("items", []))
+
+    items: list[dict[str, Any]] = []
+    for path in sorted(archive_dir.glob("*.json")):
+        with path.open("r", encoding="utf-8") as handle:
+            payload = json.load(handle)
+        if isinstance(payload, dict):
+            items.extend(payload.get("items", []))
+    return items
 
 
 def source_health_status(items: list[dict[str, Any]], fetched_at: dt.datetime) -> tuple[str, str | None]:
@@ -434,36 +529,316 @@ def collect_from_sources(
     return new_items, source_status
 
 
-def write_json(path: Path, payload: dict[str, Any]) -> None:
+def source_map(sources: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
+    return {str(source["id"]): source for source in sources}
+
+
+def item_text(item: dict[str, Any]) -> str:
+    return " ".join([str(item.get("title", "")), str(item.get("summary", "")), " ".join(item.get("tags", []))]).lower()
+
+
+def configured_keywords(source: dict[str, Any], key: str) -> tuple[str, ...]:
+    rules = source.get("quality_rules") or {}
+    values = rules.get(key) if isinstance(rules, dict) else None
+    if isinstance(values, list):
+        return tuple(str(value).lower() for value in values)
+    return ()
+
+
+def signal_keys(item: dict[str, Any]) -> set[str]:
+    text = item_text(item)
+    keys = {keyword for keyword in SIGNAL_KEYWORDS if keyword in text}
+    keys.update(tag for tag in item.get("tags", []) if tag in {"model", "agents", "safety", "open-source"})
+    return keys
+
+
+def clustered_signal_sources(items: list[dict[str, Any]], now: dt.datetime) -> dict[str, set[str]]:
+    """Find recent cross-source themes that deserve a deterministic quality boost."""
+    cutoff = now - dt.timedelta(hours=48)
+    clusters: dict[str, set[str]] = {}
+    for item in items:
+        if item_timestamp(item) < cutoff:
+            continue
+        for key in signal_keys(item):
+            clusters.setdefault(key, set()).add(str(item.get("source_id", "")))
+    return {key: sources for key, sources in clusters.items() if len(sources) > 1}
+
+
+def tier_for_score(score: int) -> str:
+    if score >= 88:
+        return "must_read"
+    if score >= 74:
+        return "noteworthy"
+    return "raw"
+
+
+def evaluate_quality(
+    item: dict[str, Any],
+    source: dict[str, Any],
+    multi_source_signals: dict[str, set[str]],
+    now: dt.datetime,
+) -> tuple[int, str, list[str]]:
+    """Convert a normalized item into the public quality tier used by the dashboard."""
+    base_score, _ = score_item(
+        source,
+        item_timestamp(item),
+        list(item.get("tags", [])),
+        False,
+        bool(item.get("summary") or item.get("raw_excerpt")),
+        now,
+    )
+    score = base_score
+    reasons: list[str] = []
+    text = item_text(item)
+    source_type = str(item.get("source_type", source.get("type", "")))
+    tags = set(item.get("tags", []))
+    high_keywords = HIGH_IMPACT_KEYWORDS + configured_keywords(source, "high_impact_keywords")
+    low_keywords = LOW_VALUE_KEYWORDS + configured_keywords(source, "low_value_keywords")
+
+    if any(keyword in text for keyword in high_keywords):
+        score += 8
+        reasons.append("high-impact launch/research keywords")
+
+    if source_type == "official" and {"model", "product"} & tags:
+        score += 6
+        reasons.append("official model or product signal")
+
+    if source_type == "paper" and "research" in tags:
+        score += 3
+        reasons.append("research feed item")
+
+    if source_type == "github_release":
+        if re.search(r"\bv?\d+\.\d+(\.\d+)?\b", str(item.get("title", "")).lower()):
+            score -= 6
+            reasons.append("routine versioned release")
+        if {"model", "agents", "inference", "open-source"} & tags:
+            score += 5
+            reasons.append("open-source AI infrastructure update")
+
+    matched_low_value = [keyword for keyword in low_keywords if keyword in text]
+    if matched_low_value:
+        score -= 22
+        reasons.append("low-signal content: " + ", ".join(matched_low_value[:3]))
+
+    matching_signals = signal_keys(item) & set(multi_source_signals)
+    if matching_signals:
+        score += 7
+        reasons.append("same theme appeared across multiple sources")
+
+    if len(str(item.get("summary", ""))) < 80:
+        score -= 3
+        reasons.append("thin feed summary")
+
+    final_score = max(0, min(100, score))
+    tier = "raw" if matched_low_value else tier_for_score(final_score)
+    if not reasons:
+        reasons.append("baseline source and recency score")
+    return final_score, tier, reasons
+
+
+def quality_sort_key(item: dict[str, Any]) -> tuple[float, int, str]:
+    return (-int(item.get("score", 0)), -item_timestamp(item).timestamp(), str(item.get("title", "")))
+
+
+def apply_source_quotas(
+    items: list[dict[str, Any]],
+    sources_by_id: dict[str, dict[str, Any]],
+    now: dt.datetime,
+    display_window_days: int,
+) -> None:
+    """Demote lower-ranked homepage candidates when one source would dominate the feed."""
+    cutoff = now - dt.timedelta(days=display_window_days)
+    candidates = [
+        item
+        for item in sorted(items, key=quality_sort_key)
+        if item.get("tier") != "raw" and item_timestamp(item) >= cutoff
+    ]
+    source_counts: dict[str, int] = {}
+    source_day_counts: dict[tuple[str, str], int] = {}
+
+    for item in candidates:
+        source_id = str(item.get("source_id", ""))
+        source = sources_by_id.get(source_id, {})
+        source_type = str(item.get("source_type", source.get("type", "")))
+        homepage_limit = int(source.get("homepage_limit", DEFAULT_HOMEPAGE_LIMIT.get(source_type, 6)))
+        daily_limit = int(source.get("daily_limit", DEFAULT_DAILY_LIMIT.get(source_type, 4)))
+        day_key = item_timestamp(item).date().isoformat()
+        source_counts[source_id] = source_counts.get(source_id, 0) + 1
+        source_day_key = (source_id, day_key)
+        source_day_counts[source_day_key] = source_day_counts.get(source_day_key, 0) + 1
+
+        if source_counts[source_id] > homepage_limit or source_day_counts[source_day_key] > daily_limit:
+            item["tier"] = "raw"
+            item["score"] = max(0, int(item.get("score", 0)) - 10)
+            item.setdefault("quality_reasons", []).append("demoted by source diversity quota")
+
+
+def apply_quality_tiers(
+    items: list[dict[str, Any]],
+    sources: list[dict[str, Any]],
+    now: dt.datetime,
+    display_window_days: int,
+) -> list[dict[str, Any]]:
+    """Apply V1.1 deterministic curation without changing item identity or requiring an API key."""
+    sources_by_id = source_map(sources)
+    multi_source_signals = clustered_signal_sources(items, now)
+    enriched: list[dict[str, Any]] = []
+    for item in items:
+        source = sources_by_id.get(str(item.get("source_id", "")), {})
+        updated = dict(item)
+        score, tier, reasons = evaluate_quality(updated, source, multi_source_signals, now)
+        updated["score"] = score
+        updated["tier"] = tier
+        updated["quality_reasons"] = reasons
+        enriched.append(updated)
+
+    apply_source_quotas(enriched, sources_by_id, now, display_window_days)
+    return sorted(enriched, key=quality_sort_key)
+
+
+def write_json_if_changed(path: Path, payload: dict[str, Any]) -> bool:
+    """Write pretty JSON only when bytes changed so stable archive shards avoid Git churn."""
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    content = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+    if path.exists() and path.read_text(encoding="utf-8") == content:
+        return False
+    path.write_text(content, encoding="utf-8")
+    return True
+
+
+def grouped_by_month(items: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
+    grouped: dict[str, list[dict[str, Any]]] = {}
+    for item in items:
+        grouped.setdefault(archive_month(item), []).append(item)
+    return {month: sorted(month_items, key=quality_sort_key) for month, month_items in grouped.items()}
+
+
+def archive_payload(month: str, items: list[dict[str, Any]], retention_days: int) -> dict[str, Any]:
+    """Return the month shard contract consumed by the static dashboard's lazy loader."""
+    return {
+        "version": DATA_VERSION,
+        "month": month,
+        "retention_days": retention_days,
+        "items": items,
+    }
+
+
+def write_archive_shards(
+    data_dir: Path,
+    items: list[dict[str, Any]],
+    new_items: list[dict[str, Any]],
+    now: dt.datetime,
+    retention_days: int,
+) -> list[str]:
+    """Write changed month shards and delete shards outside the retention window."""
+    archive_dir = data_dir / ARCHIVE_DIRNAME
+    grouped = grouped_by_month(items)
+    new_months = {archive_month(item) for item in new_items}
+    current_month = f"{now.year:04d}-{now.month:02d}"
+    months_to_write = new_months | {current_month}
+
+    for month, month_items in grouped.items():
+        path = archive_dir / f"{month}.json"
+        if month in months_to_write or not path.exists():
+            write_json_if_changed(path, archive_payload(month, month_items, retention_days))
+
+    cutoff = now - dt.timedelta(days=retention_days)
+    if archive_dir.exists():
+        for path in archive_dir.glob("*.json"):
+            month = path.stem
+            if month not in grouped:
+                path.unlink()
+                continue
+            month_start = parse_datetime(f"{month}-01T00:00:00Z")
+            if month_start and month_start < cutoff.replace(day=1, hour=0, minute=0, second=0, microsecond=0):
+                path.unlink()
+
+    return sorted(grouped, reverse=True)
+
+
+def latest_items(items: list[dict[str, Any]], now: dt.datetime, display_window_days: int) -> list[dict[str, Any]]:
+    cutoff = now - dt.timedelta(days=display_window_days)
+    return [item for item in sorted(items, key=quality_sort_key) if item_timestamp(item) >= cutoff]
+
+
+def build_index_payload(
+    generated_at: dt.datetime,
+    display_window_days: int,
+    retention_days: int,
+    source_status: dict[str, Any],
+    available_months: list[str],
+    total_retained: int,
+    latest_count: int,
+) -> dict[str, Any]:
+    """Return the small boot metadata file loaded before any dashboard data shard."""
+    return {
+        "version": DATA_VERSION,
+        "generated_at": iso_z(generated_at),
+        "display_window_days": display_window_days,
+        "retention_days": retention_days,
+        "available_months": available_months,
+        "source_status": source_status,
+        "total_retained": total_retained,
+        "latest_count": latest_count,
+    }
+
+
+def build_latest_payload(
+    generated_at: dt.datetime,
+    display_window_days: int,
+    retention_days: int,
+    source_status: dict[str, Any],
+    items: list[dict[str, Any]],
+) -> dict[str, Any]:
+    """Return the default dashboard shard; it is intentionally much smaller than full history."""
+    return {
+        "version": DATA_VERSION,
+        "generated_at": iso_z(generated_at),
+        "display_window_days": display_window_days,
+        "retention_days": retention_days,
+        "source_status": source_status,
+        "items": items,
+    }
+
+
+def remove_legacy_items_json(data_dir: Path) -> None:
+    legacy_path = data_dir / LEGACY_ITEMS_FILENAME
+    if legacy_path.exists():
+        legacy_path.unlink()
 
 
 def run_collection(args: argparse.Namespace, now: dt.datetime | None = None) -> dict[str, Any]:
     now = now or utc_now()
     sources_path = Path(args.sources)
-    data_path = Path(args.data)
+    data_dir = Path(args.data_dir)
     sources = load_sources(sources_path)
-    existing_items = read_existing_items(data_path)
+    existing_items = read_archive_items(data_dir)
     new_items, source_status = collect_from_sources(sources, args.timeout, now)
     merged_items = merge_items(existing_items, new_items, now, args.retention_days)
+    enriched_items = apply_quality_tiers(merged_items, sources, now, args.display_window_days)
+    latest = latest_items(enriched_items, now, args.display_window_days)
+    available_months = write_archive_shards(data_dir, enriched_items, new_items, now, args.retention_days)
 
-    payload = {
-        "version": DATA_VERSION,
-        "generated_at": iso_z(now),
-        "display_window_days": args.display_window_days,
-        "retention_days": args.retention_days,
-        "source_status": source_status,
-        "items": merged_items,
-    }
-    write_json(data_path, payload)
-    return payload
+    latest_payload = build_latest_payload(now, args.display_window_days, args.retention_days, source_status, latest)
+    index_payload = build_index_payload(
+        now,
+        args.display_window_days,
+        args.retention_days,
+        source_status,
+        available_months,
+        len(enriched_items),
+        len(latest),
+    )
+    write_json_if_changed(data_dir / "latest.json", latest_payload)
+    write_json_if_changed(data_dir / "index.json", index_payload)
+    remove_legacy_items_json(data_dir)
+    return {"index": index_payload, "latest": latest_payload}
 
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Collect trusted AI feed items for the static dashboard.")
     parser.add_argument("--sources", default="config/sources.json", help="Path to source configuration JSON.")
-    parser.add_argument("--data", default="data/items.json", help="Path to the persistent dashboard data JSON.")
+    parser.add_argument("--data-dir", default="data", help="Directory for index/latest/archive dashboard data.")
     parser.add_argument("--display-window-days", type=int, default=30, help="Default dashboard display window.")
     parser.add_argument("--retention-days", type=int, default=365, help="Stored item retention period.")
     parser.add_argument("--timeout", type=int, default=20, help="Per-source network timeout in seconds.")
@@ -473,9 +848,11 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     payload = run_collection(args)
-    statuses = payload["source_status"].values()
+    statuses = payload["index"]["source_status"].values()
     errors = sum(1 for status in statuses if status["status"] == "error")
-    print(f"Collected {len(payload['items'])} retained items; {errors} source errors.")
+    total = payload["index"]["total_retained"]
+    latest_count = payload["index"]["latest_count"]
+    print(f"Collected {total} retained items; {latest_count} latest items; {errors} source errors.")
     return 0
 
 

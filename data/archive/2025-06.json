@@ -1,0 +1,270 @@
+{
+  "version": 2,
+  "month": "2025-06",
+  "retention_days": 365,
+  "items": [
+    {
+      "id": "1e3ebf94e41ebe19",
+      "title": "Customizable, no-code voice agent automation with GPT-4o",
+      "url": "https://openai.com/index/retell-ai",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-06-26T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "product"
+      ],
+      "summary": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conv...",
+      "raw_excerpt": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conversations—without scripts or hold times.",
+      "score": 98,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "high-impact launch/research keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "12e6adffa15def0d"
+    },
+    {
+      "id": "1dbdd72894e598d9",
+      "title": "Driving scalable growth with OpenAI o3, GPT-4.1, and CUA",
+      "url": "https://openai.com/index/unify",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-06-24T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "product"
+      ],
+      "summary": "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing...",
+      "raw_excerpt": "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing on high-impact customer interactions.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "edb2f5ba1f311e79"
+    },
+    {
+      "id": "f5885f88efe602c0",
+      "title": "AI in Australia—OpenAI’s Economic Blueprint",
+      "url": "https://openai.com/global-affairs/openais-australia-economic-blueprint",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-06-30T07:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Today, OpenAI, in partnership with Mandala Partners, is sharing the OpenAI AI Economic Blueprint for Australia. At a time when boosting productivity has emerged as a national priority for Australia, the Blueprint provides a clear, actionab...",
+      "raw_excerpt": "Today, OpenAI, in partnership with Mandala Partners, is sharing the OpenAI AI Economic Blueprint for Australia. At a time when boosting productivity has emerged as a national priority for Australia, the Blueprint provides a clear, actionable plan for how Australia can unlock the full economic and social potential of artificial intelligence.",
+      "score": 77,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "official model or product signal"
+      ],
+      "content_hash": "52c5f9831369b69e"
+    },
+    {
+      "id": "cd4bacbccf750e33",
+      "title": "Toward understanding and preventing misalignment generalization",
+      "url": "https://openai.com/index/emergent-misalignment",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-06-18T10:00:00Z",
+      "fetched_at": "2026-06-17T03:13:52Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety"
+      ],
+      "summary": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning.",
+      "raw_excerpt": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning.",
+      "score": 73,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "high-impact launch/research keywords",
+        "official model or product signal",
+        "low-signal content: event",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "6513f288a19d91d2"
+    },
+    {
+      "id": "601f3341d56ef6f2",
+      "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
+      "url": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-06-27T21:09:27Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 71,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "e61e6810504a3c00"
+    },
+    {
+      "id": "f282bcdc97e33a39",
+      "title": "Preparing for future AI risks in biology",
+      "url": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-06-18T10:00:00Z",
+      "fetched_at": "2026-06-17T03:13:52Z",
+      "language": "en",
+      "tags": [
+        "safety"
+      ],
+      "summary": "Advanced AI can transform biology and medicine—but also raises biosecurity risks. We’re proactively assessing capabilities and implementing safeguards to prevent misuse.",
+      "raw_excerpt": "Advanced AI can transform biology and medicine—but also raises biosecurity risks. We’re proactively assessing capabilities and implementing safeguards to prevent misuse.",
+      "score": 64,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "high-impact launch/research keywords",
+        "low-signal content: event",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "e45ca03b00cbd796"
+    },
+    {
+      "id": "f7a1062010f112b3",
+      "title": "Gemma 3n fully available in the open-source ecosystem!",
+      "url": "https://huggingface.co/blog/gemma3n",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-06-26T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 63,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "high-impact launch/research keywords",
+        "thin feed summary"
+      ],
+      "content_hash": "1ce6f5d45bd30d24"
+    },
+    {
+      "id": "a33f20cc107915a7",
+      "title": "Transformers backend integration in SGLang",
+      "url": "https://huggingface.co/blog/transformers-backend-sglang",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-06-23T00:00:00Z",
+      "fetched_at": "2026-06-17T03:13:52Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 55,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "thin feed summary"
+      ],
+      "content_hash": "296bf454a289cdb9"
+    },
+    {
+      "id": "8a75c2f881c91ce6",
+      "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
+      "url": "https://huggingface.co/blog/flux-qlora",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-06-19T00:00:00Z",
+      "fetched_at": "2026-06-17T03:13:52Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 55,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "thin feed summary"
+      ],
+      "content_hash": "2eb890ec2a271242"
+    }
+  ]
+}

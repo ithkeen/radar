@@ -97,16 +97,71 @@ class CollectTests(unittest.TestCase):
 
             args = argparse.Namespace(
                 sources=str(sources_path),
-                data=str(data_path),
+                data_dir=str(tmp_path),
                 display_window_days=30,
                 retention_days=365,
                 timeout=2,
             )
             payload = collect.run_collection(args, now=NOW)
 
-            self.assertGreaterEqual(len(payload["items"]), 1)
-            self.assertEqual(payload["source_status"]["valid"]["status"], "live")
-            self.assertEqual(payload["source_status"]["broken"]["status"], "error")
+            self.assertGreaterEqual(len(payload["latest"]["items"]), 1)
+            self.assertEqual(payload["index"]["source_status"]["valid"]["status"], "live")
+            self.assertEqual(payload["index"]["source_status"]["broken"]["status"], "error")
+            self.assertTrue((tmp_path / "index.json").exists())
+            self.assertTrue((tmp_path / "latest.json").exists())
+            self.assertTrue(list((tmp_path / "archive").glob("*.json")))
+            self.assertFalse(data_path.exists())
+
+    def test_quality_tier_is_stable_and_explained(self):
+        entry = {
+            "title": "OpenAI announces new GPT model API",
+            "url": "https://example.com/new-gpt",
+            "summary": "A major model launch with a new API and benchmark improvements for agents.",
+            "published_at": "2026-06-16T10:00:00Z",
+            "categories": [],
+        }
+        src = source(id="openai", name="OpenAI", type="official", weight=56)
+        item = collect.build_item(entry, src, NOW, NOW)
+        first = collect.apply_quality_tiers([item], [src], NOW, display_window_days=30)
+        second = collect.apply_quality_tiers([item], [src], NOW, display_window_days=30)
+
+        self.assertEqual(first, second)
+        self.assertEqual(first[0]["tier"], "must_read")
+        self.assertTrue(first[0]["quality_reasons"])
+
+    def test_low_signal_content_is_demoted_to_raw(self):
+        entry = {
+            "title": "New AI Academy course and webinar recap",
+            "url": "https://example.com/course",
+            "summary": "A course and webinar recap for a customer story.",
+            "published_at": "2026-06-16T10:00:00Z",
+            "categories": [],
+        }
+        src = source(id="official", type="official", weight=56)
+        item = collect.build_item(entry, src, NOW, NOW)
+        ranked = collect.apply_quality_tiers([item], [src], NOW, display_window_days=30)
+
+        self.assertEqual(ranked[0]["tier"], "raw")
+        self.assertTrue(any("low-signal" in reason for reason in ranked[0]["quality_reasons"]))
+
+    def test_source_quota_limits_curated_homepage_items(self):
+        src = source(id="papers", type="paper", weight=48, daily_limit=2, homepage_limit=2)
+        items = []
+        for index in range(5):
+            entry = {
+                "title": f"Benchmark paper announces new agent model {index}",
+                "url": f"https://example.com/paper-{index}",
+                "summary": "A benchmark paper about new model and agent evaluation.",
+                "published_at": "2026-06-16T10:00:00Z",
+                "categories": ["cs.AI"],
+            }
+            items.append(collect.build_item(entry, src, NOW, NOW))
+
+        ranked = collect.apply_quality_tiers(items, [src], NOW, display_window_days=30)
+        curated = [item for item in ranked if item["tier"] != "raw"]
+
+        self.assertEqual(len(curated), 2)
+        self.assertTrue(any("source diversity quota" in " ".join(item["quality_reasons"]) for item in ranked))
 
     def test_url_normalization_removes_tracking_query(self):
         normalized = collect.normalize_url("https://Example.com/path/?utm_source=x&keep=1#section")

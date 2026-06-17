@@ -8,6 +8,8 @@
       "language": "en",
       "category": "company",
       "weight": 56,
+      "daily_limit": 5,
+      "homepage_limit": 12,
       "enabled": true
     },
     {
@@ -18,6 +20,8 @@
       "language": "en",
       "category": "company",
       "weight": 55,
+      "daily_limit": 5,
+      "homepage_limit": 12,
       "enabled": false
     },
     {
@@ -28,6 +32,8 @@
       "language": "en",
       "category": "company",
       "weight": 52,
+      "daily_limit": 5,
+      "homepage_limit": 12,
       "enabled": true
     },
     {
@@ -38,6 +44,8 @@
       "language": "en",
       "category": "company",
       "weight": 50,
+      "daily_limit": 5,
+      "homepage_limit": 10,
       "enabled": true
     },
     {
@@ -48,6 +56,8 @@
       "language": "en",
       "category": "company",
       "weight": 50,
+      "daily_limit": 5,
+      "homepage_limit": 10,
       "enabled": true
     },
     {
@@ -58,6 +68,8 @@
       "language": "en",
       "category": "research",
       "weight": 46,
+      "daily_limit": 8,
+      "homepage_limit": 10,
       "enabled": true
     },
     {
@@ -68,6 +80,8 @@
       "language": "en",
       "category": "open-source",
       "weight": 44,
+      "daily_limit": 2,
+      "homepage_limit": 4,
       "enabled": true
     },
     {
@@ -78,6 +92,8 @@
       "language": "en",
       "category": "open-source",
       "weight": 44,
+      "daily_limit": 2,
+      "homepage_limit": 4,
       "enabled": true
     },
     {
@@ -88,6 +104,8 @@
       "language": "en",
       "category": "open-source",
       "weight": 43,
+      "daily_limit": 2,
+      "homepage_limit": 4,
       "enabled": true
     },
     {
@@ -98,6 +116,8 @@
       "language": "en",
       "category": "open-source",
       "weight": 42,
+      "daily_limit": 2,
+      "homepage_limit": 4,
       "enabled": true
     }
   ]

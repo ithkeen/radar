@@ -25,7 +25,20 @@
       <aside class="filter-rail" aria-label="Filters">
         <section class="panel compact-panel">
           <div class="panel-heading">
-            <h2>Time Window</h2>
+            <h2>View</h2>
+          </div>
+          <div class="segmented stacked" role="group" aria-label="Content view">
+            <button class="segmented-button is-active" type="button" data-view="curated">Curated</button>
+            <button class="segmented-button" type="button" data-view="all">All</button>
+            <button class="segmented-button" type="button" data-view="papers">Papers</button>
+            <button class="segmented-button" type="button" data-view="open-source">Open source</button>
+            <button class="segmented-button" type="button" data-view="health">Source health</button>
+          </div>
+        </section>
+
+        <section class="panel compact-panel">
+          <div class="panel-heading">
+            <h2>Window</h2>
           </div>
           <div class="segmented" role="group" aria-label="Time range">
             <button class="segmented-button" type="button" data-range="1">24h</button>
@@ -55,6 +68,11 @@
           <select id="tag" class="select-input">
             <option value="all">All tags</option>
           </select>
+
+          <label class="control-label" for="archive">Archive</label>
+          <select id="archive" class="select-input">
+            <option value="latest">Latest 30 days</option>
+          </select>
         </section>
 
         <section class="panel compact-panel">
@@ -67,6 +85,10 @@
               <dd id="total-count">0</dd>
             </div>
             <div>
+              <dt>Loaded shard</dt>
+              <dd id="loaded-count">0</dd>
+            </div>
+            <div>
               <dt>Visible now</dt>
               <dd id="visible-count">0</dd>
             </div>
@@ -75,7 +97,7 @@
               <dd id="retention-days">--</dd>
             </div>
           </dl>
-          <a class="data-link" href="data/items.json">Open JSON</a>
+          <a class="data-link" href="data/latest.json">Open latest JSON</a>
         </section>
       </aside>
 
@@ -83,9 +105,9 @@
         <div class="feed-header">
           <div>
             <h1>Latest Signals</h1>
-            <p id="feed-subtitle">Ranked by recency, source quality, and topic match.</p>
+            <p id="feed-subtitle">Curated by quality, recency, and source diversity.</p>
           </div>
-          <div class="sort-note">Deterministic score</div>
+          <div class="sort-note" id="sort-note">Quality score</div>
         </div>
         <div id="items" class="item-list"></div>
       </section>

@@ -190,6 +190,10 @@ select {
   background: var(--surface-strong);
 }
 
+.segmented.stacked {
+  grid-template-columns: 1fr;
+}
+
 .segmented-button {
   min-height: 34px;
   border: 0;
@@ -335,6 +339,27 @@ select {
   font-size: 12px;
 }
 
+.tier {
+  display: inline-flex;
+  align-items: center;
+  min-height: 20px;
+  padding: 2px 6px;
+  border-radius: 5px;
+  background: #eef2f4;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.tier.must_read {
+  background: #e4f3ee;
+  color: var(--green);
+}
+
+.tier.noteworthy {
+  background: #fff3d9;
+  color: var(--amber);
+}
+
 .item-summary {
   margin: 0;
   color: #39474d;
@@ -396,6 +421,16 @@ select {
   color: var(--muted);
   font-size: 11px;
   text-transform: uppercase;
+}
+
+.small-score {
+  min-width: 74px;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+.health-result .item-summary {
+  margin-top: 8px;
 }
 
 .source-list {
