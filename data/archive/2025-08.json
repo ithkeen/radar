@@ -1028,7 +1028,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-08-12T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -1145,38 +1145,6 @@
       "content_hash": "0b720b7633a4904f"
     },
     {
-      "id": "ea2c30c5275e15ea",
-      "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset",
-      "url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-08-20T22:13:18Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
-      "language": "en",
-      "tags": [
-        "research",
-        "open-source"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: research, open-source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "b5070b0d68770461"
-    },
-    {
       "id": "73fc8904e3c813fd",
       "title": "Q&A with DoorDash’s CPO, Mariana Garavaglia",
       "url": "https://openai.com/index/doordash-mariana-garavaglia",
@@ -1184,7 +1152,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-08-18T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.",
@@ -1209,7 +1177,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-18T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "product",
@@ -1241,7 +1209,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-18T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1272,7 +1240,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-08-25T06:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -1295,6 +1263,37 @@
       "content_hash": "b0ea31a606760850"
     },
     {
+      "id": "ea2c30c5275e15ea",
+      "title": "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset",
+      "url": "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-08-20T22:13:18Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
+      "language": "en",
+      "tags": [
+        "research",
+        "open-source"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 55,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: research, open-source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "b5070b0d68770461"
+    },
+    {
       "id": "4c581a1a3a36e808",
       "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
       "url": "https://huggingface.co/blog/accelerate-nd-parallel",
@@ -1302,7 +1301,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-08T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -1332,7 +1331,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-14T12:13:01Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1359,7 +1358,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-13T14:55:10Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1386,7 +1385,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-12T14:52:08Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",

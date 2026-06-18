@@ -4,6 +4,38 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "450d5ccfb1602dc2",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-18T17:00:00Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "raw_excerpt": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "74a04cde32ee33fe"
+    },
+    {
       "id": "9f4dbdd37bfa3bd3",
       "title": "Improving health intelligence in ChatGPT",
       "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
@@ -489,38 +521,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "837c758bdf84bf23"
-    },
-    {
-      "id": "b040c6a9760044ce",
-      "title": "Codex for every role, tool, and workflow",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-02T09:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "raw_excerpt": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "db1a86429371a6ff"
     },
     {
       "id": "0a4755cb1c877335",
@@ -1209,6 +1209,39 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "e1c22dcca3294e40"
+    },
+    {
+      "id": "b040c6a9760044ce",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-02T09:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "raw_excerpt": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "db1a86429371a6ff"
     },
     {
       "id": "473eced4d0d7fe18",
@@ -1977,7 +2010,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2132,35 +2165,6 @@
       "content_hash": "e6bb9dbd34785231"
     },
     {
-      "id": "c7866bf4d0809ad4",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "url": "https://openai.com/index/lseg",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-10T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "raw_excerpt": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "score": 80,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "8b9bc1b4f395aa85"
-    },
-    {
       "id": "59dcce5e5c6ff34b",
       "title": "RECOM: A Validity Discrimination Tradeoff in Automatic Metrics for Open Ended Reddit Question Answering",
       "url": "https://arxiv.org/abs/2606.19218v1",
@@ -2228,37 +2232,6 @@
         "thin feed summary"
       ],
       "content_hash": "65c81b7f838d4c17"
-    },
-    {
-      "id": "03565b0b529fc9cd",
-      "title": "v0.30.10",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.10-rc1",
-      "source_id": "github-ollama",
-      "source_name": "Ollama Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-17T21:22:55Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "What's Changed models: add Cohere2MoE model by @jmorganca in #16670 llama: update llama.cpp to b9672 by @pdevine in #16775 Full Changelog : v0.30.9...v0.30.10-rc0",
-      "raw_excerpt": "What's Changed models: add Cohere2MoE model by @jmorganca in #16670 llama: update llama.cpp to b9672 by @pdevine in #16775 Full Changelog : v0.30.9...v0.30.10-rc0",
-      "score": 77,
-      "score_reasons": [
-        "trusted source weight 43",
-        "published in the last 24h",
-        "github_release source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "e3a3be07036a200a"
     },
     {
       "id": "a5a6a48986031aa8",
@@ -2336,7 +2309,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2365,7 +2338,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -2394,7 +2367,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2423,7 +2396,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2485,7 +2458,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2516,7 +2489,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2547,7 +2520,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -2572,7 +2545,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -2591,6 +2564,34 @@
         "outside preferred AI focus"
       ],
       "content_hash": "71bc77978591fad5"
+    },
+    {
+      "id": "c7866bf4d0809ad4",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-10T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "raw_excerpt": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "score": 73,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "8b9bc1b4f395aa85"
     },
     {
       "id": "2bbd640798bc11c5",
@@ -2629,7 +2630,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2718,7 +2719,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2738,26 +2739,26 @@
       "content_hash": "b8d7c0716e55f39a"
     },
     {
-      "id": "e70593614d4d4340",
-      "title": "v0.23.0rc2: [Docker] Fix CUTLASS DSL cu13 install order in Dockerfile (#45204)",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0rc2",
-      "source_id": "github-vllm",
-      "source_name": "vLLM Releases",
+      "id": "03565b0b529fc9cd",
+      "title": "v0.30.10",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.10-rc1",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
       "source_type": "github_release",
-      "published_at": "2026-06-11T23:24:31Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2026-06-17T21:22:55Z",
+      "fetched_at": "2026-06-17T22:04:45Z",
       "language": "en",
       "tags": [
-        "open-source"
+        "model"
       ],
-      "summary": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 40e065e )",
-      "raw_excerpt": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 40e065e )",
-      "score": 71,
+      "summary": "What's Changed models: add Cohere2MoE model by @jmorganca in #16670 llama: update llama.cpp to b9672 by @pdevine in #16775 Full Changelog : v0.30.9...v0.30.10-rc0",
+      "raw_excerpt": "What's Changed models: add Cohere2MoE model by @jmorganca in #16670 llama: update llama.cpp to b9672 by @pdevine in #16775 Full Changelog : v0.30.9...v0.30.10-rc0",
+      "score": 70,
       "score_reasons": [
-        "trusted source weight 44",
-        "published in the last 7 days",
+        "trusted source weight 43",
+        "published in the last 24h",
         "github_release source",
-        "matched tags: open-source"
+        "matched tags: model"
       ],
       "tier": "raw",
       "quality_reasons": [
@@ -2766,7 +2767,7 @@
         "open-source AI infrastructure update",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "f87ccb496abbf16f"
+      "content_hash": "e3a3be07036a200a"
     },
     {
       "id": "9beb046be4e888bc",
@@ -2807,7 +2808,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -2832,7 +2833,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents",
@@ -2864,7 +2865,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -2889,7 +2890,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2916,7 +2917,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-16T19:55:52Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model"
@@ -2948,7 +2949,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T03:05:08Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model"
@@ -2980,7 +2981,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3011,7 +3012,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -3037,7 +3038,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3068,7 +3069,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3099,7 +3100,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3162,7 +3163,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:26:44Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3189,7 +3190,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3209,6 +3210,36 @@
       "content_hash": "842f185d8f223ce0"
     },
     {
+      "id": "e70593614d4d4340",
+      "title": "v0.23.0rc2: [Docker] Fix CUTLASS DSL cu13 install order in Dockerfile (#45204)",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0rc2",
+      "source_id": "github-vllm",
+      "source_name": "vLLM Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-11T23:24:31Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 40e065e )",
+      "raw_excerpt": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 40e065e )",
+      "score": 64,
+      "score_reasons": [
+        "trusted source weight 44",
+        "published in the last 7 days",
+        "github_release source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update"
+      ],
+      "content_hash": "f87ccb496abbf16f"
+    },
+    {
       "id": "1b410cadf65e0a2a",
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
@@ -3216,7 +3247,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -3247,7 +3278,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model"
@@ -3311,7 +3342,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3338,7 +3369,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -3400,7 +3431,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3427,7 +3458,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -3457,7 +3488,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3484,7 +3515,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-12T00:21:46Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -3514,7 +3545,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -3541,7 +3572,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T18:36:50Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "server: context shift for context windows larger than 8k, add error w…",
@@ -3568,7 +3599,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -3597,7 +3628,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -3626,7 +3657,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -3655,7 +3686,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -3704,66 +3735,6 @@
       "content_hash": "5b8a7e864ebc7ba5"
     },
     {
-      "id": "a46eeb915ebf2473",
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 45,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 7 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: jobs",
-        "thin feed summary"
-      ],
-      "content_hash": "ee6d5b249978569a"
-    },
-    {
-      "id": "0e6454a49e231542",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 45,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: open-source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: jobs",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "a69310261cfd4638"
-    },
-    {
       "id": "a65f9e60ef0b265b",
       "title": "v5.10.0",
       "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.0",
@@ -3771,7 +3742,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -3798,7 +3769,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -3818,6 +3789,65 @@
       "content_hash": "67ddbd61e16f0378"
     },
     {
+      "id": "0e6454a49e231542",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-06-09T00:00:00Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 38,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: open-source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "low-signal content: jobs",
+        "thin feed summary"
+      ],
+      "content_hash": "a69310261cfd4638"
+    },
+    {
+      "id": "a46eeb915ebf2473",
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-06-11T20:00:00Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 37,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "low-signal content: jobs",
+        "thin feed summary"
+      ],
+      "content_hash": "ee6d5b249978569a"
+    },
+    {
       "id": "cccec422863c737a",
       "title": "Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentation",
       "url": "https://arxiv.org/abs/2606.19300v1",
@@ -3825,7 +3855,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:24:41Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -3859,7 +3889,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:39:40Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -3894,7 +3924,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:13:42Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -3928,7 +3958,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:57:43Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -3962,7 +3992,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:37:35Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "agents",
@@ -3996,7 +4026,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:22:51Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4270,7 +4300,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:59:56Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4303,7 +4333,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:51:50Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4336,7 +4366,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:48:27Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -4369,7 +4399,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:29:19Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4402,7 +4432,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:26:59Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4435,7 +4465,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:24:06Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4468,7 +4498,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:18:11Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -4501,7 +4531,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:15:19Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4692,38 +4722,6 @@
       "content_hash": "b4708f589be26681"
     },
     {
-      "id": "05d5275346ccac48",
-      "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
-      "url": "https://arxiv.org/abs/2606.19329v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T17:54:52Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
-      "language": "en",
-      "tags": [
-        "open-source",
-        "product",
-        "research"
-      ],
-      "summary": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to...",
-      "raw_excerpt": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to identify true counterparts, detect chance coincidences, and resolve ambiguities when multiple plausible candidates exist. We define a training set of high-confidence matches using NWAY, a Bayesian cross-matching framework that accounts for positional errors and source densities. We train a gradient-boosted classifier (LightGBM) on a variety of features from...",
-      "score": 22,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: open-source, product, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "7f70980242fe363c"
-    },
-    {
       "id": "cdee2bf7a7bcbe30",
       "title": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
       "url": "https://arxiv.org/abs/2606.19328v1",
@@ -4731,7 +4729,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:54:32Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4763,7 +4761,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:54:04Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4795,7 +4793,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:40:55Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4827,7 +4825,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:31:06Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4859,7 +4857,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:40:32Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4891,7 +4889,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:34:02Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4923,7 +4921,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:30:16Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4955,7 +4953,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:59:21Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -4987,7 +4985,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:11:43Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5211,7 +5209,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:38:32Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5242,7 +5240,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:26:22Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5273,7 +5271,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:47:57Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5304,7 +5302,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:13:19Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5335,7 +5333,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:07:11Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5514,6 +5512,37 @@
       "content_hash": "1c7be2e291ec3fcd"
     },
     {
+      "id": "05d5275346ccac48",
+      "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
+      "url": "https://arxiv.org/abs/2606.19329v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T17:54:52Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "product",
+        "research"
+      ],
+      "summary": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to...",
+      "raw_excerpt": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to identify true counterparts, detect chance coincidences, and resolve ambiguities when multiple plausible candidates exist. We define a training set of high-confidence matches using NWAY, a Bayesian cross-matching framework that accounts for positional errors and source densities. We train a gradient-boosted classifier (LightGBM) on a variety of features from...",
+      "score": 15,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: open-source, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "7f70980242fe363c"
+    },
+    {
       "id": "6ee4abee04184ae9",
       "title": "Analyzing and Encoding the Al-Mawrid Arabic-English Dictionary with the ISO Language Markup Framework and TEI Lex-0",
       "url": "https://arxiv.org/abs/2606.18205v1",
@@ -5583,7 +5612,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:58:22Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "regulation",
@@ -5613,7 +5642,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:36:17Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "product",
@@ -5643,7 +5672,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:24:37Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "product",
@@ -5763,7 +5792,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:26:51Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -5792,7 +5821,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:04:41Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -5821,7 +5850,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:56:31Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -5850,7 +5879,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:27:28Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -5879,7 +5908,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:25:21Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -5908,7 +5937,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:06:41Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -5937,7 +5966,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:19:20Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -6111,7 +6140,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:13:27Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -6145,7 +6174,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:27:15Z",
-      "fetched_at": "2026-06-18T18:26:34Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
       "language": "en",
       "tags": [
         "research"
