@@ -130,38 +130,6 @@
       "content_hash": "e61e6810504a3c00"
     },
     {
-      "id": "cd4bacbccf750e33",
-      "title": "Toward understanding and preventing misalignment generalization",
-      "url": "https://openai.com/index/emergent-misalignment",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-06-18T10:00:00Z",
-      "fetched_at": "2026-06-18T04:01:26Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "safety"
-      ],
-      "summary": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning.",
-      "raw_excerpt": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning.",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "low-signal content: event",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "6513f288a19d91d2"
-    },
-    {
       "id": "f7a1062010f112b3",
       "title": "Gemma 3n fully available in the open-source ecosystem!",
       "url": "https://huggingface.co/blog/gemma3n",
@@ -169,7 +137,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-06-26T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T11:50:53Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -196,7 +164,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-06-23T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T11:50:53Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -223,7 +191,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-06-19T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T11:50:53Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -241,35 +209,6 @@
         "thin feed summary"
       ],
       "content_hash": "2eb890ec2a271242"
-    },
-    {
-      "id": "f282bcdc97e33a39",
-      "title": "Preparing for future AI risks in biology",
-      "url": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-06-18T10:00:00Z",
-      "fetched_at": "2026-06-18T04:01:26Z",
-      "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "Advanced AI can transform biology and medicine—but also raises biosecurity risks. We’re proactively assessing capabilities and implementing safeguards to prevent misuse.",
-      "raw_excerpt": "Advanced AI can transform biology and medicine—but also raises biosecurity risks. We’re proactively assessing capabilities and implementing safeguards to prevent misuse.",
-      "score": 43,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: event"
-      ],
-      "content_hash": "e45ca03b00cbd796"
     }
   ]
 }
