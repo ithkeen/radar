@@ -945,7 +945,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-28T12:30:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety"
@@ -973,7 +973,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-27T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1033,7 +1033,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-19T10:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1125,7 +1125,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-27T05:30:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
@@ -1150,7 +1150,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-18T21:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
@@ -1175,7 +1175,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-05T10:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",

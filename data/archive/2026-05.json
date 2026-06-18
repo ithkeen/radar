@@ -1615,7 +1615,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety",
@@ -1635,36 +1635,6 @@
         "outside preferred AI focus"
       ],
       "content_hash": "c0387f60dfb88a9a"
-    },
-    {
-      "id": "9b127fb09eba018b",
-      "title": "At aged care provider Regis, AI takes on paperwork so staff can focus on residents",
-      "url": "https://news.microsoft.com/source/asia/features/at-aged-care-provider-regis-ai-takes-on-paperwork-so-staff-can-focus-on-residents",
-      "source_id": "microsoft-ai",
-      "source_name": "Microsoft AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-18T23:06:46Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "research",
-        "product"
-      ],
-      "summary": "The post At aged care provider Regis, AI takes on paperwork so staff can focus on residents appeared first on Source .",
-      "raw_excerpt": "The post At aged care provider Regis, AI takes on paperwork so staff can focus on residents appeared first on Source .",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: research, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "bf9e3f799869dcac"
     },
     {
       "id": "6874e6a9bd6256dd",
@@ -1927,7 +1897,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-19T10:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2042,7 +2012,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -2067,7 +2037,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -2092,7 +2062,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -2108,6 +2078,36 @@
         "outside preferred AI focus"
       ],
       "content_hash": "0950ab1fb1413732"
+    },
+    {
+      "id": "9b127fb09eba018b",
+      "title": "At aged care provider Regis, AI takes on paperwork so staff can focus on residents",
+      "url": "https://news.microsoft.com/source/asia/features/at-aged-care-provider-regis-ai-takes-on-paperwork-so-staff-can-focus-on-residents",
+      "source_id": "microsoft-ai",
+      "source_name": "Microsoft AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-18T23:06:46Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "research",
+        "product"
+      ],
+      "summary": "The post At aged care provider Regis, AI takes on paperwork so staff can focus on residents appeared first on Source .",
+      "raw_excerpt": "The post At aged care provider Regis, AI takes on paperwork so staff can focus on residents appeared first on Source .",
+      "score": 68,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "bf9e3f799869dcac"
     },
     {
       "id": "7c1a813822f725a1",
@@ -2274,7 +2274,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2302,7 +2302,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-04T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "inference"
@@ -2393,7 +2393,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
@@ -2418,7 +2418,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2445,7 +2445,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2472,7 +2472,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2499,7 +2499,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2526,7 +2526,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2553,7 +2553,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2580,7 +2580,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2607,7 +2607,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2739,33 +2739,6 @@
       "content_hash": "190398d04fc9fcc3"
     },
     {
-      "id": "ed1c2193d6b80a8c",
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 57,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "9664f0d04586faf2"
-    },
-    {
       "id": "aea45e8990d4975c",
       "title": "v0.22.0rc3: [BugFix] Fix hard-coded timeout for multi-API-server startup (#43768)",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0rc3",
@@ -2773,7 +2746,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-28T07:11:54Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -2793,6 +2766,33 @@
         "routine versioned release"
       ],
       "content_hash": "10ca002e37db9e91"
+    },
+    {
+      "id": "ed1c2193d6b80a8c",
+      "title": "Introducing the Ettin Reranker Family",
+      "url": "https://huggingface.co/blog/ettin-reranker",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-19T00:00:00Z",
+      "fetched_at": "2026-06-17T22:04:45Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 49,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "9664f0d04586faf2"
     },
     {
       "id": "0e90042cc61fe001",
@@ -2883,7 +2883,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-06T21:37:58Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -2943,7 +2943,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
@@ -2969,7 +2969,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-15T22:30:20Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -2998,7 +2998,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-07T17:33:02Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -3027,7 +3027,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",

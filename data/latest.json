@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-17T22:04:45Z",
+  "generated_at": "2026-06-18T04:01:26Z",
   "display_window_days": 30,
   "retention_days": 365,
   "source_status": {
@@ -8,7 +8,7 @@
       "name": "OpenAI News",
       "status": "live",
       "latest_item_at": "2026-06-17T10:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "item_count": 1009,
       "error": null
     },
@@ -16,7 +16,7 @@
       "name": "Anthropic News",
       "status": "error",
       "latest_item_at": null,
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "item_count": 0,
       "error": "HTTP Error 404: Not Found"
     },
@@ -24,39 +24,39 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "item_count": 20,
       "error": null
     },
     "huggingface-blog": {
       "name": "Hugging Face Blog",
-      "status": "live",
-      "latest_item_at": "2026-06-17T15:26:44Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
-      "item_count": 800,
-      "error": null
+      "status": "error",
+      "latest_item_at": null,
+      "fetched_at": "2026-06-18T04:01:26Z",
+      "item_count": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     "microsoft-ai": {
       "name": "Microsoft AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-16T13:41:44Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "item_count": 10,
       "error": null
     },
     "arxiv-ai": {
       "name": "arXiv AI/ML/CL",
-      "status": "live",
-      "latest_item_at": "2026-06-16T17:59:04Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
-      "item_count": 50,
-      "error": null
+      "status": "error",
+      "latest_item_at": null,
+      "fetched_at": "2026-06-18T04:01:26Z",
+      "item_count": 0,
+      "error": "HTTP Error 429: Unknown Error"
     },
     "github-transformers": {
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T17:29:59Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "item_count": 10,
       "error": null
     },
@@ -64,15 +64,15 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T05:27:20Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "item_count": 10,
       "error": null
     },
     "github-ollama": {
       "name": "Ollama Releases",
       "status": "live",
-      "latest_item_at": "2026-06-17T21:22:55Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "latest_item_at": "2026-06-18T01:30:22Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "item_count": 10,
       "error": null
     },
@@ -80,7 +80,7 @@
       "name": "OpenAI Python Releases",
       "status": "live",
       "latest_item_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "item_count": 10,
       "error": null
     }
@@ -115,40 +115,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "3e91520bb6b88ec3"
-    },
-    {
-      "id": "818f7773d82aab79",
-      "title": "v0.30.9",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9",
-      "source_id": "github-ollama",
-      "source_name": "Ollama Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-17T00:25:33Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "product"
-      ],
-      "summary": "What's Changed Support for Cohere2Moe architecture Fixed LFM2 parser/render for cases where thinking was not emitted Fixed issue where ollama launch claude and other coding agent or assistant use cases would only output one token Ollama wi...",
-      "raw_excerpt": "What's Changed Support for Cohere2Moe architecture Fixed LFM2 parser/render for cases where thinking was not emitted Fixed issue where ollama launch claude and other coding agent or assistant use cases would only output one token Ollama will now return an error if a single message is larger than the current context window Full Changelog : v0.30.8...v0.30.9-rc1",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 43",
-        "published in the last 24h",
-        "github_release source",
-        "matched tags: model, agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update, coding agent",
-        "high-impact model, eval, or agent keywords",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "6453ecbc0ce8ecb2"
     },
     {
       "id": "4b3d5988110b011d",
@@ -670,34 +636,38 @@
       "content_hash": "4b17688fc36badd0"
     },
     {
-      "id": "381e7f583722c98d",
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "id": "818f7773d82aab79",
+      "title": "v0.30.9",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-17T00:25:33Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "evaluation",
-        "research"
+        "model",
+        "agents",
+        "product"
       ],
-      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-      "raw_excerpt": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "summary": "What's Changed Support for Cohere2Moe architecture Fixed LFM2 parser/render for cases where thinking was not emitted Fixed issue where ollama launch claude and other coding agent or assistant use cases would only output one token Ollama wi...",
+      "raw_excerpt": "What's Changed Support for Cohere2Moe architecture Fixed LFM2 parser/render for cases where thinking was not emitted Fixed issue where ollama launch claude and other coding agent or assistant use cases would only output one token Ollama will now return an error if a single message is larger than the current context window Full Changelog : v0.30.8...v0.30.9-rc1",
       "score": 98,
       "score_reasons": [
-        "trusted source weight 56",
+        "trusted source weight 43",
         "published in the last 24h",
-        "official source",
-        "matched tags: evaluation, research"
+        "github_release source",
+        "matched tags: model, agents, product"
       ],
-      "tier": "raw",
+      "tier": "must_read",
       "quality_reasons": [
-        "outside preferred AI focus",
+        "matches AI channel focus: model update, coding agent",
+        "high-impact model, eval, or agent keywords",
+        "routine versioned release",
+        "open-source AI infrastructure update",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "c2da02e6f20d4004"
+      "content_hash": "6453ecbc0ce8ecb2"
     },
     {
       "id": "10249fbfefacb74a",
@@ -976,36 +946,6 @@
       "content_hash": "cd783f35e543ffa0"
     },
     {
-      "id": "043e5abd40266556",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "raw_excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 7 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "77ab808308d89f01"
-    },
-    {
       "id": "8c84b8422093501f",
       "title": "A shared playbook for trustworthy third party evaluations",
       "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
@@ -1036,6 +976,36 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "582a1629520d3665"
+    },
+    {
+      "id": "381e7f583722c98d",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-17T00:00:00Z",
+      "fetched_at": "2026-06-17T22:04:45Z",
+      "language": "en",
+      "tags": [
+        "evaluation",
+        "research"
+      ],
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "raw_excerpt": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "score": 91,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "c2da02e6f20d4004"
     },
     {
       "id": "c7754ef195e8c739",
@@ -1794,6 +1764,36 @@
       "content_hash": "cd8917e2120ff3cc"
     },
     {
+      "id": "043e5abd40266556",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-11T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "raw_excerpt": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "score": 86,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 7 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "77ab808308d89f01"
+    },
+    {
       "id": "228493631c86576f",
       "title": "v2.41.1",
       "url": "https://github.com/openai/openai-python/releases/tag/v2.41.1",
@@ -2148,37 +2148,6 @@
       "content_hash": "1eaa71d55d586797"
     },
     {
-      "id": "b59b3271b775356f",
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 82,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 24h",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "ce96255d13cbe207"
-    },
-    {
       "id": "730baeba5515aec5",
       "title": "DRFLOW: A Deep Research Benchmark for Personalized Workflow Prediction",
       "url": "https://arxiv.org/abs/2606.18191v1",
@@ -2276,34 +2245,6 @@
         "demoted by source diversity quota"
       ],
       "content_hash": "f6bc55b346cb6597"
-    },
-    {
-      "id": "d38f7a49e86de9da",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
-      "language": "en",
-      "tags": [
-        "regulation"
-      ],
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "raw_excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "score": 81,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 7 days",
-        "official source",
-        "matched tags: regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "71bc77978591fad5"
     },
     {
       "id": "ef1be95a55cb773f",
@@ -2531,6 +2472,37 @@
       "content_hash": "f34e47e91c351679"
     },
     {
+      "id": "c1d85b2211eb4f01",
+      "title": "v0.30.10",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.10",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-18T01:30:22Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "What's Changed models: add Cohere2MoE model by @jmorganca in #16670 llama: update llama.cpp to b9672 by @pdevine in #16775 Full Changelog : v0.30.9...v0.30.10-rc0",
+      "raw_excerpt": "What's Changed models: add Cohere2MoE model by @jmorganca in #16670 llama: update llama.cpp to b9672 by @pdevine in #16775 Full Changelog : v0.30.9...v0.30.10-rc0",
+      "score": 77,
+      "score_reasons": [
+        "trusted source weight 43",
+        "published in the last 24h",
+        "github_release source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "e3a3be07036a200a"
+    },
+    {
       "id": "03565b0b529fc9cd",
       "title": "v0.30.10",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.30.10-rc1",
@@ -2668,7 +2640,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2697,7 +2669,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -2726,7 +2698,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2755,7 +2727,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2817,7 +2789,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2839,34 +2811,35 @@
       "content_hash": "c0387f60dfb88a9a"
     },
     {
-      "id": "9b127fb09eba018b",
-      "title": "At aged care provider Regis, AI takes on paperwork so staff can focus on residents",
-      "url": "https://news.microsoft.com/source/asia/features/at-aged-care-provider-regis-ai-takes-on-paperwork-so-staff-can-focus-on-residents",
-      "source_id": "microsoft-ai",
-      "source_name": "Microsoft AI Blog",
+      "id": "b59b3271b775356f",
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2026-05-18T23:06:46Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2026-06-17T00:00:00Z",
+      "fetched_at": "2026-06-17T22:04:45Z",
       "language": "en",
       "tags": [
-        "research",
-        "product"
+        "agents"
       ],
-      "summary": "The post At aged care provider Regis, AI takes on paperwork so staff can focus on residents appeared first on Source .",
-      "raw_excerpt": "The post At aged care provider Regis, AI takes on paperwork so staff can focus on residents appeared first on Source .",
-      "score": 76,
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 75,
       "score_reasons": [
         "trusted source weight 50",
-        "published in the last 30 days",
+        "published in the last 24h",
         "official source",
-        "matched tags: research, product"
+        "matched tags: agents",
+        "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "same theme appeared across multiple sources",
+        "thin feed summary"
       ],
-      "content_hash": "bf9e3f799869dcac"
+      "content_hash": "ce96255d13cbe207"
     },
     {
       "id": "6874e6a9bd6256dd",
@@ -3004,7 +2977,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3031,7 +3004,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -3047,6 +3020,34 @@
         "outside preferred AI focus"
       ],
       "content_hash": "ed4ddefd84c53ecb"
+    },
+    {
+      "id": "d38f7a49e86de9da",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-11T00:00:00Z",
+      "fetched_at": "2026-06-17T22:04:45Z",
+      "language": "en",
+      "tags": [
+        "regulation"
+      ],
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "raw_excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "score": 73,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 7 days",
+        "official source",
+        "matched tags: regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "71bc77978591fad5"
     },
     {
       "id": "2bbd640798bc11c5",
@@ -3085,7 +3086,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety"
@@ -3235,7 +3236,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-19T10:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "safety"
@@ -3348,7 +3349,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -3405,7 +3406,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -3430,7 +3431,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -3455,7 +3456,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -3480,7 +3481,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -3505,7 +3506,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-16T19:55:52Z",
-      "fetched_at": "2026-06-17T18:17:20Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "model"
@@ -3515,7 +3516,7 @@
       "score": 67,
       "score_reasons": [
         "trusted source weight 43",
-        "published in the last 24h",
+        "published in the last 7 days",
         "github_release source",
         "matched tags: model"
       ],
@@ -3537,7 +3538,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T03:05:08Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "model"
@@ -3600,7 +3601,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -3807,33 +3808,6 @@
       "content_hash": "c3c7ebf37c9c6c14"
     },
     {
-      "id": "e51fa07b720fb1d3",
-      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-      "url": "https://huggingface.co/blog/torch-mlp-fusion",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 7 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "54766a8b735761f9"
-    },
-    {
       "id": "39bd80a5f481f9f8",
       "title": "v2.43.0",
       "url": "https://github.com/openai/openai-python/releases/tag/v2.43.0",
@@ -3841,7 +3815,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -3964,7 +3938,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "model"
@@ -4028,7 +4002,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4055,7 +4029,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4082,7 +4056,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4109,7 +4083,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4136,7 +4110,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4163,7 +4137,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4190,7 +4164,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4217,7 +4191,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4244,7 +4218,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4297,6 +4271,33 @@
       "content_hash": "f51051d3d8ca72f2"
     },
     {
+      "id": "e51fa07b720fb1d3",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-06-11T00:00:00Z",
+      "fetched_at": "2026-06-17T22:04:45Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 57,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 7 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "54766a8b735761f9"
+    },
+    {
       "id": "1ce2aa9bb46fb039",
       "title": "Introducing the OpenAI Economic Research Exchange",
       "url": "https://openai.com/index/economic-research-exchange",
@@ -4304,7 +4305,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -4435,33 +4436,6 @@
       "content_hash": "190398d04fc9fcc3"
     },
     {
-      "id": "ed1c2193d6b80a8c",
-      "title": "Introducing the Ettin Reranker Family",
-      "url": "https://huggingface.co/blog/ettin-reranker",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 57,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "9664f0d04586faf2"
-    },
-    {
       "id": "51824cb6a706b4cc",
       "title": "v0.30.8-rc0",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.30.8-rc0",
@@ -4469,7 +4443,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-12T00:21:46Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -4499,7 +4473,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -4526,7 +4500,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T18:36:50Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "server: context shift for context windows larger than 8k, add error w…",
@@ -4553,7 +4527,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-28T07:11:54Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -4582,7 +4556,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -4611,7 +4585,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -4640,7 +4614,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -4669,7 +4643,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -4725,7 +4699,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4785,7 +4759,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -4812,7 +4786,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T04:01:26Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
