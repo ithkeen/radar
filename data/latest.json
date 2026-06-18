@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "generated_at": "2026-06-18T11:50:53Z",
+  "generated_at": "2026-06-18T15:25:08Z",
   "display_window_days": 30,
   "retention_days": 365,
   "source_status": {
     "openai-news": {
       "name": "OpenAI News",
       "status": "live",
-      "latest_item_at": "2026-06-17T10:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
-      "item_count": 1009,
+      "latest_item_at": "2026-06-18T08:00:00Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "item_count": 1010,
       "error": null
     },
     "anthropic-news": {
       "name": "Anthropic News",
       "status": "error",
       "latest_item_at": null,
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "item_count": 0,
       "error": "HTTP Error 404: Not Found"
     },
@@ -24,23 +24,23 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "item_count": 20,
       "error": null
     },
     "huggingface-blog": {
       "name": "Hugging Face Blog",
       "status": "live",
-      "latest_item_at": "2026-06-17T15:26:44Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
-      "item_count": 800,
+      "latest_item_at": "2026-06-18T00:00:00Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "item_count": 802,
       "error": null
     },
     "microsoft-ai": {
       "name": "Microsoft AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-16T13:41:44Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "item_count": 10,
       "error": null
     },
@@ -48,7 +48,7 @@
       "name": "arXiv AI/ML/CL",
       "status": "live",
       "latest_item_at": "2026-06-17T17:59:56Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "item_count": 50,
       "error": null
     },
@@ -56,7 +56,7 @@
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T17:29:59Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "item_count": 10,
       "error": null
     },
@@ -64,7 +64,7 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T05:27:20Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "item_count": 10,
       "error": null
     },
@@ -72,7 +72,7 @@
       "name": "Ollama Releases",
       "status": "live",
       "latest_item_at": "2026-06-18T04:26:41Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "item_count": 10,
       "error": null
     },
@@ -80,12 +80,79 @@
       "name": "OpenAI Python Releases",
       "status": "live",
       "latest_item_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "item_count": 10,
       "error": null
     }
   },
   "items": [
+    {
+      "id": "edcdc2401b35c370",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-18T08:00:00Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "raw_excerpt": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "6fc7aa675b0cc77b"
+    },
+    {
+      "id": "432c23c0dd1c00f1",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-06-18T00:00:00Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "evaluation",
+        "research"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 24h",
+        "official source",
+        "matched tags: model, agents, evaluation, research",
+        "no feed summary"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "2feb1bba849f3d10"
+    },
     {
       "id": "030e6a0f583561ef",
       "title": "Learning User Simulators with Turing Rewards",
@@ -535,40 +602,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "927c138ded16830b"
-    },
-    {
-      "id": "4df8e51cae93fe19",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-01T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "research",
-        "product"
-      ],
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with Open...",
-      "raw_excerpt": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model, agents, research, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update, coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "8e2d7d19a84bc4da"
     },
     {
       "id": "0a4755cb1c877335",
@@ -1427,6 +1460,41 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "e1c22dcca3294e40"
+    },
+    {
+      "id": "4df8e51cae93fe19",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-01T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "research",
+        "product"
+      ],
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with Open...",
+      "raw_excerpt": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model, agents, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model update, coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "8e2d7d19a84bc4da"
     },
     {
       "id": "880638aa77e3a8ee",
@@ -2928,7 +2996,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2957,7 +3025,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -2986,7 +3054,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "safety",
@@ -3015,7 +3083,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "safety",
@@ -3077,7 +3145,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "safety",
@@ -3106,7 +3174,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-06-17T22:04:45Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3116,7 +3184,7 @@
       "score": 75,
       "score_reasons": [
         "trusted source weight 50",
-        "published in the last 24h",
+        "published in the last 7 days",
         "official source",
         "matched tags: agents",
         "no feed summary"
@@ -3137,7 +3205,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3289,33 +3357,6 @@
       "content_hash": "70fe4190acebbd0e"
     },
     {
-      "id": "4ca5042e690d6cce",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 74,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 24h",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "ce3bc4e01b924551"
-    },
-    {
       "id": "b5689f5df3fd2b95",
       "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
@@ -3323,7 +3364,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -3348,7 +3389,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -3405,7 +3446,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "safety"
@@ -3548,6 +3589,33 @@
       "content_hash": "ecee04c436facff9"
     },
     {
+      "id": "26cac67090219df5",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-06-18T00:00:00Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 72,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 24h",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "b8d7c0716e55f39a"
+    },
+    {
       "id": "ece735789829f450",
       "title": "MolmoMotion: Language-guided 3D motion forecasting",
       "url": "https://huggingface.co/blog/allenai/molmomotion",
@@ -3555,7 +3623,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:26:44Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3613,7 +3681,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -3638,7 +3706,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "agents",
@@ -3670,7 +3738,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -3695,7 +3763,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -3720,7 +3788,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -3745,7 +3813,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -3763,6 +3831,33 @@
       "content_hash": "0950ab1fb1413732"
     },
     {
+      "id": "4ca5042e690d6cce",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-06-17T15:00:00Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 67,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 7 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "ce3bc4e01b924551"
+    },
+    {
       "id": "49b7c11304c81c74",
       "title": "v0.30.9-rc2",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9-rc2",
@@ -3770,7 +3865,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-16T19:55:52Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model"
@@ -3802,7 +3897,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T03:05:08Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model"
@@ -3834,7 +3929,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3865,7 +3960,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -3891,7 +3986,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3922,7 +4017,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3953,7 +4048,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3984,7 +4079,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4079,7 +4174,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4106,7 +4201,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -4167,7 +4262,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -4229,7 +4324,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model"
@@ -4293,7 +4388,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4320,7 +4415,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4347,7 +4442,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4374,7 +4469,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4401,7 +4496,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4428,7 +4523,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4455,7 +4550,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4482,7 +4577,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4509,7 +4604,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4569,7 +4664,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4596,7 +4691,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -4626,7 +4721,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4653,7 +4748,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4680,7 +4775,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4707,7 +4802,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4734,7 +4829,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-12T00:21:46Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -4764,7 +4859,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -4791,7 +4886,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T18:36:50Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "server: context shift for context windows larger than 8k, add error w…",
@@ -4818,7 +4913,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-28T07:11:54Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -4847,7 +4942,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -4876,7 +4971,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -4905,7 +5000,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "product"
@@ -4934,7 +5029,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -4990,7 +5085,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5018,7 +5113,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -5050,7 +5145,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -5077,7 +5172,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -5104,7 +5199,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:24:41Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5138,7 +5233,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:39:40Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5173,7 +5268,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:13:42Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5207,7 +5302,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:57:43Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5241,7 +5336,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:37:35Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "agents",
@@ -5268,40 +5363,6 @@
       "content_hash": "e131e5f72471b0cd"
     },
     {
-      "id": "b4d95056493afb9d",
-      "title": "Language Models as Interfaces, Not Oracles: A Hybrid LLM-ML System for Pediatric Appendicitis",
-      "url": "https://arxiv.org/abs/2606.19183v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T15:22:51Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "safety",
-        "product",
-        "research"
-      ],
-      "summary": "Large language models (LLMs) can make clinical decision support more accessible by interpreting free-text documentation, but their direct use as diagnostic engines is limited by sensitivity to prompts, information order, and plausible but...",
-      "raw_excerpt": "Large language models (LLMs) can make clinical decision support more accessible by interpreting free-text documentation, but their direct use as diagnostic engines is limited by sensitivity to prompts, information order, and plausible but incorrect outputs. Structured machine-learning models offer more stable risk prediction, yet they require tabular inputs that are difficult to integrate with narrative clinical workflows. We present ClaMPAPP (Clinical Language-assisted Machine-learning Pipeline for Appendicitis), a hybrid system that uses an LLM as an interface rather than as the final decis...",
-      "score": 34,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, agents, safety, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "418d641a2514e758"
-    },
-    {
       "id": "94756c4c65579c94",
       "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
       "url": "https://arxiv.org/abs/2606.19341v1",
@@ -5309,7 +5370,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:59:56Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5342,7 +5403,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:51:50Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5375,7 +5436,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:48:27Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -5408,7 +5469,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:29:19Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5441,7 +5502,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:26:59Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5467,105 +5528,6 @@
       "content_hash": "d63dd2624c84020c"
     },
     {
-      "id": "8176fca5ef36fbb2",
-      "title": "When AUC Misleads: Polarization-Aware Evaluation of Deepfake Detectors under Domain Shift",
-      "url": "https://arxiv.org/abs/2606.19184v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T15:24:06Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "evaluation",
-        "research",
-        "product"
-      ],
-      "summary": "Recent advances in generative AI, such as diffusion models and face-swapping tools, have enabled the creation of highly realistic deepfakes, leading to real-world harms including financial fraud and non-consensual explicit content. In resp...",
-      "raw_excerpt": "Recent advances in generative AI, such as diffusion models and face-swapping tools, have enabled the creation of highly realistic deepfakes, leading to real-world harms including financial fraud and non-consensual explicit content. In response, deepfake detection has become an active research area, with recent methods increasingly focusing on improving generalization to unseen manipulations. This is typically evaluated using the Area Under the ROC Curve (AUC) measured separately across multiple datasets. However, such an evaluation fails to reflect real-world scenarios where detectors face a...",
-      "score": 32,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, evaluation, research, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "75d863a8887f0976"
-    },
-    {
-      "id": "ff8d9f86289ea89f",
-      "title": "Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight",
-      "url": "https://arxiv.org/abs/2606.19176v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T15:18:11Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
-      "language": "en",
-      "tags": [
-        "multimodal",
-        "evaluation",
-        "research",
-        "safety"
-      ],
-      "summary": "Autonomous UAV operations on ships require reliable vision-based relative pose estimation, yet at-sea validation is costly, weather-dependent, and risky. This paper presents a hardware-validated vision-in-the-loop framework that enables fu...",
-      "raw_excerpt": "Autonomous UAV operations on ships require reliable vision-based relative pose estimation, yet at-sea validation is costly, weather-dependent, and risky. This paper presents a hardware-validated vision-in-the-loop framework that enables fully autonomous indoor flight while emulating photorealistic maritime environments. Rendered maritime views are processed onboard by a deep transformer-based monocular pose estimator. Delayed vision measurements are fused with high-rate IMU data using a delayed Kalman filter to provide consistent state estimates for geometric control. The system captures crit...",
-      "score": 32,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: multimodal, evaluation, research, safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "04a507a6999165bb"
-    },
-    {
-      "id": "da07357ad651f0e8",
-      "title": "User as Engram: Internalizing Per-User Memory as Local Parametric Edits",
-      "url": "https://arxiv.org/abs/2606.19172v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T15:15:19Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "open-source",
-        "regulation",
-        "research"
-      ],
-      "summary": "Personal memory in a language model is two problems: content and reasoning skill. The brain keeps the two apart (a sparse, local engram in the hippocampus for each episode, a slow neocortex for the shared skills that interpret it), so a ne...",
-      "raw_excerpt": "Personal memory in a language model is two problems: content and reasoning skill. The brain keeps the two apart (a sparse, local engram in the hippocampus for each episode, a slow neocortex for the shared skills that interpret it), so a new fact need not overwrite everything else. Most personalization today keeps a user's facts outside the weights, in a natural-language memory file or a retrieval index. When facts are written into the model instead, the standard recipe is the per-user LoRA adapter, which does the opposite of the brain, folding content and skill into one global weight delta. W...",
-      "score": 32,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, open-source, regulation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "48a7a0542e0c1d66"
-    },
-    {
       "id": "05d5275346ccac48",
       "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
       "url": "https://arxiv.org/abs/2606.19329v1",
@@ -5573,7 +5535,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:54:52Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "open-source",
@@ -5605,7 +5567,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:54:32Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5637,7 +5599,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:54:04Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5669,7 +5631,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:40:55Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5701,7 +5663,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:31:06Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5733,7 +5695,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:40:32Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5765,7 +5727,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:34:02Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5797,7 +5759,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:30:16Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5829,7 +5791,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:59:21Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -5854,28 +5816,30 @@
       "content_hash": "b90dd4581a54aac2"
     },
     {
-      "id": "14692a73f046db23",
-      "title": "Beyond Safe Data: Pretraining-Stage Alignment with Regular Safety Reflection",
-      "url": "https://arxiv.org/abs/2606.19168v1",
+      "id": "b4d95056493afb9d",
+      "title": "Language Models as Interfaces, Not Oracles: A Hybrid LLM-ML System for Pediatric Appendicitis",
+      "url": "https://arxiv.org/abs/2606.19183v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-17T15:11:43Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "published_at": "2026-06-17T15:22:51Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
+        "agents",
         "safety",
+        "product",
         "research"
       ],
-      "summary": "To achieve deeper safety alignment for large language models (LLMs), recent efforts have studied how to push safety interventions earlier into the pretraining stage, primarily by filtering unsafe data or rewriting it into safer forms. We a...",
-      "raw_excerpt": "To achieve deeper safety alignment for large language models (LLMs), recent efforts have studied how to push safety interventions earlier into the pretraining stage, primarily by filtering unsafe data or rewriting it into safer forms. We argue that pretraining-stage alignment should go beyond making the data safe: LLMs may compose seemingly benign knowledge and capabilities into unsafe behaviors. To this end, we propose Safety Reflection Pretraining, a pretraining-stage alignment method which regularly inserts short safety reflections into pretraining corpora to integrate self-monitoring dire...",
-      "score": 29,
+      "summary": "Large language models (LLMs) can make clinical decision support more accessible by interpreting free-text documentation, but their direct use as diagnostic engines is limited by sensitivity to prompts, information order, and plausible but...",
+      "raw_excerpt": "Large language models (LLMs) can make clinical decision support more accessible by interpreting free-text documentation, but their direct use as diagnostic engines is limited by sensitivity to prompts, information order, and plausible but incorrect outputs. Structured machine-learning models offer more stable risk prediction, yet they require tabular inputs that are difficult to integrate with narrative clinical workflows. We present ClaMPAPP (Clinical Language-assisted Machine-learning Pipeline for Appendicitis), a hybrid system that uses an LLM as an interface rather than as the final decis...",
+      "score": 27,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
-        "matched tags: model, safety, research"
+        "matched tags: model, agents, safety, product"
       ],
       "tier": "raw",
       "quality_reasons": [
@@ -5883,7 +5847,7 @@
         "demoted broad arXiv paper",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "c2124662a952ce7d"
+      "content_hash": "418d641a2514e758"
     },
     {
       "id": "962cb1f1ca2535d8",
@@ -6133,7 +6097,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:38:32Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -6164,7 +6128,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:26:22Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -6195,7 +6159,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:47:57Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -6219,27 +6183,29 @@
       "content_hash": "d50e21bd0ed1875d"
     },
     {
-      "id": "a58cfc57ea137557",
-      "title": "Dango: A Strictly L1-Only Large Language Model for Studying Second Language Acquisition",
-      "url": "https://arxiv.org/abs/2606.19170v1",
+      "id": "8176fca5ef36fbb2",
+      "title": "When AUC Misleads: Polarization-Aware Evaluation of Deepfake Detectors under Domain Shift",
+      "url": "https://arxiv.org/abs/2606.19184v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-17T15:13:19Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "published_at": "2026-06-17T15:24:06Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
-        "research"
+        "evaluation",
+        "research",
+        "product"
       ],
-      "summary": "We introduce Dango, a 1.8B-parameter large language model designed for controlled studies of L1-to-L2 (Japanese-to-English) transfer in second language acquisition (SLA). While previous studies have explored SLA in language models, they ha...",
-      "raw_excerpt": "We introduce Dango, a 1.8B-parameter large language model designed for controlled studies of L1-to-L2 (Japanese-to-English) transfer in second language acquisition (SLA). While previous studies have explored SLA in language models, they have predominantly relied on smaller or non-decoder models, limiting their ability to generate open-ended text and reducing their suitability as practical L2 simulators. We identify a key challenge when scaling models to this size: L2 contamination within the \"monolingual\" pretraining corpus used for L1 acquisition. To address this, we propose a filtering meth...",
-      "score": 26,
+      "summary": "Recent advances in generative AI, such as diffusion models and face-swapping tools, have enabled the creation of highly realistic deepfakes, leading to real-world harms including financial fraud and non-consensual explicit content. In resp...",
+      "raw_excerpt": "Recent advances in generative AI, such as diffusion models and face-swapping tools, have enabled the creation of highly realistic deepfakes, leading to real-world harms including financial fraud and non-consensual explicit content. In response, deepfake detection has become an active research area, with recent methods increasingly focusing on improving generalization to unseen manipulations. This is typically evaluated using the Area Under the ROC Curve (AUC) measured separately across multiple datasets. However, such an evaluation fails to reflect real-world scenarios where detectors face a...",
+      "score": 25,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
-        "matched tags: model, research"
+        "matched tags: model, evaluation, research, product"
       ],
       "tier": "raw",
       "quality_reasons": [
@@ -6247,30 +6213,32 @@
         "demoted broad arXiv paper",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "92d6c4d3c39e6dfe"
+      "content_hash": "75d863a8887f0976"
     },
     {
-      "id": "f57a0cc0ced0c277",
-      "title": "Essential Subspace Merging for Multi-Task Learning",
-      "url": "https://arxiv.org/abs/2606.19164v1",
+      "id": "ff8d9f86289ea89f",
+      "title": "Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight",
+      "url": "https://arxiv.org/abs/2606.19176v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-17T15:07:11Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "published_at": "2026-06-17T15:18:11Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
-        "model",
-        "research"
+        "multimodal",
+        "evaluation",
+        "research",
+        "safety"
       ],
-      "summary": "Model merging aims to enable multi-task learning by integrating the capabilities of multiple models fine-tuned from the same pre-trained checkpoint into a single model. Its core challenge is inter-task interference among task-specific para...",
-      "raw_excerpt": "Model merging aims to enable multi-task learning by integrating the capabilities of multiple models fine-tuned from the same pre-trained checkpoint into a single model. Its core challenge is inter-task interference among task-specific parameter updates. In this paper, we analyze the output shifts induced by task updates and observe that their energy is concentrated in a small number of principal directions. We call the subspace spanned by these directions the essential subspace. In contrast, most remaining directions carry little task-relevant energy, but their accumulation across multiple ta...",
-      "score": 26,
+      "summary": "Autonomous UAV operations on ships require reliable vision-based relative pose estimation, yet at-sea validation is costly, weather-dependent, and risky. This paper presents a hardware-validated vision-in-the-loop framework that enables fu...",
+      "raw_excerpt": "Autonomous UAV operations on ships require reliable vision-based relative pose estimation, yet at-sea validation is costly, weather-dependent, and risky. This paper presents a hardware-validated vision-in-the-loop framework that enables fully autonomous indoor flight while emulating photorealistic maritime environments. Rendered maritime views are processed onboard by a deep transformer-based monocular pose estimator. Delayed vision measurements are fused with high-rate IMU data using a delayed Kalman filter to provide consistent state estimates for geometric control. The system captures crit...",
+      "score": 25,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
-        "matched tags: model, research"
+        "matched tags: multimodal, evaluation, research, safety"
       ],
       "tier": "raw",
       "quality_reasons": [
@@ -6278,7 +6246,40 @@
         "demoted broad arXiv paper",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "e6fe7473db75e346"
+      "content_hash": "04a507a6999165bb"
+    },
+    {
+      "id": "da07357ad651f0e8",
+      "title": "User as Engram: Internalizing Per-User Memory as Local Parametric Edits",
+      "url": "https://arxiv.org/abs/2606.19172v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T15:15:19Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "open-source",
+        "regulation",
+        "research"
+      ],
+      "summary": "Personal memory in a language model is two problems: content and reasoning skill. The brain keeps the two apart (a sparse, local engram in the hippocampus for each episode, a slow neocortex for the shared skills that interpret it), so a ne...",
+      "raw_excerpt": "Personal memory in a language model is two problems: content and reasoning skill. The brain keeps the two apart (a sparse, local engram in the hippocampus for each episode, a slow neocortex for the shared skills that interpret it), so a new fact need not overwrite everything else. Most personalization today keeps a user's facts outside the weights, in a natural-language memory file or a retrieval index. When facts are written into the model instead, the standard recipe is the per-user LoRA adapter, which does the opposite of the brain, folding content and skill into one global weight delta. W...",
+      "score": 25,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, open-source, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "48a7a0542e0c1d66"
     },
     {
       "id": "22229eacebcf7e22",
@@ -6444,6 +6445,38 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "b4708f589be26681"
+    },
+    {
+      "id": "14692a73f046db23",
+      "title": "Beyond Safe Data: Pretraining-Stage Alignment with Regular Safety Reflection",
+      "url": "https://arxiv.org/abs/2606.19168v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T15:11:43Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety",
+        "research"
+      ],
+      "summary": "To achieve deeper safety alignment for large language models (LLMs), recent efforts have studied how to push safety interventions earlier into the pretraining stage, primarily by filtering unsafe data or rewriting it into safer forms. We a...",
+      "raw_excerpt": "To achieve deeper safety alignment for large language models (LLMs), recent efforts have studied how to push safety interventions earlier into the pretraining stage, primarily by filtering unsafe data or rewriting it into safer forms. We argue that pretraining-stage alignment should go beyond making the data safe: LLMs may compose seemingly benign knowledge and capabilities into unsafe behaviors. To this end, we propose Safety Reflection Pretraining, a pretraining-stage alignment method which regularly inserts short safety reflections into pretraining corpora to integrate self-monitoring dire...",
+      "score": 22,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, safety, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "c2124662a952ce7d"
     },
     {
       "id": "28e82c25adc607bc",
@@ -6645,7 +6678,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:58:22Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "regulation",
@@ -6675,7 +6708,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:36:17Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "product",
@@ -6698,34 +6731,66 @@
       "content_hash": "350cf1654d82ef04"
     },
     {
-      "id": "a44c2f633cfd937b",
-      "title": "AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network",
-      "url": "https://arxiv.org/abs/2606.19185v1",
+      "id": "a58cfc57ea137557",
+      "title": "Dango: A Strictly L1-Only Large Language Model for Studying Second Language Acquisition",
+      "url": "https://arxiv.org/abs/2606.19170v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-17T15:24:37Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "published_at": "2026-06-17T15:13:19Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
-        "product",
+        "model",
         "research"
       ],
-      "summary": "The Traveling Salesman Problem (TSP) is a cornerstone of combinatorial optimization and arises in many practical scenarios. Although graph-based learning approaches have been explored for TSP, the question of how to exploit graph structure...",
-      "raw_excerpt": "The Traveling Salesman Problem (TSP) is a cornerstone of combinatorial optimization and arises in many practical scenarios. Although graph-based learning approaches have been explored for TSP, the question of how to exploit graph structure more effectively remains open. We present the Anisotropic Graph Diffusion Network (AGDN), a new Graph Neural Network framework designed to solve TSP. Our method tackles two central difficulties: (1) the lack of informative topological prior in fully connected TSP graphs, and (2) losing connected nodes in the optimal solution after the commonly used graph sp...",
+      "summary": "We introduce Dango, a 1.8B-parameter large language model designed for controlled studies of L1-to-L2 (Japanese-to-English) transfer in second language acquisition (SLA). While previous studies have explored SLA in language models, they ha...",
+      "raw_excerpt": "We introduce Dango, a 1.8B-parameter large language model designed for controlled studies of L1-to-L2 (Japanese-to-English) transfer in second language acquisition (SLA). While previous studies have explored SLA in language models, they have predominantly relied on smaller or non-decoder models, limiting their ability to generate open-ended text and reducing their suitability as practical L2 simulators. We identify a key challenge when scaling models to this size: L2 contamination within the \"monolingual\" pretraining corpus used for L1 acquisition. To address this, we propose a filtering meth...",
       "score": 19,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
-        "matched tags: product, research"
+        "matched tags: model, research"
       ],
       "tier": "raw",
       "quality_reasons": [
         "paper outside AI channel focus",
-        "demoted broad arXiv paper"
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "ab81d6fcb1c59035"
+      "content_hash": "92d6c4d3c39e6dfe"
+    },
+    {
+      "id": "f57a0cc0ced0c277",
+      "title": "Essential Subspace Merging for Multi-Task Learning",
+      "url": "https://arxiv.org/abs/2606.19164v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T15:07:11Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Model merging aims to enable multi-task learning by integrating the capabilities of multiple models fine-tuned from the same pre-trained checkpoint into a single model. Its core challenge is inter-task interference among task-specific para...",
+      "raw_excerpt": "Model merging aims to enable multi-task learning by integrating the capabilities of multiple models fine-tuned from the same pre-trained checkpoint into a single model. Its core challenge is inter-task interference among task-specific parameter updates. In this paper, we analyze the output shifts induced by task updates and observe that their energy is concentrated in a small number of principal directions. We call the subspace spanned by these directions the essential subspace. In contrast, most remaining directions carry little task-relevant energy, but their accumulation across multiple ta...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "e6fe7473db75e346"
     },
     {
       "id": "23f77663257fe50d",
@@ -6890,7 +6955,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:26:51Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -6919,7 +6984,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:04:41Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -6948,7 +7013,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:56:31Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -6977,7 +7042,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:27:28Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -7006,7 +7071,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:25:21Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -7035,7 +7100,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T16:06:41Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "research"
@@ -7055,35 +7120,6 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "5d56151088ceff02"
-    },
-    {
-      "id": "ca616fab37d725ce",
-      "title": "Compute Efficiency and Serial Runtime Tradeoffs for Stochastic Momentum Methods",
-      "url": "https://arxiv.org/abs/2606.19179v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T15:19:20Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
-      "language": "en",
-      "tags": [
-        "research"
-      ],
-      "summary": "Stochastic momentum methods such as heavy ball (HB), Nesterov momentum, and variants of Accelerated SGD (ASGD) [Kidambi et al., 2018] are widely used in modern training, but their stochastic benefits depend on two distinct quantities: seri...",
-      "raw_excerpt": "Stochastic momentum methods such as heavy ball (HB), Nesterov momentum, and variants of Accelerated SGD (ASGD) [Kidambi et al., 2018] are widely used in modern training, but their stochastic benefits depend on two distinct quantities: serial runtime, the number of iterations needed to reach a target accuracy, and compute efficiency (CE), the inverse total gradient-query or FLOP cost. Larger batches reduce serial runtime without hurting CE only when the contraction gap grows linearly with batch size. We study stochastic HB and ASGD for consistent linear regression with Gaussian covariates and...",
-      "score": 16,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper"
-      ],
-      "content_hash": "b583ebdc6e0182c3"
     },
     {
       "id": "6ee4abee04184ae9",
@@ -7146,6 +7182,36 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "40e6789cd2aa5b9a"
+    },
+    {
+      "id": "a44c2f633cfd937b",
+      "title": "AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network",
+      "url": "https://arxiv.org/abs/2606.19185v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T15:24:37Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "language": "en",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "summary": "The Traveling Salesman Problem (TSP) is a cornerstone of combinatorial optimization and arises in many practical scenarios. Although graph-based learning approaches have been explored for TSP, the question of how to exploit graph structure...",
+      "raw_excerpt": "The Traveling Salesman Problem (TSP) is a cornerstone of combinatorial optimization and arises in many practical scenarios. Although graph-based learning approaches have been explored for TSP, the question of how to exploit graph structure more effectively remains open. We present the Anisotropic Graph Diffusion Network (AGDN), a new Graph Neural Network framework designed to solve TSP. Our method tackles two central difficulties: (1) the lack of informative topological prior in fully connected TSP graphs, and (2) losing connected nodes in the optimal solution after the commonly used graph sp...",
+      "score": 12,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "ab81d6fcb1c59035"
     },
     {
       "id": "00960bfd1625e376",
@@ -7245,7 +7311,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T17:13:27Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "model",
@@ -7270,6 +7336,35 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "5ac946cf40af689f"
+    },
+    {
+      "id": "ca616fab37d725ce",
+      "title": "Compute Efficiency and Serial Runtime Tradeoffs for Stochastic Momentum Methods",
+      "url": "https://arxiv.org/abs/2606.19179v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T15:19:20Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
+      "language": "en",
+      "tags": [
+        "research"
+      ],
+      "summary": "Stochastic momentum methods such as heavy ball (HB), Nesterov momentum, and variants of Accelerated SGD (ASGD) [Kidambi et al., 2018] are widely used in modern training, but their stochastic benefits depend on two distinct quantities: seri...",
+      "raw_excerpt": "Stochastic momentum methods such as heavy ball (HB), Nesterov momentum, and variants of Accelerated SGD (ASGD) [Kidambi et al., 2018] are widely used in modern training, but their stochastic benefits depend on two distinct quantities: serial runtime, the number of iterations needed to reach a target accuracy, and compute efficiency (CE), the inverse total gradient-query or FLOP cost. Larger batches reduce serial runtime without hurting CE only when the contraction gap grows linearly with batch size. We study stochastic HB and ASGD for consistent linear regression with Gaussian covariates and...",
+      "score": 9,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "b583ebdc6e0182c3"
     },
     {
       "id": "fd8eff490160ad0e",
@@ -7424,7 +7519,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-17T15:27:15Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
+      "fetched_at": "2026-06-18T15:25:08Z",
       "language": "en",
       "tags": [
         "research"
