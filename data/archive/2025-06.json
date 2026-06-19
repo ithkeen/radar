@@ -137,7 +137,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-06-26T00:00:00Z",
-      "fetched_at": "2026-06-18T22:09:08Z",
+      "fetched_at": "2026-06-19T04:20:48Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -164,7 +164,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-06-23T00:00:00Z",
-      "fetched_at": "2026-06-18T22:09:08Z",
+      "fetched_at": "2026-06-19T04:20:48Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -182,33 +182,6 @@
         "thin feed summary"
       ],
       "content_hash": "296bf454a289cdb9"
-    },
-    {
-      "id": "8a75c2f881c91ce6",
-      "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
-      "url": "https://huggingface.co/blog/flux-qlora",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-06-19T00:00:00Z",
-      "fetched_at": "2026-06-18T22:09:08Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 49,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "2eb890ec2a271242"
     }
   ]
 }
