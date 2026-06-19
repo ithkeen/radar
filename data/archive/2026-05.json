@@ -1517,7 +1517,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "safety",
@@ -1569,38 +1569,6 @@
         "thin feed summary"
       ],
       "content_hash": "50e978fc793c7ad2"
-    },
-    {
-      "id": "ea0c087279f61b70",
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-20T19:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 75,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "d31b82f84e1d953e"
     },
     {
       "id": "48591fe0759e0b6e",
@@ -1853,7 +1821,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -1878,7 +1846,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -1999,7 +1967,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2021,6 +1989,38 @@
         "thin feed summary"
       ],
       "content_hash": "1a2999ca1fff2ccd"
+    },
+    {
+      "id": "ea0c087279f61b70",
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-20T19:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 67,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "d31b82f84e1d953e"
     },
     {
       "id": "1799dd08952fa200",
@@ -2158,7 +2158,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-19T10:45:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2247,7 +2247,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2275,7 +2275,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-04T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "inference"
@@ -2366,7 +2366,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -2391,7 +2391,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
@@ -2416,7 +2416,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2443,7 +2443,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2470,7 +2470,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2490,33 +2490,6 @@
       "content_hash": "2ca0f0f14a90a299"
     },
     {
-      "id": "a47a46ac37978ebf",
-      "title": "We’re announcing new community investments in Missouri.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "06066519794674f7"
-    },
-    {
       "id": "9bcec59458e97e4d",
       "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
@@ -2524,7 +2497,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -2555,7 +2528,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2582,7 +2555,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2609,7 +2582,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2636,7 +2609,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-28T07:11:54Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "product"
@@ -2658,6 +2631,33 @@
       "content_hash": "10ca002e37db9e91"
     },
     {
+      "id": "a47a46ac37978ebf",
+      "title": "We’re announcing new community investments in Missouri.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-20T20:40:00Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 51,
+      "score_reasons": [
+        "trusted source weight 52",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "06066519794674f7"
+    },
+    {
       "id": "7ee66273fd1d97ed",
       "title": "A new experiment brings better group meetings to Google Beam",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings",
@@ -2665,7 +2665,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2692,7 +2692,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2719,7 +2719,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2746,7 +2746,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2773,7 +2773,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2800,7 +2800,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-18T15:12:46Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2827,7 +2827,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T18:55:01Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2854,7 +2854,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T00:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2881,7 +2881,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-06T21:37:58Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -2941,7 +2941,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
@@ -2967,7 +2967,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-15T22:30:20Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "product"
@@ -2996,7 +2996,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-07T17:33:02Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [
         "product"
@@ -3025,7 +3025,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-19T21:11:18Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
