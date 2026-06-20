@@ -20,7 +20,7 @@
       ],
       "summary": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conv...",
       "raw_excerpt": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conversations—without scripts or hold times.",
-      "score": 100,
+      "score": 99,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -31,8 +31,7 @@
       "quality_reasons": [
         "matches AI channel focus: model update",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "12e6adffa15def0d"
     },
@@ -53,7 +52,7 @@
       ],
       "summary": "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing...",
       "raw_excerpt": "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing on high-impact customer interactions.",
-      "score": 98,
+      "score": 91,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -63,8 +62,7 @@
       "tier": "must_read",
       "quality_reasons": [
         "matches AI channel focus: agent practice, builder opinion",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "edb2f5ba1f311e79"
     },
@@ -112,7 +110,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 65,
+      "score": 58,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -124,7 +122,6 @@
       "quality_reasons": [
         "outside preferred AI focus",
         "official model or product signal",
-        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "e61e6810504a3c00"
@@ -137,7 +134,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-06-26T00:00:00Z",
-      "fetched_at": "2026-06-20T17:26:46Z",
+      "fetched_at": "2026-06-20T21:18:53Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -164,7 +161,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-06-23T00:00:00Z",
-      "fetched_at": "2026-06-20T17:26:46Z",
+      "fetched_at": "2026-06-20T21:18:53Z",
       "language": "en",
       "tags": [],
       "summary": "",
