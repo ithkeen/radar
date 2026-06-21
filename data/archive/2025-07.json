@@ -499,7 +499,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
@@ -524,7 +524,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-22T10:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
@@ -549,7 +549,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-21T10:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
@@ -574,7 +574,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-21T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "I’ve always considered myself a pragmatic technologist—someone who loves technology not for its own sake, but for the direct impact it can have on people’s lives. That’s what makes this job so exciting, since I believe AI will unlock more...",
@@ -599,7 +599,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
@@ -624,7 +624,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-11T09:30:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.",
@@ -649,7 +649,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "model",
@@ -681,7 +681,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-10T12:54:19Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "model",
@@ -713,7 +713,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "model",
@@ -745,7 +745,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-21T18:01:30Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "model"
@@ -776,7 +776,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "model"
@@ -807,7 +807,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "model"
@@ -838,7 +838,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "product"
@@ -869,7 +869,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-01T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "model"
@@ -900,7 +900,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of loca...",
@@ -926,7 +926,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-31T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "agents"
@@ -956,7 +956,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "inference"
@@ -986,7 +986,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1016,7 +1016,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-10T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1046,7 +1046,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1076,7 +1076,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-29T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1103,7 +1103,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1130,7 +1130,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1157,7 +1157,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-18T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1184,7 +1184,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-16T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1211,7 +1211,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-15T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1238,7 +1238,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1265,7 +1265,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1292,7 +1292,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-22T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1321,7 +1321,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-21T04:15:41Z",
+      "fetched_at": "2026-06-21T11:16:46Z",
       "language": "en",
       "tags": [
         "agents"
