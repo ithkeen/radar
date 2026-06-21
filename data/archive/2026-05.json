@@ -68,6 +68,37 @@
       "content_hash": "def5d997f03832d2"
     },
     {
+      "id": "fabc6ef2e8763973",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-22T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent",
+        "product"
+      ],
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "raw_excerpt": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: coding-agent, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "deeaa0f11af27862"
+    },
+    {
       "id": "18f13afbd6901fb3",
       "title": "Work with Codex from anywhere",
       "url": "https://openai.com/index/work-with-codex-from-anywhere",
@@ -562,9 +593,9 @@
       "content_hash": "868b5d23b62156fb"
     },
     {
-      "id": "fabc6ef2e8763973",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
+      "id": "bc79b84ae366f6d4",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
@@ -572,26 +603,24 @@
       "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [
-        "coding-agent",
-        "product"
+        "agents",
+        "coding-agent"
       ],
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "raw_excerpt": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "raw_excerpt": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
       "score": 90,
       "score_reasons": [
         "trusted source weight 56",
         "published in the last 30 days",
         "official source",
-        "matched tags: coding-agent, product"
+        "matched tags: agents, coding-agent"
       ],
-      "tier": "raw",
+      "tier": "must_read",
       "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "demoted by source diversity quota"
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords"
       ],
-      "content_hash": "deeaa0f11af27862"
+      "content_hash": "21c6307708f4df8c"
     },
     {
       "id": "6f1209c6c0e07aba",
@@ -622,6 +651,38 @@
         "high-impact model, eval, or agent keywords"
       ],
       "content_hash": "651dd8033923efa7"
+    },
+    {
+      "id": "8c84b8422093501f",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-29T00:00:00Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "safety"
+      ],
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "raw_excerpt": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "score": 88,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model, evaluation, research, safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "582a1629520d3665"
     },
     {
       "id": "2aa7e747964e595a",
@@ -684,37 +745,6 @@
         "demoted by source diversity quota"
       ],
       "content_hash": "c6cfbec220f54c99"
-    },
-    {
-      "id": "bc79b84ae366f6d4",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-22T00:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "coding-agent"
-      ],
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "raw_excerpt": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "score": 88,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents, coding-agent"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "21c6307708f4df8c"
     },
     {
       "id": "57b488d288c29800",
@@ -983,37 +1013,6 @@
       "content_hash": "86c34def3daf4d93"
     },
     {
-      "id": "8c84b8422093501f",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "research",
-        "safety"
-      ],
-      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "raw_excerpt": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-      "score": 85,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model, research, safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "582a1629520d3665"
-    },
-    {
       "id": "53e1da4b0cbcd14f",
       "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
       "url": "https://openai.com/index/cisco",
@@ -1107,7 +1106,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "safety",
@@ -1320,7 +1319,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-28T15:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model",
@@ -1613,7 +1612,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -1638,7 +1637,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -1663,7 +1662,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T17:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model"
@@ -1754,7 +1753,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model",
@@ -1786,7 +1785,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model",
@@ -1798,7 +1797,7 @@
       "score": 66,
       "score_reasons": [
         "trusted source weight 52",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "matched tags: model, agents, product",
         "no feed summary"
@@ -1819,7 +1818,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-19T10:45:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1876,7 +1875,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T10:00:00Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -1904,7 +1903,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1932,7 +1931,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-04T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1992,7 +1991,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -2017,7 +2016,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
@@ -2042,7 +2041,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-11T23:18:26Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model",
@@ -2074,7 +2073,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2104,7 +2103,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T19:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model"
@@ -2114,7 +2113,7 @@
       "score": 60,
       "score_reasons": [
         "trusted source weight 52",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "matched tags: model",
         "no feed summary"
@@ -2135,7 +2134,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model"
@@ -2145,7 +2144,7 @@
       "score": 60,
       "score_reasons": [
         "trusted source weight 52",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "matched tags: model",
         "no feed summary"
@@ -2166,7 +2165,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model"
@@ -2176,7 +2175,7 @@
       "score": 60,
       "score_reasons": [
         "trusted source weight 52",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "matched tags: model",
         "no feed summary"
@@ -2197,7 +2196,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2224,7 +2223,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2251,7 +2250,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-27T21:20:37Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "open-source",
@@ -2282,7 +2281,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2309,7 +2308,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T18:38:09Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model"
@@ -2319,7 +2318,7 @@
       "score": 58,
       "score_reasons": [
         "trusted source weight 50",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "matched tags: model",
         "no feed summary"
@@ -2340,7 +2339,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-06T19:06:55Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model"
@@ -2371,7 +2370,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2398,7 +2397,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2425,7 +2424,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2445,37 +2444,6 @@
       "content_hash": "190398d04fc9fcc3"
     },
     {
-      "id": "43b7524e011327ab",
-      "title": "v2.38.0",
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.38.0",
-      "source_id": "github-openai-python",
-      "source_name": "OpenAI Python Releases",
-      "source_type": "github_release",
-      "published_at": "2026-05-21T21:23:25Z",
-      "fetched_at": "2026-06-19T17:58:15Z",
-      "language": "en",
-      "tags": [
-        "open-source",
-        "product"
-      ],
-      "summary": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custo...",
-      "raw_excerpt": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custom code sync ( 2638779 ) remove release automation trigger ( bd6eea5 ) trigger release automation ( f62d082 )",
-      "score": 57,
-      "score_reasons": [
-        "trusted source weight 42",
-        "published in the last 30 days",
-        "github_release source",
-        "matched tags: open-source, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update"
-      ],
-      "content_hash": "e7e5e5ab1fe05d05"
-    },
-    {
       "id": "41409da86d3e1896",
       "title": "v0.22.1rc0: [CI] Make Model Executor test hangs fail fast with a traceback (#43971)",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.1rc0",
@@ -2483,7 +2451,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-29T18:58:25Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model"
@@ -2513,7 +2481,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -2543,7 +2511,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-28T07:11:54Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "product"
@@ -2572,7 +2540,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2599,7 +2567,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2626,7 +2594,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2653,7 +2621,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2680,7 +2648,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2700,6 +2668,37 @@
       "content_hash": "c7363af4e2f65a50"
     },
     {
+      "id": "43b7524e011327ab",
+      "title": "v2.38.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.38.0",
+      "source_id": "github-openai-python",
+      "source_name": "OpenAI Python Releases",
+      "source_type": "github_release",
+      "published_at": "2026-05-21T21:23:25Z",
+      "fetched_at": "2026-06-19T17:58:15Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "product"
+      ],
+      "summary": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custo...",
+      "raw_excerpt": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custom code sync ( 2638779 ) remove release automation trigger ( bd6eea5 ) trigger release automation ( f62d082 )",
+      "score": 49,
+      "score_reasons": [
+        "trusted source weight 42",
+        "published in the last 30 days",
+        "github_release source",
+        "matched tags: open-source, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update"
+      ],
+      "content_hash": "e7e5e5ab1fe05d05"
+    },
+    {
       "id": "ed1c2193d6b80a8c",
       "title": "Introducing the Ettin Reranker Family",
       "url": "https://huggingface.co/blog/ettin-reranker",
@@ -2707,7 +2706,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2734,7 +2733,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-18T15:12:46Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2761,7 +2760,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T18:55:01Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2788,7 +2787,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2815,7 +2814,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-06T21:37:58Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -2875,7 +2874,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
@@ -2901,7 +2900,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-15T22:30:20Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "product"
@@ -2930,7 +2929,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-07T17:33:02Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "product"
@@ -2959,7 +2958,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",

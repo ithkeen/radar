@@ -670,6 +670,37 @@
       "content_hash": "da7f4d45cd1c0c0b"
     },
     {
+      "id": "454ed7542563ef9c",
+      "title": "Evaluating chain-of-thought monitorability",
+      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-18T12:00:00Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research"
+      ],
+      "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitorin...",
+      "raw_excerpt": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
+      "score": 77,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "db4ada406d5cdced"
+    },
+    {
       "id": "020ab4b4b78d46cf",
       "title": "Updating our Model Spec with teen protections",
       "url": "https://openai.com/index/updating-model-spec-with-teen-protections",
@@ -793,36 +824,6 @@
         "thin feed summary"
       ],
       "content_hash": "e5732ab16635b45b"
-    },
-    {
-      "id": "454ed7542563ef9c",
-      "title": "Evaluating chain-of-thought monitorability",
-      "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-18T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "research"
-      ],
-      "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitorin...",
-      "raw_excerpt": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
-      "score": 74,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "db4ada406d5cdced"
     },
     {
       "id": "1c04d5e205f83e52",
@@ -1097,7 +1098,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-16T09:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -1126,7 +1127,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-09T09:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "agents",
@@ -1155,7 +1156,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-01T05:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1183,7 +1184,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-16T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "Discover how leaders can build AI-ready organizations using clear strategy, training, governance, and accelerated innovation.",
@@ -1208,7 +1209,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-08T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
@@ -1233,7 +1234,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-03T08:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
@@ -1258,7 +1259,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-04T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model",
@@ -1290,7 +1291,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-17T13:22:18Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -1322,7 +1323,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-11T15:47:44Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model"
@@ -1353,7 +1354,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-01T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "model"
@@ -1384,7 +1385,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-15T16:01:04Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1414,7 +1415,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-04T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1444,7 +1445,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-18T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1471,7 +1472,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-17T06:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "product"
@@ -1501,7 +1502,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-09T06:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [
         "product"
@@ -1531,7 +1532,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-05T00:00:00Z",
-      "fetched_at": "2026-06-20T21:18:53Z",
+      "fetched_at": "2026-06-21T04:15:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
