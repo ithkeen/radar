@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "generated_at": "2026-06-22T13:35:42Z",
+  "generated_at": "2026-06-22T19:28:21Z",
   "display_window_days": 30,
   "retention_days": 365,
   "source_status": {
     "openai-news": {
       "name": "OpenAI News",
       "status": "live",
-      "latest_item_at": "2026-06-21T23:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
-      "item_count": 1013,
+      "latest_item_at": "2026-06-22T10:00:00Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
+      "item_count": 1016,
       "error": null
     },
     "anthropic-news": {
       "name": "Anthropic News",
       "status": "error",
       "latest_item_at": null,
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "item_count": 0,
       "error": "HTTP Error 404: Not Found"
     },
@@ -24,7 +24,7 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "item_count": 20,
       "error": null
     },
@@ -32,7 +32,7 @@
       "name": "Hugging Face Blog",
       "status": "live",
       "latest_item_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "item_count": 804,
       "error": null
     },
@@ -40,7 +40,7 @@
       "name": "Microsoft AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-16T13:41:44Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "item_count": 10,
       "error": null
     },
@@ -48,7 +48,7 @@
       "name": "arXiv AI/ML/CL",
       "status": "live",
       "latest_item_at": "2026-06-18T17:59:46Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "item_count": 50,
       "error": null
     },
@@ -56,7 +56,7 @@
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-19T13:25:50Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "item_count": 10,
       "error": null
     },
@@ -64,7 +64,7 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-15T05:27:20Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "item_count": 10,
       "error": null
     },
@@ -72,7 +72,7 @@
       "name": "Ollama Releases",
       "status": "live",
       "latest_item_at": "2026-06-18T04:26:41Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "item_count": 10,
       "error": null
     },
@@ -80,12 +80,72 @@
       "name": "OpenAI Python Releases",
       "status": "live",
       "latest_item_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "item_count": 10,
       "error": null
     }
   },
   "items": [
+    {
+      "id": "b63e5cb33bb0ec81",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-22T10:00:00Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "coding-agent"
+      ],
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "raw_excerpt": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: model, coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update, coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "cbb5ab77d53d32a7"
+    },
+    {
+      "id": "e2330fefe7e28987",
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-22T00:00:00Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "raw_excerpt": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "63d0fbec1b1edfe9"
+    },
     {
       "id": "4a975b89e4a0f0fb",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -432,67 +492,6 @@
       "content_hash": "6d3e829d8f4ea241"
     },
     {
-      "id": "032a72a6e2127c3b",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "url": "https://openai.com/index/wasmer",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-03T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "raw_excerpt": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "837c758bdf84bf23"
-    },
-    {
-      "id": "b040c6a9760044ce",
-      "title": "Codex for every role, tool, and workflow",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-02T09:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "raw_excerpt": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "db1a86429371a6ff"
-    },
-    {
       "id": "c000018ba1f03575",
       "title": "Predicting model behavior before release by simulating deployment",
       "url": "https://openai.com/index/deployment-simulation",
@@ -658,6 +657,69 @@
         "open-source AI infrastructure update"
       ],
       "content_hash": "685983bb594bfee5"
+    },
+    {
+      "id": "032a72a6e2127c3b",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-03T12:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "raw_excerpt": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "837c758bdf84bf23"
+    },
+    {
+      "id": "b040c6a9760044ce",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-02T09:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "raw_excerpt": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "db1a86429371a6ff"
     },
     {
       "id": "473eced4d0d7fe18",
@@ -853,38 +915,6 @@
       "content_hash": "868b5d23b62156fb"
     },
     {
-      "id": "0508a21ff80d603b",
-      "title": "Patch release v5.12.1",
-      "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.1",
-      "source_id": "github-transformers",
-      "source_name": "Hugging Face Transformers Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-15T17:29:59Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "open-source"
-      ],
-      "summary": "Patch release v5.12.1 Updated the lower bound for PEFT and a fix for auto tokenizer to properly resolve the mistral tokenizer (when mistral-common is installed). This is similar to v.5.10.3 minus the fixes that were already included in the...",
-      "raw_excerpt": "Patch release v5.12.1 Updated the lower bound for PEFT and a fix for auto tokenizer to properly resolve the mistral tokenizer (when mistral-common is installed). This is similar to v.5.10.3 minus the fixes that were already included in the main release - vLLM will first target 5.10.3 🤗 Fix peft lower bound #46605 by @hmellor ( #46605 ) mistral common backend fix #46667 by @itazap ( #46667 ) Full Changelog : v5.12.0...v5.12.1",
-      "score": 89,
-      "score_reasons": [
-        "trusted source weight 44",
-        "published in the last 7 days",
-        "github_release source",
-        "matched tags: model, open-source"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update",
-        "high-impact model, eval, or agent keywords",
-        "routine versioned release",
-        "open-source AI infrastructure update"
-      ],
-      "content_hash": "68bc8d1f465475f9"
-    },
-    {
       "id": "987231ddd5cafe94",
       "title": "Release v5.11.0",
       "url": "https://github.com/huggingface/transformers/releases/tag/v5.11.0",
@@ -954,6 +984,34 @@
         "open-source AI infrastructure update"
       ],
       "content_hash": "35ab4bbcb10a0511"
+    },
+    {
+      "id": "3696e67c2c9e8aaa",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-22T10:00:00Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "raw_excerpt": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "score": 88,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "8b696257967df794"
     },
     {
       "id": "009f70280ebcc29e",
@@ -1274,7 +1332,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -2176,6 +2234,38 @@
       "content_hash": "06e4671dec918631"
     },
     {
+      "id": "0508a21ff80d603b",
+      "title": "Patch release v5.12.1",
+      "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.1",
+      "source_id": "github-transformers",
+      "source_name": "Hugging Face Transformers Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-15T17:29:59Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "open-source"
+      ],
+      "summary": "Patch release v5.12.1 Updated the lower bound for PEFT and a fix for auto tokenizer to properly resolve the mistral tokenizer (when mistral-common is installed). This is similar to v.5.10.3 minus the fixes that were already included in the...",
+      "raw_excerpt": "Patch release v5.12.1 Updated the lower bound for PEFT and a fix for auto tokenizer to properly resolve the mistral tokenizer (when mistral-common is installed). This is similar to v.5.10.3 minus the fixes that were already included in the main release - vLLM will first target 5.10.3 🤗 Fix peft lower bound #46605 by @hmellor ( #46605 ) mistral common backend fix #46667 by @itazap ( #46667 ) Full Changelog : v5.12.0...v5.12.1",
+      "score": 81,
+      "score_reasons": [
+        "trusted source weight 44",
+        "published in the last 7 days",
+        "github_release source",
+        "matched tags: model, open-source"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "routine versioned release",
+        "open-source AI infrastructure update"
+      ],
+      "content_hash": "68bc8d1f465475f9"
+    },
+    {
       "id": "435cc52d2f08f897",
       "title": "v0.23.0",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0",
@@ -2627,7 +2717,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2656,7 +2746,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -2685,7 +2775,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2714,7 +2804,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2743,7 +2833,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2861,31 +2951,6 @@
       "content_hash": "f6bc55b346cb6597"
     },
     {
-      "id": "b5689f5df3fd2b95",
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "raw_excerpt": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
-      "score": 74,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 7 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "ed4ddefd84c53ecb"
-    },
-    {
       "id": "d38f7a49e86de9da",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -2893,7 +2958,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -2921,7 +2986,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-10T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -2978,7 +3043,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "safety"
@@ -3064,7 +3129,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3126,7 +3191,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-05T14:45:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -3158,7 +3223,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-28T15:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -3190,7 +3255,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-19T13:25:50Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -3222,7 +3287,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -3247,7 +3312,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -3272,7 +3337,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -3297,7 +3362,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -3388,7 +3453,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-01T13:51:18Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -3420,7 +3485,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3450,7 +3515,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3480,7 +3545,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3510,7 +3575,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T17:30:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model"
@@ -3541,7 +3606,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3568,7 +3633,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -3594,7 +3659,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-18T04:26:41Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -3618,6 +3683,31 @@
       "content_hash": "e6bb9dbd34785231"
     },
     {
+      "id": "b5689f5df3fd2b95",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-06-15T15:00:00Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
+      "language": "en",
+      "tags": [],
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "raw_excerpt": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+      "score": 66,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 7 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "ed4ddefd84c53ecb"
+    },
+    {
       "id": "3e72b4f077550506",
       "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
       "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
@@ -3625,7 +3715,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-01T15:45:17Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model"
@@ -3656,7 +3746,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3683,7 +3773,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:26:44Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3710,7 +3800,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3737,7 +3827,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents",
@@ -3768,7 +3858,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -3799,7 +3889,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -3830,7 +3920,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model"
@@ -3861,7 +3951,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-16T19:55:52Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model"
@@ -3892,7 +3982,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3922,7 +4012,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3952,7 +4042,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3982,7 +4072,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4012,7 +4102,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4042,7 +4132,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T18:43:06Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -4073,7 +4163,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4100,7 +4190,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4127,7 +4217,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4154,7 +4244,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-27T21:20:37Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "open-source",
@@ -4185,7 +4275,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -4214,7 +4304,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4241,7 +4331,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -4271,7 +4361,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4298,7 +4388,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4325,7 +4415,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4352,7 +4442,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4379,7 +4469,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-11T23:24:31Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -4409,7 +4499,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-29T18:58:25Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model"
@@ -4439,7 +4529,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model"
@@ -4463,33 +4553,6 @@
       "content_hash": "946be1bc00f3f628"
     },
     {
-      "id": "cc1fb30b41076bca",
-      "title": "v0.30.9-rc1",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9-rc1",
-      "source_id": "github-ollama",
-      "source_name": "Ollama Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-15T18:36:50Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
-      "language": "en",
-      "tags": [],
-      "summary": "server: context shift for context windows larger than 8k, add error w…",
-      "raw_excerpt": "server: context shift for context windows larger than 8k, add error w…",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 43",
-        "published in the last 7 days",
-        "github_release source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "thin feed summary"
-      ],
-      "content_hash": "84d3b59b46422006"
-    },
-    {
       "id": "dbba3792c124901c",
       "title": "v0.30.9-rc0",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9-rc0",
@@ -4497,7 +4560,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T03:05:08Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model"
@@ -4559,7 +4622,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-28T07:11:54Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -4620,7 +4683,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -4649,7 +4712,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -4678,7 +4741,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -4707,7 +4770,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -4733,7 +4796,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:36:46Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents",
@@ -4764,7 +4827,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-12T00:21:46Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -4824,7 +4887,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -4851,7 +4914,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -4878,7 +4941,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -4898,6 +4961,33 @@
       "content_hash": "67ddbd61e16f0378"
     },
     {
+      "id": "cc1fb30b41076bca",
+      "title": "v0.30.9-rc1",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.9-rc1",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-15T18:36:50Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
+      "language": "en",
+      "tags": [],
+      "summary": "server: context shift for context windows larger than 8k, add error w…",
+      "raw_excerpt": "server: context shift for context windows larger than 8k, add error w…",
+      "score": 44,
+      "score_reasons": [
+        "trusted source weight 43",
+        "published in the last 30 days",
+        "github_release source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "thin feed summary"
+      ],
+      "content_hash": "84d3b59b46422006"
+    },
+    {
       "id": "0e6454a49e231542",
       "title": "Migrating Your GitHub CI to Hugging Face Jobs",
       "url": "https://huggingface.co/blog/github-ci-hf-jobs",
@@ -4905,7 +4995,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -4936,7 +5026,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4964,7 +5054,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:39:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -4997,7 +5087,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:38:01Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -5030,7 +5120,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:54:07Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -5495,7 +5585,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:59:45Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -5527,7 +5617,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:59:31Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -5559,7 +5649,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:50:10Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -5591,7 +5681,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:49:36Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -5623,7 +5713,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:41:56Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents",
@@ -5655,7 +5745,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:24:27Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -5687,7 +5777,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:04:17Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -6135,7 +6225,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:59:46Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -6166,7 +6256,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:47:32Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -6197,7 +6287,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:36:02Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -6228,7 +6318,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:27:59Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6259,7 +6349,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:25:38Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -6290,7 +6380,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:22:13Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -6321,7 +6411,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:00:48Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -6352,7 +6442,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:46:42Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6383,7 +6473,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:22:52Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product",
@@ -6414,7 +6504,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:19:13Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -6445,7 +6535,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:18:10Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "inference",
@@ -6476,7 +6566,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:02:20Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -6507,7 +6597,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T15:58:48Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -7096,7 +7186,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:58:32Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -7126,7 +7216,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:55:31Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "research",
@@ -7156,7 +7246,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:55:00Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -7186,7 +7276,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:03:03Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents",
@@ -7216,7 +7306,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:57:06Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product",
@@ -7246,7 +7336,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:54:25Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "agents",
@@ -7276,7 +7366,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:48:18Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "regulation",
@@ -7306,7 +7396,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:43:34Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -7336,7 +7426,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:40:19Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -7366,7 +7456,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:40:02Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -7396,7 +7486,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:22:57Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "product",
@@ -7426,7 +7516,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:01:39Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -7456,7 +7546,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:01:39Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "research",
@@ -7486,7 +7576,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T15:53:22Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
@@ -7996,7 +8086,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T17:56:17Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "research"
@@ -8025,7 +8115,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:10:40Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "research"
@@ -8402,7 +8492,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-18T16:29:22Z",
-      "fetched_at": "2026-06-22T13:35:42Z",
+      "fetched_at": "2026-06-22T19:28:21Z",
       "language": "en",
       "tags": [
         "model",
