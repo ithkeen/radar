@@ -946,7 +946,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-03T22:30:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -1005,7 +1005,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-06T00:00:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1033,7 +1033,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-20T14:50:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key co...",
@@ -1058,7 +1058,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-20T06:00:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
@@ -1083,7 +1083,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-20T00:00:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [
         "model",
@@ -1115,7 +1115,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [
         "product"
@@ -1146,7 +1146,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-19T05:19:07Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [
         "model"
@@ -1177,7 +1177,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-24T16:08:47Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1207,7 +1207,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -1237,7 +1237,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1264,7 +1264,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1291,7 +1291,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-17T00:00:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1318,7 +1318,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T21:37:26Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1345,7 +1345,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T00:00:00Z",
-      "fetched_at": "2026-06-22T04:17:04Z",
+      "fetched_at": "2026-06-22T13:35:42Z",
       "language": "en",
       "tags": [],
       "summary": "",
