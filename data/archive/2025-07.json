@@ -4,6 +4,70 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "4b2349c3257d5021",
+      "title": "Introducing study mode in ChatGPT",
+      "url": "https://openai.com/index/chatgpt-study-mode",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-29T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "Introducing study mode in ChatGPT, a new learning experience that helps you work through problems step by step, guiding students with questions, scaffolding, and feedback for deeper learning.",
+      "raw_excerpt": "Introducing study mode in ChatGPT, a new learning experience that helps you work through problems step by step, guiding students with questions, scaffolding, and feedback for deeper learning.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "32b59d6f2f67da2b"
+    },
+    {
+      "id": "684a18e96f3c7cb5",
+      "title": "OpenAI’s new economic analysis",
+      "url": "https://openai.com/global-affairs/new-economic-analysis",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-22T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also launches new research collaboration to study AI’s broader effects on the labor market and productivity.",
+      "raw_excerpt": "Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also launches new research collaboration to study AI’s broader effects on the labor market and productivity.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "70dd8adab572c8a6"
+    },
+    {
       "id": "b074ccdb2d9ec027",
       "title": "Introducing ChatGPT agent",
       "url": "https://openai.com/index/introducing-chatgpt-agent",
@@ -20,7 +84,7 @@
       ],
       "summary": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance.",
       "raw_excerpt": "Introducing ChatGPT agent: it thinks and acts, using tools to complete tasks like research, bookings, and slideshows—all with your guidance.",
-      "score": 99,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -31,7 +95,8 @@
       "quality_reasons": [
         "matches AI channel focus: model update",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "96ed60c845438d69"
     },
@@ -52,7 +117,7 @@
       ],
       "summary": "Learn how Genspark built a $36M ARR AI product in 45 days—with no-code agents powered by GPT-4.1 and OpenAI Realtime API.",
       "raw_excerpt": "Learn how Genspark built a $36M ARR AI product in 45 days—with no-code agents powered by GPT-4.1 and OpenAI Realtime API.",
-      "score": 99,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -63,71 +128,42 @@
       "quality_reasons": [
         "matches AI channel focus: coding agent",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "c86d10fa453e3bf3"
     },
     {
-      "id": "4b2349c3257d5021",
-      "title": "Introducing study mode in ChatGPT",
-      "url": "https://openai.com/index/chatgpt-study-mode",
+      "id": "c656f0e8a5153e57",
+      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
+      "url": "https://openai.com/index/model-ml-chaz-englander",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-07-29T10:00:00Z",
+      "published_at": "2025-07-23T00:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "model",
+        "agents",
         "product"
       ],
-      "summary": "Introducing study mode in ChatGPT, a new learning experience that helps you work through problems step by step, guiding students with questions, scaffolding, and feedback for deeper learning.",
-      "raw_excerpt": "Introducing study mode in ChatGPT, a new learning experience that helps you work through problems step by step, guiding students with questions, scaffolding, and feedback for deeper learning.",
-      "score": 96,
+      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "raw_excerpt": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
+      "score": 98,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: model, product"
+        "matched tags: model, agents, product"
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "matches AI channel focus: model update",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "matches AI channel focus: agent practice",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "32b59d6f2f67da2b"
-    },
-    {
-      "id": "684a18e96f3c7cb5",
-      "title": "OpenAI’s new economic analysis",
-      "url": "https://openai.com/global-affairs/new-economic-analysis",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-22T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also launches new research collaboration to study AI’s broader effects on the labor market and productivity.",
-      "raw_excerpt": "Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also launches new research collaboration to study AI’s broader effects on the labor market and productivity.",
-      "score": 96,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "70dd8adab572c8a6"
+      "content_hash": "bc51616ad139ccda"
     },
     {
       "id": "107199a2fa92c806",
@@ -161,37 +197,6 @@
       "content_hash": "a5bc3b886f681a67"
     },
     {
-      "id": "c656f0e8a5153e57",
-      "title": "Model ML is helping financial firms rebuild with AI from the ground up",
-      "url": "https://openai.com/index/model-ml-chaz-englander",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "product"
-      ],
-      "summary": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-      "raw_excerpt": "As part of our Executive Function series, Model ML CEO Chaz Englander discusses how AI-native infrastructure and autonomous agents are transforming financial services workflows.",
-      "score": 91,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "official model or product signal"
-      ],
-      "content_hash": "bc51616ad139ccda"
-    },
-    {
       "id": "f5632f6f91e28fe6",
       "title": "Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models",
       "url": "https://huggingface.co/blog/tiiuae/e2lm-competition",
@@ -207,7 +212,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 83,
+      "score": 90,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -215,14 +220,138 @@
         "matched tags: model, research",
         "no feed summary"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
         "matches AI channel focus: model evaluation",
         "high-impact model, eval, or agent keywords",
         "official model or product signal",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "f602fa68dd8df6d1"
+    },
+    {
+      "id": "6181ef1bea32b748",
+      "title": "Resolving digital threats 100x faster with OpenAI",
+      "url": "https://openai.com/index/outtake",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-24T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.",
+      "raw_excerpt": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.",
+      "score": 81,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "9ae48479c0de7a0b"
+    },
+    {
+      "id": "7a7213b68631e1d3",
+      "title": "ChatGPT agent System Card",
+      "url": "https://openai.com/index/chatgpt-agent-system-card",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-17T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
+      "raw_excerpt": "ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
+      "score": 81,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "b7fca46058b2e737"
+    },
+    {
+      "id": "66fa70df490f1e33",
+      "title": "Invideo AI uses OpenAI models to create videos 10x faster",
+      "url": "https://openai.com/index/invideo-ai",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-17T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal"
+      ],
+      "summary": "Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.",
+      "raw_excerpt": "Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.",
+      "score": 81,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, multimodal"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "4b0a2b47b8df1881"
+    },
+    {
+      "id": "e9de10efc604fe98",
+      "title": "Intellectual freedom by design",
+      "url": "https://openai.com/global-affairs/intellectual-freedom-by-design",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-15T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.",
+      "raw_excerpt": "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "fdd166195f8b12e5"
     },
     {
       "id": "17d5149b1fa30b30",
@@ -255,94 +384,66 @@
       "content_hash": "51b1576efb1527c5"
     },
     {
-      "id": "6181ef1bea32b748",
-      "title": "Resolving digital threats 100x faster with OpenAI",
-      "url": "https://openai.com/index/outtake",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
+      "id": "bebc5e244986c3e0",
+      "title": "Building the Hugging Face MCP Server",
+      "url": "https://huggingface.co/blog/building-hf-mcp",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2025-07-24T00:00:00Z",
+      "published_at": "2025-07-10T00:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "model",
         "agents"
       ],
-      "summary": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.",
-      "raw_excerpt": "Discover how Outtake uses GPT-4.1 and OpenAI o3 to power AI agents that detect and resolve digital threats 100x faster than before.",
-      "score": 74,
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 73,
       "score_reasons": [
-        "trusted source weight 56",
+        "trusted source weight 50",
         "older than 30 days",
         "official source",
-        "matched tags: model, agents"
+        "matched tags: agents",
+        "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
+        "matches AI channel focus: agent practice",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
       ],
-      "content_hash": "9ae48479c0de7a0b"
+      "content_hash": "c2f71281f023f6c5"
     },
     {
-      "id": "7a7213b68631e1d3",
-      "title": "ChatGPT agent System Card",
-      "url": "https://openai.com/index/chatgpt-agent-system-card",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
+      "id": "cd612edd6d0b074c",
+      "title": "ScreenEnv: Deploy your full stack Desktop Agent",
+      "url": "https://huggingface.co/blog/screenenv",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2025-07-17T10:00:00Z",
+      "published_at": "2025-07-10T00:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "model",
         "agents"
       ],
-      "summary": "ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
-      "raw_excerpt": "ChatGPT agent System Card: OpenAI’s agentic model unites research, browser automation, and code tools with safeguards under the Preparedness Framework.",
-      "score": 74,
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 73,
       "score_reasons": [
-        "trusted source weight 56",
+        "trusted source weight 50",
         "older than 30 days",
         "official source",
-        "matched tags: model, agents"
+        "matched tags: agents",
+        "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
+        "matches AI channel focus: agent practice",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
       ],
-      "content_hash": "b7fca46058b2e737"
-    },
-    {
-      "id": "66fa70df490f1e33",
-      "title": "Invideo AI uses OpenAI models to create videos 10x faster",
-      "url": "https://openai.com/index/invideo-ai",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal"
-      ],
-      "summary": "Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.",
-      "raw_excerpt": "Invideo AI uses OpenAI’s GPT-4.1, gpt-image-1, and text-to-speech models to transform creative ideas into professional videos in minutes.",
-      "score": 74,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, multimodal"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "4b0a2b47b8df1881"
+      "content_hash": "e11b2b5d40493c62"
     },
     {
       "id": "8e3ab43c26712146",
@@ -374,35 +475,6 @@
       "content_hash": "2ed5fa2e2b363084"
     },
     {
-      "id": "e9de10efc604fe98",
-      "title": "Intellectual freedom by design",
-      "url": "https://openai.com/global-affairs/intellectual-freedom-by-design",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-15T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.",
-      "raw_excerpt": "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "fdd166195f8b12e5"
-    },
-    {
       "id": "7ea50d6cbd108bb6",
       "title": "Working with 400,000 teachers to shape the future of AI in schools",
       "url": "https://openai.com/global-affairs/aft",
@@ -432,64 +504,231 @@
       "content_hash": "d950d627ff89fc22"
     },
     {
-      "id": "bebc5e244986c3e0",
-      "title": "Building the Hugging Face MCP Server",
-      "url": "https://huggingface.co/blog/building-hf-mcp",
+      "id": "74ccb72bf236159f",
+      "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
+      "url": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
       "source_id": "huggingface-blog",
       "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2025-07-10T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2025-07-23T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "agents"
+        "model",
+        "multimodal"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 66,
+      "score": 68,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
         "official source",
-        "matched tags: agents",
+        "matched tags: model, multimodal",
         "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "matches AI channel focus: agent practice",
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
-      "content_hash": "c2f71281f023f6c5"
+      "content_hash": "ca0649cb40c3e277"
     },
     {
-      "id": "cd612edd6d0b074c",
-      "title": "ScreenEnv: Deploy your full stack Desktop Agent",
-      "url": "https://huggingface.co/blog/screenenv",
+      "id": "e7c5b31998e51588",
+      "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
+      "url": "https://huggingface.co/blog/AI-MO/kimina-prover",
       "source_id": "huggingface-blog",
       "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2025-07-10T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2025-07-10T12:54:19Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "agents"
+        "model",
+        "product"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 66,
+      "score": 68,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
         "official source",
-        "matched tags: agents",
+        "matched tags: model, product",
         "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "matches AI channel focus: agent practice",
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
-      "content_hash": "e11b2b5d40493c62"
+      "content_hash": "61b87702c4c07ed8"
+    },
+    {
+      "id": "f59b913bd890892a",
+      "title": "Upskill your LLMs With Gradio MCP Servers",
+      "url": "https://huggingface.co/blog/gradio-mcp-servers",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-07-09T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 68,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "ca9b527d557017aa"
+    },
+    {
+      "id": "355ec6ca266df51c",
+      "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
+      "url": "https://huggingface.co/blog/nvidia/multi-llm-nim",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-07-21T18:01:30Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "61672e9f1a6d1949"
+    },
+    {
+      "id": "2fcb5c041a8ff078",
+      "title": "Consilium: When Multiple LLMs Collaborate",
+      "url": "https://huggingface.co/blog/consilium-multi-llm",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-07-17T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "973f322f6d9d369c"
+    },
+    {
+      "id": "9cc3a022134e4fed",
+      "title": "SmolLM3: smol, multilingual, long-context reasoner",
+      "url": "https://huggingface.co/blog/smollm3",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-07-08T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "98fff20754b48c0b"
+    },
+    {
+      "id": "d14bcf9659099c32",
+      "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-sparse-encoder",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-07-01T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "be7aeb034bcbb112"
     },
     {
       "id": "9da4acd048f0ddf6",
@@ -499,7 +738,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
@@ -524,7 +763,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-22T10:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
@@ -549,7 +788,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-21T10:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
@@ -574,7 +813,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-21T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "I’ve always considered myself a pragmatic technologist—someone who loves technology not for its own sake, but for the direct impact it can have on people’s lives. That’s what makes this job so exciting, since I believe AI will unlock more...",
@@ -599,7 +838,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
@@ -624,7 +863,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-11T09:30:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.",
@@ -642,193 +881,66 @@
       "content_hash": "14418b9bf11c4eb0"
     },
     {
-      "id": "74ccb72bf236159f",
-      "title": "TimeScope: How Long Can Your Video Large Multimodal Model Go?",
-      "url": "https://huggingface.co/blog/timescope-video-lmm-benchmark",
+      "id": "77f78ba0e8dc6fdc",
+      "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+      "url": "https://huggingface.co/blog/gradio-vton-mcp",
       "source_id": "huggingface-blog",
       "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "published_at": "2025-07-31T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "model",
-        "multimodal"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 61,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, multimodal",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "ca0649cb40c3e277"
-    },
-    {
-      "id": "e7c5b31998e51588",
-      "title": "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models",
-      "url": "https://huggingface.co/blog/AI-MO/kimina-prover",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-10T12:54:19Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 61,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "61b87702c4c07ed8"
-    },
-    {
-      "id": "f59b913bd890892a",
-      "title": "Upskill your LLMs With Gradio MCP Servers",
-      "url": "https://huggingface.co/blog/gradio-mcp-servers",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model",
         "agents"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 61,
+      "score": 59,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
         "official source",
-        "matched tags: model, agents",
+        "matched tags: agents",
         "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
-      "content_hash": "ca9b527d557017aa"
+      "content_hash": "45c0691c267f0789"
     },
     {
-      "id": "355ec6ca266df51c",
-      "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
-      "url": "https://huggingface.co/blog/nvidia/multi-llm-nim",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-21T18:01:30Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "61672e9f1a6d1949"
-    },
-    {
-      "id": "2fcb5c041a8ff078",
-      "title": "Consilium: When Multiple LLMs Collaborate",
-      "url": "https://huggingface.co/blog/consilium-multi-llm",
+      "id": "ad7edac907f66dee",
+      "title": "Five Big Improvements to Gradio MCP Servers",
+      "url": "https://huggingface.co/blog/gradio-mcp-updates",
       "source_id": "huggingface-blog",
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "model"
+        "agents"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 58,
+      "score": 59,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
         "official source",
-        "matched tags: model",
+        "matched tags: agents",
         "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
-      "content_hash": "973f322f6d9d369c"
-    },
-    {
-      "id": "9cc3a022134e4fed",
-      "title": "SmolLM3: smol, multilingual, long-context reasoner",
-      "url": "https://huggingface.co/blog/smollm3",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "98fff20754b48c0b"
+      "content_hash": "72bf925bbb92d795"
     },
     {
       "id": "41fa4883c950de16",
@@ -838,7 +950,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -862,37 +974,6 @@
       "content_hash": "bd11cd62826480e5"
     },
     {
-      "id": "d14bcf9659099c32",
-      "title": "Training and Finetuning Sparse Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-sparse-encoder",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-01T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "be7aeb034bcbb112"
-    },
-    {
       "id": "c6b4af4bb14de25f",
       "title": "OpenAI nonprofit jam",
       "url": "https://openai.com/global-affairs/openai-nonprofit-jam",
@@ -900,7 +981,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of loca...",
@@ -919,36 +1000,6 @@
       "content_hash": "d9daeefe1ef08731"
     },
     {
-      "id": "77f78ba0e8dc6fdc",
-      "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
-      "url": "https://huggingface.co/blog/gradio-vton-mcp",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-31T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "45c0691c267f0789"
-    },
-    {
       "id": "2582595d10e57ccb",
       "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
       "url": "https://huggingface.co/blog/lora-fast",
@@ -956,7 +1007,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "inference"
@@ -979,36 +1030,6 @@
       "content_hash": "d183c3b5a047009f"
     },
     {
-      "id": "ad7edac907f66dee",
-      "title": "Five Big Improvements to Gradio MCP Servers",
-      "url": "https://huggingface.co/blog/gradio-mcp-updates",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "72bf925bbb92d795"
-    },
-    {
       "id": "80bccfbea26d2b70",
       "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
       "url": "https://huggingface.co/blog/async-robot-inference",
@@ -1016,7 +1037,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-10T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1046,7 +1067,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1076,7 +1097,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-29T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1103,7 +1124,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1130,7 +1151,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1157,7 +1178,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-18T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1184,7 +1205,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-16T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1211,7 +1232,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-15T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1238,7 +1259,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1265,7 +1286,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1292,7 +1313,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-22T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1321,14 +1342,14 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "agents"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 30,
+      "score": 37,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1340,6 +1361,7 @@
       "quality_reasons": [
         "outside preferred AI focus",
         "low-signal content: event",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "65289f8298011e53"

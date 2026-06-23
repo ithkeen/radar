@@ -20,7 +20,7 @@
       ],
       "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
       "raw_excerpt": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
-      "score": 99,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -31,41 +31,10 @@
       "quality_reasons": [
         "matches AI channel focus: coding agent, builder opinion",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "c744e0d4e0cfafa3"
-    },
-    {
-      "id": "ae10eb4597fe2dea",
-      "title": "Unrolling the Codex agent loop",
-      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-23T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "product"
-      ],
-      "summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
-      "raw_excerpt": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
-      "score": 99,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "14022486485328f3"
     },
     {
       "id": "54ada6137f693200",
@@ -83,7 +52,7 @@
       ],
       "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
       "raw_excerpt": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
-      "score": 96,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -94,7 +63,8 @@
       "quality_reasons": [
         "matches AI channel focus: model update",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "13441a4aa8cfa504"
     },
@@ -114,7 +84,7 @@
       ],
       "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
       "raw_excerpt": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
-      "score": 96,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -125,9 +95,43 @@
       "quality_reasons": [
         "matches AI channel focus: model update, builder opinion",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "2fa7fba5f0296a93"
+    },
+    {
+      "id": "ae10eb4597fe2dea",
+      "title": "Unrolling the Codex agent loop",
+      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-23T12:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "product"
+      ],
+      "summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "raw_excerpt": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "14022486485328f3"
     },
     {
       "id": "38d75be717126eb5",
@@ -145,7 +149,7 @@
       ],
       "summary": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
       "raw_excerpt": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
-      "score": 96,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -156,7 +160,8 @@
       "quality_reasons": [
         "matches AI channel focus: model update, agent practice",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "e6bdf84acc471d9c"
     },
@@ -176,7 +181,7 @@
       ],
       "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
       "raw_excerpt": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
-      "score": 96,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -187,7 +192,8 @@
       "quality_reasons": [
         "matches AI channel focus: model update, builder opinion",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "ca75b32b6ef530b9"
     },
@@ -207,7 +213,7 @@
       ],
       "summary": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
       "raw_excerpt": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
-      "score": 96,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -218,7 +224,8 @@
       "quality_reasons": [
         "matches AI channel focus: model update",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "d86c71243effec70"
     },
@@ -239,7 +246,7 @@
       ],
       "summary": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
       "raw_excerpt": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
-      "score": 91,
+      "score": 98,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -249,9 +256,259 @@
       "tier": "must_read",
       "quality_reasons": [
         "matches AI channel focus: agent practice, builder opinion",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "964dfbc56a2d010b"
+    },
+    {
+      "id": "df8617fa40e90e40",
+      "title": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
+      "url": "https://openai.com/index/trustbank",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-27T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabling personalized conversational recommendations that simplify Furusato Nozei gift discovery.",
+      "raw_excerpt": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabling personalized conversational recommendations that simplify Furusato Nozei gift discovery.",
+      "score": 95,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "eee4a597c477b947"
+    },
+    {
+      "id": "b447a90ef2809543",
+      "title": "Inside Praktika's conversational approach to language learning",
+      "url": "https://openai.com/index/praktika",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-22T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+      "raw_excerpt": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+      "score": 95,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "9d954701d254b0be"
+    },
+    {
+      "id": "5265d72fa2c49c7a",
+      "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+      "url": "https://openai.com/index/zenken",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-13T16:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer...",
+      "raw_excerpt": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
+      "score": 95,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice, builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "59373abdaa15eed0"
+    },
+    {
+      "id": "bedda3a88515a492",
+      "title": "OpenAI for Healthcare",
+      "url": "https://openai.com/index/openai-for-healthcare",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-08T12:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+      "raw_excerpt": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+      "score": 95,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "198b04db804d2305"
+    },
+    {
+      "id": "7339e10bcdac8587",
+      "title": "How Tolan builds voice-first AI with GPT-5.1",
+      "url": "https://openai.com/index/tolan",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-07T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference"
+      ],
+      "summary": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
+      "raw_excerpt": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
+      "score": 95,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, inference"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "afef438dc336dcc4"
+    },
+    {
+      "id": "27d219dd79b5e1d1",
+      "title": "Datadog uses Codex for system-level code review",
+      "url": "https://openai.com/index/datadog",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-09T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+      "raw_excerpt": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "111312520152b5bc"
+    },
+    {
+      "id": "37bd9866fae91761",
+      "title": "Taisei Corporation shapes the next generation of talent with AI",
+      "url": "https://openai.com/index/taisei",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-29T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
+      "raw_excerpt": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
+      "score": 92,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "aa13d7c706432d81"
+    },
+    {
+      "id": "927036739d8c13b8",
+      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+      "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-01-27T10:26:42Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, research",
+        "no feed summary"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "d34180026d44d5ed"
     },
     {
       "id": "b06606b88a53f0bd",
@@ -284,247 +541,6 @@
       "content_hash": "8b650ae628a53caa"
     },
     {
-      "id": "df8617fa40e90e40",
-      "title": "TRUSTBANK uses AI agents to personalize Furusato Nozei gifts",
-      "url": "https://openai.com/index/trustbank",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-27T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabling personalized conversational recommendations that simplify Furusato Nozei gift discovery.",
-      "raw_excerpt": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, enabling personalized conversational recommendations that simplify Furusato Nozei gift discovery.",
-      "score": 88,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "official model or product signal"
-      ],
-      "content_hash": "eee4a597c477b947"
-    },
-    {
-      "id": "b447a90ef2809543",
-      "title": "Inside Praktika's conversational approach to language learning",
-      "url": "https://openai.com/index/praktika",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-22T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
-      "raw_excerpt": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
-      "score": 88,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "official model or product signal"
-      ],
-      "content_hash": "9d954701d254b0be"
-    },
-    {
-      "id": "5265d72fa2c49c7a",
-      "title": "Zenken boosts a lean sales team with ChatGPT Enterprise",
-      "url": "https://openai.com/index/zenken",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-13T16:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer...",
-      "raw_excerpt": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
-      "score": 88,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice, builder opinion",
-        "official model or product signal"
-      ],
-      "content_hash": "59373abdaa15eed0"
-    },
-    {
-      "id": "bedda3a88515a492",
-      "title": "OpenAI for Healthcare",
-      "url": "https://openai.com/index/openai-for-healthcare",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-08T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
-      "raw_excerpt": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
-      "score": 88,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "official model or product signal"
-      ],
-      "content_hash": "198b04db804d2305"
-    },
-    {
-      "id": "7339e10bcdac8587",
-      "title": "How Tolan builds voice-first AI with GPT-5.1",
-      "url": "https://openai.com/index/tolan",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-07T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "inference"
-      ],
-      "summary": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
-      "raw_excerpt": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
-      "score": 88,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, inference"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "official model or product signal"
-      ],
-      "content_hash": "afef438dc336dcc4"
-    },
-    {
-      "id": "27d219dd79b5e1d1",
-      "title": "Datadog uses Codex for system-level code review",
-      "url": "https://openai.com/index/datadog",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-09T00:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
-      "raw_excerpt": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords"
-      ],
-      "content_hash": "111312520152b5bc"
-    },
-    {
-      "id": "37bd9866fae91761",
-      "title": "Taisei Corporation shapes the next generation of talent with AI",
-      "url": "https://openai.com/index/taisei",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-29T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
-      "raw_excerpt": "Taisei Corporation’s HR team is leading the rollout of ChatGPT Enterprise to drive AI-powered talent development across the organization.",
-      "score": 85,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "official model or product signal"
-      ],
-      "content_hash": "aa13d7c706432d81"
-    },
-    {
-      "id": "927036739d8c13b8",
-      "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
-      "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-01-27T10:26:42Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "research"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 83,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, research",
-        "no feed summary"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "d34180026d44d5ed"
-    },
-    {
       "id": "aae21d8eeec522a7",
       "title": "How Higgsfield turns simple ideas into cinematic social videos",
       "url": "https://openai.com/index/higgsfield",
@@ -541,7 +557,7 @@
       ],
       "summary": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
       "raw_excerpt": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
-      "score": 77,
+      "score": 84,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -551,7 +567,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "cd48a4b50fbc3c5a"
     },
@@ -571,7 +588,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 77,
+      "score": 84,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -583,6 +600,7 @@
       "quality_reasons": [
         "matches AI channel focus: model evaluation",
         "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "aa1df14e9e3a2614"
@@ -604,7 +622,7 @@
       ],
       "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
       "raw_excerpt": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
-      "score": 77,
+      "score": 84,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -614,7 +632,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "dad120c6b948ed88"
     },
@@ -634,7 +653,7 @@
       ],
       "summary": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
       "raw_excerpt": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
-      "score": 74,
+      "score": 81,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -644,7 +663,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "5c8f32175187270c"
     },
@@ -664,7 +684,7 @@
       ],
       "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
       "raw_excerpt": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
-      "score": 74,
+      "score": 81,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -674,7 +694,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "9e081bf7f534ceb7"
     },
@@ -694,7 +715,7 @@
       ],
       "summary": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
       "raw_excerpt": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
-      "score": 74,
+      "score": 81,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -704,9 +725,100 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "ed9d2b5e66de3e75"
+    },
+    {
+      "id": "61967ed53f8fcf7a",
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "url": "https://openai.com/index/pvh-future-of-fashion",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-27T06:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "raw_excerpt": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "83c32b9f89e624b8"
+    },
+    {
+      "id": "89a221162f32c17d",
+      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "url": "https://openai.com/index/scaling-postgresql",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-22T12:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "raw_excerpt": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "5b47b66362ffd4c0"
+    },
+    {
+      "id": "3cfde46429d5cbfe",
+      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-22T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+      "raw_excerpt": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "19b01e590985d01f"
     },
     {
       "id": "ea4e4e11d85eb5d7",
@@ -736,93 +848,6 @@
         "official model or product signal"
       ],
       "content_hash": "5a76d0f08a4fdd86"
-    },
-    {
-      "id": "61967ed53f8fcf7a",
-      "title": "PVH reimagines the future of fashion with OpenAI",
-      "url": "https://openai.com/index/pvh-future-of-fashion",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-27T06:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
-      "raw_excerpt": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "83c32b9f89e624b8"
-    },
-    {
-      "id": "89a221162f32c17d",
-      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
-      "url": "https://openai.com/index/scaling-postgresql",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-22T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
-      "raw_excerpt": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "5b47b66362ffd4c0"
-    },
-    {
-      "id": "3cfde46429d5cbfe",
-      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
-      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-22T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
-      "raw_excerpt": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "19b01e590985d01f"
     },
     {
       "id": "5e4fb8bc5ba7d528",
@@ -941,6 +966,136 @@
       "content_hash": "35ad1d085775199a"
     },
     {
+      "id": "54d604eb530dd7bb",
+      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+      "url": "https://huggingface.co/blog/upskill",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-01-28T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "hardware"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 68,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, hardware",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "29358e4f7114d6e5"
+    },
+    {
+      "id": "6314aebbd61e4ee7",
+      "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+      "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-01-27T01:53:15Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 68,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "42c60673baeb4cfd"
+    },
+    {
+      "id": "ed89177192530191",
+      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-01-27T15:01:45Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "62a7fefc4cdb9d82"
+    },
+    {
+      "id": "1eaa5743cd6275e6",
+      "title": "One Year Since the “DeepSeek Moment”",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-01-20T15:02:10Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "f580a576c2c089f7"
+    },
+    {
       "id": "ec18d5affaa65469",
       "title": "How Indeed uses AI to help evolve the job search",
       "url": "https://openai.com/index/indeed-maggie-hulce",
@@ -948,7 +1103,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-26T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
@@ -973,7 +1128,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-21T01:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
@@ -998,7 +1153,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-15T07:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
@@ -1023,7 +1178,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-09T11:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
@@ -1041,68 +1196,35 @@
       "content_hash": "6c7e8ad30ed1b28b"
     },
     {
-      "id": "54d604eb530dd7bb",
-      "title": "We Got Claude to Build CUDA Kernels and teach open models!",
-      "url": "https://huggingface.co/blog/upskill",
+      "id": "49b3f6f1a10d15c7",
+      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+      "url": "https://huggingface.co/blog/nvidia-reachy-mini",
       "source_id": "huggingface-blog",
       "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2026-01-28T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "published_at": "2026-01-05T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "model",
-        "hardware"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 61,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, hardware",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "29358e4f7114d6e5"
-    },
-    {
-      "id": "6314aebbd61e4ee7",
-      "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
-      "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-01-27T01:53:15Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model",
         "agents"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 61,
+      "score": 59,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
         "official source",
-        "matched tags: model, agents",
+        "matched tags: agents",
         "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
-      "content_hash": "42c60673baeb4cfd"
+      "content_hash": "67916cc7482809f3"
     },
     {
       "id": "eec01c0dd80f2b5d",
@@ -1112,7 +1234,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-29T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -1136,66 +1258,35 @@
       "content_hash": "2a7c487325c075c1"
     },
     {
-      "id": "ed89177192530191",
-      "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
-      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
+      "id": "0d2abbb0fa62c353",
+      "title": "Keeping your data safe when an AI agent clicks a link",
+      "url": "https://openai.com/index/ai-agent-link-safety",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-01-27T15:01:45Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "published_at": "2026-01-28T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "model"
+        "agents",
+        "safety"
       ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
+      "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+      "raw_excerpt": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+      "score": 53,
       "score_reasons": [
-        "trusted source weight 50",
+        "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: model",
-        "no feed summary"
+        "matched tags: agents, safety"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
+        "low-signal content: event",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "62a7fefc4cdb9d82"
-    },
-    {
-      "id": "1eaa5743cd6275e6",
-      "title": "One Year Since the “DeepSeek Moment”",
-      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-01-20T15:02:10Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "f580a576c2c089f7"
+      "content_hash": "dc3d5a4a0e0993f3"
     },
     {
       "id": "d97821963ad07f68",
@@ -1205,7 +1296,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-20T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1228,36 +1319,6 @@
       "content_hash": "8d3f6e7d361ce256"
     },
     {
-      "id": "49b3f6f1a10d15c7",
-      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-      "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-01-05T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "67916cc7482809f3"
-    },
-    {
       "id": "c1fc817798240c48",
       "title": "Differential Transformer V2",
       "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
@@ -1265,7 +1326,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-20T03:20:57Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1292,7 +1353,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-15T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1319,7 +1380,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-15T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -1349,7 +1410,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T22:56:51Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1376,7 +1437,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T09:16:51Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1394,36 +1455,6 @@
         "thin feed summary"
       ],
       "content_hash": "cc18053fabe69d47"
-    },
-    {
-      "id": "0d2abbb0fa62c353",
-      "title": "Keeping your data safe when an AI agent clicks a link",
-      "url": "https://openai.com/index/ai-agent-link-safety",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-28T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "safety"
-      ],
-      "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
-      "raw_excerpt": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
-      "score": 46,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: event"
-      ],
-      "content_hash": "dc3d5a4a0e0993f3"
     }
   ]
 }

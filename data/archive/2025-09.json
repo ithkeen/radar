@@ -4,6 +4,102 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "8530f5b0e216eb6d",
+      "title": "Sora 2 System Card",
+      "url": "https://openai.com/index/sora-2-system-card",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-30T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal"
+      ],
+      "summary": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, shar...",
+      "raw_excerpt": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, multimodal"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "2730b76d04594f22"
+    },
+    {
+      "id": "419d8c6232d2a2ef",
+      "title": "Introducing parental controls",
+      "url": "https://openai.com/index/introducing-parental-controls",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-29T03:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes.",
+      "raw_excerpt": "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "8a8a883ef87fa57f"
+    },
+    {
+      "id": "0b992bc46863ad9f",
+      "title": "Introducing ChatGPT Pulse",
+      "url": "https://openai.com/index/introducing-chatgpt-pulse",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-25T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar.",
+      "raw_excerpt": "Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "df139055bdcaa162"
+    },
+    {
       "id": "bef6cbe2a83e51bc",
       "title": "Detecting and reducing scheming in AI models",
       "url": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
@@ -20,7 +116,7 @@
       ],
       "summary": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early m...",
       "raw_excerpt": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concrete examples and stress tests of an early method to reduce scheming.",
-      "score": 99,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -31,7 +127,8 @@
       "quality_reasons": [
         "matches AI channel focus: model update, model evaluation, builder opinion",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "2d15c815670d2887"
     },
@@ -52,7 +149,7 @@
       ],
       "summary": "This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly...",
       "raw_excerpt": "This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity, responding quickly to simple conversational queries or small tasks, while independently working for longer on more complex tasks.",
-      "score": 99,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -63,7 +160,8 @@
       "quality_reasons": [
         "matches AI channel focus: model update, coding agent",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "8af8a1923dc527ad"
     },
@@ -84,7 +182,7 @@
       ],
       "summary": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
       "raw_excerpt": "OpenAI’s new research explains why language models hallucinate. The findings show how improved evaluations can enhance AI reliability, honesty, and safety.",
-      "score": 99,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -95,102 +193,10 @@
       "quality_reasons": [
         "matches AI channel focus: model evaluation",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "63f77ef04ecbdc07"
-    },
-    {
-      "id": "8530f5b0e216eb6d",
-      "title": "Sora 2 System Card",
-      "url": "https://openai.com/index/sora-2-system-card",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-30T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal"
-      ],
-      "summary": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, shar...",
-      "raw_excerpt": "Sora 2 is our new state of the art video and audio generation model. Building on the foundation of Sora, this new model introduces capabilities that have been difficult for prior video models to achieve– such as more accurate physics, sharper realism, synchronized audio, enhanced steerability, and an expanded stylistic range.",
-      "score": 96,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, multimodal"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "2730b76d04594f22"
-    },
-    {
-      "id": "419d8c6232d2a2ef",
-      "title": "Introducing parental controls",
-      "url": "https://openai.com/index/introducing-parental-controls",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-29T03:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes.",
-      "raw_excerpt": "We’re rolling out parental controls and a new parent resource page to help families guide how ChatGPT works in their homes.",
-      "score": 96,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "8a8a883ef87fa57f"
-    },
-    {
-      "id": "0b992bc46863ad9f",
-      "title": "Introducing ChatGPT Pulse",
-      "url": "https://openai.com/index/introducing-chatgpt-pulse",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-25T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar.",
-      "raw_excerpt": "Today we're releasing a preview of ChatGPT Pulse to Pro users on mobile. Pulse is a new experience where ChatGPT proactively does research to deliver personalized updates based on your chats, feedback, and connected apps like your calendar.",
-      "score": 96,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "df139055bdcaa162"
     },
     {
       "id": "c6dde7320bdf607b",
@@ -208,7 +214,7 @@
       ],
       "summary": "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economi...",
       "raw_excerpt": "OpenAI and the Greek Government have launched “OpenAI for Greece” to bring ChatGPT Edu into secondary schools and support responsible AI learning. This partnership aims to boost AI literacy, fuel local start-ups, and drive national economic growth.",
-      "score": 96,
+      "score": 100,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -219,7 +225,8 @@
       "quality_reasons": [
         "matches AI channel focus: model update",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "3c6503fa29f58173"
     },
@@ -240,7 +247,7 @@
       ],
       "summary": "ENEOS Materials uses ChatGPT Enterprise to speed research, improve plant design safety, and cut HR analysis time by 90%, with 80% reporting better workflows.",
       "raw_excerpt": "ENEOS Materials uses ChatGPT Enterprise to speed research, improve plant design safety, and cut HR analysis time by 90%, with 80% reporting better workflows.",
-      "score": 91,
+      "score": 98,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -250,7 +257,8 @@
       "tier": "must_read",
       "quality_reasons": [
         "matches AI channel focus: agent practice",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "4e6df2eeb40d1515"
     },
@@ -270,7 +278,7 @@
       ],
       "summary": "New shared projects, smarter connectors, and compliance and security updates help teams get more done.",
       "raw_excerpt": "New shared projects, smarter connectors, and compliance and security updates help teams get more done.",
-      "score": 88,
+      "score": 95,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -280,7 +288,8 @@
       "tier": "must_read",
       "quality_reasons": [
         "matches AI channel focus: builder opinion",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "1555bca6fa31d938"
     },
@@ -299,17 +308,18 @@
       ],
       "summary": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
       "raw_excerpt": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
-      "score": 87,
+      "score": 94,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: open-source"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
         "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords"
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "f9494e9ab0fbabab"
     },
@@ -328,19 +338,53 @@
       ],
       "summary": "At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.",
       "raw_excerpt": "At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.",
-      "score": 85,
+      "score": 92,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: model"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
         "matches AI channel focus: builder opinion",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "2133b5c64857672b"
+    },
+    {
+      "id": "c658f25dfd916ec1",
+      "title": "Launching Sora responsibly",
+      "url": "https://openai.com/index/launching-sora-responsibly",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-30T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "safety",
+        "product"
+      ],
+      "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+      "raw_excerpt": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, multimodal, safety, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "1d2c38d504d39a95"
     },
     {
       "id": "381b65107dc1c38e",
@@ -401,38 +445,6 @@
       "content_hash": "a9eb674a54c10210"
     },
     {
-      "id": "c658f25dfd916ec1",
-      "title": "Launching Sora responsibly",
-      "url": "https://openai.com/index/launching-sora-responsibly",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-30T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "safety",
-        "product"
-      ],
-      "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
-      "raw_excerpt": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approach is anchored in concrete protections.",
-      "score": 80,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, multimodal, safety, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "1d2c38d504d39a95"
-    },
-    {
       "id": "661a3476d3d51bb4",
       "title": "Sora 2 is here",
       "url": "https://openai.com/index/sora-2",
@@ -449,7 +461,7 @@
       ],
       "summary": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
       "raw_excerpt": "Our latest video generation model is more physically accurate, realistic, and controllable than prior systems. It also features synchronized dialogue and sound effects. Create with it in the new Sora app.",
-      "score": 77,
+      "score": 84,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -459,7 +471,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "edd93c8f2c8279a7"
     },
@@ -480,7 +493,7 @@
       ],
       "summary": "We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together.",
       "raw_excerpt": "We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together.",
-      "score": 77,
+      "score": 84,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -490,7 +503,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "88ec05eef70e79ba"
     },
@@ -511,7 +525,7 @@
       ],
       "summary": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
       "raw_excerpt": "OpenAI introduces GDPval, a new evaluation that measures model performance on real-world economically valuable tasks across 44 occupations.",
-      "score": 77,
+      "score": 84,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -521,7 +535,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "5a4994f24dde19c6"
     },
@@ -542,7 +557,7 @@
       ],
       "summary": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
       "raw_excerpt": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
-      "score": 77,
+      "score": 84,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -552,7 +567,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "22ddea68325208f5"
     },
@@ -573,7 +589,7 @@
       ],
       "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
       "raw_excerpt": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
-      "score": 77,
+      "score": 84,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -583,7 +599,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "dab2c4da34c2bc1f"
     },
@@ -603,7 +620,7 @@
       ],
       "summary": "SchoolAI uses GPT-4.1, image generation, and TTS to power safe, teacher-guided AI tools for over 1 million classrooms, improving engagement, oversight, and personalized learning.",
       "raw_excerpt": "SchoolAI uses GPT-4.1, image generation, and TTS to power safe, teacher-guided AI tools for over 1 million classrooms, improving engagement, oversight, and personalized learning.",
-      "score": 74,
+      "score": 81,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -613,9 +630,71 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "c70c5d749bcb0f14"
+    },
+    {
+      "id": "4955eca90327b60a",
+      "title": "Building more helpful ChatGPT experiences for everyone",
+      "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-02T04:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety"
+      ],
+      "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
+      "raw_excerpt": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
+      "score": 81,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "b45d1f4a7f98d05c"
+    },
+    {
+      "id": "bc32444a81aa8a8c",
+      "title": "How people are using ChatGPT",
+      "url": "https://openai.com/index/how-people-are-using-chatgpt",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-15T03:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
+      "raw_excerpt": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "cfa9f8380b482ccd"
     },
     {
       "id": "fe411c5ad4f1ed3f",
@@ -678,36 +757,6 @@
         "low-signal content: jobs"
       ],
       "content_hash": "24ae59b59afbefba"
-    },
-    {
-      "id": "4955eca90327b60a",
-      "title": "Building more helpful ChatGPT experiences for everyone",
-      "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-02T04:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "safety"
-      ],
-      "summary": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
-      "raw_excerpt": "We’re partnering with experts, strengthening protections for teens with parental controls, and routing sensitive conversations to reasoning models in ChatGPT.",
-      "score": 74,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "b45d1f4a7f98d05c"
     },
     {
       "id": "cb62459632ca3236",
@@ -855,35 +904,6 @@
       "content_hash": "2417164eeb137dd9"
     },
     {
-      "id": "bc32444a81aa8a8c",
-      "title": "How people are using ChatGPT",
-      "url": "https://openai.com/index/how-people-are-using-chatgpt",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-15T03:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
-      "raw_excerpt": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of everyday life.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "cfa9f8380b482ccd"
-    },
-    {
       "id": "11b83b62d01bbe27",
       "title": "A People-First AI Fund: $50M to support nonprofits",
       "url": "https://openai.com/index/people-first-ai-fund",
@@ -942,6 +962,104 @@
       "content_hash": "84110438dee64338"
     },
     {
+      "id": "e2565eb2abe3a1e3",
+      "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
+      "url": "https://huggingface.co/blog/intel-qwen3-agent",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-09-29T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 68,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "ba551f1f61c51693"
+    },
+    {
+      "id": "306bc5a7444b9f6d",
+      "title": "Jupyter Agents: training LLMs to reason with notebooks",
+      "url": "https://huggingface.co/blog/jupyter-agent-2",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-09-10T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 68,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "48025beda5620781"
+    },
+    {
+      "id": "6e5650c901973c62",
+      "title": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-09-22T06:45:05Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "bd6488568b0e6c87"
+    },
+    {
       "id": "9992c02f629066bc",
       "title": "Working with US CAISI and UK AISI to build more secure AI systems",
       "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
@@ -949,7 +1067,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-12T12:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "safety"
@@ -977,7 +1095,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-11T14:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "safety"
@@ -998,6 +1116,102 @@
       "content_hash": "f9df9171fc999401"
     },
     {
+      "id": "6ed50daac32dd95f",
+      "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
+      "url": "https://huggingface.co/blog/faster-transformers",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-09-11T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "a62b37d4df78f70a"
+    },
+    {
+      "id": "286a7ed67e1f423b",
+      "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
+      "url": "https://huggingface.co/blog/togethercomputer/together-ft",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-09-10T17:04:36Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "c61f746dab27a464"
+    },
+    {
+      "id": "08e81a39b6fe1237",
+      "title": "Welcome EmbeddingGemma, Google's new efficient embedding model",
+      "url": "https://huggingface.co/blog/embeddinggemma",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-09-04T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "2e12079152a7f466"
+    },
+    {
       "id": "8a2842940024a2f7",
       "title": "CNA is transforming its newsroom with AI",
       "url": "https://openai.com/index/cna-walter-fernandez",
@@ -1005,7 +1219,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-22T17:17:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
@@ -1030,7 +1244,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-11T14:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
@@ -1048,192 +1262,66 @@
       "content_hash": "d7e12e3021a86745"
     },
     {
-      "id": "e2565eb2abe3a1e3",
-      "title": "Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models",
-      "url": "https://huggingface.co/blog/intel-qwen3-agent",
+      "id": "547819139e56b656",
+      "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
+      "url": "https://huggingface.co/blog/smol2operator",
       "source_id": "huggingface-blog",
       "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2025-09-29T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "published_at": "2025-09-23T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "model",
         "agents"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 61,
+      "score": 59,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
         "official source",
-        "matched tags: model, agents",
+        "matched tags: agents",
         "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
-      "content_hash": "ba551f1f61c51693"
+      "content_hash": "07af879c5e412670"
     },
     {
-      "id": "306bc5a7444b9f6d",
-      "title": "Jupyter Agents: training LLMs to reason with notebooks",
-      "url": "https://huggingface.co/blog/jupyter-agent-2",
+      "id": "7451567b5abb4151",
+      "title": "Gaia2 and ARE: Empowering the community to study agents",
+      "url": "https://huggingface.co/blog/gaia2",
       "source_id": "huggingface-blog",
       "source_name": "Hugging Face Blog",
       "source_type": "official",
-      "published_at": "2025-09-10T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "published_at": "2025-09-22T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "model",
         "agents"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 61,
+      "score": 59,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
         "official source",
-        "matched tags: model, agents",
+        "matched tags: agents",
         "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
-      "content_hash": "48025beda5620781"
-    },
-    {
-      "id": "6e5650c901973c62",
-      "title": "SyGra: The One-Stop Framework for Building Data for LLMs and SLMs",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-09-22T06:45:05Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "bd6488568b0e6c87"
-    },
-    {
-      "id": "6ed50daac32dd95f",
-      "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
-      "url": "https://huggingface.co/blog/faster-transformers",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-09-11T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "a62b37d4df78f70a"
-    },
-    {
-      "id": "286a7ed67e1f423b",
-      "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
-      "url": "https://huggingface.co/blog/togethercomputer/together-ft",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-09-10T17:04:36Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "c61f746dab27a464"
-    },
-    {
-      "id": "08e81a39b6fe1237",
-      "title": "Welcome EmbeddingGemma, Google's new efficient embedding model",
-      "url": "https://huggingface.co/blog/embeddinggemma",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-09-04T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "thin feed summary"
-      ],
-      "content_hash": "2e12079152a7f466"
+      "content_hash": "647585585541786c"
     },
     {
       "id": "72a8c49bfa9b83f2",
@@ -1243,7 +1331,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-16T14:30:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1263,66 +1351,6 @@
       "content_hash": "2f36e55744af2563"
     },
     {
-      "id": "547819139e56b656",
-      "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
-      "url": "https://huggingface.co/blog/smol2operator",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-09-23T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "07af879c5e412670"
-    },
-    {
-      "id": "7451567b5abb4151",
-      "title": "Gaia2 and ARE: Empowering the community to study agents",
-      "url": "https://huggingface.co/blog/gaia2",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-09-22T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "647585585541786c"
-    },
-    {
       "id": "314f9b3c409189cd",
       "title": "Scaleway on Hugging Face Inference Providers 🔥",
       "url": "https://huggingface.co/blog/inference-providers-scaleway",
@@ -1330,7 +1358,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-19T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1360,7 +1388,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-18T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1390,7 +1418,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-17T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1420,7 +1448,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-16T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "research"
@@ -1450,7 +1478,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-02T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -1480,7 +1508,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-29T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1507,7 +1535,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-26T06:25:50Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1534,7 +1562,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-26T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1561,7 +1589,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-15T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1588,7 +1616,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-11T20:04:44Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1615,7 +1643,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-09T00:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1642,7 +1670,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-02T16:54:29Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1669,7 +1697,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-29T03:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboration to block, report, and prevent AI misuse.",
@@ -1695,7 +1723,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-26T06:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
@@ -1721,7 +1749,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-23T14:00:00Z",
-      "fetched_at": "2026-06-22T22:03:03Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
