@@ -4,6 +4,75 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "caa52e71af35efe3",
+      "title": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
+      "url": "https://arxiv.org/abs/2606.23671v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:56:30Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "safety"
+      ],
+      "summary": "Prior work shows that large language models (LLMs) exhibit introspective capability on benign tasks. We extend the question to safety contexts and examine how reliably a model can recognize that its own prior response was elicited by an ad...",
+      "raw_excerpt": "Prior work shows that large language models (LLMs) exhibit introspective capability on benign tasks. We extend the question to safety contexts and examine how reliably a model can recognize that its own prior response was elicited by an adversarial prefill attack. Across ten open-weight instruction-tuned LLMs (3B to 70B) and four safety benchmarks, no model reliably recognizes its own compromised outputs, with models claiming intent on prefilled responses at an average rate of $27.3\\%$. Introspective signal stems largely from safety- and refusal-related reasoning. Orthogonalizing models' weig...",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research, safety"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "5f5fd49107b550c5"
+    },
+    {
+      "id": "6aa73df744307dfd",
+      "title": "EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions",
+      "url": "https://arxiv.org/abs/2606.23654v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:39:43Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "evaluation",
+        "research",
+        "open-source",
+        "regulation"
+      ],
+      "summary": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark constructed from proprietary, real-world...",
+      "raw_excerpt": "Enterprise agents increasingly operate inside workspaces: they read heterogeneous files, invoke tools, and deliver business artifacts. We introduce EnterpriseClawBench, an enterprise agent benchmark constructed from proprietary, real-world agent sessions. Starting from a large archive of workplace sessions, the EnterpriseClawBench produces 852 reproducible tasks, each paired with recovered fixtures, rewritten prompts, role classes, skill subclasses, hard rules, and semantic rubrics. Because the sessions contain internal enterprise content, we do not release the benchmark data; instead, our re...",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: agents, evaluation, research, open-source"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "bdae7fc376cca311"
+    },
+    {
       "id": "b63e5cb33bb0ec81",
       "title": "Daybreak: Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
@@ -96,76 +165,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "83fb332f18174957"
-    },
-    {
-      "id": "46bdbcad08966990",
-      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
-      "url": "https://arxiv.org/abs/2606.22565v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T15:59:41Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "evaluation",
-        "research",
-        "regulation"
-      ],
-      "summary": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks remains unclear. In this paper, we aim t...",
-      "raw_excerpt": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks remains unclear. In this paper, we aim to systematically investigate the key question: What can multimodal Chain-of-Thought reasoning do, and where and why does it fall short? To this end, we evaluate 12 multimodal tasks across perception and reasoning categories using both 14 non-reasoning models and 8 reasoning models. Our analysis reveals several important findings: (1) CoT is not a free lunch...",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, multimodal, evaluation, research"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "ae373947f921b033"
-    },
-    {
-      "id": "57154df236580fc6",
-      "title": "MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop",
-      "url": "https://arxiv.org/abs/2606.22557v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T15:32:57Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "evaluation",
-        "research",
-        "product",
-        "regulation"
-      ],
-      "summary": "Computer use agents (CUAs) have advanced rapidly in desktop automation, and a growing number of users deploy CUAs such as OpenClaw on Mac Mini for always-on automation. However, existing benchmarks, including those for macOS, evaluate agen...",
-      "raw_excerpt": "Computer use agents (CUAs) have advanced rapidly in desktop automation, and a growing number of users deploy CUAs such as OpenClaw on Mac Mini for always-on automation. However, existing benchmarks, including those for macOS, evaluate agents without framework augmentation and rely on binary evaluation. As a result, they fail to capture both the framework capabilities leveraged by modern CUAs and the partial progress on long-horizon, multi-application tasks. We present MacAgentBench, a comprehensive macOS agent benchmark comprising 676 tasks across 25 applications, with nearly 60% involving bo...",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: agents, evaluation, research, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "afe41eabd0111531"
     },
     {
       "id": "450d5ccfb1602dc2",
@@ -859,6 +858,113 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "f4dd85d9df9db31a"
+    },
+    {
+      "id": "9f35f045f06caf2c",
+      "title": "Evaluation Awareness Is Not One Capability: Evidence from Open Language Models",
+      "url": "https://arxiv.org/abs/2606.23583v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:48:43Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "safety"
+      ],
+      "summary": "Safety benchmarks assume that test-condition behavior predicts deployment behavior, an assumption that fails if models detect evaluation cues and adapt. This opens a gap between benchmark performance and deployment behavior: compliance mea...",
+      "raw_excerpt": "Safety benchmarks assume that test-condition behavior predicts deployment behavior, an assumption that fails if models detect evaluation cues and adapt. This opens a gap between benchmark performance and deployment behavior: compliance measured under test conditions becomes an optimistic upper bound that overstates how safely a model behaves once the evaluation harness is removed. We characterize this evaluation awareness through eight experiments across 37 open-weight models and seven families. (i)Detection is moderate and training-driven (24/37 models exceed chance, best AUROC 0.714 vs.0.81...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research, safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "39f81c6fcefa09aa"
+    },
+    {
+      "id": "46bdbcad08966990",
+      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+      "url": "https://arxiv.org/abs/2606.22565v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T15:59:41Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "evaluation",
+        "research",
+        "regulation"
+      ],
+      "summary": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks remains unclear. In this paper, we aim t...",
+      "raw_excerpt": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks remains unclear. In this paper, we aim to systematically investigate the key question: What can multimodal Chain-of-Thought reasoning do, and where and why does it fall short? To this end, we evaluate 12 multimodal tasks across perception and reasoning categories using both 14 non-reasoning models and 8 reasoning models. Our analysis reveals several important findings: (1) CoT is not a free lunch...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, multimodal, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "ae373947f921b033"
+    },
+    {
+      "id": "57154df236580fc6",
+      "title": "MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop",
+      "url": "https://arxiv.org/abs/2606.22557v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T15:32:57Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "evaluation",
+        "research",
+        "product",
+        "regulation"
+      ],
+      "summary": "Computer use agents (CUAs) have advanced rapidly in desktop automation, and a growing number of users deploy CUAs such as OpenClaw on Mac Mini for always-on automation. However, existing benchmarks, including those for macOS, evaluate agen...",
+      "raw_excerpt": "Computer use agents (CUAs) have advanced rapidly in desktop automation, and a growing number of users deploy CUAs such as OpenClaw on Mac Mini for always-on automation. However, existing benchmarks, including those for macOS, evaluate agents without framework augmentation and rely on binary evaluation. As a result, they fail to capture both the framework capabilities leveraged by modern CUAs and the partial progress on long-horizon, multi-application tasks. We present MacAgentBench, a comprehensive macOS agent benchmark comprising 676 tasks across 25 applications, with nearly 60% involving bo...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: agents, evaluation, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "afe41eabd0111531"
     },
     {
       "id": "9b71b57e4042e079",
@@ -2077,6 +2183,66 @@
       "content_hash": "b86b52a9d2d1b46a"
     },
     {
+      "id": "4a1a2edfc53fbcf8",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-14T17:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "raw_excerpt": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "score": 86,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 7 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "68018e6abe8eb5bd"
+    },
+    {
+      "id": "ddc7b24a91dcf271",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-12T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "raw_excerpt": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "score": 86,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 7 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "cd8917e2120ff3cc"
+    },
+    {
       "id": "043e5abd40266556",
       "title": "BBVA puts AI at the core of banking with OpenAI",
       "url": "https://openai.com/index/bbva",
@@ -2507,6 +2673,39 @@
       "content_hash": "958c5bab1ddab695"
     },
     {
+      "id": "965bb4d2ca17efb5",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-06-22T00:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "regulation"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 84,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 7 days",
+        "official source",
+        "matched tags: model, regulation",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "a8cfe43451f6e447"
+    },
+    {
       "id": "381e7f583722c98d",
       "title": "Introducing LifeSciBench",
       "url": "https://openai.com/index/introducing-life-sci-bench",
@@ -2514,7 +2713,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -2564,6 +2763,96 @@
         "official model or product signal"
       ],
       "content_hash": "a17d68f20a3f7e30"
+    },
+    {
+      "id": "da51b3ff6580d673",
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-08T01:30:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "safety"
+      ],
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "raw_excerpt": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "score": 83,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: multimodal, safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "cbfdf5003b5e0863"
+    },
+    {
+      "id": "b90e074e514a25d9",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-03T10:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "regulation"
+      ],
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "raw_excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "score": 83,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "c438da2700ee6af7"
+    },
+    {
+      "id": "f4e0423d66a14da4",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-02T07:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "regulation"
+      ],
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "raw_excerpt": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "score": 83,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "328255d871da61cc"
     },
     {
       "id": "730baeba5515aec5",
@@ -2665,6 +2954,35 @@
       "content_hash": "f6bc55b346cb6597"
     },
     {
+      "id": "d38f7a49e86de9da",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-11T00:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "regulation"
+      ],
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "raw_excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "score": 80,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "71bc77978591fad5"
+    },
+    {
       "id": "c7866bf4d0809ad4",
       "title": "From data to decisions: how LSEG is scaling trusted AI",
       "url": "https://openai.com/index/lseg",
@@ -2694,62 +3012,33 @@
       "content_hash": "8b9bc1b4f395aa85"
     },
     {
-      "id": "4a1a2edfc53fbcf8",
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "id": "df48d050ae2c7c16",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-06-14T17:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2026-06-03T10:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
-        "product"
+        "safety"
       ],
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "raw_excerpt": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "score": 79,
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "raw_excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "score": 80,
       "score_reasons": [
         "trusted source weight 56",
-        "published in the last 7 days",
+        "published in the last 30 days",
         "official source",
-        "matched tags: product"
+        "matched tags: safety"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "68018e6abe8eb5bd"
-    },
-    {
-      "id": "ddc7b24a91dcf271",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-12T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "raw_excerpt": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "score": 79,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 7 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "cd8917e2120ff3cc"
+      "content_hash": "49d4c98137976a2a"
     },
     {
       "id": "59dcce5e5c6ff34b",
@@ -2854,6 +3143,58 @@
       "content_hash": "d5e46e6596b6ea17"
     },
     {
+      "id": "98916af90b99edbd",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-08T14:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "raw_excerpt": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "score": 77,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "7e403b553f3856e8"
+    },
+    {
+      "id": "079b6eb163b43b04",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-02T12:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "raw_excerpt": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "score": 77,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "1c11613bbd0d05d0"
+    },
+    {
       "id": "580043e12558a415",
       "title": "Querying an astronomical database using large language models: the ALeRCE text-to-SQL system",
       "url": "https://arxiv.org/abs/2606.18108v1",
@@ -2929,7 +3270,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2949,93 +3290,6 @@
         "outside preferred AI focus"
       ],
       "content_hash": "5d96fcef88c629d1"
-    },
-    {
-      "id": "da51b3ff6580d673",
-      "title": "Built to benefit everyone: our plan",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "multimodal",
-        "safety"
-      ],
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "raw_excerpt": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: multimodal, safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "cbfdf5003b5e0863"
-    },
-    {
-      "id": "b90e074e514a25d9",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "safety",
-        "regulation"
-      ],
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "raw_excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: safety, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "c438da2700ee6af7"
-    },
-    {
-      "id": "f4e0423d66a14da4",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "safety",
-        "regulation"
-      ],
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "raw_excerpt": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: safety, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "328255d871da61cc"
     },
     {
       "id": "088cdea1352ec333",
@@ -3078,7 +3332,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3109,7 +3363,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3140,7 +3394,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3228,34 +3482,6 @@
       "content_hash": "e6bb9dbd34785231"
     },
     {
-      "id": "d38f7a49e86de9da",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "regulation"
-      ],
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "raw_excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "score": 73,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "71bc77978591fad5"
-    },
-    {
       "id": "2bbd640798bc11c5",
       "title": "Why don’t cancer medicines work the same for everyone?",
       "url": "https://news.microsoft.com/signal/articles/why-dont-cancer-medicines-work-the-same-for-everyone-ex-vivo",
@@ -3283,34 +3509,6 @@
         "official model or product signal"
       ],
       "content_hash": "7720f5aa4f2cabb4"
-    },
-    {
-      "id": "df48d050ae2c7c16",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "raw_excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "score": 73,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "49d4c98137976a2a"
     },
     {
       "id": "8e5019b6c9475b8e",
@@ -3381,7 +3579,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3401,31 +3599,6 @@
       "content_hash": "2fd941322277581d"
     },
     {
-      "id": "98916af90b99edbd",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "raw_excerpt": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "score": 70,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "7e403b553f3856e8"
-    },
-    {
       "id": "02b9c90015956d47",
       "title": "The Open Source Community is backing OpenEnv for Agentic RL",
       "url": "https://huggingface.co/blog/openenv-agentic-rl",
@@ -3433,7 +3606,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents",
@@ -3458,29 +3631,37 @@
       "content_hash": "558b73ca0899fc2b"
     },
     {
-      "id": "079b6eb163b43b04",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "id": "37cc65adbe22aa0e",
+      "title": "LangMAP: A Language-Adaptive Approach to Tokenization",
+      "url": "https://arxiv.org/abs/2606.23566v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:32:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
-      "tags": [],
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "raw_excerpt": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "score": 70,
+      "tags": [
+        "model",
+        "product",
+        "research"
+      ],
+      "summary": "Language-specific tokenizers improve tokenization quality and the downstream performance of models on those languages. However, using such a tokenizer comes at a cost: either a new model must be trained from scratch, or the vocabulary of a...",
+      "raw_excerpt": "Language-specific tokenizers improve tokenization quality and the downstream performance of models on those languages. However, using such a tokenizer comes at a cost: either a new model must be trained from scratch, or the vocabulary of an existing pretrained model must be adapted. We propose Language-adaptive Maximum a Posteriori (LangMAP) Tokenization, a tokenization scheme that extends the UnigramLM algorithm to the multilingual setting, producing language-specific tokenization from a single shared vocabulary. Notably, LangMAP can be used when training a multilingual language model from s...",
+      "score": 69,
       "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, product, research"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "outside preferred AI focus"
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "1c11613bbd0d05d0"
+      "content_hash": "610f486667dc0454"
     },
     {
       "id": "03565b0b529fc9cd",
@@ -3490,7 +3671,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -3522,7 +3703,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3549,7 +3730,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "model"
@@ -3581,7 +3762,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-16T19:55:52Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "model"
@@ -3613,7 +3794,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3644,7 +3825,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -3670,7 +3851,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3701,7 +3882,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3732,7 +3913,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -3763,7 +3944,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -3820,7 +4001,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3847,7 +4028,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:26:44Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3874,7 +4055,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -3892,6 +4073,37 @@
         "thin feed summary"
       ],
       "content_hash": "842f185d8f223ce0"
+    },
+    {
+      "id": "1ce2aa9bb46fb039",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-08T00:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "raw_excerpt": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "score": 64,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "low-signal content: jobs",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "43b0de887926794f"
     },
     {
       "id": "e70593614d4d4340",
@@ -3932,7 +4144,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -3956,6 +4168,38 @@
       "content_hash": "8fd9b01b928c9180"
     },
     {
+      "id": "ca4bf01b41e6c93b",
+      "title": "MAS-PromptBench: When Does Prompt Optimization Improve Multi-Agent LLM Systems?",
+      "url": "https://arxiv.org/abs/2606.23664v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:48:40Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "research"
+      ],
+      "summary": "Multi-agent systems (MAS) offer a scalable path forward for agentic AI, comprising multiple LLM-based agents, each assigned a system prompt and a position within a workflow that governs inter-agent coordination and output aggregation. Syst...",
+      "raw_excerpt": "Multi-agent systems (MAS) offer a scalable path forward for agentic AI, comprising multiple LLM-based agents, each assigned a system prompt and a position within a workflow that governs inter-agent coordination and output aggregation. System prompts thus form a critical and accessible optimization surface: they specify agents' roles and behaviors, enabling system-level improvements without model finetuning. Although prompt optimization has shown substantial potential for single LLMs, extending it to MAS poses distinct challenges, notably an exponentially growing search space. It remains uncle...",
+      "score": 61,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "dd9eba67c4eee892"
+    },
+    {
       "id": "6a195bcb8e2d1848",
       "title": "v0.22.1rc2: fix: resolve CUTLASS fmin compatibility for DeepSeek-V4 init",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.1rc2",
@@ -3963,7 +4207,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "model"
@@ -3995,7 +4239,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T03:05:08Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "model"
@@ -4059,7 +4303,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4119,7 +4363,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -4181,7 +4425,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4201,36 +4445,6 @@
       "content_hash": "54766a8b735761f9"
     },
     {
-      "id": "1ce2aa9bb46fb039",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "raw_excerpt": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "score": 57,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "low-signal content: jobs"
-      ],
-      "content_hash": "43b0de887926794f"
-    },
-    {
       "id": "be3ad97197e440f0",
       "title": "Direct Preference Optimization Beyond Chatbots",
       "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
@@ -4238,7 +4452,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4256,6 +4470,33 @@
         "thin feed summary"
       ],
       "content_hash": "625e55f730b396d5"
+    },
+    {
+      "id": "04c1d26ba61347ee",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-01T12:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "raw_excerpt": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "score": 55,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "low-signal content: jobs",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "898cef51186807f9"
     },
     {
       "id": "9fe3dacc5d5fff5b",
@@ -4297,7 +4538,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -4326,7 +4567,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -4355,7 +4596,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -4377,32 +4618,6 @@
       "content_hash": "dd876dc6f86d717e"
     },
     {
-      "id": "04c1d26ba61347ee",
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "raw_excerpt": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "score": 48,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: jobs"
-      ],
-      "content_hash": "898cef51186807f9"
-    },
-    {
       "id": "51824cb6a706b4cc",
       "title": "v0.30.8-rc0",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.30.8-rc0",
@@ -4410,7 +4625,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-12T00:21:46Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -4470,7 +4685,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -4497,7 +4712,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -4529,7 +4744,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -4556,7 +4771,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -4583,7 +4798,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T18:36:50Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "server: context shift for context windows larger than 8k, add error w…",
@@ -4610,7 +4825,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4663,6 +4878,823 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "6520bfb135364b20"
+    },
+    {
+      "id": "43c014977682e556",
+      "title": "RECALL: Recovery Experience Collection for Active Lifelong Learning in Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2606.23617v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:12:50Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "research",
+        "safety",
+        "product",
+        "regulation"
+      ],
+      "summary": "Vision-Language-Action (VLA) models are commonly fine-tuned through passive imitation learning, where additional demonstrations are collected for tasks where the policy performs poorly. This approach incurs several downsides: it requires t...",
+      "raw_excerpt": "Vision-Language-Action (VLA) models are commonly fine-tuned through passive imitation learning, where additional demonstrations are collected for tasks where the policy performs poorly. This approach incurs several downsides: it requires the robot to fail before data collection is triggered, provides little guidance about which states require supervision, and wastes demonstrator effort on redundant parts of the task where the policy already performs well. In this paper, we propose an active, continual learning paradigm for VLAs. We demonstrate that active, uncertainty-guided data collection l...",
+      "score": 34,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, research, safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "eb5c7cecd4818278"
+    },
+    {
+      "id": "36395633098ded57",
+      "title": "Solve for the Hyperparameter, Skip the Search: Kolmogorov-Optimal Scaling Laws for Spline Regression",
+      "url": "https://arxiv.org/abs/2606.23575v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:41:10Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "product",
+        "regulation",
+        "research"
+      ],
+      "summary": "Hyperparameter tuning almost always means search: fit the model at every value on a grid, score each by cross-validation, and keep the winner. For spline regression that search is unnecessary. The optimal resolution can be solved for in cl...",
+      "raw_excerpt": "Hyperparameter tuning almost always means search: fit the model at every value on a grid, score each by cross-validation, and keep the winner. For spline regression that search is unnecessary. The optimal resolution can be solved for in closed form, to the accuracy an exhaustive search reaches, at a fraction of the compute. Three ingredients make this possible: classical approximation theory pins the squared bias to a known power of the resolution G, exactly the Kolmogorov n-width of the smoothness class; the basis dimension is an explicit polynomial in G; and leave-one-out error follows from...",
+      "score": 34,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, product, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "383f16a2c35b78c3"
+    },
+    {
+      "id": "75ac058e06850a18",
+      "title": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
+      "url": "https://arxiv.org/abs/2606.23678v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:58:54Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "research",
+        "product"
+      ],
+      "summary": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature focuses primarily on tool-use within v...",
+      "raw_excerpt": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature focuses primarily on tool-use within vision-perception tasks. However, such approaches typically rely on predefined heuristics for visual manipulation and are inherently incapable of addressing numerical computation problems due to their exclusive focus on visual operations. This paper empowers MLLMs with adaptive interleaved reasoning capabilities through extended reinforcement learning trainin...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "75d1b41803cb8f93"
+    },
+    {
+      "id": "520f36cf5e6c01dd",
+      "title": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
+      "url": "https://arxiv.org/abs/2606.23673v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:57:15Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "product"
+      ],
+      "summary": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focus on individual indicators such as depr...",
+      "raw_excerpt": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focus on individual indicators such as depression or anxiety while providing limited support for comprehensive and explainable decision-making. To address this limitation, this study proposes PsyBridge, a hybrid intelligent decision-support framework designed for multi-dimensional mental health assessment through the integration of clinically validated screening tools, cognitive evaluation, and perso...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "0e5c6dfc13b293a1"
+    },
+    {
+      "id": "00400276e441c368",
+      "title": "On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners",
+      "url": "https://arxiv.org/abs/2606.23668v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:52:59Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "safety",
+        "research"
+      ],
+      "summary": "Large Language Models (LLMs) are frequently portrayed as general-purpose solvers capable of solving arbitrary tasks. We argue that this view overlooks a fundamental constraint: language is a compressed and capacity-limited interface for co...",
+      "raw_excerpt": "Large Language Models (LLMs) are frequently portrayed as general-purpose solvers capable of solving arbitrary tasks. We argue that this view overlooks a fundamental constraint: language is a compressed and capacity-limited interface for conveying task information. Modelling User--System interaction as a bilevel \\emph{cheap-talk} game, we analyse how latent tasks are encoded into prompts and reinterpreted under alignment and safety constraints. We introduce a conceptual decomposition separating task inference from execution and derive PAC-Bayes bounds that distinguish finite-sample estimation...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, inference, safety, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "540ac1d791cb3d67"
+    },
+    {
+      "id": "6db38351aff99018",
+      "title": "AI Exposure Scores: what they measure, what they miss, and what comes next",
+      "url": "https://arxiv.org/abs/2606.23633v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:23:33Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety",
+        "regulation",
+        "research"
+      ],
+      "summary": "A set of exposure scores calculated in 2023 has become a central empirical input to the future of work debate. Produced by Eloundou et al. (2023) and referred to here as the GPTs are GPTs scores, they define exposure as the share of occupa...",
+      "raw_excerpt": "A set of exposure scores calculated in 2023 has become a central empirical input to the future of work debate. Produced by Eloundou et al. (2023) and referred to here as the GPTs are GPTs scores, they define exposure as the share of occupational tasks a large language model can assist with. This work is a genuine methodological contribution, but as the scores travel from the time and place they were produced, the limitations the authors named do not always travel with them. Two gaps have widened as a result. The first is structural, between what static exposure scores measure and what policy...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, safety, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "c4fbc172718ee81f"
+    },
+    {
+      "id": "a18c90424ff36d79",
+      "title": "DiT-Reward: Generative Representations for Text-to-Image Reward Modeling",
+      "url": "https://arxiv.org/abs/2606.23626v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:19:58Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "evaluation",
+        "research"
+      ],
+      "summary": "Can representations learned for image generation also support the evaluation of generated images? We study text-to-image reward prediction as a downstream task of generative representation learning. To this end, we introduce DiT-Reward, wh...",
+      "raw_excerpt": "Can representations learned for image generation also support the evaluation of generated images? We study text-to-image reward prediction as a downstream task of generative representation learning. To this end, we introduce DiT-Reward, which converts a pretrained text-to-image Diffusion Transformer into a reward model by processing near-clean image latents and aggregating text-conditioned image representations across transformer layers. Under the same training data mixture as HPSv3, DiT-Reward outperforms HPSv3 on all four evaluated preference benchmarks, reaching 85.6% on HPDv2 and 77.6% on...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "d4569a4e10a62123"
+    },
+    {
+      "id": "7c493d96289b75d4",
+      "title": "Hedgementation = Hedgerow Segmentation: A Remote Sensing Benchmark",
+      "url": "https://arxiv.org/abs/2606.23615v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:12:35Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "product"
+      ],
+      "summary": "We propose Hedgementation: a new benchmark to evaluate machine learning models for hedgerow mapping from remote sensing data at country scale and 10m$^2$ spatial resolution. We combine and harmonize multiple remote sensing data products an...",
+      "raw_excerpt": "We propose Hedgementation: a new benchmark to evaluate machine learning models for hedgerow mapping from remote sensing data at country scale and 10m$^2$ spatial resolution. We combine and harmonize multiple remote sensing data products and ground truth labels sourced from a hedgerow inventory in France. We measure the ability of three baseline models to generalize across spatial distance, and across climatic zones, a more explicitly challenging task. Our benchmark tests both supervised and self-supervised learning approaches for remote sensing, applied to tracking fine-scale features of high...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ef7273e72183eb85"
+    },
+    {
+      "id": "e207a530281c7738",
+      "title": "Data Selection Through Iterative Self-Filtering for Vision-Language Settings",
+      "url": "https://arxiv.org/abs/2606.23611v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:11:15Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "research",
+        "product"
+      ],
+      "summary": "The availability of large amounts of clean data is paramount to training neural networks. However, at large scales, manual oversight is impractical, resulting in sizeable datasets that can be very noisy. Attempts to mitigate this obstacle...",
+      "raw_excerpt": "The availability of large amounts of clean data is paramount to training neural networks. However, at large scales, manual oversight is impractical, resulting in sizeable datasets that can be very noisy. Attempts to mitigate this obstacle to producing performant vision-language models have so far involved heuristics, curated reference datasets, and using pre-trained models. Here we propose a novel, bootstrapped method in which a CLIP model is trained on an evolving, self-selected dataset. This evolving dataset constitutes a balance of filtered, highly probable clean samples as well as diverse...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "4da7354846568d03"
+    },
+    {
+      "id": "6a2d1b72ddea77f2",
+      "title": "Causal Discovery in the Era of Agents",
+      "url": "https://arxiv.org/abs/2606.23608v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:09:22Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "product",
+        "research"
+      ],
+      "summary": "Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constraints. These approaches promise faster an...",
+      "raw_excerpt": "Recent attempts to combine large language models (LLMs) with causal discovery ask models to infer pairwise directions, propose graph structures, or inject language-model outputs as priors and constraints. These approaches promise faster analysis, but they also obscure whether a causal evidence is supported by data and assumptions or by textual associations, prompt artifacts and hallucinated mechanisms. We argue for a different role for agents in causal discovery. Agents should inspect data, retrieve context, explain method assumptions and clarify graph outputs, but they should not supply edge...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "a3a1347c4eb32058"
+    },
+    {
+      "id": "7b9ae7b4b721d5f2",
+      "title": "Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers",
+      "url": "https://arxiv.org/abs/2606.23607v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:08:28Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "product",
+        "research"
+      ],
+      "summary": "Linear mode connectivity (LMC) provides a promising foundation for understanding and merging independently trained neural networks, but existing methods typically optimize the interpolation path from only one model endpoint, limiting their...",
+      "raw_excerpt": "Linear mode connectivity (LMC) provides a promising foundation for understanding and merging independently trained neural networks, but existing methods typically optimize the interpolation path from only one model endpoint, limiting their scalability and effectiveness for large pretrained transformers. We propose a novel and scalable framework for enabling LMC-based model merging to {\\em billion-parameter pretrained transformers}. Our method applies properly parameterized functionality-preserving weight transformations to align functionally equivalent solutions, and introduces a dual learnin...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, inference, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "97bab3b790e05831"
+    },
+    {
+      "id": "2583086fb0a60c44",
+      "title": "Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse",
+      "url": "https://arxiv.org/abs/2606.23581v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:47:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "agents",
+        "regulation",
+        "research"
+      ],
+      "summary": "Multimodal agents repeatedly re-examine the same video frames, UI screenshots, and rendered artifacts as their context window slides and reasoning iterates, yet every look-back re-encodes from scratch, because prefix caches serve reuse onl...",
+      "raw_excerpt": "Multimodal agents repeatedly re-examine the same video frames, UI screenshots, and rendered artifacts as their context window slides and reasoning iterates, yet every look-back re-encodes from scratch, because prefix caches serve reuse only at a fixed leading position. We show this recompute is avoidable, and identify exactly what naive KV reuse loses: the cross-chunk conditioning a chunk absorbs from its neighbours. This loss is asymmetric. The direct readout of a cached chunk is recovered exactly and for free by the standard state-merge. What remains is a diffuse, low-rank residue concentra...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: multimodal, agents, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "2e3960f4900156f2"
+    },
+    {
+      "id": "436ae19b46dc7885",
+      "title": "Scheduling Thoughts: Learning the Order of Thought in Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2606.23567v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:32:25Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety",
+        "regulation",
+        "research"
+      ],
+      "summary": "Masked diffusion language models decode by iteratively unmasking tokens, where the unmasking order defines an \"order of thought\" that strongly influences generation quality yet is typically chosen heuristically. We derive a tractable upper...",
+      "raw_excerpt": "Masked diffusion language models decode by iteratively unmasking tokens, where the unmasking order defines an \"order of thought\" that strongly influences generation quality yet is typically chosen heuristically. We derive a tractable upper bound on the sequential decoding mismatch, measured by the Kullback-Leibler divergence and expressed in terms of the model's pathwise log-likelihood, with tightness under sufficient model expressivity. This bound induces a dense self-aware reward over ordered trajectories, casting order selection as a principled policy optimization problem with a frozen den...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, safety, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "df3677b9d2d8a394"
+    },
+    {
+      "id": "9736119587e30cc8",
+      "title": "The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model",
+      "url": "https://arxiv.org/abs/2606.23546v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:18:06Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product",
+        "hardware",
+        "research"
+      ],
+      "summary": "Transformer-based models underpin modern natural language processing but incur rapidly growing computational and energy costs. As training scales in both model size and parallelism, accurately predicting energy consumption has become criti...",
+      "raw_excerpt": "Transformer-based models underpin modern natural language processing but incur rapidly growing computational and energy costs. As training scales in both model size and parallelism, accurately predicting energy consumption has become critical for sustainable and cost-aware system design. We present a framework for modeling the energy consumption of Transformer training on multiple GPUs. Using controlled architectural sweeps of BERT models, we relate measured energy to lightweight proxies for compute, memory traffic, and hardware efficiency. Inspired by roofline models, our approach incorporat...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, product, hardware, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "7dd0571ecbd7b1f0"
+    },
+    {
+      "id": "7f5c847bdf55c1d8",
+      "title": "Semantic Browsing: Controllable Diversity for Image Generation",
+      "url": "https://arxiv.org/abs/2606.23679v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:59:17Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "research"
+      ],
+      "summary": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interpretation. Existing methods to improve d...",
+      "raw_excerpt": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interpretation. Existing methods to improve diversity produce outputs driven by incidental variations rather than meaningful design choices. This motivates a new variant of the diversity task where structure is enforced on the generated samples. We introduce a method for controlled diversity that enables Semantic Browsing, where users can navigate structured image galleries and experience creative expl...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "274683b4dddae50b"
+    },
+    {
+      "id": "a9022483e278d6b7",
+      "title": "Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles",
+      "url": "https://arxiv.org/abs/2606.23672v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:57:08Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research",
+        "product"
+      ],
+      "summary": "This paper presents our algorithmic innovations for the NVIDIA Nemotron Model Reasoning Challenge, focusing on Bit Manipulation Puzzles. In this task, the objective is to discover a hidden logical rule transforming input binary strings to...",
+      "raw_excerpt": "This paper presents our algorithmic innovations for the NVIDIA Nemotron Model Reasoning Challenge, focusing on Bit Manipulation Puzzles. In this task, the objective is to discover a hidden logical rule transforming input binary strings to outputs, then apply it to unseen inputs. Large Language Models (LLMs) notoriously struggle here; traditional methods force them to simulate complex boolean logic and arithmetic, leading to hallucinations. Furthermore, the search space of bitwise operations (combinations of shifts, rotations, and logic gates) suffers from a severe combinatorial explosion. To...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "8442976555a3ae51"
+    },
+    {
+      "id": "249176f28b38367f",
+      "title": "TailorMind: Towards Preference-Aligned Multimodal Content Generation",
+      "url": "https://arxiv.org/abs/2606.23643v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:31:21Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "research"
+      ],
+      "summary": "Personalized content systems depend on available UGC and struggle when suitable content is absent, delayed, or costly to create. Although multimodal generators can synthesize content on demand, how to translate behavioral traces into gener...",
+      "raw_excerpt": "Personalized content systems depend on available UGC and struggle when suitable content is absent, delayed, or costly to create. Although multimodal generators can synthesize content on demand, how to translate behavioral traces into generation-ready preferences remains underexplored. We study personalized multimodal content generation: creating user-tailored multimodal content without existing item pools or waiting for matching UGC. We propose TailorMind, linking collaborative preference modeling with controllable multimodal generation. TailorMind enriches sparse user histories via hypergrap...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "cf334363694ae0b7"
+    },
+    {
+      "id": "0c992e6bdf0212e4",
+      "title": "Discovering Latent Groups for Robust Classification",
+      "url": "https://arxiv.org/abs/2606.23609v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:09:35Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "research"
+      ],
+      "summary": "Machine learning models exploit spurious correlations, achieving high average accuracy but failing disproportionately on underrepresented subgroups. Existing methods address this by adjusting network parameters, guided either by subgroup a...",
+      "raw_excerpt": "Machine learning models exploit spurious correlations, achieving high average accuracy but failing disproportionately on underrepresented subgroups. Existing methods address this by adjusting network parameters, guided either by subgroup annotations or inferred pseudo-group labels. Yet at inference, these methods produce only a class prediction, with no insight into a sample's latent subgroup. We propose neural classification trees (NCT), a framework that achieves robustness by encoding subgroup structure in its tree-shaped architecture. By routing each sample to an \"easy\" or \"hard\" node of t...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, inference, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "f322f16f325aec49"
+    },
+    {
+      "id": "467644b4123cd95f",
+      "title": "Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking",
+      "url": "https://arxiv.org/abs/2606.23604v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:06:32Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product",
+        "research"
+      ],
+      "summary": "The tracking-by-detection paradigm in multi-object tracking (MOT) typically relies on static appearance descriptors to complement motion estimation. However, these descriptors are frame-independent, limiting their robustness as visual cues...",
+      "raw_excerpt": "The tracking-by-detection paradigm in multi-object tracking (MOT) typically relies on static appearance descriptors to complement motion estimation. However, these descriptors are frame-independent, limiting their robustness as visual cues. Since such descriptors are often obtained from computationally intensive pretrained backbones, real-time MOT systems frequently abandon appearance cues altogether and rely solely on motion prediction and geometric association. In this work, we introduce Polycepta, an object-centric appearance state estimation framework that reformulates appearance modeling...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "de128d060fc4356b"
+    },
+    {
+      "id": "4295a0481b18392a",
+      "title": "SPIRAL: Learning to Search and Aggregate",
+      "url": "https://arxiv.org/abs/2606.23595v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:02:09Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "research"
+      ],
+      "summary": "Language model reasoning can be substantially improved at test time via scaffolds that scale inference compute across different primitives -- sequential reasoning within a trace, independently sampled parallel traces, and aggregation of mu...",
+      "raw_excerpt": "Language model reasoning can be substantially improved at test time via scaffolds that scale inference compute across different primitives -- sequential reasoning within a trace, independently sampled parallel traces, and aggregation of multiple reasoning traces into a final response. During post-training, however, language models are optimized only for sequential reasoning within a single trace. We introduce Sequential-Parallel-Aggregative Reinforcement Learning (SPIRAL), a framework in which a language model is trained to use all three primitives, as part of a unified inference compute pipe...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, inference, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "feea51468dae819d"
+    },
+    {
+      "id": "ce0d86db631eec64",
+      "title": "The Topology of Ill-Posed Questions: Persistent Homology for Detection and Steering in LLMs",
+      "url": "https://arxiv.org/abs/2606.23590v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:58:59Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product",
+        "research"
+      ],
+      "summary": "Ill-posed questions, including ambiguous, underspecified, or contradictory queries, may admit no valid answer or multiple plausible answers, posing a challenge for large language models (LLMs). Existing approaches largely analyze ill-posed...",
+      "raw_excerpt": "Ill-posed questions, including ambiguous, underspecified, or contradictory queries, may admit no valid answer or multiple plausible answers, posing a challenge for large language models (LLMs). Existing approaches largely analyze ill-posedness through model outputs and often focus on specific subclasses. We investigate whether diverse sources of ill-posedness can be represented within a unified topology of LLM internal states and whether this structure can be used to steer response behavior. We model the contextual hidden states of prompt tokens at each transformer layer as a point cloud and...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "2989f928299b4b23"
+    },
+    {
+      "id": "1343d927cf9c0203",
+      "title": "Decentralized Autonomous Traffic Management through Corridor Networks",
+      "url": "https://arxiv.org/abs/2606.23585v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:49:53Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product",
+        "research"
+      ],
+      "summary": "As autonomous aircraft are introduced at scale and traffic density increases, centralized management becomes insufficient to coordinate the large numbers of crewed and uncrewed aircraft. Dedicated Advanced Air Mobility (AAM) corridors have...",
+      "raw_excerpt": "As autonomous aircraft are introduced at scale and traffic density increases, centralized management becomes insufficient to coordinate the large numbers of crewed and uncrewed aircraft. Dedicated Advanced Air Mobility (AAM) corridors have therefore been proposed for organizing high-density autonomous traffic flows. The desire to scalably provide autonomous aircraft flexibility in trajectory planning motivates the development of decentralized approaches to traffic management in AAM corridors. In this work, we extend a multi-agent reinforcement learning (MARL) approach to address the challenge...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: agents, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "e9999896a541b4c3"
+    },
+    {
+      "id": "d4f74fbe93620d19",
+      "title": "A Spectral Theory of Normalized Corrected GNN Propagation",
+      "url": "https://arxiv.org/abs/2606.23572v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:38:50Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "regulation",
+        "research"
+      ],
+      "summary": "We develop a spectral theory for \\emph{normalized corrected GNN propagation}. The object of study is the symmetric normalized adjacency with its degree-stationary component removed, matching the normalization used by standard GCN-style mod...",
+      "raw_excerpt": "We develop a spectral theory for \\emph{normalized corrected GNN propagation}. The object of study is the symmetric normalized adjacency with its degree-stationary component removed, matching the normalization used by standard GCN-style models while isolating the stationary direction most directly tied to oversmoothing. The central theoretical question is whether this corrected normalized operator preserves class-discriminative signal after many propagation layers. Our main result is a high-probability exact-recovery theorem for the binary Contextual Stochastic Block Model after \\(k=O(\\log n)\\...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "0ebf00fbc45b191d"
+    },
+    {
+      "id": "a619c2a2a8a8cf90",
+      "title": "Approximating velocity fields with planted attractors via Neural-ODEs for classification purposes",
+      "url": "https://arxiv.org/abs/2606.23550v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:25:07Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product",
+        "research"
+      ],
+      "summary": "In this work, Neural ODEs equipped with a curated collection of equilibrium points have been successfully employed for classification tasks.The planted attractors serve as indicators for the target classes, while the velocity field leverag...",
+      "raw_excerpt": "In this work, Neural ODEs equipped with a curated collection of equilibrium points have been successfully employed for classification tasks.The planted attractors serve as indicators for the target classes, while the velocity field leveraging the universal approximation capabilities of the architecture shapes the dynamical landscape.This process defines the basins of attraction of the trained model, effectively directing each input provided as an initial condition toward its corresponding destination target.",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "6b5f61d75122a771"
+    },
+    {
+      "id": "bc211512d0719f5e",
+      "title": "SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations",
+      "url": "https://arxiv.org/abs/2606.23548v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:22:01Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research",
+        "product"
+      ],
+      "summary": "This paper presents SuperCond-GNN, a graph neural network-based surrogate model for predicting the voltage distribution in high-temperature superconducting (HTS) magnets. HTS magnets are modeled as lumped-element equivalent circuits and ma...",
+      "raw_excerpt": "This paper presents SuperCond-GNN, a graph neural network-based surrogate model for predicting the voltage distribution in high-temperature superconducting (HTS) magnets. HTS magnets are modeled as lumped-element equivalent circuits and mapped onto graph representations, enabling message passing GNNs to learn the electrical response as a function of circuit topology, material properties, and operating current. As a proof of concept, tape stacks of up to 10 tapes are considered across a range of circuit topologies and operating conditions. The surrogate is trained on data generated from circui...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "dab77dc80e0c66c2"
     },
     {
       "id": "0baf836ffe0bf3dd",
@@ -5348,6 +6380,318 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "b158c76a8637a801"
+    },
+    {
+      "id": "8985793f9d5be985",
+      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
+      "url": "https://arxiv.org/abs/2606.23687v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:59:53Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize to very long sequences. We propose Ran...",
+      "raw_excerpt": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize to very long sequences. We propose Randomized YaRN, a training method that improves length generalization by combining YaRN-based positional extrapolation with randomized positional encoding and a length curriculum. During training on short context data, tokens are assigned YaRN positional encodings sampled from a larger position range, exposing the model to out-of-distribution positional repres...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "1b3d27e7d4e4a82d"
+    },
+    {
+      "id": "7f09e4edcf8c71db",
+      "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
+      "url": "https://arxiv.org/abs/2606.23676v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:58:52Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evidence indicates that stochastic gradient...",
+      "raw_excerpt": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evidence indicates that stochastic gradient noise in LLM pretraining is typically heavy-tailed. Recent work shows that sign-based optimizers such as Lion and Muon achieve sharp heavy-tailed rates, and that AdaGrad can also converge under heavy-tailed noise. However, no rigorous convergence theory for AdamW has yet been established in this regime. Can AdamW converge under the same heavy-tailed assumpti...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ec04cc2b24ecfab0"
+    },
+    {
+      "id": "0683537ca4d76a38",
+      "title": "Tapered Language Models",
+      "url": "https://arxiv.org/abs/2606.23670v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:56:25Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This is a default inherited from the origina...",
+      "raw_excerpt": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This is a default inherited from the original transformer and largely unchanged since, yet a growing body of evidence suggests that layers contribute non-uniformly to the final output, with later layers refining the residual stream rather than transforming it. We ask whether parameter capacity should reflect this asymmetry. Our controlled experiment shows that, under a fixed budget, allocating more ca...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "29d9d0782bc7bda8"
+    },
+    {
+      "id": "0db7266a7cb08ab8",
+      "title": "Diffusion Models Adapt to Low-Dimensional Structure Under Flexible Coefficient Choices",
+      "url": "https://arxiv.org/abs/2606.23627v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:20:56Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Diffusion models are known to exploit unknown low-dimensional structure to accelerate sampling. However, existing convergence theory under low-dimensional data structure has largely focused on update rules with narrowly prescribed coeffici...",
+      "raw_excerpt": "Diffusion models are known to exploit unknown low-dimensional structure to accelerate sampling. However, existing convergence theory under low-dimensional data structure has largely focused on update rules with narrowly prescribed coefficient choices. This raises a fundamental question: is adaptation to low-dimensional structure sensitive to the precise choice of update coefficients? In this paper, we show that such adaptation is a robust property of diffusion models. For a broad class of update coefficients, we prove that $\\widetilde{O}(k/\\varepsilon)$ iterations suffice to generate an $\\var...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "73826aa8571bc865"
+    },
+    {
+      "id": "6bb53e51936af9c9",
+      "title": "Quantifying the Agreement Between Data-Influence and Data-Similarity to Understand LLM Behavior",
+      "url": "https://arxiv.org/abs/2606.23591v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:00:04Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "One way to understand LLM behavior is to trace its output back to the training data. Two types of measures are commonly used for output tracing: data-similarity and data-influence. The former is cheaper while the latter is believed to be m...",
+      "raw_excerpt": "One way to understand LLM behavior is to trace its output back to the training data. Two types of measures are commonly used for output tracing: data-similarity and data-influence. The former is cheaper while the latter is believed to be more accurate. Even though many works have compared them for ground-truth tasks, no such comparisons exist for output tracing. Here, we fill this gap and precisely quantify the commonalities and differences between the two measures. We do this by first ranking the training documents according to each measure and then computing the overlap between the two rank...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "cc370e7eda923d8a"
+    },
+    {
+      "id": "b8adb7a4df5f9bda",
+      "title": "A Generative Model for Closed-Loop Microsimulation of Signalized Intersections",
+      "url": "https://arxiv.org/abs/2606.23588v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:57:10Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Traffic microsimulators rely on hand-crafted behavior models that reproduce aggregate flow but miss the heterogeneous interactions between vehicles at signalized intersections. Learned trajectory predictors capture richer interactions but...",
+      "raw_excerpt": "Traffic microsimulators rely on hand-crafted behavior models that reproduce aggregate flow but miss the heterogeneous interactions between vehicles at signalized intersections. Learned trajectory predictors capture richer interactions but are short-horizon and tend to be unstable when run in closed loop. We present Enactor, an actor-centric generative model for closed-loop intersection microsimulation. The model focuses on vehicles; pedestrians are included as context that can influence vehicle decisions but not predicted. Dynamic actors and lane polylines are encoded in polar coordinates ref...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "02359557e1c6950a"
+    },
+    {
+      "id": "ed119e0bdb7d76ab",
+      "title": "Patient-Aware Contrastive Learning Preserves Per-Patient Structure in RR-Interval Representations",
+      "url": "https://arxiv.org/abs/2606.23570v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:35:18Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Contrastive representation learning struggles on physiological signals when each subject contributes a distinct baseline pattern. If class differences overlap with subject differences,class-level objectives such as supervised contrastive l...",
+      "raw_excerpt": "Contrastive representation learning struggles on physiological signals when each subject contributes a distinct baseline pattern. If class differences overlap with subject differences,class-level objectives such as supervised contrastive learning tend to merge per-subject structure into a single per-class cluster,removing the individual variation that a model needs to generalize to unseen patients. We study this problem in the setting of Paroxysmal Atrial Fibrillation(PAF) detection from RR-interval(RRI) sequences and propose a patient-aware contrastive objective that forms positive pairs onl...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "b949b27094c12d35"
+    },
+    {
+      "id": "da30e046205d4cc3",
+      "title": "SVD-Surgeon: Optimal Singular-Value Surgery for Large Language Model Compression",
+      "url": "https://arxiv.org/abs/2606.23568v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:33:16Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Large language models (LLMs) achieve remarkable performance across a wide range of tasks, but their deployment is constrained by substantial memory and compute requirements. Low-rank compression via singular value decomposition (SVD) is an...",
+      "raw_excerpt": "Large language models (LLMs) achieve remarkable performance across a wide range of tasks, but their deployment is constrained by substantial memory and compute requirements. Low-rank compression via singular value decomposition (SVD) is an effective remedy, but existing methods focus on how to factorize and which components to keep. We introduce SVD-Surgeon, a training-free method that brings the Optimal Brain Surgeon (OBS) framework to the singular-value basis. Treating each singular value as a parameter, it computes a closed-form update of the retained singular values that compensates, to s...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "84e6259ea5d1ad89"
+    },
+    {
+      "id": "fb929c41a9c8dddb",
+      "title": "Learning Process Rewards via Success Visitation Matching for Efficient RL",
+      "url": "https://arxiv.org/abs/2606.23640v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:30:24Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "product",
+        "regulation",
+        "research"
+      ],
+      "summary": "In many modern applications of reinforcement learning (RL), the natural reward for a task of interest is inherently sparse: a reward of 0 is given everywhere except when the task is completed, when a reward of +1 is given. Training a polic...",
+      "raw_excerpt": "In many modern applications of reinforcement learning (RL), the natural reward for a task of interest is inherently sparse: a reward of 0 is given everywhere except when the task is completed, when a reward of +1 is given. Training a policy to maximize such a sparse reward requires solving a challenging credit assignment problem, leading to slow or ineffective RL improvement. We propose a simple approach to transform a sparse outcome reward into a dense process reward. Our approach relies on training a discriminator to distinguish between previous successful and unsuccessful episodes, and usi...",
+      "score": 25,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: safety, product, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "a50478602a5dbc35"
+    },
+    {
+      "id": "dfd19d46f9b7c6d1",
+      "title": "VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct",
+      "url": "https://arxiv.org/abs/2606.23543v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:17:30Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "safety",
+        "regulation",
+        "research"
+      ],
+      "summary": "Scaling reinforcement learning for visual mathematical reasoning requires more than generating harder questions: as data volume grows, the reward labels themselves must remain reliable. Yet existing data pipelines scale supervision while t...",
+      "raw_excerpt": "Scaling reinforcement learning for visual mathematical reasoning requires more than generating harder questions: as data volume grows, the reward labels themselves must remain reliable. Yet existing data pipelines scale supervision while trusting the labeller, and policy-side methods assume the underlying answers are already correct. We instead treat scaling as a verifiable data-construction problem and decouple two axes before any policy update: prompt difficulty, expanded by route-specific evolution operators, and answer reliability, enforced by offline hypothesis-test falsification. We ins...",
+      "score": 25,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: multimodal, safety, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "72816494735cc37e"
     },
     {
       "id": "313a15a655d47305",
@@ -6239,6 +7583,37 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "b4708f589be26681"
+    },
+    {
+      "id": "abf3aefba94feadb",
+      "title": "Neural Networks as Linear Regression: An Introduction for Statisticians",
+      "url": "https://arxiv.org/abs/2606.23601v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:04:37Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "product",
+        "builder-opinion",
+        "research"
+      ],
+      "summary": "Neural networks are a commonly used prediction tool in computer science and statistics. However, the barrier to entry of this interesting field remains high, particularly for classical statisticians trained in a frequentist perspective. In...",
+      "raw_excerpt": "Neural networks are a commonly used prediction tool in computer science and statistics. However, the barrier to entry of this interesting field remains high, particularly for classical statisticians trained in a frequentist perspective. In this letter, we demystify neural networks by describing networks that approximate a linear regression and describe common customizations that provide a foundation for further study.",
+      "score": 22,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: product, builder-opinion, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "18125b46e46c0ac7"
     },
     {
       "id": "81183c1776b2d8cf",
@@ -7363,6 +8738,186 @@
       "content_hash": "ba78e1f60c27cd75"
     },
     {
+      "id": "775087a12a6e01a5",
+      "title": "Action-BED: Task-Driven Bayesian Experimental Design with Singly Intractable Objectives",
+      "url": "https://arxiv.org/abs/2606.23662v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:48:07Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "summary": "Bayesian experimental design (BED) has traditionally been based on maximising expected uncertainty reductions from prior to posterior. A major shortfall of this approach is that it leads to doubly intractable objectives that are difficult...",
+      "raw_excerpt": "Bayesian experimental design (BED) has traditionally been based on maximising expected uncertainty reductions from prior to posterior. A major shortfall of this approach is that it leads to doubly intractable objectives that are difficult to optimise, while customising them to particular downstream tasks of interest can also be difficult. Following first principles decision theory, we demonstrate that BED can alternatively be formulated in terms of an expected future loss (EFL) on downstream actions, providing a simple and naturally task-driven framework. Critically, we then show that all suc...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "679e8d9ca2a3a7ff"
+    },
+    {
+      "id": "68e59802f22cff18",
+      "title": "Dynamic estimation of slowly varying sequences",
+      "url": "https://arxiv.org/abs/2606.23655v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:40:49Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "summary": "We consider the problem of sequentially approximating functions of each element in a slowly-varying sequence, i.e. one where the magnitude $α_i$ of the difference between the elements at positions $i$ and $i-1$ is small. Recent work on imp...",
+      "raw_excerpt": "We consider the problem of sequentially approximating functions of each element in a slowly-varying sequence, i.e. one where the magnitude $α_i$ of the difference between the elements at positions $i$ and $i-1$ is small. Recent work on implicit trace estimation shows that when $α_t$ is small, reusing queries to past sequence elements can reduce the overall cost [Dharangutte \\& Musco, NeurIPS~2021; Woodruff et al., NeurIPS~2022]. We introduce a framework generalizing this to a variety of linear and nonlinear functions on diverse vector spaces, obtaining novel sequential estimation results for...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "a6eab6e9a0664e2f"
+    },
+    {
+      "id": "e8ae0307ecd50ea7",
+      "title": "AI-driven Optimisation of Quality of Recovery (QoR) in Remote Patient Monitoring",
+      "url": "https://arxiv.org/abs/2606.23631v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:23:06Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "regulation",
+        "research"
+      ],
+      "summary": "Remote patient monitoring depends on patient-reported data to capture the subjective dimension of recovery that devices cannot measure. The Quality of Recovery (QoR-15) survey is the gold-standard instrument for this purpose. It was design...",
+      "raw_excerpt": "Remote patient monitoring depends on patient-reported data to capture the subjective dimension of recovery that devices cannot measure. The Quality of Recovery (QoR-15) survey is the gold-standard instrument for this purpose. It was designed and validated for occasional in-hospital assessment, yet remote monitoring now administers it to patients daily. In our own post-surgical deployment, only 55% of patients submitted the survey more than 14 days of 30 monitoring days. We developed QoR-compact, a five-item daily input for the RPM prediction pathway. Setting a deployment-driven target of one-...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "a5c7808495ec9929"
+    },
+    {
+      "id": "9223bf4813710780",
+      "title": "MORL-A2C: Multi-Objective Reinforcement Learning Reranker for Optimizing Healthiness in MOPI-HFRS",
+      "url": "https://arxiv.org/abs/2606.23603v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:06:30Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "summary": "Unhealthy dietary behavior continues to be a persistent public health issue in the United States, exacerbated by recommendation systems that prioritize user preference without considering nutritional health. The Multi-Objective Personalize...",
+      "raw_excerpt": "Unhealthy dietary behavior continues to be a persistent public health issue in the United States, exacerbated by recommendation systems that prioritize user preference without considering nutritional health. The Multi-Objective Personalized Interpretable Health-aware Food Recommendation System (MOPI-HFRS), from which this work extends, addresses this by jointly optimizing preference, health, and diversity through Pareto-based optimization. However, this approach relies on static, per-step tradeoff solutions that fail to capture the sequential nature of dietary decision-making. We introduce MO...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "f48f5d4124fa096a"
+    },
+    {
+      "id": "88e521b2be494b55",
+      "title": "Against Proxy Optimization",
+      "url": "https://arxiv.org/abs/2606.23597v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:02:53Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "summary": "I discuss conditions under which maximizing a proxy utility function is harmful and suggest this poses problems for applying decision theory.",
+      "raw_excerpt": "I discuss conditions under which maximizing a proxy utility function is harmful and suggest this poses problems for applying decision theory.",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "8e7c4ce15f1cb243"
+    },
+    {
+      "id": "12a9718f7ddb9934",
+      "title": "It's Much Easier for Neural Networks to learn Game of Life Dynamics with the Right Activation Function: Polynomial Kolmogorov-Arnold Networks",
+      "url": "https://arxiv.org/abs/2606.23587v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T16:56:59Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "builder-opinion",
+        "research"
+      ],
+      "summary": "Previous work has found a gap between the scale of neural networks that reliably learn Conway's Game of Life, and minimal networks capable of representing the classic cellular automaton with hard-coded parameter values. Viewing neural netw...",
+      "raw_excerpt": "Previous work has found a gap between the scale of neural networks that reliably learn Conway's Game of Life, and minimal networks capable of representing the classic cellular automaton with hard-coded parameter values. Viewing neural network learning as a search process suggests a dependence on networks large enough to contain sub-networks with lucky initializations (sometimes known as 'winning tickets') that actually learn the task. In this work, we reorient our perspective from discovering Life rules as a search problem back to a learning problem, and reason that with fitting inductive bia...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: builder-opinion, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "4694629b1cd6f815"
+    },
+    {
       "id": "f4ed844e7ae3ed69",
       "title": "Grounded Scaling: Why Agentic AI Needs Deterministic Environments",
       "url": "https://arxiv.org/abs/2606.22495v1",
@@ -8264,6 +9819,93 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "143fbce0911f4594"
+    },
+    {
+      "id": "e8f9ae16c2b0bed6",
+      "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
+      "url": "https://arxiv.org/abs/2606.23689v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:59:55Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "research"
+      ],
+      "summary": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while sim...",
+      "raw_excerpt": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while simulation-based generation is cheap and scalable but cannot certify contact validity. A natural solution is to generate candidate grasps and verify them on real hardware, but this scales only if the entire collection loop (perception, execution, labeling, and reset) runs without human intervention. We present AutoDex, an automated real-world data-collection sy...",
+      "score": 16,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "f7ccb949534ca156"
+    },
+    {
+      "id": "3b95acd97ac61a16",
+      "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
+      "url": "https://arxiv.org/abs/2606.23680v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:59:20Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "research"
+      ],
+      "summary": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like...",
+      "raw_excerpt": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like an open-close grasp primitive. We introduce CoorDex, a learning pipeline that converts high-dimensional body and dexterous hand control into coordinated latent residual control, enabling high-DoF dexterous loco-manipulation on the move. Starting from simulated whole-body and hand demonstrations, CoorDex trains privileged motion tracking teachers for the hum...",
+      "score": 16,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "ad46b7bc4701fc0e"
+    },
+    {
+      "id": "17e5a980142d71bf",
+      "title": "Muown Implicitly Performs Angular Step-size Decay",
+      "url": "https://arxiv.org/abs/2606.23637v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-22T17:28:45Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "research"
+      ],
+      "summary": "Matrix-aware optimizers such as Muon and Muown have recently shown strong empirical performance for pre-training Transformers. In particular, Muown separates each weight matrix into row magnitudes and an un-normalized direction variable, u...",
+      "raw_excerpt": "Matrix-aware optimizers such as Muon and Muown have recently shown strong empirical performance for pre-training Transformers. In particular, Muown separates each weight matrix into row magnitudes and an un-normalized direction variable, updating the former with Adam and the latter with Muon. We show that the directional update of Muown is equivalent to a Riemannian step on the normalized directions, while the magnitude of the un-normalized parameterization only modulates the angular step size. This explains the step-size stability of Muown and suggests making the angular step size explicit....",
+      "score": 16,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "f29694b3ae0b3a03"
     },
     {
       "id": "2efa190ecc3658e8",

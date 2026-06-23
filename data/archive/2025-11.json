@@ -4,6 +4,37 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "ec9167a4ecbbee20",
+      "title": "Mixpanel security incident: what OpenAI users need to know",
+      "url": "https://openai.com/index/mixpanel-incident",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-11-26T19:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+      "raw_excerpt": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "b6807559a5454d02"
+    },
+    {
       "id": "8d601fb98b9e65cd",
       "title": "Introducing shopping research in ChatGPT",
       "url": "https://openai.com/index/chatgpt-shopping-research",
@@ -358,36 +389,6 @@
       "content_hash": "067f29ef57bdc29c"
     },
     {
-      "id": "ec9167a4ecbbee20",
-      "title": "Mixpanel security incident: what OpenAI users need to know",
-      "url": "https://openai.com/index/mixpanel-incident",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-11-26T19:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
-      "raw_excerpt": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
-      "score": 93,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "b6807559a5454d02"
-    },
-    {
       "id": "2121f89a61569829",
       "title": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
       "url": "https://openai.com/index/chatgpt-for-veterans",
@@ -605,6 +606,37 @@
       "content_hash": "cbbe21f4c4362663"
     },
     {
+      "id": "8f309e2a6858057e",
+      "title": "Introducing the Teen Safety Blueprint",
+      "url": "https://openai.com/index/introducing-the-teen-safety-blueprint",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-11-06T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "product"
+      ],
+      "summary": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+      "raw_excerpt": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+      "score": 81,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "4f05a59ec73c154a"
+    },
+    {
       "id": "e85b035cf95c4f9d",
       "title": "How CRED is tapping AI to deliver premium customer experiences",
       "url": "https://openai.com/index/cred-swamy-seetharaman",
@@ -725,6 +757,36 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "d3deb9a45141734d"
+    },
+    {
+      "id": "29f37c1598117e08",
+      "title": "Introducing OpenAI for Ireland",
+      "url": "https://openai.com/index/openai-for-ireland",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-11-14T04:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
+      "raw_excerpt": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "6943bae3ed8443ac"
     },
     {
       "id": "574161e956a98014",
@@ -877,6 +939,36 @@
       "content_hash": "94868670ba46e3c5"
     },
     {
+      "id": "f688037bba7de7ed",
+      "title": "Introducing IndQA",
+      "url": "https://openai.com/index/introducing-indqa",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-11-03T22:30:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "evaluation",
+        "research"
+      ],
+      "summary": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
+      "raw_excerpt": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
+      "score": 75,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "4ec3b5666e2c40f5"
+    },
+    {
       "id": "43cb7efd66ff2048",
       "title": "How evals drive the next chapter in AI for businesses",
       "url": "https://openai.com/index/evals-drive-next-chapter-of-ai",
@@ -907,63 +999,56 @@
       "content_hash": "33b30e7859bea98b"
     },
     {
-      "id": "8f309e2a6858057e",
-      "title": "Introducing the Teen Safety Blueprint",
-      "url": "https://openai.com/index/introducing-the-teen-safety-blueprint",
+      "id": "77d49aac921aab5d",
+      "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
+      "url": "https://openai.com/index/openai-and-foxconn-collaborate",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-11-06T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2025-11-20T14:50:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
-      "tags": [
-        "safety",
-        "product"
-      ],
-      "summary": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
-      "raw_excerpt": "Discover OpenAI’s Teen Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
-      "score": 74,
+      "tags": [],
+      "summary": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key co...",
+      "raw_excerpt": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key components domestically to accelerate advanced AI infrastructure.",
+      "score": 69,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
-        "official source",
-        "matched tags: safety, product"
+        "official source"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "4f05a59ec73c154a"
+      "content_hash": "2832fbdd90a09e86"
     },
     {
-      "id": "29f37c1598117e08",
-      "title": "Introducing OpenAI for Ireland",
-      "url": "https://openai.com/index/openai-for-ireland",
+      "id": "0d6323266542f19d",
+      "title": "Helping 1,000 small businesses build with AI",
+      "url": "https://openai.com/index/small-business-ai-jam",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-11-14T04:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2025-11-20T06:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
-      "raw_excerpt": "OpenAI launches OpenAI for Ireland, partnering with the Irish Government, Dogpatch Labs and Patch to help SMEs, founders and young builders use AI to innovate, boost productivity and build the next generation of Irish tech startups.",
-      "score": 71,
+      "tags": [],
+      "summary": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
+      "raw_excerpt": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
+      "score": 69,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
-        "official source",
-        "matched tags: product"
+        "official source"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "6943bae3ed8443ac"
+      "content_hash": "d87197dc990b7ee5"
     },
     {
       "id": "48c82545f2e78d57",
@@ -997,35 +1082,6 @@
         "thin feed summary"
       ],
       "content_hash": "3bbdc936c7cf3c57"
-    },
-    {
-      "id": "f688037bba7de7ed",
-      "title": "Introducing IndQA",
-      "url": "https://openai.com/index/introducing-indqa",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-11-03T22:30:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "evaluation",
-        "research"
-      ],
-      "summary": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-      "raw_excerpt": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: evaluation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "4ec3b5666e2c40f5"
     },
     {
       "id": "2ae3590a0d085afa",
@@ -1097,7 +1153,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-06T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1118,56 +1174,6 @@
       "content_hash": "de7d9b2504ea050b"
     },
     {
-      "id": "77d49aac921aab5d",
-      "title": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
-      "url": "https://openai.com/index/openai-and-foxconn-collaborate",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-11-20T14:50:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key co...",
-      "raw_excerpt": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key components domestically to accelerate advanced AI infrastructure.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "2832fbdd90a09e86"
-    },
-    {
-      "id": "0d6323266542f19d",
-      "title": "Helping 1,000 small businesses build with AI",
-      "url": "https://openai.com/index/small-business-ai-jam",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-11-20T06:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
-      "raw_excerpt": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "d87197dc990b7ee5"
-    },
-    {
       "id": "f482b0e9fc5aae7b",
       "title": "20x Faster TRL Fine-tuning with RapidFire AI",
       "url": "https://huggingface.co/blog/rapidfireai",
@@ -1175,7 +1181,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -1206,7 +1212,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-24T16:08:47Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1236,7 +1242,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -1266,7 +1272,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1293,7 +1299,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1320,7 +1326,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-17T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1347,7 +1353,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T21:37:26Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1374,7 +1380,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",

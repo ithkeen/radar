@@ -731,6 +731,36 @@
       "content_hash": "ed9d2b5e66de3e75"
     },
     {
+      "id": "ea4e4e11d85eb5d7",
+      "title": "The next chapter for AI in the EU",
+      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-28T01:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "raw_excerpt": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "5a76d0f08a4fdd86"
+    },
+    {
       "id": "61967ed53f8fcf7a",
       "title": "PVH reimagines the future of fashion with OpenAI",
       "url": "https://openai.com/index/pvh-future-of-fashion",
@@ -821,21 +851,21 @@
       "content_hash": "19b01e590985d01f"
     },
     {
-      "id": "ea4e4e11d85eb5d7",
-      "title": "The next chapter for AI in the EU",
-      "url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "id": "b857161094218dbb",
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "url": "https://openai.com/index/horizon-1000",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-01-28T01:00:00Z",
+      "published_at": "2026-01-20T21:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "product"
       ],
-      "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "raw_excerpt": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
-      "score": 71,
+      "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+      "raw_excerpt": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+      "score": 78,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -845,9 +875,40 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "5a76d0f08a4fdd86"
+      "content_hash": "a899e55a3fc37e0b"
+    },
+    {
+      "id": "f6f8b1ccb9857b5d",
+      "title": "Announcing OpenAI Grove Cohort 2",
+      "url": "https://openai.com/index/openai-grove",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-02T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from...",
+      "raw_excerpt": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "35ad1d085775199a"
     },
     {
       "id": "5e4fb8bc5ba7d528",
@@ -879,35 +940,6 @@
       "content_hash": "c67f32dac1e1f93a"
     },
     {
-      "id": "b857161094218dbb",
-      "title": "Horizon 1000: Advancing AI for primary healthcare",
-      "url": "https://openai.com/index/horizon-1000",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-20T21:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
-      "raw_excerpt": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "a899e55a3fc37e0b"
-    },
-    {
       "id": "3064a65813100628",
       "title": "Stargate Community",
       "url": "https://openai.com/index/stargate-community",
@@ -937,33 +969,82 @@
       "content_hash": "728907eac79a3ad6"
     },
     {
-      "id": "f6f8b1ccb9857b5d",
-      "title": "Announcing OpenAI Grove Cohort 2",
-      "url": "https://openai.com/index/openai-grove",
+      "id": "cf4ec1d6c75215f1",
+      "title": "Introducing Edu for Countries",
+      "url": "https://openai.com/index/edu-for-countries",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-01-02T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2026-01-21T01:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from...",
-      "raw_excerpt": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
-      "score": 71,
+      "tags": [],
+      "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+      "raw_excerpt": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+      "score": 69,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
-        "official source",
-        "matched tags: product"
+        "official source"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "35ad1d085775199a"
+      "content_hash": "e681b4a28403e21c"
+    },
+    {
+      "id": "64f6f2a31dfccc61",
+      "title": "Investing in Merge Labs",
+      "url": "https://openai.com/index/investing-in-merge-labs",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-15T07:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+      "raw_excerpt": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+      "score": 69,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "4dfb4da4391f510e"
+    },
+    {
+      "id": "e044fa67f5dc504a",
+      "title": "OpenAI and SoftBank Group partner with SB Energy",
+      "url": "https://openai.com/index/stargate-sb-energy-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-09T11:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+      "raw_excerpt": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+      "score": 69,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "6c7e8ad30ed1b28b"
     },
     {
       "id": "54d604eb530dd7bb",
@@ -1103,7 +1184,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-26T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
@@ -1121,81 +1202,6 @@
       "content_hash": "2fed827567ad2d05"
     },
     {
-      "id": "cf4ec1d6c75215f1",
-      "title": "Introducing Edu for Countries",
-      "url": "https://openai.com/index/edu-for-countries",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-21T01:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
-      "raw_excerpt": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "e681b4a28403e21c"
-    },
-    {
-      "id": "64f6f2a31dfccc61",
-      "title": "Investing in Merge Labs",
-      "url": "https://openai.com/index/investing-in-merge-labs",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-15T07:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
-      "raw_excerpt": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "4dfb4da4391f510e"
-    },
-    {
-      "id": "e044fa67f5dc504a",
-      "title": "OpenAI and SoftBank Group partner with SB Energy",
-      "url": "https://openai.com/index/stargate-sb-energy-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-09T11:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
-      "raw_excerpt": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "6c7e8ad30ed1b28b"
-    },
-    {
       "id": "49b3f6f1a10d15c7",
       "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
       "url": "https://huggingface.co/blog/nvidia-reachy-mini",
@@ -1203,7 +1209,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1234,7 +1240,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-29T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "product"
@@ -1258,6 +1264,37 @@
       "content_hash": "2a7c487325c075c1"
     },
     {
+      "id": "fb38965b12e07c81",
+      "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+      "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-15T00:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+      "raw_excerpt": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+      "score": 56,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "low-signal content: jobs",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "f8ed0deab0db20a0"
+    },
+    {
       "id": "0d2abbb0fa62c353",
       "title": "Keeping your data safe when an AI agent clicks a link",
       "url": "https://openai.com/index/ai-agent-link-safety",
@@ -1265,7 +1302,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-28T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents",
@@ -1296,7 +1333,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-20T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1326,7 +1363,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-20T03:20:57Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1353,7 +1390,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-15T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1373,36 +1410,6 @@
       "content_hash": "bfcb783a1dbd56f6"
     },
     {
-      "id": "fb38965b12e07c81",
-      "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
-      "url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-15T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
-      "raw_excerpt": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
-      "score": 49,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "low-signal content: jobs"
-      ],
-      "content_hash": "f8ed0deab0db20a0"
-    },
-    {
       "id": "83fb5439cd58b2fc",
       "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
       "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
@@ -1410,7 +1417,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T22:56:51Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1437,7 +1444,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T09:16:51Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",

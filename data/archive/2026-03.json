@@ -766,6 +766,33 @@
       "content_hash": "ce6f8af5e5ff05eb"
     },
     {
+      "id": "c720bf728da92d55",
+      "title": "Helping disaster response teams turn AI into action across Asia",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-03-29T22:15:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [],
+      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "raw_excerpt": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "score": 80,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "675a307eb93c3169"
+    },
+    {
       "id": "1ba2801c79e44bbc",
       "title": "Equipping workers with insights about compensation",
       "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
@@ -919,30 +946,33 @@
       "content_hash": "614219a4269f6e94"
     },
     {
-      "id": "c720bf728da92d55",
-      "title": "Helping disaster response teams turn AI into action across Asia",
-      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "id": "4e32c322a73701ba",
+      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-03-29T22:15:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
+      "published_at": "2026-03-17T10:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
-      "tags": [],
-      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-      "raw_excerpt": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-      "score": 73,
+      "tags": [
+        "safety"
+      ],
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "raw_excerpt": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "score": 72,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
-        "official source"
+        "official source",
+        "matched tags: safety"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "thin feed summary"
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "675a307eb93c3169"
+      "content_hash": "6e2f5170fa96d4b3"
     },
     {
       "id": "b8544e21ac38f5f4",
@@ -1035,6 +1065,110 @@
         "thin feed summary"
       ],
       "content_hash": "76f4c9576b492896"
+    },
+    {
+      "id": "f7bebe3fb5356cb2",
+      "title": "Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-03-24T09:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "raw_excerpt": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "score": 69,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "590b1aab5d1c7827"
+    },
+    {
+      "id": "f16a35767e05c152",
+      "title": "OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-03-09T10:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "raw_excerpt": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "score": 69,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "2b169991e670a48a"
+    },
+    {
+      "id": "565dea8b571b3338",
+      "title": "Ensuring AI use in education leads to opportunity",
+      "url": "https://openai.com/index/ai-education-opportunity",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-03-05T09:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "raw_excerpt": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "score": 69,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ff45e038a73f0e5c"
+    },
+    {
+      "id": "83a834f6928a70ba",
+      "title": "Understanding AI and learning outcomes",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-03-04T00:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "raw_excerpt": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "score": 69,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "97e53bbbe78dbae4"
     },
     {
       "id": "8a924fa243d4c339",
@@ -1134,134 +1268,6 @@
       "content_hash": "35187e2339ca18b4"
     },
     {
-      "id": "4e32c322a73701ba",
-      "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-      "url": "https://openai.com/index/japan-teen-safety-blueprint",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-03-17T10:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-      "raw_excerpt": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "6e2f5170fa96d4b3"
-    },
-    {
-      "id": "f7bebe3fb5356cb2",
-      "title": "Update on the OpenAI Foundation",
-      "url": "https://openai.com/index/update-on-the-openai-foundation",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-03-24T09:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "raw_excerpt": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "590b1aab5d1c7827"
-    },
-    {
-      "id": "f16a35767e05c152",
-      "title": "OpenAI to acquire Promptfoo",
-      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-03-09T10:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-      "raw_excerpt": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "2b169991e670a48a"
-    },
-    {
-      "id": "565dea8b571b3338",
-      "title": "Ensuring AI use in education leads to opportunity",
-      "url": "https://openai.com/index/ai-education-opportunity",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-03-05T09:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-      "raw_excerpt": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "ff45e038a73f0e5c"
-    },
-    {
-      "id": "83a834f6928a70ba",
-      "title": "Understanding AI and learning outcomes",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-03-04T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-      "raw_excerpt": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "97e53bbbe78dbae4"
-    },
-    {
       "id": "8d885b2ad7c1ecfc",
       "title": "A New Framework for Evaluating Voice Agents (EVA)",
       "url": "https://huggingface.co/blog/ServiceNow-AI/eva",
@@ -1269,7 +1275,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-24T02:01:52Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1300,7 +1306,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-17T16:37:55Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -1331,7 +1337,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-17T12:33:39Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1362,7 +1368,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-03-05T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "Practical insights and frameworks to turn AI progress into business advantage",
@@ -1388,7 +1394,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-31T15:10:41Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1418,7 +1424,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-27T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -1448,7 +1454,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-05T14:16:49Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [
         "research"
@@ -1478,7 +1484,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-31T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1505,7 +1511,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-10T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1532,7 +1538,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-09T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1559,7 +1565,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-09T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1586,7 +1592,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-05T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
       "language": "en",
       "tags": [],
       "summary": "",
