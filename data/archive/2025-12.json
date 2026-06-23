@@ -1274,6 +1274,39 @@
       "content_hash": "2f09c24f452c64f2"
     },
     {
+      "id": "047189296b1fc818",
+      "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-12-17T13:22:18Z",
+      "fetched_at": "2026-06-23T21:43:11Z",
+      "language": "en",
+      "tags": [
+        "evaluation",
+        "research",
+        "regulation"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: evaluation, research, regulation",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "88477ab690b3db28"
+    },
+    {
       "id": "523be5574b6a8240",
       "title": "New in llama.cpp: Model Management",
       "url": "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp",
@@ -1345,7 +1378,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-16T00:00:00Z",
-      "fetched_at": "2026-06-23T17:56:03Z",
+      "fetched_at": "2026-06-23T21:43:11Z",
       "language": "en",
       "tags": [],
       "summary": "Discover how leaders can build AI-ready organizations using clear strategy, training, governance, and accelerated innovation.",
@@ -1370,7 +1403,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-08T00:00:00Z",
-      "fetched_at": "2026-06-23T17:56:03Z",
+      "fetched_at": "2026-06-23T21:43:11Z",
       "language": "en",
       "tags": [],
       "summary": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
@@ -1395,7 +1428,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-15T16:01:04Z",
-      "fetched_at": "2026-06-23T17:56:03Z",
+      "fetched_at": "2026-06-23T21:43:11Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1426,7 +1459,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-04T00:00:00Z",
-      "fetched_at": "2026-06-23T17:56:03Z",
+      "fetched_at": "2026-06-23T21:43:11Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1450,38 +1483,6 @@
       "content_hash": "8a750061e5b446bc"
     },
     {
-      "id": "047189296b1fc818",
-      "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-12-17T13:22:18Z",
-      "fetched_at": "2026-06-23T17:56:03Z",
-      "language": "en",
-      "tags": [
-        "evaluation",
-        "research",
-        "regulation"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: evaluation, research, regulation",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "88477ab690b3db28"
-    },
-    {
       "id": "56b15a316092221d",
       "title": "Introducing OpenAI Academy for News Organizations",
       "url": "https://openai.com/index/openai-academy-for-news-organizations",
@@ -1489,7 +1490,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-17T06:00:00Z",
-      "fetched_at": "2026-06-23T17:56:03Z",
+      "fetched_at": "2026-06-23T21:43:11Z",
       "language": "en",
       "tags": [
         "product"
@@ -1520,7 +1521,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-09T06:00:00Z",
-      "fetched_at": "2026-06-23T17:56:03Z",
+      "fetched_at": "2026-06-23T21:43:11Z",
       "language": "en",
       "tags": [
         "product"
@@ -1551,7 +1552,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-18T00:00:00Z",
-      "fetched_at": "2026-06-23T17:56:03Z",
+      "fetched_at": "2026-06-23T21:43:11Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1578,7 +1579,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-05T00:00:00Z",
-      "fetched_at": "2026-06-23T17:56:03Z",
+      "fetched_at": "2026-06-23T21:43:11Z",
       "language": "en",
       "tags": [],
       "summary": "",
