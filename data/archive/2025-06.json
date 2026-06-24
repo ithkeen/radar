@@ -37,38 +37,6 @@
       "content_hash": "12e6adffa15def0d"
     },
     {
-      "id": "1dbdd72894e598d9",
-      "title": "Driving scalable growth with OpenAI o3, GPT-4.1, and CUA",
-      "url": "https://openai.com/index/unify",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-06-24T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "product"
-      ],
-      "summary": "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing...",
-      "raw_excerpt": "Unify, an AI-powered GTM platform, uses OpenAI’s o3, GPT-4.1, and CUA to automate prospecting, research, and outreach. With hyper-personalized messaging and an always-on workflow, Unify helps teams generate pipeline at scale while focusing on high-impact customer interactions.",
-      "score": 98,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice, builder opinion",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "edb2f5ba1f311e79"
-    },
-    {
       "id": "f5885f88efe602c0",
       "title": "AI in Australia—OpenAI’s Economic Blueprint",
       "url": "https://openai.com/global-affairs/openais-australia-economic-blueprint",
@@ -138,7 +106,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-06-26T00:00:00Z",
-      "fetched_at": "2026-06-23T21:43:11Z",
+      "fetched_at": "2026-06-24T03:36:54Z",
       "language": "en",
       "tags": [],
       "summary": "",
