@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-24T17:54:40Z",
+  "generated_at": "2026-06-24T21:22:43Z",
   "display_window_days": 30,
   "retention_days": 365,
   "source_status": {
@@ -8,7 +8,7 @@
       "name": "OpenAI News",
       "status": "live",
       "latest_item_at": "2026-06-24T06:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 1020,
       "error": null
     },
@@ -16,7 +16,7 @@
       "name": "Anthropic News",
       "status": "error",
       "latest_item_at": null,
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 0,
       "error": "HTTP Error 404: Not Found"
     },
@@ -24,7 +24,7 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 20,
       "error": null
     },
@@ -32,7 +32,7 @@
       "name": "Hugging Face Blog",
       "status": "live",
       "latest_item_at": "2026-06-24T16:00:13Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 810,
       "error": null
     },
@@ -40,7 +40,7 @@
       "name": "Microsoft AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-16T13:41:44Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 10,
       "error": null
     },
@@ -48,7 +48,7 @@
       "name": "arXiv AI/ML/CL",
       "status": "live",
       "latest_item_at": "2026-06-23T17:59:01Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 50,
       "error": null
     },
@@ -56,7 +56,7 @@
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-19T13:25:50Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 10,
       "error": null
     },
@@ -64,7 +64,7 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-24T08:01:53Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 10,
       "error": null
     },
@@ -72,15 +72,15 @@
       "name": "Ollama Releases",
       "status": "live",
       "latest_item_at": "2026-06-18T04:26:41Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 10,
       "error": null
     },
     "github-openai-python": {
       "name": "OpenAI Python Releases",
       "status": "live",
-      "latest_item_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "latest_item_at": "2026-06-24T20:55:08Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "item_count": 10,
       "error": null
     }
@@ -879,36 +879,6 @@
       "content_hash": "582a1629520d3665"
     },
     {
-      "id": "480508a9ca16ad81",
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-23T11:17:22Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "raw_excerpt": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 24h",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "6c86004f21ea6741"
-    },
-    {
       "id": "0a4755cb1c877335",
       "title": "Release v5.12.0",
       "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.0",
@@ -1514,42 +1484,6 @@
         "demoted by source diversity quota"
       ],
       "content_hash": "d4e1599311eba433"
-    },
-    {
-      "id": "030e6a0f583561ef",
-      "title": "Learning User Simulators with Turing Rewards",
-      "url": "https://arxiv.org/abs/2606.19336v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T17:58:48Z",
-      "fetched_at": "2026-06-18T11:50:53Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "evaluation",
-        "research",
-        "product"
-      ],
-      "summary": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing approaches generally do so by training a la...",
-      "raw_excerpt": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing approaches generally do so by training a large language model (LLM) to match a single ground truth response, either by maximizing the log probability or by using a similarity reward. We instead propose {Turing-RL}: a Turing-Test-based reinforcement learning approach for training user simulator models. {Turing-RL} uses a discriminative Turing reward with an LLM judge to score how indistinguishable a g...",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, agents, evaluation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "056603793c28df30"
     },
     {
       "id": "818f7773d82aab79",
@@ -2725,6 +2659,35 @@
       "content_hash": "b86b52a9d2d1b46a"
     },
     {
+      "id": "480508a9ca16ad81",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-23T00:00:00Z",
+      "fetched_at": "2026-06-23T11:17:22Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "raw_excerpt": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "6c86004f21ea6741"
+    },
+    {
       "id": "5ff2f715f1e62741",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "url": "https://openai.com/index/ai-chemist-improves-reaction",
@@ -2753,66 +2716,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "3e91520bb6b88ec3"
-    },
-    {
-      "id": "4a1a2edfc53fbcf8",
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-14T17:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "raw_excerpt": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-      "score": 86,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 7 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "68018e6abe8eb5bd"
-    },
-    {
-      "id": "ddc7b24a91dcf271",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-12T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "raw_excerpt": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
-      "score": 86,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 7 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "cd8917e2120ff3cc"
     },
     {
       "id": "043e5abd40266556",
@@ -2915,7 +2818,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-24T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -3136,124 +3039,40 @@
       "content_hash": "c2da02e6f20d4004"
     },
     {
-      "id": "da51b3ff6580d673",
-      "title": "Built to benefit everyone: our plan",
-      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
+      "id": "030e6a0f583561ef",
+      "title": "Learning User Simulators with Turing Rewards",
+      "url": "https://arxiv.org/abs/2606.19336v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T17:58:48Z",
+      "fetched_at": "2026-06-18T11:50:53Z",
       "language": "en",
       "tags": [
-        "multimodal",
-        "safety"
+        "model",
+        "agents",
+        "evaluation",
+        "research",
+        "product"
       ],
-      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "raw_excerpt": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
-      "score": 83,
+      "summary": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing approaches generally do so by training a la...",
+      "raw_excerpt": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing approaches generally do so by training a large language model (LLM) to match a single ground truth response, either by maximizing the log probability or by using a similarity reward. We instead propose {Turing-RL}: a Turing-Test-based reinforcement learning approach for training user simulator models. {Turing-RL} uses a discriminative Turing reward with an LLM judge to score how indistinguishable a g...",
+      "score": 82,
       "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: multimodal, safety"
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, evaluation, research"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
       ],
-      "content_hash": "cbfdf5003b5e0863"
-    },
-    {
-      "id": "b90e074e514a25d9",
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [
-        "safety",
-        "regulation"
-      ],
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "raw_excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
-      "score": 83,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: safety, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "c438da2700ee6af7"
-    },
-    {
-      "id": "f4e0423d66a14da4",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [
-        "safety",
-        "regulation"
-      ],
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "raw_excerpt": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
-      "score": 83,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: safety, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "328255d871da61cc"
-    },
-    {
-      "id": "ac3d09a478fb443d",
-      "title": "OpenAI’s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [
-        "safety",
-        "regulation"
-      ],
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "raw_excerpt": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "score": 83,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: safety, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "c0387f60dfb88a9a"
+      "content_hash": "056603793c28df30"
     },
     {
       "id": "92de1b9e0f5b0a32",
@@ -3684,35 +3503,6 @@
       "content_hash": "06e4671dec918631"
     },
     {
-      "id": "d38f7a49e86de9da",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [
-        "regulation"
-      ],
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "raw_excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-      "score": 80,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "71bc77978591fad5"
-    },
-    {
       "id": "c7866bf4d0809ad4",
       "title": "From data to decisions: how LSEG is scaling trusted AI",
       "url": "https://openai.com/index/lseg",
@@ -3742,33 +3532,62 @@
       "content_hash": "8b9bc1b4f395aa85"
     },
     {
-      "id": "df48d050ae2c7c16",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "id": "4a1a2edfc53fbcf8",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
+      "published_at": "2026-06-14T17:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "safety"
+        "product"
       ],
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "raw_excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "score": 80,
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "raw_excerpt": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "score": 79,
       "score_reasons": [
         "trusted source weight 56",
-        "published in the last 30 days",
+        "published in the last 7 days",
         "official source",
-        "matched tags: safety"
+        "matched tags: product"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
-      "content_hash": "49d4c98137976a2a"
+      "content_hash": "68018e6abe8eb5bd"
+    },
+    {
+      "id": "ddc7b24a91dcf271",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-12T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "raw_excerpt": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "score": 79,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 7 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "cd8917e2120ff3cc"
     },
     {
       "id": "4a57651c4ee13669",
@@ -4105,84 +3924,6 @@
       "content_hash": "1a2b9c6eff58ea4e"
     },
     {
-      "id": "98916af90b99edbd",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "raw_excerpt": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-      "score": 77,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "7e403b553f3856e8"
-    },
-    {
-      "id": "079b6eb163b43b04",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "raw_excerpt": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
-      "score": 77,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "1c11613bbd0d05d0"
-    },
-    {
-      "id": "e62972f402e43362",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "raw_excerpt": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
-      "score": 77,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "027559979beb20b4"
-    },
-    {
       "id": "46ead61b916ae16d",
       "title": "Farming is risky business. This app helps Turkish growers succeed",
       "url": "https://news.microsoft.com/source/emea/features/farming-is-risky-business-this-app-helps-turkish-growers-succeed",
@@ -4253,7 +3994,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "safety",
@@ -4273,6 +4014,93 @@
         "outside preferred AI focus"
       ],
       "content_hash": "5d96fcef88c629d1"
+    },
+    {
+      "id": "da51b3ff6580d673",
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-08T01:30:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "safety"
+      ],
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "raw_excerpt": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "score": 76,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: multimodal, safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "cbfdf5003b5e0863"
+    },
+    {
+      "id": "b90e074e514a25d9",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-03T10:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "regulation"
+      ],
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "raw_excerpt": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "score": 76,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "c438da2700ee6af7"
+    },
+    {
+      "id": "f4e0423d66a14da4",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-02T07:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "regulation"
+      ],
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "raw_excerpt": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "score": 76,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "328255d871da61cc"
     },
     {
       "id": "088cdea1352ec333",
@@ -4308,6 +4136,35 @@
       "content_hash": "f17d08fafad1ffb5"
     },
     {
+      "id": "ac3d09a478fb443d",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-28T00:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "regulation"
+      ],
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "raw_excerpt": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "score": 76,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "c0387f60dfb88a9a"
+    },
+    {
       "id": "2eb5bcc3ad88b97e",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
@@ -4315,7 +4172,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4378,7 +4235,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "product"
@@ -4565,6 +4422,34 @@
       "content_hash": "e6bb9dbd34785231"
     },
     {
+      "id": "d38f7a49e86de9da",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-11T00:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "regulation"
+      ],
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "raw_excerpt": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "score": 73,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "71bc77978591fad5"
+    },
+    {
       "id": "2bbd640798bc11c5",
       "title": "Why don’t cancer medicines work the same for everyone?",
       "url": "https://news.microsoft.com/signal/articles/why-dont-cancer-medicines-work-the-same-for-everyone-ex-vivo",
@@ -4592,6 +4477,34 @@
         "official model or product signal"
       ],
       "content_hash": "7720f5aa4f2cabb4"
+    },
+    {
+      "id": "df48d050ae2c7c16",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-03T10:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [
+        "safety"
+      ],
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "raw_excerpt": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "score": 73,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "49d4c98137976a2a"
     },
     {
       "id": "8e5019b6c9475b8e",
@@ -4720,6 +4633,31 @@
       "content_hash": "51e3e7ebf65f0686"
     },
     {
+      "id": "98916af90b99edbd",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-08T14:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "raw_excerpt": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "score": 70,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "7e403b553f3856e8"
+    },
+    {
       "id": "02b9c90015956d47",
       "title": "The Open Source Community is backing OpenEnv for Agentic RL",
       "url": "https://huggingface.co/blog/openenv-agentic-rl",
@@ -4727,7 +4665,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "agents",
@@ -4752,6 +4690,56 @@
       "content_hash": "558b73ca0899fc2b"
     },
     {
+      "id": "079b6eb163b43b04",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-02T12:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "raw_excerpt": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "score": 70,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "1c11613bbd0d05d0"
+    },
+    {
+      "id": "e62972f402e43362",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-29T12:00:00Z",
+      "fetched_at": "2026-06-23T07:50:19Z",
+      "language": "en",
+      "tags": [],
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "raw_excerpt": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "score": 70,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "027559979beb20b4"
+    },
+    {
       "id": "635db8ff3d721189",
       "title": "Election information and safeguards in 2026",
       "url": "https://openai.com/index/election-safeguards-2026",
@@ -4759,7 +4747,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -4812,38 +4800,6 @@
       "content_hash": "0ecdb27d9b317d0c"
     },
     {
-      "id": "03565b0b529fc9cd",
-      "title": "v0.30.10-rc1",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.10-rc1",
-      "source_id": "github-ollama",
-      "source_name": "Ollama Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "ci: pin darwin release xcode ( #16788 )",
-      "raw_excerpt": "ci: pin darwin release xcode ( #16788 )",
-      "score": 67,
-      "score_reasons": [
-        "trusted source weight 43",
-        "published in the last 7 days",
-        "github_release source",
-        "matched tags: open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "31d5b4e43447e31a"
-    },
-    {
       "id": "270262b342662472",
       "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
       "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
@@ -4851,7 +4807,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4882,7 +4838,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4913,7 +4869,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4944,7 +4900,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -4970,7 +4926,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5001,7 +4957,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5032,7 +4988,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5063,7 +5019,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -5152,7 +5108,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5179,7 +5135,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5206,7 +5162,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5224,37 +5180,6 @@
         "thin feed summary"
       ],
       "content_hash": "b8d7c0716e55f39a"
-    },
-    {
-      "id": "1ce2aa9bb46fb039",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "url": "https://openai.com/index/economic-research-exchange",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "raw_excerpt": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
-      "score": 64,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "low-signal content: jobs",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "43b0de887926794f"
     },
     {
       "id": "e70593614d4d4340",
@@ -5295,7 +5220,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -5383,6 +5308,32 @@
       "content_hash": "610f486667dc0454"
     },
     {
+      "id": "833f566801f5cc28",
+      "title": "v2.44.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.44.0",
+      "source_id": "github-openai-python",
+      "source_name": "OpenAI Python Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-24T20:55:08Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
+      "language": "en",
+      "tags": [],
+      "summary": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
+      "raw_excerpt": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
+      "score": 61,
+      "score_reasons": [
+        "trusted source weight 42",
+        "published in the last 24h",
+        "github_release source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release"
+      ],
+      "content_hash": "beb5b0d3bd7dc733"
+    },
+    {
       "id": "6a195bcb8e2d1848",
       "title": "v0.22.1rc2: fix: resolve CUTLASS fmin compatibility for DeepSeek-V4 init",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.1rc2",
@@ -5390,7 +5341,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -5415,6 +5366,38 @@
       "content_hash": "946be1bc00f3f628"
     },
     {
+      "id": "03565b0b529fc9cd",
+      "title": "v0.30.10-rc1",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.10-rc1",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-17T20:01:10Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "ci: pin darwin release xcode ( #16788 )",
+      "raw_excerpt": "ci: pin darwin release xcode ( #16788 )",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 43",
+        "published in the last 7 days",
+        "github_release source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "31d5b4e43447e31a"
+    },
+    {
       "id": "4ca5042e690d6cce",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
@@ -5422,7 +5405,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5449,7 +5432,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -5481,7 +5464,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-16T19:55:52Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -5513,7 +5496,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T03:05:08Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -5577,7 +5560,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5604,7 +5587,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5631,7 +5614,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5691,7 +5674,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:26:44Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5718,7 +5701,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5745,7 +5728,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5765,6 +5748,36 @@
       "content_hash": "54766a8b735761f9"
     },
     {
+      "id": "1ce2aa9bb46fb039",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-08T00:00:00Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "raw_excerpt": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "score": 57,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "low-signal content: jobs"
+      ],
+      "content_hash": "43b0de887926794f"
+    },
+    {
       "id": "be3ad97197e440f0",
       "title": "Direct Preference Optimization Beyond Chatbots",
       "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
@@ -5772,7 +5785,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5799,7 +5812,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5826,7 +5839,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5853,7 +5866,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5871,33 +5884,6 @@
         "thin feed summary"
       ],
       "content_hash": "190398d04fc9fcc3"
-    },
-    {
-      "id": "04c1d26ba61347ee",
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "raw_excerpt": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "score": 55,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: jobs",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "898cef51186807f9"
     },
     {
       "id": "ca4bf01b41e6c93b",
@@ -5971,7 +5957,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:37:48Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6002,7 +5988,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-28T07:11:54Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "product"
@@ -6031,7 +6017,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "product"
@@ -6093,7 +6079,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "product"
@@ -6122,7 +6108,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "product"
@@ -6151,7 +6137,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "product"
@@ -6173,6 +6159,32 @@
       "content_hash": "dd876dc6f86d717e"
     },
     {
+      "id": "04c1d26ba61347ee",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-01T12:00:00Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "raw_excerpt": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "score": 48,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "low-signal content: jobs"
+      ],
+      "content_hash": "898cef51186807f9"
+    },
+    {
       "id": "51824cb6a706b4cc",
       "title": "v0.30.8-rc0",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.30.8-rc0",
@@ -6180,7 +6192,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-12T00:21:46Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "product"
@@ -6240,7 +6252,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -6267,7 +6279,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -6299,7 +6311,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -6326,7 +6338,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -6353,7 +6365,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T18:36:50Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "server: context shift for context windows larger than 8k, add error w…",
@@ -6380,7 +6392,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6435,38 +6447,6 @@
       "content_hash": "6520bfb135364b20"
     },
     {
-      "id": "dc5f14e9c7771962",
-      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
-      "url": "https://arxiv.org/abs/2606.24884v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-23T17:59:01Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "research"
-      ],
-      "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rend...",
-      "raw_excerpt": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partitions demonstrations into labeled primitives via VLM plan decomposition and end-effector poses to enable VLA primitive steerability, and (2) a VLM-gui...",
-      "score": 29,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, multimodal, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "a49a94edea69cf92"
-    },
-    {
       "id": "9a629e0d379fd3f8",
       "title": "L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models",
       "url": "https://arxiv.org/abs/2606.24825v1",
@@ -6474,7 +6454,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:10:46Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -6508,7 +6488,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:09:57Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -6543,7 +6523,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:09:31Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -6577,7 +6557,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:47:33Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -6988,7 +6968,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:28:00Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -7021,7 +7001,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:21:09Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -7054,7 +7034,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:07:47Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -7087,7 +7067,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:46:36Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -7120,7 +7100,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:42:21Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -7153,7 +7133,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:17:39Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -7186,7 +7166,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T14:29:40Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8169,29 +8149,28 @@
       "content_hash": "10919bcd4db8f74d"
     },
     {
-      "id": "94756c4c65579c94",
-      "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
-      "url": "https://arxiv.org/abs/2606.19341v1",
+      "id": "dc5f14e9c7771962",
+      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "url": "https://arxiv.org/abs/2606.24884v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-17T17:59:56Z",
-      "fetched_at": "2026-06-18T22:09:08Z",
+      "published_at": "2026-06-23T17:59:01Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
         "multimodal",
-        "agents",
         "research"
       ],
-      "summary": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks ha...",
-      "raw_excerpt": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks have emerged, they often rely on global pre-scanning, and their context cost still scales with video length. We propose OmniAgent, the first native omni-modal agent that formulates video understanding as a POMDP-based iterative Observation-Thought-Action cycle. OmniAgent executes on-demand actions to selectively distill audio-visual cues into a persistent text...",
-      "score": 25,
+      "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rend...",
+      "raw_excerpt": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partitions demonstrations into labeled primitives via VLM plan decomposition and end-effector poses to enable VLA primitive steerability, and (2) a VLM-gui...",
+      "score": 22,
       "score_reasons": [
         "trusted source weight 38",
         "published in the last 7 days",
         "paper source",
-        "matched tags: model, multimodal, agents, research"
+        "matched tags: model, multimodal, research"
       ],
       "tier": "raw",
       "quality_reasons": [
@@ -8199,7 +8178,7 @@
         "demoted broad arXiv paper",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "a1c5be466cf1d6f0"
+      "content_hash": "a49a94edea69cf92"
     },
     {
       "id": "8646021ef2d58293",
@@ -8209,7 +8188,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:21:03Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8241,7 +8220,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:12:06Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8273,7 +8252,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:56:24Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8305,7 +8284,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:50:47Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8337,7 +8316,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:40:05Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8369,7 +8348,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:39:25Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8401,7 +8380,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:33:13Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8433,7 +8412,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:24:05Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8465,7 +8444,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:00:30Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -8497,7 +8476,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T14:48:37Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -9514,68 +9493,6 @@
       "content_hash": "e869a9f7f1de9189"
     },
     {
-      "id": "05d5275346ccac48",
-      "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
-      "url": "https://arxiv.org/abs/2606.19329v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T17:54:52Z",
-      "fetched_at": "2026-06-18T22:09:08Z",
-      "language": "en",
-      "tags": [
-        "open-source",
-        "product",
-        "research"
-      ],
-      "summary": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to...",
-      "raw_excerpt": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to identify true counterparts, detect chance coincidences, and resolve ambiguities when multiple plausible candidates exist. We define a training set of high-confidence matches using NWAY, a Bayesian cross-matching framework that accounts for positional errors and source densities. We train a gradient-boosted classifier (LightGBM) on a variety of features from...",
-      "score": 22,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: open-source, product, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "7f70980242fe363c"
-    },
-    {
-      "id": "de26e9aacf0a887e",
-      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
-      "url": "https://arxiv.org/abs/2606.24879v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-23T17:55:18Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
-      "language": "en",
-      "tags": [
-        "regulation",
-        "research"
-      ],
-      "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies,...",
-      "raw_excerpt": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the last iterate features an optimization error of order $1/\\sqrt n$, thereby removing the extra $(\\log n)$ factor present in existing generic bounds. On the other hand, we show that without the i.i.d. assumption, the optimization error can be of order $(\\log n)/\\sqrt n$. Thus, under th...",
-      "score": 19,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: regulation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper"
-      ],
-      "content_hash": "7e40c6165f62e33e"
-    },
-    {
       "id": "bd995d1f0b5c1459",
       "title": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
       "url": "https://arxiv.org/abs/2606.24854v1",
@@ -9583,7 +9500,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:34:18Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -9614,7 +9531,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:30:42Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -9645,7 +9562,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:14:52Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -9676,7 +9593,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:36:28Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -9707,7 +9624,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:04:51Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -9738,7 +9655,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T14:51:58Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -9769,7 +9686,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T14:40:36Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -10989,7 +10906,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:33:51Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -11108,6 +11025,39 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "6fe48085e1c6995a"
+    },
+    {
+      "id": "94756c4c65579c94",
+      "title": "Native Active Perception as Reasoning for Omni-Modal Understanding",
+      "url": "https://arxiv.org/abs/2606.19341v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T17:59:56Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "agents",
+        "research"
+      ],
+      "summary": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks ha...",
+      "raw_excerpt": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video duration. Although interactive frameworks have emerged, they often rely on global pre-scanning, and their context cost still scales with video length. We propose OmniAgent, the first native omni-modal agent that formulates video understanding as a POMDP-based iterative Observation-Thought-Action cycle. OmniAgent executes on-demand actions to selectively distill audio-visual cues into a persistent text...",
+      "score": 17,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, multimodal, agents, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "a1c5be466cf1d6f0"
     },
     {
       "id": "2839ebdc80249c41",
@@ -11513,7 +11463,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:52:21Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -11752,6 +11702,38 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "9b90d9f8fb0ad976"
+    },
+    {
+      "id": "05d5275346ccac48",
+      "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
+      "url": "https://arxiv.org/abs/2606.19329v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T17:54:52Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "product",
+        "research"
+      ],
+      "summary": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to...",
+      "raw_excerpt": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to identify true counterparts, detect chance coincidences, and resolve ambiguities when multiple plausible candidates exist. We define a training set of high-confidence matches using NWAY, a Bayesian cross-matching framework that accounts for positional errors and source densities. We train a gradient-boosted classifier (LightGBM) on a variety of features from...",
+      "score": 14,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: open-source, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "7f70980242fe363c"
     },
     {
       "id": "cdee2bf7a7bcbe30",
@@ -12234,6 +12216,36 @@
       "content_hash": "64a2f74038e1325a"
     },
     {
+      "id": "de26e9aacf0a887e",
+      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
+      "url": "https://arxiv.org/abs/2606.24879v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-23T17:55:18Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
+      "language": "en",
+      "tags": [
+        "regulation",
+        "research"
+      ],
+      "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies,...",
+      "raw_excerpt": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the last iterate features an optimization error of order $1/\\sqrt n$, thereby removing the extra $(\\log n)$ factor present in existing generic bounds. On the other hand, we show that without the i.i.d. assumption, the optimization error can be of order $(\\log n)/\\sqrt n$. Thus, under th...",
+      "score": 12,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "7e40c6165f62e33e"
+    },
+    {
       "id": "80d6b5fdb6d22806",
       "title": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment",
       "url": "https://arxiv.org/abs/2606.24851v1",
@@ -12241,7 +12253,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:29:15Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "safety",
@@ -12271,7 +12283,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:17:24Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "product",
@@ -12301,7 +12313,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T14:28:11Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "builder-opinion",
@@ -12744,36 +12756,6 @@
       "content_hash": "d0a03698f3003638"
     },
     {
-      "id": "b36c44c0a8d6252d",
-      "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
-      "url": "https://arxiv.org/abs/2606.19334v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T17:58:22Z",
-      "fetched_at": "2026-06-18T22:09:08Z",
-      "language": "en",
-      "tags": [
-        "regulation",
-        "research"
-      ],
-      "summary": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes...",
-      "raw_excerpt": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, noise, animal control, and many other domains of everyday regulation, but they are fragmented across vendor platforms designed for human browsing rather than bulk research access. We introduce LOCUS - the Local Ordinance Corpus for the United States - a comprehensive corpus and county-harmonized acc...",
-      "score": 12,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: regulation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper"
-      ],
-      "content_hash": "cbd5fba74e9060ca"
-    },
-    {
       "id": "4c7be6b8f3acd26b",
       "title": "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation",
       "url": "https://arxiv.org/abs/2606.19315v1",
@@ -13091,7 +13073,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:15:26Z",
-      "fetched_at": "2026-06-24T17:54:40Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
       "language": "en",
       "tags": [
         "research"
@@ -13382,6 +13364,36 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "4cf1a8a25bc46473"
+    },
+    {
+      "id": "b36c44c0a8d6252d",
+      "title": "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "url": "https://arxiv.org/abs/2606.19334v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T17:58:22Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
+      "language": "en",
+      "tags": [
+        "regulation",
+        "research"
+      ],
+      "summary": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes...",
+      "raw_excerpt": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable corpora: local ordinances. Local codes govern zoning, housing, business licensing, public health, noise, animal control, and many other domains of everyday regulation, but they are fragmented across vendor platforms designed for human browsing rather than bulk research access. We introduce LOCUS - the Local Ordinance Corpus for the United States - a comprehensive corpus and county-harmonized acc...",
+      "score": 4,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "cbd5fba74e9060ca"
     },
     {
       "id": "18622c44262e5cf4",
