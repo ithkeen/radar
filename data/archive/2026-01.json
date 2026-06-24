@@ -1184,7 +1184,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-26T00:00:00Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [],
       "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
@@ -1209,7 +1209,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T00:00:00Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1240,7 +1240,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-29T00:00:00Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [
         "product"
@@ -1271,7 +1271,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-15T00:00:00Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [
         "product"
@@ -1302,7 +1302,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-28T00:00:00Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [
         "agents",
@@ -1333,7 +1333,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-20T00:00:00Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1363,7 +1363,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-20T03:20:57Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1390,7 +1390,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-15T00:00:00Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1417,7 +1417,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T22:56:51Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1444,7 +1444,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T09:16:51Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T10:50:41Z",
       "language": "en",
       "tags": [],
       "summary": "",
