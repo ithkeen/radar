@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "generated_at": "2026-06-24T10:50:41Z",
+  "generated_at": "2026-06-24T14:30:56Z",
   "display_window_days": 30,
   "retention_days": 365,
   "source_status": {
     "openai-news": {
       "name": "OpenAI News",
       "status": "live",
-      "latest_item_at": "2026-06-23T17:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
-      "item_count": 1019,
+      "latest_item_at": "2026-06-24T06:00:00Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
+      "item_count": 1020,
       "error": null
     },
     "anthropic-news": {
       "name": "Anthropic News",
       "status": "error",
       "latest_item_at": null,
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "item_count": 0,
       "error": "HTTP Error 404: Not Found"
     },
@@ -24,7 +24,7 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "item_count": 20,
       "error": null
     },
@@ -32,7 +32,7 @@
       "name": "Hugging Face Blog",
       "status": "live",
       "latest_item_at": "2026-06-23T12:51:55Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "item_count": 808,
       "error": null
     },
@@ -40,7 +40,7 @@
       "name": "Microsoft AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-16T13:41:44Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "item_count": 10,
       "error": null
     },
@@ -48,7 +48,7 @@
       "name": "arXiv AI/ML/CL",
       "status": "live",
       "latest_item_at": "2026-06-23T17:59:01Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "item_count": 50,
       "error": null
     },
@@ -56,7 +56,7 @@
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-19T13:25:50Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "item_count": 10,
       "error": null
     },
@@ -64,7 +64,7 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-24T08:01:53Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "item_count": 10,
       "error": null
     },
@@ -72,7 +72,7 @@
       "name": "Ollama Releases",
       "status": "live",
       "latest_item_at": "2026-06-18T04:26:41Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "item_count": 10,
       "error": null
     },
@@ -80,12 +80,44 @@
       "name": "OpenAI Python Releases",
       "status": "live",
       "latest_item_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "item_count": 10,
       "error": null
     }
   },
   "items": [
+    {
+      "id": "855db08b75f6ecde",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-24T06:00:00Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "hardware"
+      ],
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "raw_excerpt": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: model, inference, hardware"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "c25bc001fc91ce0e"
+    },
     {
       "id": "8f0b700afac9588e",
       "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
@@ -221,39 +253,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "0dfa5eebbd84d5f2"
-    },
-    {
-      "id": "0b690c5df303dfe7",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-06-23T12:51:55Z",
-      "fetched_at": "2026-06-23T14:49:31Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 24h",
-        "official source",
-        "matched tags: agents, product",
-        "no feed summary"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "601d52eff9515ff0"
     },
     {
       "id": "b63e5cb33bb0ec81",
@@ -669,6 +668,39 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "496faf4e63e41de9"
+    },
+    {
+      "id": "0b690c5df303dfe7",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-06-23T12:51:55Z",
+      "fetched_at": "2026-06-23T14:49:31Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 98,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 24h",
+        "official source",
+        "matched tags: agents, product",
+        "no feed summary"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "official model or product signal",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "601d52eff9515ff0"
     },
     {
       "id": "c000018ba1f03575",
@@ -1335,41 +1367,6 @@
         "demoted by source diversity quota"
       ],
       "content_hash": "0be6c446d5f14e7a"
-    },
-    {
-      "id": "d6a19ed578ac9886",
-      "title": "The Warrant Gap: Claim-Conditioned Re-scoring for Fact-Checking",
-      "url": "https://arxiv.org/abs/2606.24627v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-23T14:23:56Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "evaluation",
-        "research",
-        "regulation"
-      ],
-      "summary": "Fact-checking systems built on LLMs achieve high verdict accuracy on standard benchmarks, yet routinely output Supports labels whose cited evidence does not license the claim. Structured decomposition is the natural way to inspect those wa...",
-      "raw_excerpt": "Fact-checking systems built on LLMs achieve high verdict accuracy on standard benchmarks, yet routinely output Supports labels whose cited evidence does not license the claim. Structured decomposition is the natural way to inspect those warrants, but rigid extraction protocols strip the full-claim context that facets need. We introduce SIFT -- claim-conditioned re-scoring of extracted evidence spans against the full claim -- paired with WSP (Warranted Supports Proportion), an automatic NLI check that the cited warrant entails the claim. We evaluate on FEVER, SciFact, 5PILS, and DP across four...",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, evaluation, research, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "a4872db687a5e0b7"
     },
     {
       "id": "6aa73df744307dfd",
@@ -2392,6 +2389,41 @@
         "thin feed summary"
       ],
       "content_hash": "caf547136fb1f457"
+    },
+    {
+      "id": "d6a19ed578ac9886",
+      "title": "The Warrant Gap: Claim-Conditioned Re-scoring for Fact-Checking",
+      "url": "https://arxiv.org/abs/2606.24627v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-23T14:23:56Z",
+      "fetched_at": "2026-06-24T07:41:22Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "regulation"
+      ],
+      "summary": "Fact-checking systems built on LLMs achieve high verdict accuracy on standard benchmarks, yet routinely output Supports labels whose cited evidence does not license the claim. Structured decomposition is the natural way to inspect those wa...",
+      "raw_excerpt": "Fact-checking systems built on LLMs achieve high verdict accuracy on standard benchmarks, yet routinely output Supports labels whose cited evidence does not license the claim. Structured decomposition is the natural way to inspect those warrants, but rigid extraction protocols strip the full-claim context that facets need. We introduce SIFT -- claim-conditioned re-scoring of extracted evidence spans against the full claim -- paired with WSP (Warranted Supports Proportion), an automatic NLI check that the cited warrant entails the claim. We evaluate on FEVER, SciFact, 5PILS, and DP across four...",
+      "score": 88,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "a4872db687a5e0b7"
     },
     {
       "id": "caa52e71af35efe3",
@@ -4193,7 +4225,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "safety",
@@ -4255,7 +4287,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4318,7 +4350,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "product"
@@ -4631,7 +4663,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "agents",
@@ -4663,7 +4695,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -4723,7 +4755,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -4755,7 +4787,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4782,7 +4814,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-06-24T07:41:22Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4792,7 +4824,7 @@
       "score": 67,
       "score_reasons": [
         "trusted source weight 50",
-        "published in the last 7 days",
+        "published in the last 30 days",
         "official source",
         "matched tags: agents",
         "no feed summary"
@@ -4813,7 +4845,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4844,7 +4876,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4875,7 +4907,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -4901,7 +4933,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4932,7 +4964,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4963,7 +4995,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "agents"
@@ -4994,7 +5026,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -5083,7 +5115,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5110,7 +5142,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5137,7 +5169,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5164,7 +5196,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:26:44Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5191,7 +5223,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "product"
@@ -5253,7 +5285,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -5348,7 +5380,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model"
@@ -5380,7 +5412,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model"
@@ -5412,7 +5444,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-16T19:55:52Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model"
@@ -5444,7 +5476,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T03:05:08Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model"
@@ -5508,7 +5540,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5535,7 +5567,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5562,7 +5594,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5589,7 +5621,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:37:48Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "agents",
@@ -5653,7 +5685,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "product"
@@ -5682,7 +5714,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5709,7 +5741,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5736,7 +5768,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5763,7 +5795,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5790,7 +5822,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5817,7 +5849,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5844,7 +5876,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -5935,7 +5967,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-28T07:11:54Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "product"
@@ -5997,7 +6029,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "product"
@@ -6026,7 +6058,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "product"
@@ -6055,7 +6087,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "product"
@@ -6084,7 +6116,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-12T00:21:46Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "product"
@@ -6144,7 +6176,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -6171,7 +6203,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -6203,7 +6235,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -6230,7 +6262,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -6257,7 +6289,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T18:36:50Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "server: context shift for context windows larger than 8k, add error w…",
@@ -6284,7 +6316,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6346,7 +6378,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:10:46Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6380,7 +6412,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:09:57Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6415,7 +6447,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:09:31Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6449,7 +6481,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:47:33Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6483,7 +6515,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:28:00Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6516,7 +6548,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:21:09Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6549,7 +6581,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:07:47Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6582,7 +6614,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:46:36Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6615,7 +6647,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:42:21Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -6648,7 +6680,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:17:39Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6674,39 +6706,6 @@
       "content_hash": "b11780d1a946b774"
     },
     {
-      "id": "95fc4b895fdfef09",
-      "title": "CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning",
-      "url": "https://arxiv.org/abs/2606.24636v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-23T14:29:40Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "evaluation",
-        "research"
-      ],
-      "summary": "Cinematographic captioning aims to describe how a video is filmed using professional film-language concepts such as camera movement, shot size, depth of field, composition, and shooting angle. This capability is important for fine-grained...",
-      "raw_excerpt": "Cinematographic captioning aims to describe how a video is filmed using professional film-language concepts such as camera movement, shot size, depth of field, composition, and shooting angle. This capability is important for fine-grained video understanding and controllable movie-quality video generation, yet remains underexplored in existing multimodal large language models. Unlike question-answering-based evaluation of cinematic understanding, cinematographic captioning requires a unified open-form description over multiple cinematographic dimensions. This task is challenging for two main...",
-      "score": 32,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, multimodal, evaluation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "9780ac6aba56ff48"
-    },
-    {
       "id": "dc5f14e9c7771962",
       "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
       "url": "https://arxiv.org/abs/2606.24884v1",
@@ -6714,7 +6713,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:59:01Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6746,7 +6745,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:21:03Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6778,7 +6777,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:12:06Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6810,7 +6809,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:56:24Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6842,7 +6841,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:50:47Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6874,7 +6873,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:40:05Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6906,7 +6905,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:39:25Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6938,7 +6937,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:33:13Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -6970,7 +6969,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:24:05Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -7002,7 +7001,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:00:30Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -7034,7 +7033,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T14:48:37Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -7648,7 +7647,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:34:18Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -7679,7 +7678,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:30:42Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -7710,7 +7709,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:14:52Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -7741,7 +7740,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:36:28Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -7772,7 +7771,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:04:51Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -7803,7 +7802,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T14:51:58Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -7834,7 +7833,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T14:40:36Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "model",
@@ -7865,7 +7864,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T15:33:51Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -7888,6 +7887,39 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "a7b9376120524fb6"
+    },
+    {
+      "id": "95fc4b895fdfef09",
+      "title": "CineCap: Structured Reasoning with Spatio-Temporal Anchors for Cinematographic Video Captioning",
+      "url": "https://arxiv.org/abs/2606.24636v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-23T14:29:40Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "evaluation",
+        "research"
+      ],
+      "summary": "Cinematographic captioning aims to describe how a video is filmed using professional film-language concepts such as camera movement, shot size, depth of field, composition, and shooting angle. This capability is important for fine-grained...",
+      "raw_excerpt": "Cinematographic captioning aims to describe how a video is filmed using professional film-language concepts such as camera movement, shot size, depth of field, composition, and shooting angle. This capability is important for fine-grained video understanding and controllable movie-quality video generation, yet remains underexplored in existing multimodal large language models. Unlike question-answering-based evaluation of cinematic understanding, cinematographic captioning requires a unified open-form description over multiple cinematographic dimensions. This task is challenging for two main...",
+      "score": 25,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, multimodal, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "9780ac6aba56ff48"
     },
     {
       "id": "75ac058e06850a18",
@@ -9118,7 +9150,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:52:21Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -10461,7 +10493,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:55:18Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "regulation",
@@ -10491,7 +10523,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:29:15Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "safety",
@@ -10521,7 +10553,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T16:17:24Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "product",
@@ -10542,36 +10574,6 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "8717bde6648cd5ac"
-    },
-    {
-      "id": "78850fcd66e2fe52",
-      "title": "Visualizing \"We the People\": Bridging the Perception Gap through Pluralistic Data Storytelling",
-      "url": "https://arxiv.org/abs/2606.24635v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-23T14:28:11Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
-      "language": "en",
-      "tags": [
-        "builder-opinion",
-        "research"
-      ],
-      "summary": "Traditional visual data storytelling relies on binary graphics that depict two simplified groups in conflict. This can increase political polarization by oversimplifying intra-group disagreements and erasing ambiguity and shared ideas or v...",
-      "raw_excerpt": "Traditional visual data storytelling relies on binary graphics that depict two simplified groups in conflict. This can increase political polarization by oversimplifying intra-group disagreements and erasing ambiguity and shared ideas or values. This can inadvertently foster \"us versus them\" thinking. Intentional, pluralistic design choices for AI-enabled digital platforms can produce visualizations that emphasize nuance, opinion distribution, and intergroup commonalities. To demonstrate this potential, we examine deliberative technologies that map high-dimensional opinion spaces and highligh...",
-      "score": 19,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: builder-opinion, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper"
-      ],
-      "content_hash": "8a1d18c3fb3a85eb"
     },
     {
       "id": "8985793f9d5be985",
@@ -11981,7 +11983,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-23T17:15:26Z",
-      "fetched_at": "2026-06-24T10:50:41Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
       "language": "en",
       "tags": [
         "research"
@@ -12410,6 +12412,36 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "64a2f74038e1325a"
+    },
+    {
+      "id": "78850fcd66e2fe52",
+      "title": "Visualizing \"We the People\": Bridging the Perception Gap through Pluralistic Data Storytelling",
+      "url": "https://arxiv.org/abs/2606.24635v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-23T14:28:11Z",
+      "fetched_at": "2026-06-24T14:30:56Z",
+      "language": "en",
+      "tags": [
+        "builder-opinion",
+        "research"
+      ],
+      "summary": "Traditional visual data storytelling relies on binary graphics that depict two simplified groups in conflict. This can increase political polarization by oversimplifying intra-group disagreements and erasing ambiguity and shared ideas or v...",
+      "raw_excerpt": "Traditional visual data storytelling relies on binary graphics that depict two simplified groups in conflict. This can increase political polarization by oversimplifying intra-group disagreements and erasing ambiguity and shared ideas or values. This can inadvertently foster \"us versus them\" thinking. Intentional, pluralistic design choices for AI-enabled digital platforms can produce visualizations that emphasize nuance, opinion distribution, and intergroup commonalities. To demonstrate this potential, we examine deliberative technologies that map high-dimensional opinion spaces and highligh...",
+      "score": 12,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: builder-opinion, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "8a1d18c3fb3a85eb"
     },
     {
       "id": "775087a12a6e01a5",
