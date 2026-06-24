@@ -1153,7 +1153,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-06T00:00:00Z",
-      "fetched_at": "2026-06-24T14:30:56Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1181,7 +1181,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-24T14:30:56Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -1212,7 +1212,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-24T14:30:56Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
       "language": "en",
       "tags": [
         "product"
@@ -1243,7 +1243,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-24T16:08:47Z",
-      "fetched_at": "2026-06-24T14:30:56Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1273,7 +1273,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-24T14:30:56Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1300,7 +1300,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-24T14:30:56Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1327,7 +1327,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-17T00:00:00Z",
-      "fetched_at": "2026-06-24T14:30:56Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1354,7 +1354,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T21:37:26Z",
-      "fetched_at": "2026-06-24T14:30:56Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1381,7 +1381,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T00:00:00Z",
-      "fetched_at": "2026-06-24T14:30:56Z",
+      "fetched_at": "2026-06-24T17:54:40Z",
       "language": "en",
       "tags": [],
       "summary": "",
