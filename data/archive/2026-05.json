@@ -1935,7 +1935,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -2197,6 +2197,34 @@
       "content_hash": "70fe4190acebbd0e"
     },
     {
+      "id": "303bbaef93552d73",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-29T19:00:00Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 66,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "7764ea1829d5e373"
+    },
+    {
       "id": "7eb8ca74004edf8e",
       "title": "v0.22.0rc2: Fix early CUDA init (#43791)",
       "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0rc2",
@@ -2353,33 +2381,6 @@
       "content_hash": "97e8c3a26c54f643"
     },
     {
-      "id": "303bbaef93552d73",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 52",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "7764ea1829d5e373"
-    },
-    {
       "id": "aa745decade4a5ca",
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs",
@@ -2387,7 +2388,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2414,7 +2415,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2445,7 +2446,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -2469,6 +2470,90 @@
       "content_hash": "9a46b15b71d20242"
     },
     {
+      "id": "59cf6521ecffda3d",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-22T18:00:00Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 58,
+      "score_reasons": [
+        "trusted source weight 52",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "2ca0f0f14a90a299"
+    },
+    {
+      "id": "7ee66273fd1d97ed",
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-20T16:45:00Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 58,
+      "score_reasons": [
+        "trusted source weight 52",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "ed33ee38c2d984de"
+    },
+    {
+      "id": "45d1296c52d2c46b",
+      "title": "New ways to create and get things done in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-19T17:45:00Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 58,
+      "score_reasons": [
+        "trusted source weight 52",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "c7363af4e2f65a50"
+    },
+    {
       "id": "5b02604714f8043c",
       "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
       "url": "https://huggingface.co/blog/torch-profiler",
@@ -2476,7 +2561,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2503,7 +2588,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2530,7 +2615,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2589,7 +2674,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-28T07:11:54Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [
         "product"
@@ -2611,33 +2696,6 @@
       "content_hash": "10ca002e37db9e91"
     },
     {
-      "id": "59cf6521ecffda3d",
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 51,
-      "score_reasons": [
-        "trusted source weight 52",
-        "older than 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "2ca0f0f14a90a299"
-    },
-    {
       "id": "a47a46ac37978ebf",
       "title": "We’re announcing new community investments in Missouri.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs",
@@ -2645,7 +2703,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2665,33 +2723,6 @@
       "content_hash": "06066519794674f7"
     },
     {
-      "id": "7ee66273fd1d97ed",
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 51,
-      "score_reasons": [
-        "trusted source weight 52",
-        "older than 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "ed33ee38c2d984de"
-    },
-    {
       "id": "bc7fd26c97e73c33",
       "title": "A new era for AI Search",
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026",
@@ -2699,7 +2730,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2726,7 +2757,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2746,33 +2777,6 @@
       "content_hash": "9226cd951db22b79"
     },
     {
-      "id": "45d1296c52d2c46b",
-      "title": "New ways to create and get things done in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates",
-      "source_id": "google-ai",
-      "source_name": "Google AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 51,
-      "score_reasons": [
-        "trusted source weight 52",
-        "older than 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "c7363af4e2f65a50"
-    },
-    {
       "id": "ed1c2193d6b80a8c",
       "title": "Introducing the Ettin Reranker Family",
       "url": "https://huggingface.co/blog/ettin-reranker",
@@ -2780,7 +2784,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2807,7 +2811,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-18T15:12:46Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2834,7 +2838,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T18:55:01Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2861,7 +2865,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T00:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2888,7 +2892,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
@@ -2975,7 +2979,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [],
       "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
@@ -3001,7 +3005,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-15T22:30:20Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [
         "product"
@@ -3030,7 +3034,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-07T17:33:02Z",
-      "fetched_at": "2026-06-25T14:33:39Z",
+      "fetched_at": "2026-06-25T18:10:25Z",
       "language": "en",
       "tags": [
         "product"
