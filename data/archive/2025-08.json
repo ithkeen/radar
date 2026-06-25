@@ -643,6 +643,36 @@
       "content_hash": "4ebc49ea2063e712"
     },
     {
+      "id": "b024ba06f95182ba",
+      "title": "Supporting nonprofit and community innovation",
+      "url": "https://openai.com/index/supporting-nonprofit-and-community-innovation",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-08-28T05:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
+      "raw_excerpt": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "d6947c94e6e66739"
+    },
+    {
       "id": "47c52c74ff6728de",
       "title": "Scaling domain expertise in complex, regulated domains",
       "url": "https://openai.com/index/blue-j",
@@ -860,33 +890,33 @@
       "content_hash": "b249c3d098597fa8"
     },
     {
-      "id": "b024ba06f95182ba",
-      "title": "Supporting nonprofit and community innovation",
-      "url": "https://openai.com/index/supporting-nonprofit-and-community-innovation",
+      "id": "414643f6da55f247",
+      "title": "OpenAI’s letter to Governor Newsom on harmonized regulation",
+      "url": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-08-28T05:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2025-08-12T00:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
-        "product"
+        "regulation"
       ],
-      "summary": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
-      "raw_excerpt": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
-      "score": 71,
+      "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
+      "raw_excerpt": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
+      "score": 72,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: product"
+        "matched tags: regulation"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "d6947c94e6e66739"
+      "content_hash": "e826c591ab8e9a99"
     },
     {
       "id": "f588f4322d029f8d",
@@ -1022,32 +1052,35 @@
       "content_hash": "b291052f04a4a206"
     },
     {
-      "id": "414643f6da55f247",
-      "title": "OpenAI’s letter to Governor Newsom on harmonized regulation",
-      "url": "https://openai.com/global-affairs/letter-to-governor-newsom-on-harmonized-regulation",
+      "id": "6a649646855659d1",
+      "title": "Announcing the OpenAI Learning Accelerator",
+      "url": "https://openai.com/global-affairs/learning-accelerator",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-08-12T00:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
+      "published_at": "2025-08-25T06:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
-        "regulation"
+        "hardware"
       ],
-      "summary": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
-      "raw_excerpt": "We’ve just sent a letter to Gov. Gavin Newsom calling for California to lead the way in harmonizing state-based AI regulation with national—and, by virtue of US leadership, emerging global—standards.",
+      "summary": "",
+      "raw_excerpt": "",
       "score": 65,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: regulation"
+        "matched tags: hardware",
+        "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "outside preferred AI focus"
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
       ],
-      "content_hash": "e826c591ab8e9a99"
+      "content_hash": "b0ea31a606760850"
     },
     {
       "id": "6ac8f60ac98730c4",
@@ -1153,7 +1186,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-20T22:13:18Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "research",
@@ -1185,7 +1218,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-08-18T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "Learn how DoorDash is scaling AI adoption to empower employees to build, learn, and innovate faster in a conversation with Chief People Officer Mariana Garavaglia.",
@@ -1210,7 +1243,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-18T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "product",
@@ -1242,7 +1275,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-18T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1266,36 +1299,6 @@
       "content_hash": "bc0ead6d697ac130"
     },
     {
-      "id": "6a649646855659d1",
-      "title": "Announcing the OpenAI Learning Accelerator",
-      "url": "https://openai.com/global-affairs/learning-accelerator",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-08-25T06:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
-      "language": "en",
-      "tags": [
-        "hardware"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: hardware",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "b0ea31a606760850"
-    },
-    {
       "id": "4c581a1a3a36e808",
       "title": "Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training",
       "url": "https://huggingface.co/blog/accelerate-nd-parallel",
@@ -1303,7 +1306,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-08T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -1333,7 +1336,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-14T12:13:01Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1360,7 +1363,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-13T14:55:10Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1387,7 +1390,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-08-12T14:52:08Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",

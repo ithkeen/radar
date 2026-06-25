@@ -4,6 +4,37 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "4906715399cf0201",
+      "title": "One in a million: celebrating the customers shaping AI’s future",
+      "url": "https://openai.com/index/one-in-a-million-customers",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-22T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way...",
+      "raw_excerpt": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "8039910018959ee4"
+    },
+    {
       "id": "cd8d6c8023f2f56d",
       "title": "Introducing GPT-5.2-Codex",
       "url": "https://openai.com/index/introducing-gpt-5-2-codex",
@@ -354,36 +385,6 @@
       "content_hash": "57741c734dfadbdd"
     },
     {
-      "id": "4906715399cf0201",
-      "title": "One in a million: celebrating the customers shaping AI’s future",
-      "url": "https://openai.com/index/one-in-a-million-customers",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-22T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way...",
-      "raw_excerpt": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
-      "score": 93,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "8039910018959ee4"
-    },
-    {
       "id": "7fda7ddac79f0115",
       "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
       "url": "https://openai.com/index/gpt-5-2-codex-system-card",
@@ -415,6 +416,36 @@
         "thin feed summary"
       ],
       "content_hash": "556556135ba61183"
+    },
+    {
+      "id": "83beb5a32b71ab5a",
+      "title": "Deepening our collaboration with the U.S. Department of Energy",
+      "url": "https://openai.com/index/us-department-of-energy-collaboration",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-18T11:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and...",
+      "raw_excerpt": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
+      "score": 92,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "9359ef40d38c9cdc"
     },
     {
       "id": "f45c751a8120d4e1",
@@ -602,33 +633,33 @@
       "content_hash": "139c84321c40794f"
     },
     {
-      "id": "83beb5a32b71ab5a",
-      "title": "Deepening our collaboration with the U.S. Department of Energy",
-      "url": "https://openai.com/index/us-department-of-energy-collaboration",
+      "id": "6978d9846f9014de",
+      "title": "Ten years",
+      "url": "https://openai.com/index/ten-years",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-12-18T11:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2025-12-11T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [
-        "product"
+        "builder-opinion"
       ],
-      "summary": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and...",
-      "raw_excerpt": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
-      "score": 85,
+      "summary": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of...",
+      "raw_excerpt": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
+      "score": 86,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: product"
+        "matched tags: builder-opinion"
       ],
       "tier": "noteworthy",
       "quality_reasons": [
         "matches AI channel focus: builder opinion",
-        "official model or product signal"
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "9359ef40d38c9cdc"
+      "content_hash": "da7f4d45cd1c0c0b"
     },
     {
       "id": "2b76a01192ab39ab",
@@ -914,32 +945,35 @@
       "content_hash": "a29d536e6e604738"
     },
     {
-      "id": "6978d9846f9014de",
-      "title": "Ten years",
-      "url": "https://openai.com/index/ten-years",
+      "id": "cd2c685fc846718e",
+      "title": "Funding grants for new research into AI and mental health",
+      "url": "https://openai.com/index/ai-mental-health-research-grants",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-12-11T00:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
+      "published_at": "2025-12-01T12:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "builder-opinion"
+        "safety",
+        "product"
       ],
-      "summary": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of...",
-      "raw_excerpt": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
-      "score": 79,
+      "summary": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
+      "raw_excerpt": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
+      "score": 81,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: builder-opinion"
+        "matched tags: safety, product"
       ],
-      "tier": "noteworthy",
+      "tier": "raw",
       "quality_reasons": [
-        "matches AI channel focus: builder opinion"
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "da7f4d45cd1c0c0b"
+      "content_hash": "e6011beab7565619"
     },
     {
       "id": "c81f77b805490ba2",
@@ -1032,6 +1066,66 @@
       "content_hash": "a229f11d980650f1"
     },
     {
+      "id": "239b19875b6de52e",
+      "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+      "url": "https://openai.com/index/openai-appoints-denise-dresser",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-09T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scal...",
+      "raw_excerpt": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "74bd66930362610b"
+    },
+    {
+      "id": "241f77b203d9900c",
+      "title": "Introducing OpenAI for Australia",
+      "url": "https://openai.com/global-affairs/openai-for-australia",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-04T19:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+      "raw_excerpt": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "2346216e28520422"
+    },
+    {
       "id": "1b288e83884e793f",
       "title": "Evaluating AI’s ability to perform scientific research tasks",
       "url": "https://openai.com/index/frontierscience",
@@ -1092,36 +1186,6 @@
       "content_hash": "a149e92b829fc227"
     },
     {
-      "id": "cd2c685fc846718e",
-      "title": "Funding grants for new research into AI and mental health",
-      "url": "https://openai.com/index/ai-mental-health-research-grants",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-01T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "safety",
-        "product"
-      ],
-      "summary": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
-      "raw_excerpt": "OpenAI is awarding up to $2 million in grants for research at the intersection of AI and mental health. The program supports projects that study real-world risks, benefits, and applications to improve safety and well-being.",
-      "score": 74,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: safety, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "e6011beab7565619"
-    },
-    {
       "id": "15fd84c7f858b563",
       "title": "Accenture and OpenAI accelerate enterprise AI success",
       "url": "https://openai.com/index/accenture-partnership",
@@ -1151,62 +1215,30 @@
       "content_hash": "b35eed9389673dcb"
     },
     {
-      "id": "239b19875b6de52e",
-      "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
-      "url": "https://openai.com/index/openai-appoints-denise-dresser",
+      "id": "86fb2e5f11412f83",
+      "title": "Announcing the initial People-First AI Fund grantees",
+      "url": "https://openai.com/index/people-first-ai-fund-grantees",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-12-09T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2025-12-03T08:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scal...",
-      "raw_excerpt": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-day operations as OpenAI continues to scale.",
-      "score": 71,
+      "tags": [],
+      "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+      "raw_excerpt": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
+      "score": 69,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
-        "official source",
-        "matched tags: product"
+        "official source"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "74bd66930362610b"
-    },
-    {
-      "id": "241f77b203d9900c",
-      "title": "Introducing OpenAI for Australia",
-      "url": "https://openai.com/global-affairs/openai-for-australia",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-04T19:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
-      "raw_excerpt": "OpenAI is launching OpenAI for Australia to build sovereign AI infrastructure, upskill more than 1.5 million workers, and accelerate innovation across the country’s growing AI ecosystem.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "2346216e28520422"
+      "content_hash": "5d2484538d72178d"
     },
     {
       "id": "3add516dae33eedc",
@@ -1249,7 +1281,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-17T13:22:18Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -1346,7 +1378,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-16T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "Discover how leaders can build AI-ready organizations using clear strategy, training, governance, and accelerated innovation.",
@@ -1371,7 +1403,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-08T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
@@ -1389,31 +1421,6 @@
       "content_hash": "cdb577e722fd45f9"
     },
     {
-      "id": "86fb2e5f11412f83",
-      "title": "Announcing the initial People-First AI Fund grantees",
-      "url": "https://openai.com/index/people-first-ai-fund-grantees",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-03T08:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
-      "raw_excerpt": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "5d2484538d72178d"
-    },
-    {
       "id": "06f95737db70a6b1",
       "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
       "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
@@ -1421,7 +1428,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-15T16:01:04Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1452,7 +1459,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-04T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1476,6 +1483,68 @@
       "content_hash": "8a750061e5b446bc"
     },
     {
+      "id": "56b15a316092221d",
+      "title": "Introducing OpenAI Academy for News Organizations",
+      "url": "https://openai.com/index/openai-academy-for-news-organizations",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-17T06:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases,...",
+      "raw_excerpt": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.",
+      "score": 56,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "low-signal content: academy",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "f951eb47516ce9c3"
+    },
+    {
+      "id": "1c98972dd7538ae2",
+      "title": "Launching our first OpenAI Certifications courses",
+      "url": "https://openai.com/index/openai-certificate-courses",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-09T06:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+      "raw_excerpt": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
+      "score": 56,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "low-signal content: course, career",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "454226b5312872fc"
+    },
+    {
       "id": "3796ad08bcbdbfc6",
       "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
       "url": "https://huggingface.co/blog/tokenizers",
@@ -1483,7 +1552,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-18T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1503,66 +1572,6 @@
       "content_hash": "db6e7a86bbc362dc"
     },
     {
-      "id": "56b15a316092221d",
-      "title": "Introducing OpenAI Academy for News Organizations",
-      "url": "https://openai.com/index/openai-academy-for-news-organizations",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-17T06:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases,...",
-      "raw_excerpt": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.",
-      "score": 49,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "low-signal content: academy"
-      ],
-      "content_hash": "f951eb47516ce9c3"
-    },
-    {
-      "id": "1c98972dd7538ae2",
-      "title": "Launching our first OpenAI Certifications courses",
-      "url": "https://openai.com/index/openai-certificate-courses",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-09T06:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
-      "raw_excerpt": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
-      "score": 49,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "low-signal content: course, career"
-      ],
-      "content_hash": "454226b5312872fc"
-    },
-    {
       "id": "c29e05792b2ef3ee",
       "title": "Introducing swift-huggingface: The Complete Swift Client for Hugging Face",
       "url": "https://huggingface.co/blog/swift-huggingface",
@@ -1570,7 +1579,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-05T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",

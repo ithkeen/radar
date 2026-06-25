@@ -354,6 +354,66 @@
       "content_hash": "2133b5c64857672b"
     },
     {
+      "id": "381b65107dc1c38e",
+      "title": "Empowering teams to unlock insights faster at OpenAI",
+      "url": "https://openai.com/index/openai-research-assistant",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-29T13:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.",
+      "raw_excerpt": "OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.",
+      "score": 92,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "3627ab73b3915965"
+    },
+    {
+      "id": "deac87915788eb74",
+      "title": "Turning contracts into searchable data at OpenAI",
+      "url": "https://openai.com/index/openai-contract-data-agent",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-29T13:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
+      "raw_excerpt": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
+      "score": 92,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "a9eb674a54c10210"
+    },
+    {
       "id": "c658f25dfd916ec1",
       "title": "Launching Sora responsibly",
       "url": "https://openai.com/index/launching-sora-responsibly",
@@ -385,64 +445,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "1d2c38d504d39a95"
-    },
-    {
-      "id": "381b65107dc1c38e",
-      "title": "Empowering teams to unlock insights faster at OpenAI",
-      "url": "https://openai.com/index/openai-research-assistant",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-29T13:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.",
-      "raw_excerpt": "OpenAI’s research assistant helps teams analyze millions of support tickets, surface insights faster, and scale curiosity across the company.",
-      "score": 85,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "official model or product signal"
-      ],
-      "content_hash": "3627ab73b3915965"
-    },
-    {
-      "id": "deac87915788eb74",
-      "title": "Turning contracts into searchable data at OpenAI",
-      "url": "https://openai.com/index/openai-contract-data-agent",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-29T13:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
-      "raw_excerpt": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
-      "score": 85,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "official model or product signal"
-      ],
-      "content_hash": "a9eb674a54c10210"
     },
     {
       "id": "661a3476d3d51bb4",
@@ -636,6 +638,70 @@
       "content_hash": "c70c5d749bcb0f14"
     },
     {
+      "id": "fe411c5ad4f1ed3f",
+      "title": "Teen safety, freedom, and privacy",
+      "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-16T06:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "product"
+      ],
+      "summary": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
+      "raw_excerpt": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
+      "score": 81,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "9bab197f9d40510e"
+    },
+    {
+      "id": "4690a2698fd8d45e",
+      "title": "Expanding economic opportunity with AI",
+      "url": "https://openai.com/index/expanding-economic-opportunity-with-ai",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-04T11:30:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "product",
+        "builder-opinion"
+      ],
+      "summary": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessible.",
+      "raw_excerpt": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessible.",
+      "score": 81,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product, builder-opinion"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "low-signal content: jobs",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "24ae59b59afbefba"
+    },
+    {
       "id": "4955eca90327b60a",
       "title": "Building more helpful ChatGPT experiences for everyone",
       "url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone",
@@ -665,6 +731,156 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "b45d1f4a7f98d05c"
+    },
+    {
+      "id": "cb62459632ca3236",
+      "title": "Converting inbound leads into customers at OpenAI",
+      "url": "https://openai.com/index/openai-inbound-sales-assistant",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-29T13:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.",
+      "raw_excerpt": "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "27532386a3f101ff"
+    },
+    {
+      "id": "c684eb1aba897c1d",
+      "title": "Driving sales productivity and customer success at OpenAI",
+      "url": "https://openai.com/index/openai-gtm-assistant",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-29T13:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.",
+      "raw_excerpt": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "a320be623d52752d"
+    },
+    {
+      "id": "05f50cbbba641aba",
+      "title": "Improving support with every interaction at OpenAI",
+      "url": "https://openai.com/index/openai-support-model",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-29T13:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
+      "raw_excerpt": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ddbeaf4427393a37"
+    },
+    {
+      "id": "dd5ba43909038190",
+      "title": "SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’",
+      "url": "https://openai.com/global-affairs/openai-for-germany",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-24T04:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.",
+      "raw_excerpt": "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "9b0b409722d08c06"
+    },
+    {
+      "id": "d4f70f41b2c2d93f",
+      "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+      "url": "https://openai.com/index/openai-nvidia-systems-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-22T08:45:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
+      "raw_excerpt": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "2417164eeb137dd9"
     },
     {
       "id": "bc32444a81aa8a8c",
@@ -697,213 +913,6 @@
       "content_hash": "cfa9f8380b482ccd"
     },
     {
-      "id": "fe411c5ad4f1ed3f",
-      "title": "Teen safety, freedom, and privacy",
-      "url": "https://openai.com/index/teen-safety-freedom-and-privacy",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-16T06:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "safety",
-        "product"
-      ],
-      "summary": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
-      "raw_excerpt": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
-      "score": 74,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: safety, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "9bab197f9d40510e"
-    },
-    {
-      "id": "4690a2698fd8d45e",
-      "title": "Expanding economic opportunity with AI",
-      "url": "https://openai.com/index/expanding-economic-opportunity-with-ai",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-04T11:30:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "product",
-        "builder-opinion"
-      ],
-      "summary": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessible.",
-      "raw_excerpt": "OpenAI is launching a Jobs Platform and new Certifications to connect workers with jobs, training, and certifications. Learn how we’re expanding economic opportunity and making AI skills more accessible.",
-      "score": 74,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product, builder-opinion"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "low-signal content: jobs"
-      ],
-      "content_hash": "24ae59b59afbefba"
-    },
-    {
-      "id": "cb62459632ca3236",
-      "title": "Converting inbound leads into customers at OpenAI",
-      "url": "https://openai.com/index/openai-inbound-sales-assistant",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-29T13:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.",
-      "raw_excerpt": "Learn how OpenAI used AI to deliver personalized answers at scale, converting inbound leads into customers.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "27532386a3f101ff"
-    },
-    {
-      "id": "c684eb1aba897c1d",
-      "title": "Driving sales productivity and customer success at OpenAI",
-      "url": "https://openai.com/index/openai-gtm-assistant",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-29T13:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.",
-      "raw_excerpt": "Learn how OpenAI boosts sales productivity by automating prep, centralizing knowledge, and scaling top-selling practices.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "a320be623d52752d"
-    },
-    {
-      "id": "05f50cbbba641aba",
-      "title": "Improving support with every interaction at OpenAI",
-      "url": "https://openai.com/index/openai-support-model",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-29T13:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
-      "raw_excerpt": "Learn how OpenAI uses AI to enhance support, cutting response times, improving quality, and scaling to meet hypergrowth.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "ddbeaf4427393a37"
-    },
-    {
-      "id": "dd5ba43909038190",
-      "title": "SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’",
-      "url": "https://openai.com/global-affairs/openai-for-germany",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-24T04:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.",
-      "raw_excerpt": "SAP and OpenAI launch OpenAI for Germany, a 2026 partnership to bring secure, sovereign AI to Germany’s public sector, enabling safe, efficient public services.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "9b0b409722d08c06"
-    },
-    {
-      "id": "d4f70f41b2c2d93f",
-      "title": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
-      "url": "https://openai.com/index/openai-nvidia-systems-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-22T08:45:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
-      "raw_excerpt": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "2417164eeb137dd9"
-    },
-    {
       "id": "11b83b62d01bbe27",
       "title": "A People-First AI Fund: $50M to support nonprofits",
       "url": "https://openai.com/index/people-first-ai-fund",
@@ -918,7 +927,7 @@
       ],
       "summary": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help comm...",
       "raw_excerpt": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 2025, for unrestricted grants that help communities shape AI for the public good.",
-      "score": 71,
+      "score": 78,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -928,9 +937,68 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal"
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "f711da4e89df6358"
+    },
+    {
+      "id": "9992c02f629066bc",
+      "title": "Working with US CAISI and UK AISI to build more secure AI systems",
+      "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-12T12:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "safety"
+      ],
+      "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security.",
+      "raw_excerpt": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security.",
+      "score": 72,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "03ec4a576c96b5f8"
+    },
+    {
+      "id": "874dd2c7317a726d",
+      "title": "A joint statement from OpenAI and Microsoft",
+      "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-11T14:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "safety"
+      ],
+      "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
+      "raw_excerpt": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
+      "score": 72,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "f9df9171fc999401"
     },
     {
       "id": "79440eebb342cda2",
@@ -960,6 +1028,58 @@
         "official model or product signal"
       ],
       "content_hash": "84110438dee64338"
+    },
+    {
+      "id": "8a2842940024a2f7",
+      "title": "CNA is transforming its newsroom with AI",
+      "url": "https://openai.com/index/cna-walter-fernandez",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-22T17:17:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
+      "raw_excerpt": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
+      "score": 69,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "e79b326f6a697dea"
+    },
+    {
+      "id": "2fc9bff5a5e5e0d2",
+      "title": "Statement on OpenAI’s Nonprofit and PBC",
+      "url": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-11T14:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
+      "raw_excerpt": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
+      "score": 69,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "d7e12e3021a86745"
     },
     {
       "id": "e2565eb2abe3a1e3",
@@ -1060,62 +1180,6 @@
       "content_hash": "bd6488568b0e6c87"
     },
     {
-      "id": "9992c02f629066bc",
-      "title": "Working with US CAISI and UK AISI to build more secure AI systems",
-      "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-12T12:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security.",
-      "raw_excerpt": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security.",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "03ec4a576c96b5f8"
-    },
-    {
-      "id": "874dd2c7317a726d",
-      "title": "A joint statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/joint-statement-from-openai-and-microsoft",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-11T14:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
-      "raw_excerpt": "OpenAI and Microsoft sign a new MOU, reinforcing their partnership and shared commitment to AI safety and innovation.",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "f9df9171fc999401"
-    },
-    {
       "id": "6ed50daac32dd95f",
       "title": "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers",
       "url": "https://huggingface.co/blog/faster-transformers",
@@ -1212,56 +1276,6 @@
       "content_hash": "2e12079152a7f466"
     },
     {
-      "id": "8a2842940024a2f7",
-      "title": "CNA is transforming its newsroom with AI",
-      "url": "https://openai.com/index/cna-walter-fernandez",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-22T17:17:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
-      "raw_excerpt": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "e79b326f6a697dea"
-    },
-    {
-      "id": "2fc9bff5a5e5e0d2",
-      "title": "Statement on OpenAI’s Nonprofit and PBC",
-      "url": "https://openai.com/index/statement-on-openai-nonprofit-and-pbc",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-11T14:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
-      "raw_excerpt": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "d7e12e3021a86745"
-    },
-    {
       "id": "547819139e56b656",
       "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
       "url": "https://huggingface.co/blog/smol2operator",
@@ -1269,7 +1283,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-23T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1300,7 +1314,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-22T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1331,7 +1345,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-16T14:30:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1358,7 +1372,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-19T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1388,7 +1402,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-18T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1418,7 +1432,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-17T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1448,7 +1462,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-16T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "research"
@@ -1478,7 +1492,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-02T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -1508,7 +1522,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-29T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1535,7 +1549,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-26T06:25:50Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1562,7 +1576,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-26T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1589,7 +1603,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-15T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1616,7 +1630,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-11T20:04:44Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1643,7 +1657,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-09T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1670,7 +1684,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-02T16:54:29Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1697,12 +1711,12 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-29T03:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboration to block, report, and prevent AI misuse.",
       "raw_excerpt": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboration to block, report, and prevent AI misuse.",
-      "score": 40,
+      "score": 47,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -1711,7 +1725,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "low-signal content: event"
+        "low-signal content: event",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "4888acb8ba8940ea"
     },
@@ -1723,12 +1738,12 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-26T06:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
       "raw_excerpt": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
-      "score": 40,
+      "score": 47,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -1737,7 +1752,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "low-signal content: academy"
+        "low-signal content: academy",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "ce479d8df12540d9"
     },
@@ -1749,12 +1765,12 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-23T14:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
       "raw_excerpt": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
-      "score": 40,
+      "score": 47,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -1763,7 +1779,8 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "low-signal content: jobs"
+        "low-signal content: jobs",
+        "same theme appeared across multiple sources"
       ],
       "content_hash": "04c969207143d722"
     }

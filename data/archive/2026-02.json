@@ -4,6 +4,37 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "4b51d8cada0e9538",
+      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+      "url": "https://openai.com/index/figma-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-26T06:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "raw_excerpt": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ddfa22500f167b82"
+    },
+    {
       "id": "33e5e5bcd68981ac",
       "title": "Why we no longer evaluate SWE-bench Verified",
       "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
@@ -482,21 +513,21 @@
       "content_hash": "df9b6a25e28c8296"
     },
     {
-      "id": "4b51d8cada0e9538",
-      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-      "url": "https://openai.com/index/figma-partnership",
+      "id": "62d5030d2dd442c9",
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "url": "https://openai.com/index/continuing-microsoft-partnership",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-02-26T06:00:00Z",
+      "published_at": "2026-02-27T05:30:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "product"
       ],
-      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
-      "raw_excerpt": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster.",
-      "score": 93,
+      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+      "raw_excerpt": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+      "score": 92,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -505,11 +536,11 @@
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "matches AI channel focus: coding agent, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
+        "matches AI channel focus: builder opinion",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "ddfa22500f167b82"
+      "content_hash": "974479ca7f18564c"
     },
     {
       "id": "f6b93302265de776",
@@ -574,35 +605,6 @@
         "thin feed summary"
       ],
       "content_hash": "8b134a0f89fbd7a7"
-    },
-    {
-      "id": "62d5030d2dd442c9",
-      "title": "Joint Statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/continuing-microsoft-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-27T05:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-      "raw_excerpt": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-      "score": 85,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "official model or product signal"
-      ],
-      "content_hash": "974479ca7f18564c"
     },
     {
       "id": "42435d1a22d3686e",
@@ -730,6 +732,36 @@
       "content_hash": "d8e65405ae127db8"
     },
     {
+      "id": "ef455565a9b47a55",
+      "title": "Arvind KC appointed Chief People Officer",
+      "url": "https://openai.com/index/arvind-kc-chief-people-officer",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-24T13:40:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+      "raw_excerpt": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+      "score": 78,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "d6d6fb1855409482"
+    },
+    {
       "id": "feae6511a0a2e0f2",
       "title": "Our First Proof submissions",
       "url": "https://openai.com/index/first-proof-submissions",
@@ -851,6 +883,93 @@
       "content_hash": "fa4165c29115cb12"
     },
     {
+      "id": "2a0618695f6143ca",
+      "title": "Our agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-28T12:30:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "safety"
+      ],
+      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+      "raw_excerpt": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+      "score": 72,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "1c37d6553282c22c"
+    },
+    {
+      "id": "807caffbde0e1479",
+      "title": "An update on our mental health-related work",
+      "url": "https://openai.com/index/update-on-mental-health-related-work",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-27T00:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "safety"
+      ],
+      "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+      "raw_excerpt": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+      "score": 72,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "f3a0bfc15fbf1ca1"
+    },
+    {
+      "id": "d56ac300fb09f6b0",
+      "title": "Advancing independent research on AI alignment",
+      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-19T10:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "safety"
+      ],
+      "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "raw_excerpt": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+      "score": 72,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "bcbfae9fc60b6b32"
+    },
+    {
       "id": "f4bbf1c3572c46ac",
       "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
       "url": "https://openai.com/index/snowflake-partnership",
@@ -878,35 +997,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "70c580745b8d2f57"
-    },
-    {
-      "id": "ef455565a9b47a55",
-      "title": "Arvind KC appointed Chief People Officer",
-      "url": "https://openai.com/index/arvind-kc-chief-people-officer",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-24T13:40:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-      "raw_excerpt": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal"
-      ],
-      "content_hash": "d6d6fb1855409482"
     },
     {
       "id": "96d26eaa8234f2f9",
@@ -938,60 +1028,56 @@
       "content_hash": "c921295db9b62135"
     },
     {
-      "id": "2a0618695f6143ca",
-      "title": "Our agreement with the Department of War",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "id": "bef16dfebcdc182c",
+      "title": "Introducing OpenAI for India",
+      "url": "https://openai.com/index/openai-for-india",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-02-28T12:30:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
+      "published_at": "2026-02-18T21:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-      "raw_excerpt": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-      "score": 65,
+      "tags": [],
+      "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+      "raw_excerpt": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
+      "score": 69,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
-        "official source",
-        "matched tags: safety"
+        "official source"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "outside preferred AI focus"
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "1c37d6553282c22c"
+      "content_hash": "747e049c73926f9a"
     },
     {
-      "id": "807caffbde0e1479",
-      "title": "An update on our mental health-related work",
-      "url": "https://openai.com/index/update-on-mental-health-related-work",
+      "id": "d12899870b4cc2cc",
+      "title": "Introducing Trusted Access for Cyber",
+      "url": "https://openai.com/index/trusted-access-for-cyber",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-02-27T00:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
+      "published_at": "2026-02-05T10:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
-      "raw_excerpt": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
-      "score": 65,
+      "tags": [],
+      "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+      "raw_excerpt": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
+      "score": 69,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
-        "official source",
-        "matched tags: safety"
+        "official source"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "outside preferred AI focus"
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "f3a0bfc15fbf1ca1"
+      "content_hash": "35ac42197598d667"
     },
     {
       "id": "3eedf77051b09b76",
@@ -1024,34 +1110,6 @@
         "thin feed summary"
       ],
       "content_hash": "03d71266d8f3c5ea"
-    },
-    {
-      "id": "d56ac300fb09f6b0",
-      "title": "Advancing independent research on AI alignment",
-      "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-19T10:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [
-        "safety"
-      ],
-      "summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-      "raw_excerpt": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "bcbfae9fc60b6b32"
     },
     {
       "id": "32b1a88e079e5f29",
@@ -1125,7 +1183,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-27T05:30:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
@@ -1143,56 +1201,6 @@
       "content_hash": "89a2040fed41f1a7"
     },
     {
-      "id": "bef16dfebcdc182c",
-      "title": "Introducing OpenAI for India",
-      "url": "https://openai.com/index/openai-for-india",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-18T21:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
-      "raw_excerpt": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "747e049c73926f9a"
-    },
-    {
-      "id": "d12899870b4cc2cc",
-      "title": "Introducing Trusted Access for Cyber",
-      "url": "https://openai.com/index/trusted-access-for-cyber",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-05T10:00:00Z",
-      "fetched_at": "2026-06-23T07:50:19Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
-      "raw_excerpt": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "35ac42197598d667"
-    },
-    {
       "id": "4e0bcba85dced873",
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
@@ -1200,7 +1208,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-18T16:15:45Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1231,7 +1239,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-04T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -1262,7 +1270,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-18T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "product"
@@ -1293,7 +1301,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-26T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1320,7 +1328,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-09T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1347,7 +1355,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-05T16:52:28Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1374,7 +1382,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-20T00:00:00Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "model"
