@@ -1153,7 +1153,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-06T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1174,37 +1174,6 @@
       "content_hash": "de7d9b2504ea050b"
     },
     {
-      "id": "471dd21523259cb7",
-      "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
-      "language": "en",
-      "tags": [
-        "evaluation"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: evaluation",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "3a3fcd4ca286c5f9"
-    },
-    {
       "id": "f482b0e9fc5aae7b",
       "title": "20x Faster TRL Fine-tuning with RapidFire AI",
       "url": "https://huggingface.co/blog/rapidfireai",
@@ -1212,7 +1181,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "product"
@@ -1243,7 +1212,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1271,7 +1240,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-24T16:08:47Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1294,6 +1263,36 @@
       "content_hash": "55e7ac8a4a2fa9b0"
     },
     {
+      "id": "471dd21523259cb7",
+      "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-11-21T00:00:00Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
+      "language": "en",
+      "tags": [
+        "evaluation"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 52,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: evaluation",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "3a3fcd4ca286c5f9"
+    },
+    {
       "id": "d9d18db7ab400830",
       "title": "Continuous batching from first principles",
       "url": "https://huggingface.co/blog/continuous_batching",
@@ -1301,7 +1300,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1328,7 +1327,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1355,7 +1354,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-17T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1382,7 +1381,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T21:37:26Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",

@@ -4,38 +4,6 @@
   "retention_days": 365,
   "items": [
     {
-      "id": "107199a2fa92c806",
-      "title": "Three lessons for creating a sustainable AI advantage",
-      "url": "https://openai.com/index/intercom",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-30T00:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "evaluation",
-        "research",
-        "builder-opinion"
-      ],
-      "summary": "Discover how Intercom built a scalable AI platform with 3 key lessons—from evaluations to architecture—to lead the future of customer support.",
-      "raw_excerpt": "Discover how Intercom built a scalable AI platform with 3 key lessons—from evaluations to architecture—to lead the future of customer support.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: evaluation, research, builder-opinion"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "a5bc3b886f681a67"
-    },
-    {
       "id": "4b2349c3257d5021",
       "title": "Introducing study mode in ChatGPT",
       "url": "https://openai.com/index/chatgpt-study-mode",
@@ -196,6 +164,37 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "bc51616ad139ccda"
+    },
+    {
+      "id": "107199a2fa92c806",
+      "title": "Three lessons for creating a sustainable AI advantage",
+      "url": "https://openai.com/index/intercom",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-30T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "evaluation",
+        "research",
+        "builder-opinion"
+      ],
+      "summary": "Discover how Intercom built a scalable AI platform with 3 key lessons—from evaluations to architecture—to lead the future of customer support.",
+      "raw_excerpt": "Discover how Intercom built a scalable AI platform with 3 key lessons—from evaluations to architecture—to lead the future of customer support.",
+      "score": 93,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: evaluation, research, builder-opinion"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "a5bc3b886f681a67"
     },
     {
       "id": "f5632f6f91e28fe6",
@@ -872,7 +871,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-21T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "I’ve always considered myself a pragmatic technologist—someone who loves technology not for its own sake, but for the direct impact it can have on people’s lives. That’s what makes this job so exciting, since I believe AI will unlock more...",
@@ -897,7 +896,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of loca...",
@@ -924,7 +923,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-31T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "agents"
@@ -955,7 +954,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "agents"
@@ -986,7 +985,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "product"
@@ -1017,7 +1016,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1047,7 +1046,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-10T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1077,7 +1076,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1107,7 +1106,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-22T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1137,7 +1136,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-29T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1164,7 +1163,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1191,7 +1190,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1218,7 +1217,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-18T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1245,7 +1244,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-16T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1272,7 +1271,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-15T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1299,7 +1298,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1326,7 +1325,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1353,7 +1352,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "agents"

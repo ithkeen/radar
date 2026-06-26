@@ -4,6 +4,39 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "ddd2460e2a3b9981",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-27T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "open-source"
+      ],
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "raw_excerpt": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: model, agents, open-source"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "4f565f07620ae098"
+    },
+    {
       "id": "e60fa7207f6a1461",
       "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
       "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
@@ -1042,40 +1075,6 @@
       "content_hash": "c6cfbec220f54c99"
     },
     {
-      "id": "ddd2460e2a3b9981",
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "open-source"
-      ],
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "raw_excerpt": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model, agents, open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "4f565f07620ae098"
-    },
-    {
       "id": "2a6999bc8c1adf45",
       "title": "How enterprises are scaling AI",
       "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
@@ -1928,31 +1927,6 @@
       "content_hash": "83b39b688e8913e8"
     },
     {
-      "id": "635db8ff3d721189",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
-      "language": "en",
-      "tags": [],
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "raw_excerpt": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "score": 70,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "439a3870398cc249"
-    },
-    {
       "id": "d29ba31e882ca4ca",
       "title": "I/O 2026",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection",
@@ -2204,7 +2178,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2381,6 +2355,31 @@
       "content_hash": "97e8c3a26c54f643"
     },
     {
+      "id": "635db8ff3d721189",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-27T00:00:00Z",
+      "fetched_at": "2026-06-25T21:42:55Z",
+      "language": "en",
+      "tags": [],
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "raw_excerpt": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "439a3870398cc249"
+    },
+    {
       "id": "aa745decade4a5ca",
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs",
@@ -2388,7 +2387,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2415,7 +2414,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2439,37 +2438,6 @@
       "content_hash": "1a2999ca1fff2ccd"
     },
     {
-      "id": "9bcec59458e97e4d",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
-      "language": "en",
-      "tags": [
-        "evaluation"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: evaluation",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "9a46b15b71d20242"
-    },
-    {
       "id": "59cf6521ecffda3d",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
@@ -2477,7 +2445,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2505,7 +2473,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2533,7 +2501,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2561,7 +2529,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2579,60 +2547,6 @@
         "thin feed summary"
       ],
       "content_hash": "df10b1e777b55828"
-    },
-    {
-      "id": "c3c696b5bf6b4f8c",
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 57,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "2de6e143c0d08d29"
-    },
-    {
-      "id": "9e899a157ff8ca68",
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 57,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "190398d04fc9fcc3"
     },
     {
       "id": "43b7524e011327ab",
@@ -2665,6 +2579,36 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "e7e5e5ab1fe05d05"
+    },
+    {
+      "id": "9bcec59458e97e4d",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-06T00:00:00Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
+      "language": "en",
+      "tags": [
+        "evaluation"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 52,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: evaluation",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "9a46b15b71d20242"
     },
     {
       "id": "aea45e8990d4975c",
@@ -2703,7 +2647,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2730,7 +2674,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2757,7 +2701,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2777,6 +2721,60 @@
       "content_hash": "9226cd951db22b79"
     },
     {
+      "id": "c3c696b5bf6b4f8c",
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-27T00:00:00Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 49,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "2de6e143c0d08d29"
+    },
+    {
+      "id": "9e899a157ff8ca68",
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-27T00:00:00Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 49,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "190398d04fc9fcc3"
+    },
+    {
       "id": "ed1c2193d6b80a8c",
       "title": "Introducing the Ettin Reranker Family",
       "url": "https://huggingface.co/blog/ettin-reranker",
@@ -2784,7 +2782,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2811,7 +2809,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-18T15:12:46Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2838,7 +2836,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T18:55:01Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2865,7 +2863,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2892,7 +2890,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
@@ -2979,7 +2977,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [],
       "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
@@ -3005,7 +3003,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-15T22:30:20Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "product"
@@ -3034,7 +3032,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-07T17:33:02Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "fetched_at": "2026-06-26T03:42:52Z",
       "language": "en",
       "tags": [
         "product"

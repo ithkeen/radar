@@ -97,33 +97,6 @@
         "thin feed summary"
       ],
       "content_hash": "e61e6810504a3c00"
-    },
-    {
-      "id": "f7a1062010f112b3",
-      "title": "Gemma 3n fully available in the open-source ecosystem!",
-      "url": "https://huggingface.co/blog/gemma3n",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-06-26T00:00:00Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 49,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "1ce6f5d45bd30d24"
     }
   ]
 }
