@@ -4,39 +4,6 @@
   "retention_days": 365,
   "items": [
     {
-      "id": "1e3ebf94e41ebe19",
-      "title": "Customizable, no-code voice agent automation with GPT-4o",
-      "url": "https://openai.com/index/retell-ai",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-06-26T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "product"
-      ],
-      "summary": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conv...",
-      "raw_excerpt": "Retell AI is transforming the call center with AI voice automation powered by GPT-4o and GPT-4.1. Its no-code platform enables businesses to launch natural, real-time voice agents that cut call costs, boost CSAT, and automate customer conversations—without scripts or hold times.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "12e6adffa15def0d"
-    },
-    {
       "id": "f5885f88efe602c0",
       "title": "AI in Australia—OpenAI’s Economic Blueprint",
       "url": "https://openai.com/global-affairs/openais-australia-economic-blueprint",
