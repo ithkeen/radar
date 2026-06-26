@@ -201,37 +201,6 @@
       "content_hash": "e0d9a4ea16d81573"
     },
     {
-      "id": "1b257354b88be076",
-      "title": "Scaling Codex to enterprises worldwide",
-      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-21T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "raw_excerpt": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "7ee80b7192d4c9d0"
-    },
-    {
       "id": "24cb1873b9d2d37a",
       "title": "OpenAI helps Hyatt advance AI among colleagues",
       "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
@@ -980,6 +949,36 @@
       "content_hash": "50fb1a559c76f024"
     },
     {
+      "id": "1b257354b88be076",
+      "title": "Scaling Codex to enterprises worldwide",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-21T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "raw_excerpt": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "score": 93,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "7ee80b7192d4c9d0"
+    },
+    {
       "id": "8b7276cd935e3184",
       "title": "Where the goblins came from",
       "url": "https://openai.com/index/where-the-goblins-came-from",
@@ -1160,36 +1159,6 @@
       "content_hash": "afe25793f6032b58"
     },
     {
-      "id": "d78a27ea5811605b",
-      "title": "Our response to the Axios developer tool compromise",
-      "url": "https://openai.com/index/axios-developer-tool-compromise",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-10T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-      "raw_excerpt": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-      "score": 92,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "a212a94186295f0f"
-    },
-    {
       "id": "978a353b1d065a4c",
       "title": "Personalizing ChatGPT",
       "url": "https://openai.com/academy/personalization",
@@ -1251,6 +1220,35 @@
         "thin feed summary"
       ],
       "content_hash": "bba9984b2461b249"
+    },
+    {
+      "id": "d78a27ea5811605b",
+      "title": "Our response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-10T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "raw_excerpt": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "score": 85,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "official model or product signal"
+      ],
+      "content_hash": "a212a94186295f0f"
     },
     {
       "id": "a15adbd33f278176",
@@ -1438,37 +1436,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "fbb3c48333cfec3a"
-    },
-    {
-      "id": "487938567ca08f29",
-      "title": "Introducing the Child Safety Blueprint",
-      "url": "https://openai.com/index/introducing-child-safety-blueprint",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-08T05:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "safety",
-        "product"
-      ],
-      "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
-      "raw_excerpt": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
-      "score": 81,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: safety, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "db356b739166068b"
     },
     {
       "id": "3efc4342b784ee3a",
@@ -1864,137 +1831,34 @@
       "content_hash": "89df8f4521ac0c4a"
     },
     {
-      "id": "047e7bac94f5b9df",
-      "title": "Announcing the OpenAI Safety Fellowship",
-      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "id": "487938567ca08f29",
+      "title": "Introducing the Child Safety Blueprint",
+      "url": "https://openai.com/index/introducing-child-safety-blueprint",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-04-06T10:00:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
+      "published_at": "2026-04-08T05:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
-        "safety"
+        "safety",
+        "product"
       ],
-      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
-      "raw_excerpt": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
-      "score": 72,
+      "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+      "raw_excerpt": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+      "score": 74,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: safety"
+        "matched tags: safety, product"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
-      "content_hash": "c311cfa1cfe8e8f1"
-    },
-    {
-      "id": "6b8c46a3e355b778",
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-29T15:00:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-      "raw_excerpt": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-      "score": 69,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "25dbd63d530b8270"
-    },
-    {
-      "id": "180302e63d71fe71",
-      "title": "Cybersecurity in the Intelligence Age",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-29T04:00:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-      "raw_excerpt": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
-      "score": 69,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "e53d390bf25617c1"
-    },
-    {
-      "id": "414538245782acfe",
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-27T06:00:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "raw_excerpt": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
-      "score": 69,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "7d99b5f2f42313f1"
-    },
-    {
-      "id": "86685a01860027de",
-      "title": "OpenAI acquires TBPN",
-      "url": "https://openai.com/index/openai-acquires-tbpn",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-02T10:30:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-      "raw_excerpt": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
-      "score": 69,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "4da0ae052c4c8adb"
+      "content_hash": "db356b739166068b"
     },
     {
       "id": "3d462a37e82b391b",
@@ -2157,38 +2021,6 @@
       "content_hash": "a005b78c4ea7cb44"
     },
     {
-      "id": "a97b57794a66ff80",
-      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-04-27T00:00:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: product",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "247330f9defca2be"
-    },
-    {
       "id": "3d02fa562774d5c5",
       "title": "Cricket Australia uses AI Insights to bring fans closer to the action",
       "url": "https://news.microsoft.com/source/asia/features/cricket-australia-uses-ai-insights-to-bring-fans-closer-to-the-action",
@@ -2247,6 +2079,84 @@
       "content_hash": "0761ebd6b977a8f9"
     },
     {
+      "id": "047e7bac94f5b9df",
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-06T10:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "safety"
+      ],
+      "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+      "raw_excerpt": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "c311cfa1cfe8e8f1"
+    },
+    {
+      "id": "6b8c46a3e355b778",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-29T15:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "raw_excerpt": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "25dbd63d530b8270"
+    },
+    {
+      "id": "180302e63d71fe71",
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-29T04:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "raw_excerpt": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "e53d390bf25617c1"
+    },
+    {
       "id": "39c0a1c4f9c26195",
       "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
@@ -2254,7 +2164,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-28T15:58:57Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -2279,6 +2189,31 @@
       "content_hash": "9bc788f929408869"
     },
     {
+      "id": "414538245782acfe",
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-27T06:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "raw_excerpt": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "7d99b5f2f42313f1"
+    },
+    {
       "id": "1113ba57f4bdb988",
       "title": "Our principles",
       "url": "https://openai.com/index/our-principles",
@@ -2286,7 +2221,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-26T16:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
@@ -2304,6 +2239,31 @@
       "content_hash": "3e9b4551b37e9cd0"
     },
     {
+      "id": "86685a01860027de",
+      "title": "OpenAI acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-02T10:30:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+      "raw_excerpt": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "4da0ae052c4c8adb"
+    },
+    {
       "id": "d385c9eee6daddf4",
       "title": "Choco automates food distribution with AI agents",
       "url": "https://openai.com/index/choco",
@@ -2311,7 +2271,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-27T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "agents",
@@ -2343,7 +2303,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-16T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2374,7 +2334,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-15T12:07:25Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2398,6 +2358,37 @@
       "content_hash": "527cfae348d152b1"
     },
     {
+      "id": "a97b57794a66ff80",
+      "title": "How to build scalable web apps with OpenAI's Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-04-27T00:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 58,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: product",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "thin feed summary"
+      ],
+      "content_hash": "247330f9defca2be"
+    },
+    {
       "id": "82356b62524ebed4",
       "title": "DeepInfra on Hugging Face Inference Providers 🔥",
       "url": "https://huggingface.co/blog/inference-providers-deepinfra",
@@ -2405,7 +2396,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-29T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "inference"
@@ -2435,7 +2426,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-09T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -2465,7 +2456,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-02T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -2495,7 +2486,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-30T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -2525,7 +2516,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-23T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2552,7 +2543,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-21T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2579,7 +2570,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-16T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2606,7 +2597,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-15T09:25:20Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2633,7 +2624,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-08T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2660,7 +2651,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-01T07:13:20Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2687,7 +2678,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-01T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",

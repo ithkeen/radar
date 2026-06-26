@@ -231,37 +231,6 @@
       "content_hash": "f602fa68dd8df6d1"
     },
     {
-      "id": "17d5149b1fa30b30",
-      "title": "Introducing Stargate Norway",
-      "url": "https://openai.com/index/introducing-stargate-norway",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-31T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "multimodal",
-        "product"
-      ],
-      "summary": "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overarching infrastructure platform and is a critical part of our long-term vision to deliver t...",
-      "raw_excerpt": "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overarching infrastructure platform and is a critical part of our long-term vision to deliver the benefits of AI to everyone.",
-      "score": 81,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: multimodal, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "51b1576efb1527c5"
-    },
-    {
       "id": "6181ef1bea32b748",
       "title": "Resolving digital threats 100x faster with OpenAI",
       "url": "https://openai.com/index/outtake",
@@ -355,36 +324,6 @@
       "content_hash": "4b0a2b47b8df1881"
     },
     {
-      "id": "8e3ab43c26712146",
-      "title": "A $50 million fund to build with communities",
-      "url": "https://openai.com/index/50-million-fund-to-build-with-communities",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-18T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.",
-      "raw_excerpt": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.",
-      "score": 78,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "2ed5fa2e2b363084"
-    },
-    {
       "id": "e9de10efc604fe98",
       "title": "Intellectual freedom by design",
       "url": "https://openai.com/global-affairs/intellectual-freedom-by-design",
@@ -415,34 +354,34 @@
       "content_hash": "fdd166195f8b12e5"
     },
     {
-      "id": "7ea50d6cbd108bb6",
-      "title": "Working with 400,000 teachers to shape the future of AI in schools",
-      "url": "https://openai.com/global-affairs/aft",
+      "id": "17d5149b1fa30b30",
+      "title": "Introducing Stargate Norway",
+      "url": "https://openai.com/index/introducing-stargate-norway",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-07-08T07:00:00Z",
+      "published_at": "2025-07-31T00:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
+        "multimodal",
         "product"
       ],
-      "summary": "OpenAI partners with the American Federation of Teachers to launch a 5-year initiative equipping 400,000 K-12 educators to lead AI innovation in classrooms.",
-      "raw_excerpt": "OpenAI partners with the American Federation of Teachers to launch a 5-year initiative equipping 400,000 K-12 educators to lead AI innovation in classrooms.",
-      "score": 78,
+      "summary": "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overarching infrastructure platform and is a critical part of our long-term vision to deliver t...",
+      "raw_excerpt": "We’re launching Stargate Norway—OpenAI’s first AI data center initiative in Europe under our OpenAI for Countries program. Stargate is OpenAI’s overarching infrastructure platform and is a critical part of our long-term vision to deliver the benefits of AI to everyone.",
+      "score": 74,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: product"
+        "matched tags: multimodal, product"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
-      "content_hash": "d950d627ff89fc22"
+      "content_hash": "51b1576efb1527c5"
     },
     {
       "id": "bebc5e244986c3e0",
@@ -507,134 +446,62 @@
       "content_hash": "e11b2b5d40493c62"
     },
     {
-      "id": "9da4acd048f0ddf6",
-      "title": "Announcing OpenAI DevDay 2025",
-      "url": "https://openai.com/index/announcing-devday-2025",
+      "id": "8e3ab43c26712146",
+      "title": "A $50 million fund to build with communities",
+      "url": "https://openai.com/index/50-million-fund-to-build-with-communities",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
+      "published_at": "2025-07-18T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
-      "tags": [],
-      "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
-      "raw_excerpt": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
-      "score": 69,
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.",
+      "raw_excerpt": "OpenAI is launching an initial $50 million fund that supports nonprofit and community organizations, informed by the independent OpenAI Nonprofit Commission report.",
+      "score": 71,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
-        "official source"
+        "official source",
+        "matched tags: product"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
-      "content_hash": "44c0fb3afbc5099b"
+      "content_hash": "2ed5fa2e2b363084"
     },
     {
-      "id": "85bbe066139c673f",
-      "title": "Pioneering an AI clinical copilot with Penda Health",
-      "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
+      "id": "7ea50d6cbd108bb6",
+      "title": "Working with 400,000 teachers to shape the future of AI in schools",
+      "url": "https://openai.com/global-affairs/aft",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-07-22T10:00:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
+      "published_at": "2025-07-08T07:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
-      "tags": [],
-      "summary": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
-      "raw_excerpt": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
-      "score": 69,
+      "tags": [
+        "product"
+      ],
+      "summary": "OpenAI partners with the American Federation of Teachers to launch a 5-year initiative equipping 400,000 K-12 educators to lead AI innovation in classrooms.",
+      "raw_excerpt": "OpenAI partners with the American Federation of Teachers to launch a 5-year initiative equipping 400,000 K-12 educators to lead AI innovation in classrooms.",
+      "score": 71,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
-        "official source"
+        "official source",
+        "matched tags: product"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
-      "content_hash": "13b2551b458c3de3"
-    },
-    {
-      "id": "3a28a8d2737ce8fa",
-      "title": "OpenAI and UK Government announce strategic partnership to deliver AI-driven growth",
-      "url": "https://openai.com/global-affairs/openai-and-uk-government-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-21T10:00:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
-      "raw_excerpt": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
-      "score": 69,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "f23d047aa234f997"
-    },
-    {
-      "id": "3611d355fc099d61",
-      "title": "Statement from the OpenAI Board of Directors on the Nonprofit Commission Report",
-      "url": "https://openai.com/index/nonprofit-commission-report",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
-      "language": "en",
-      "tags": [],
-      "summary": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
-      "raw_excerpt": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
-      "score": 69,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "ea33a70efd503ff0"
-    },
-    {
-      "id": "b9fced54e67f7717",
-      "title": "The EU Code of Practice and future of AI in Europe",
-      "url": "https://openai.com/global-affairs/eu-code-of-practice",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-11T09:30:00Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.",
-      "raw_excerpt": "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.",
-      "score": 69,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "14418b9bf11c4eb0"
+      "content_hash": "d950d627ff89fc22"
     },
     {
       "id": "74ccb72bf236159f",
@@ -864,6 +731,81 @@
       "content_hash": "be7aeb034bcbb112"
     },
     {
+      "id": "9da4acd048f0ddf6",
+      "title": "Announcing OpenAI DevDay 2025",
+      "url": "https://openai.com/index/announcing-devday-2025",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-23T00:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "raw_excerpt": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "44c0fb3afbc5099b"
+    },
+    {
+      "id": "85bbe066139c673f",
+      "title": "Pioneering an AI clinical copilot with Penda Health",
+      "url": "https://openai.com/index/ai-clinical-copilot-penda-health",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-22T10:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
+      "raw_excerpt": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "13b2551b458c3de3"
+    },
+    {
+      "id": "3a28a8d2737ce8fa",
+      "title": "OpenAI and UK Government announce strategic partnership to deliver AI-driven growth",
+      "url": "https://openai.com/global-affairs/openai-and-uk-government-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-21T10:00:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
+      "raw_excerpt": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "f23d047aa234f997"
+    },
+    {
       "id": "cfc0caf59afc4c97",
       "title": "AI as the greatest source of empowerment for all",
       "url": "https://openai.com/index/ai-as-the-greatest-source-of-empowerment-for-all",
@@ -871,7 +813,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-21T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "I’ve always considered myself a pragmatic technologist—someone who loves technology not for its own sake, but for the direct impact it can have on people’s lives. That’s what makes this job so exciting, since I believe AI will unlock more...",
@@ -889,19 +831,19 @@
       "content_hash": "ddc70d352c17a06d"
     },
     {
-      "id": "c6b4af4bb14de25f",
-      "title": "OpenAI nonprofit jam",
-      "url": "https://openai.com/global-affairs/openai-nonprofit-jam",
+      "id": "3611d355fc099d61",
+      "title": "Statement from the OpenAI Board of Directors on the Nonprofit Commission Report",
+      "url": "https://openai.com/index/nonprofit-commission-report",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [],
-      "summary": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of loca...",
-      "raw_excerpt": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Nonprofit Jam—a one-day, nationwide event bringing together more than 1,000 nonprofit leaders across 10 locations.",
-      "score": 61,
+      "summary": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
+      "raw_excerpt": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
+      "score": 62,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -909,11 +851,34 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "low-signal content: academy",
-        "same theme appeared across multiple sources"
+        "outside preferred AI focus"
       ],
-      "content_hash": "d9daeefe1ef08731"
+      "content_hash": "ea33a70efd503ff0"
+    },
+    {
+      "id": "b9fced54e67f7717",
+      "title": "The EU Code of Practice and future of AI in Europe",
+      "url": "https://openai.com/global-affairs/eu-code-of-practice",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-11T09:30:00Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [],
+      "summary": "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.",
+      "raw_excerpt": "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "14418b9bf11c4eb0"
     },
     {
       "id": "77f78ba0e8dc6fdc",
@@ -923,7 +888,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-31T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "agents"
@@ -954,7 +919,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "agents"
@@ -985,7 +950,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "product"
@@ -1009,6 +974,32 @@
       "content_hash": "bd11cd62826480e5"
     },
     {
+      "id": "c6b4af4bb14de25f",
+      "title": "OpenAI nonprofit jam",
+      "url": "https://openai.com/global-affairs/openai-nonprofit-jam",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-17T00:00:00Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
+      "language": "en",
+      "tags": [],
+      "summary": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of loca...",
+      "raw_excerpt": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Nonprofit Jam—a one-day, nationwide event bringing together more than 1,000 nonprofit leaders across 10 locations.",
+      "score": 54,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "low-signal content: academy"
+      ],
+      "content_hash": "d9daeefe1ef08731"
+    },
+    {
       "id": "2582595d10e57ccb",
       "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
       "url": "https://huggingface.co/blog/lora-fast",
@@ -1016,7 +1007,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1046,7 +1037,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-10T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1076,7 +1067,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1099,36 +1090,6 @@
       "content_hash": "182a7ae4fbffd458"
     },
     {
-      "id": "edca3775ca0f1432",
-      "title": "Stargate advances with 4.5 GW partnership with Oracle",
-      "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-07-22T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
-      "language": "en",
-      "tags": [
-        "multimodal"
-      ],
-      "summary": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustrialization, and help advance U.S. AI leadershi...",
-      "raw_excerpt": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI’s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.",
-      "score": 50,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: multimodal"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: jobs",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "b57743590c491031"
-    },
-    {
       "id": "10d2c373357bae31",
       "title": "Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face",
       "url": "https://huggingface.co/blog/trackio",
@@ -1136,7 +1097,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-29T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1163,7 +1124,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1190,7 +1151,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1217,7 +1178,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-18T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1244,7 +1205,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-16T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1271,7 +1232,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-15T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1298,7 +1259,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1325,7 +1286,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1345,6 +1306,35 @@
       "content_hash": "47b8aafdceb44dd7"
     },
     {
+      "id": "edca3775ca0f1432",
+      "title": "Stargate advances with 4.5 GW partnership with Oracle",
+      "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-07-22T00:00:00Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
+      "language": "en",
+      "tags": [
+        "multimodal"
+      ],
+      "summary": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustrialization, and help advance U.S. AI leadershi...",
+      "raw_excerpt": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustrialization, and help advance U.S. AI leadership. It also marks a major milestone for Stargate, OpenAI’s AI infrastructure platform and long-term vision to deliver the benefits of AI to everyone.",
+      "score": 43,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: multimodal"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "low-signal content: jobs"
+      ],
+      "content_hash": "b57743590c491031"
+    },
+    {
       "id": "ac1407fdd619e0b8",
       "title": "Back to The Future: Evaluating AI Agents on Predicting Future Events",
       "url": "https://huggingface.co/blog/futurebench",
@@ -1352,7 +1342,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-26T17:48:24Z",
+      "fetched_at": "2026-06-26T21:19:26Z",
       "language": "en",
       "tags": [
         "agents"

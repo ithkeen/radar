@@ -18,7 +18,7 @@
       ],
       "summary": "Today, OpenAI, in partnership with Mandala Partners, is sharing the OpenAI AI Economic Blueprint for Australia. At a time when boosting productivity has emerged as a national priority for Australia, the Blueprint provides a clear, actionab...",
       "raw_excerpt": "Today, OpenAI, in partnership with Mandala Partners, is sharing the OpenAI AI Economic Blueprint for Australia. At a time when boosting productivity has emerged as a national priority for Australia, the Blueprint provides a clear, actionable plan for how Australia can unlock the full economic and social potential of artificial intelligence.",
-      "score": 78,
+      "score": 71,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -28,8 +28,7 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "52c5f9831369b69e"
     },
