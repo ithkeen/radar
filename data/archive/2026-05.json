@@ -545,6 +545,37 @@
       "content_hash": "8571ad3f6ced9be4"
     },
     {
+      "id": "2aa7e747964e595a",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-28T12:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent"
+      ],
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "raw_excerpt": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "score": 97,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ccd096bd34652fc7"
+    },
+    {
       "id": "c7affab7451ec44b",
       "title": "Building self-improving tax agents with Codex",
       "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
@@ -1038,38 +1069,6 @@
         "demoted by source diversity quota"
       ],
       "content_hash": "50db97f88a05f918"
-    },
-    {
-      "id": "2aa7e747964e595a",
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-28T12:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "coding-agent"
-      ],
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "raw_excerpt": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents, coding-agent"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "ccd096bd34652fc7"
     },
     {
       "id": "2a6999bc8c1adf45",
@@ -1756,7 +1755,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -1814,7 +1813,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2063,7 +2062,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-19T10:45:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2152,7 +2151,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2180,7 +2179,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-04T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [
         "inference"
@@ -2239,7 +2238,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -2264,7 +2263,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -2289,7 +2288,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
@@ -2314,7 +2313,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2341,7 +2340,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2368,7 +2367,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2431,7 +2430,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2490,7 +2489,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -2520,7 +2519,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2547,7 +2546,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2574,7 +2573,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2601,7 +2600,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2628,7 +2627,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2655,7 +2654,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2682,7 +2681,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2709,7 +2708,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2736,7 +2735,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2763,7 +2762,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-18T15:12:46Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2790,7 +2789,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T18:55:01Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2817,7 +2816,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T00:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2933,7 +2932,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
@@ -2959,7 +2958,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-15T22:30:20Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [
         "product"
@@ -2988,7 +2987,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-07T17:33:02Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [
         "product"
@@ -3017,7 +3016,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-27T10:08:44Z",
+      "fetched_at": "2026-06-27T13:43:44Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
