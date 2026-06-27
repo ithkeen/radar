@@ -264,38 +264,6 @@
       "content_hash": "6df0ed340321ca53"
     },
     {
-      "id": "0661418088b8e271",
-      "title": "Introducing AgentKit, new Evals, and RFT for agents",
-      "url": "https://openai.com/index/introducing-agentkit",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-06T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
-      "raw_excerpt": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "bb54be6829965a7c"
-    },
-    {
       "id": "80128a657db24a50",
       "title": "Steuerrecht.com delivers client-ready legal analysis with ChatGPT",
       "url": "https://openai.com/index/steuerrecht",
@@ -358,6 +326,37 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "01330204f3c1f6df"
+    },
+    {
+      "id": "0661418088b8e271",
+      "title": "Introducing AgentKit, new Evals, and RFT for agents",
+      "url": "https://openai.com/index/introducing-agentkit",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-10-06T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
+      "raw_excerpt": "Today, we’re releasing new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "bb54be6829965a7c"
     },
     {
       "id": "3556c47e80db65b8",
@@ -515,36 +514,6 @@
       "content_hash": "6a231e68c9c7ae52"
     },
     {
-      "id": "fed198f10f4df35b",
-      "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
-      "url": "https://openai.com/index/introducing-aardvark",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-10-30T11:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-      "raw_excerpt": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "92fca508df42aa0f"
-    },
-    {
       "id": "0a0c5c86c5bf86be",
       "title": "Codex is now generally available",
       "url": "https://openai.com/index/codex-now-generally-available",
@@ -635,36 +604,33 @@
       "content_hash": "43f42aa5c451c261"
     },
     {
-      "id": "7141b7bd4c90166a",
-      "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
-      "url": "https://huggingface.co/blog/openenv",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
+      "id": "fed198f10f4df35b",
+      "title": "Introducing Aardvark: OpenAI’s agentic security researcher",
+      "url": "https://openai.com/index/introducing-aardvark",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2025-10-23T00:00:00Z",
+      "published_at": "2025-10-30T11:00:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "agents"
       ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 81,
+      "summary": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
+      "raw_excerpt": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
+      "score": 87,
       "score_reasons": [
-        "trusted source weight 50",
+        "trusted source weight 56",
         "older than 30 days",
         "official source",
-        "matched tags: agents",
-        "no feed summary"
+        "matched tags: agents"
       ],
       "tier": "noteworthy",
       "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
+        "matches AI channel focus: builder opinion",
+        "high-impact model, eval, or agent keywords"
       ],
-      "content_hash": "ce6dcbbacade9038"
+      "content_hash": "92fca508df42aa0f"
     },
     {
       "id": "5c375fe818a50015",
@@ -846,6 +812,37 @@
       "content_hash": "3b52137c26d52294"
     },
     {
+      "id": "7141b7bd4c90166a",
+      "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
+      "url": "https://huggingface.co/blog/openenv",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-10-23T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 74,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "high-impact model, eval, or agent keywords",
+        "thin feed summary"
+      ],
+      "content_hash": "ce6dcbbacade9038"
+    },
+    {
       "id": "68542ab316d77bf7",
       "title": "Accelerating AI adoption in Europe",
       "url": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe",
@@ -862,7 +859,7 @@
       ],
       "summary": "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.",
       "raw_excerpt": "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.",
-      "score": 78,
+      "score": 71,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -871,8 +868,7 @@
       ],
       "tier": "raw",
       "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
+        "outside preferred AI focus"
       ],
       "content_hash": "e8aae62b709a0eee"
     },
@@ -948,7 +944,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-13T06:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -976,7 +972,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-06T06:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -1031,7 +1027,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-28T06:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Microsoft and OpenAI sign a new agreement that strengthens its long-term partnership, expands innovation, and ensures responsible AI progress.",
@@ -1056,7 +1052,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-27T12:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and...",
@@ -1081,7 +1077,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-23T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI's Korea Economic Blueprint outlines how South Korea can scale trusted AI through sovereign capabilities and strategic partnerships to drive growth.",
@@ -1106,7 +1102,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-22T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI’s Japan Economic Blueprint outlines how Japan can harness AI to boost innovation, strengthen competitiveness, and enable sustainable, inclusive growth.",
@@ -1131,7 +1127,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-14T06:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and digital innovation.",
@@ -1156,7 +1152,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-02T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
@@ -1174,37 +1170,6 @@
       "content_hash": "ea3f885714a3c333"
     },
     {
-      "id": "62cce022054f4014",
-      "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
-      "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-10-30T10:03:45Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "b964ff326a3c857b"
-    },
-    {
       "id": "6409df0f92018357",
       "title": "Introducing RTEB: A New Standard for Retrieval Evaluation",
       "url": "https://huggingface.co/blog/rteb",
@@ -1212,7 +1177,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-01T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -1237,6 +1202,36 @@
       "content_hash": "9d85652c73a7385f"
     },
     {
+      "id": "62cce022054f4014",
+      "title": "Aligning to What? Rethinking Agent Generalization in MiniMax M2",
+      "url": "https://huggingface.co/blog/MiniMax-AI/aligning-to-what",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-10-30T10:03:45Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 52,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "b964ff326a3c857b"
+    },
+    {
       "id": "1f6d4afc853d3d71",
       "title": "Streaming datasets: 100x More Efficient",
       "url": "https://huggingface.co/blog/streaming-datasets",
@@ -1244,7 +1239,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-27T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "research"
@@ -1274,7 +1269,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-21T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1304,7 +1299,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-29T13:56:45Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1331,7 +1326,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-29T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1358,7 +1353,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-28T20:42:35Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1385,7 +1380,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-28T14:59:38Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1412,7 +1407,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-28T06:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "product"
@@ -1442,7 +1437,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-28T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1469,7 +1464,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-27T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1496,7 +1491,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-24T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1523,7 +1518,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-22T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1550,7 +1545,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-22T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1577,7 +1572,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-16T22:38:11Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1604,7 +1599,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-15T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1631,7 +1626,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-13T23:00:42Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1658,7 +1653,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-10T17:35:04Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1685,7 +1680,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-10-02T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1712,7 +1707,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-10-30T13:30:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",

@@ -4,71 +4,6 @@
   "retention_days": 365,
   "items": [
     {
-      "id": "33e5e5bcd68981ac",
-      "title": "Why we no longer evaluate SWE-bench Verified",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-23T11:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent",
-        "evaluation",
-        "builder-opinion",
-        "regulation"
-      ],
-      "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
-      "raw_excerpt": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent, evaluation, builder-opinion, regulation"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation, coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "f1d82ab42f40b298"
-    },
-    {
-      "id": "9ea61497c289b52a",
-      "title": "OpenAI announces Frontier Alliance Partners",
-      "url": "https://openai.com/index/frontier-alliance-partners",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-23T05:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-      "raw_excerpt": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "0e7558dc5b3a5ab0"
-    },
-    {
       "id": "b117978acb8a29a3",
       "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
       "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
@@ -199,38 +134,6 @@
       "content_hash": "efb813d86eb37e66"
     },
     {
-      "id": "1ae41af387a9ae94",
-      "title": "Introducing OpenAI Frontier",
-      "url": "https://openai.com/index/introducing-openai-frontier",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-05T06:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
-      "raw_excerpt": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "711920e2c86145c0"
-    },
-    {
       "id": "dd64fe3084a4f825",
       "title": "GPT-5.3-Codex System Card",
       "url": "https://openai.com/index/gpt-5-3-codex-system-card",
@@ -296,6 +199,100 @@
       "content_hash": "b1279612644eafc0"
     },
     {
+      "id": "33e5e5bcd68981ac",
+      "title": "Why we no longer evaluate SWE-bench Verified",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-23T11:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent",
+        "evaluation",
+        "builder-opinion",
+        "regulation"
+      ],
+      "summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+      "raw_excerpt": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent, evaluation, builder-opinion, regulation"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation, coding agent, agent practice",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "f1d82ab42f40b298"
+    },
+    {
+      "id": "9ea61497c289b52a",
+      "title": "OpenAI announces Frontier Alliance Partners",
+      "url": "https://openai.com/index/frontier-alliance-partners",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-23T05:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "raw_excerpt": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "0e7558dc5b3a5ab0"
+    },
+    {
+      "id": "1ae41af387a9ae94",
+      "title": "Introducing OpenAI Frontier",
+      "url": "https://openai.com/index/introducing-openai-frontier",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-05T06:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+      "raw_excerpt": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "711920e2c86145c0"
+    },
+    {
       "id": "e205ffac9d9f156d",
       "title": "Unlocking the Codex harness: how we built the App Server",
       "url": "https://openai.com/index/unlocking-the-codex-harness",
@@ -311,7 +308,7 @@
       ],
       "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
       "raw_excerpt": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
-      "score": 100,
+      "score": 96,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -322,8 +319,7 @@
       "quality_reasons": [
         "matches AI channel focus: coding agent, builder opinion",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "e4a5afd6d75628f8"
     },
@@ -343,7 +339,7 @@
       ],
       "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
       "raw_excerpt": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
-      "score": 100,
+      "score": 96,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -354,132 +350,9 @@
       "quality_reasons": [
         "matches AI channel focus: coding agent, agent practice",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "fdde1e41fd42dfa3"
-    },
-    {
-      "id": "b50e3d195c6e850f",
-      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
-      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-26T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "research"
-      ],
-      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastr...",
-      "raw_excerpt": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
-      "score": 97,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, research"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation, coding agent",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "ce6411e9ca664683"
-    },
-    {
-      "id": "55bc17d8de5da8b6",
-      "title": "Introducing EVMbench",
-      "url": "https://openai.com/index/introducing-evmbench",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-18T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "research"
-      ],
-      "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-      "raw_excerpt": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-      "score": 97,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, research"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "d01d785d4f8a07f5"
-    },
-    {
-      "id": "3b4e959bd5949ae2",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-27T05:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-      "raw_excerpt": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "63d67098a2157d1d"
-    },
-    {
-      "id": "338aaf898d6c0242",
-      "title": "Beyond rate limits: scaling access to Codex and Sora",
-      "url": "https://openai.com/index/beyond-rate-limits",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-13T09:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
-      "raw_excerpt": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "df9b6a25e28c8296"
     },
     {
       "id": "4b51d8cada0e9538",
@@ -512,35 +385,122 @@
       "content_hash": "ddfa22500f167b82"
     },
     {
-      "id": "f6b93302265de776",
-      "title": "Harness engineering: leveraging Codex in an agent-first world",
-      "url": "https://openai.com/index/harness-engineering",
+      "id": "b50e3d195c6e850f",
+      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-02-11T09:00:00Z",
+      "published_at": "2026-02-26T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "research"
+      ],
+      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastr...",
+      "raw_excerpt": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, research"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation, coding agent",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "ce6411e9ca664683"
+    },
+    {
+      "id": "55bc17d8de5da8b6",
+      "title": "Introducing EVMbench",
+      "url": "https://openai.com/index/introducing-evmbench",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-18T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "research"
+      ],
+      "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+      "raw_excerpt": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, research"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "d01d785d4f8a07f5"
+    },
+    {
+      "id": "3b4e959bd5949ae2",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-27T05:30:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "agents"
       ],
-      "summary": "By Ryan Lopopolo, Member of the Technical Staff",
-      "raw_excerpt": "By Ryan Lopopolo, Member of the Technical Staff",
-      "score": 91,
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "raw_excerpt": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "score": 87,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
         "official source",
         "matched tags: agents"
       ],
-      "tier": "must_read",
+      "tier": "noteworthy",
       "quality_reasons": [
-        "matches AI channel focus: coding agent, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
+        "matches AI channel focus: agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords"
       ],
-      "content_hash": "a57ebf5ea2434692"
+      "content_hash": "63d67098a2157d1d"
+    },
+    {
+      "id": "338aaf898d6c0242",
+      "title": "Beyond rate limits: scaling access to Codex and Sora",
+      "url": "https://openai.com/index/beyond-rate-limits",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-13T09:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+      "raw_excerpt": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "df9b6a25e28c8296"
     },
     {
       "id": "fc0327c6027c6fa4",
@@ -603,6 +563,36 @@
         "official model or product signal"
       ],
       "content_hash": "974479ca7f18564c"
+    },
+    {
+      "id": "f6b93302265de776",
+      "title": "Harness engineering: leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-11T09:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "By Ryan Lopopolo, Member of the Technical Staff",
+      "raw_excerpt": "By Ryan Lopopolo, Member of the Technical Staff",
+      "score": 84,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "thin feed summary"
+      ],
+      "content_hash": "a57ebf5ea2434692"
     },
     {
       "id": "42435d1a22d3686e",
@@ -820,66 +810,6 @@
       "content_hash": "da76c1f0dffac7f1"
     },
     {
-      "id": "9b87ffcc2c79d528",
-      "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
-      "url": "https://huggingface.co/blog/openenv-turing",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-02-12T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 73,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "fa4165c29115cb12"
-    },
-    {
-      "id": "f4bbf1c3572c46ac",
-      "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
-      "url": "https://openai.com/index/snowflake-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-02T06:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
-      "raw_excerpt": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
-      "score": 72,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "70c580745b8d2f57"
-    },
-    {
       "id": "ef455565a9b47a55",
       "title": "Arvind KC appointed Chief People Officer",
       "url": "https://openai.com/index/arvind-kc-chief-people-officer",
@@ -938,6 +868,36 @@
       "content_hash": "c921295db9b62135"
     },
     {
+      "id": "9b87ffcc2c79d528",
+      "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+      "url": "https://huggingface.co/blog/openenv-turing",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-02-12T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 66,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "thin feed summary"
+      ],
+      "content_hash": "fa4165c29115cb12"
+    },
+    {
       "id": "2a0618695f6143ca",
       "title": "Our agreement with the Department of War",
       "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
@@ -945,7 +905,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-28T12:30:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "safety"
@@ -973,7 +933,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-27T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1033,7 +993,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-19T10:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1118,6 +1078,34 @@
       "content_hash": "9a50941576279da4"
     },
     {
+      "id": "f4bbf1c3572c46ac",
+      "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+      "url": "https://openai.com/index/snowflake-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-02T06:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
+      "raw_excerpt": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "70c580745b8d2f57"
+    },
+    {
       "id": "2b542b2a14cf6887",
       "title": "Scaling AI for everyone",
       "url": "https://openai.com/index/scaling-ai-for-everyone",
@@ -1125,7 +1113,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-27T05:30:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
@@ -1150,7 +1138,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-18T21:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
@@ -1175,7 +1163,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-05T10:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
@@ -1193,37 +1181,6 @@
       "content_hash": "35ac42197598d667"
     },
     {
-      "id": "4e0bcba85dced873",
-      "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-      "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-02-18T16:15:45Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "4615b82c63ba17d5"
-    },
-    {
       "id": "31f053c94d55b1a4",
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
@@ -1231,7 +1188,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-18T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "product"
@@ -1255,6 +1212,36 @@
       "content_hash": "66695c2e7aedf5f5"
     },
     {
+      "id": "4e0bcba85dced873",
+      "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+      "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-02-18T16:15:45Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 52,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "4615b82c63ba17d5"
+    },
+    {
       "id": "634f96fb7ab6e978",
       "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
       "url": "https://huggingface.co/blog/community-evals",
@@ -1262,7 +1249,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-04T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -1292,7 +1279,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-26T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1319,7 +1306,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-09T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1346,7 +1333,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-05T16:52:28Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1373,7 +1360,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-20T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "model"

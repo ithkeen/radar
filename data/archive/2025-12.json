@@ -69,38 +69,6 @@
       "content_hash": "f9c9b3fc2ced32ae"
     },
     {
-      "id": "eafd28afa8a69fbc",
-      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
-      "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-12T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
-      "raw_excerpt": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "551e3432051b41a1"
-    },
-    {
       "id": "03cba5d2396520e3",
       "title": "Advancing science and math with GPT-5.2",
       "url": "https://openai.com/index/gpt-5-2-for-science-and-math",
@@ -228,6 +196,37 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "b6a5c5d9d51d3d0a"
+    },
+    {
+      "id": "eafd28afa8a69fbc",
+      "title": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-12T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "raw_excerpt": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "551e3432051b41a1"
     },
     {
       "id": "0ad9fbef8c874c3e",
@@ -573,35 +572,6 @@
       "content_hash": "15b361cc28dc009e"
     },
     {
-      "id": "def3827576d5f32d",
-      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
-      "url": "https://openai.com/index/bny",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-12T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees build AI agents that improve efficiency and client outcomes.",
-      "raw_excerpt": "BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees build AI agents that improve efficiency and client outcomes.",
-      "score": 86,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "139c84321c40794f"
-    },
-    {
       "id": "83beb5a32b71ab5a",
       "title": "Deepening our collaboration with the U.S. Department of Energy",
       "url": "https://openai.com/index/us-department-of-energy-collaboration",
@@ -914,6 +884,34 @@
       "content_hash": "a29d536e6e604738"
     },
     {
+      "id": "def3827576d5f32d",
+      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "url": "https://openai.com/index/bny",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-12T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees build AI agents that improve efficiency and client outcomes.",
+      "raw_excerpt": "BNY uses OpenAI to expand AI adoption enterprise-wide through Eliza, where 20,000+ employees build AI agents that improve efficiency and client outcomes.",
+      "score": 79,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice"
+      ],
+      "content_hash": "139c84321c40794f"
+    },
+    {
       "id": "6978d9846f9014de",
       "title": "Ten years",
       "url": "https://openai.com/index/ten-years",
@@ -1032,36 +1030,6 @@
       "content_hash": "a229f11d980650f1"
     },
     {
-      "id": "fa276c020c3018fb",
-      "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
-      "url": "https://openai.com/index/agentic-ai-foundation",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-09T09:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "regulation"
-      ],
-      "summary": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
-      "raw_excerpt": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
-      "score": 75,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "a149e92b829fc227"
-    },
-    {
       "id": "cd2c685fc846718e",
       "title": "Funding grants for new research into AI and mental health",
       "url": "https://openai.com/index/ai-mental-health-research-grants",
@@ -1090,35 +1058,6 @@
         "official model or product signal"
       ],
       "content_hash": "e6011beab7565619"
-    },
-    {
-      "id": "15fd84c7f858b563",
-      "title": "Accenture and OpenAI accelerate enterprise AI success",
-      "url": "https://openai.com/index/accenture-partnership",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-12-01T05:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
-      "raw_excerpt": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
-      "score": 72,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "b35eed9389673dcb"
     },
     {
       "id": "239b19875b6de52e",
@@ -1186,7 +1125,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-16T09:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -1206,6 +1145,35 @@
         "outside preferred AI focus"
       ],
       "content_hash": "71b1ab19095b8a79"
+    },
+    {
+      "id": "fa276c020c3018fb",
+      "title": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+      "url": "https://openai.com/index/agentic-ai-foundation",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-09T09:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "regulation"
+      ],
+      "summary": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+      "raw_excerpt": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+      "score": 68,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "a149e92b829fc227"
     },
     {
       "id": "3add516dae33eedc",
@@ -1273,6 +1241,34 @@
       "content_hash": "594588c291d34bf5"
     },
     {
+      "id": "15fd84c7f858b563",
+      "title": "Accenture and OpenAI accelerate enterprise AI success",
+      "url": "https://openai.com/index/accenture-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-12-01T05:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+      "raw_excerpt": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "b35eed9389673dcb"
+    },
+    {
       "id": "c767f0c618b966bc",
       "title": "Transformers v5: Simple model definitions powering the AI ecosystem",
       "url": "https://huggingface.co/blog/transformers-v5",
@@ -1312,7 +1308,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-16T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Discover how leaders can build AI-ready organizations using clear strategy, training, governance, and accelerated innovation.",
@@ -1337,7 +1333,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-08T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
@@ -1362,7 +1358,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-03T08:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "The OpenAI Foundation announces the initial recipients of the People-First AI Fund, awarding $40.5M in unrestricted grants to 208 nonprofits supporting community innovation and opportunity.",
@@ -1380,68 +1376,6 @@
       "content_hash": "5d2484538d72178d"
     },
     {
-      "id": "06f95737db70a6b1",
-      "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-12-15T16:01:04Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "90fdd4073f852232"
-    },
-    {
-      "id": "ec0deb1b0a973be0",
-      "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
-      "url": "https://huggingface.co/blog/intel-deepmath",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-12-04T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "8a750061e5b446bc"
-    },
-    {
       "id": "047189296b1fc818",
       "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
@@ -1449,7 +1383,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-17T13:22:18Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -1474,6 +1408,66 @@
       "content_hash": "88477ab690b3db28"
     },
     {
+      "id": "06f95737db70a6b1",
+      "title": "CUGA on Hugging Face: Democratizing Configurable AI Agents",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-12-15T16:01:04Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 52,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "90fdd4073f852232"
+    },
+    {
+      "id": "ec0deb1b0a973be0",
+      "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
+      "url": "https://huggingface.co/blog/intel-deepmath",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-12-04T00:00:00Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 52,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "8a750061e5b446bc"
+    },
+    {
       "id": "3796ad08bcbdbfc6",
       "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
       "url": "https://huggingface.co/blog/tokenizers",
@@ -1481,7 +1475,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-18T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1508,7 +1502,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-17T06:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "product"
@@ -1538,7 +1532,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-12-09T06:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "product"
@@ -1568,7 +1562,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-12-05T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",

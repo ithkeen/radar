@@ -355,37 +355,6 @@
       "content_hash": "59373abdaa15eed0"
     },
     {
-      "id": "bedda3a88515a492",
-      "title": "OpenAI for Healthcare",
-      "url": "https://openai.com/index/openai-for-healthcare",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-08T12:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
-      "raw_excerpt": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
-      "score": 95,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "198b04db804d2305"
-    },
-    {
       "id": "7339e10bcdac8587",
       "title": "How Tolan builds voice-first AI with GPT-5.1",
       "url": "https://openai.com/index/tolan",
@@ -415,36 +384,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "afef438dc336dcc4"
-    },
-    {
-      "id": "27d219dd79b5e1d1",
-      "title": "Datadog uses Codex for system-level code review",
-      "url": "https://openai.com/index/datadog",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-09T00:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
-      "raw_excerpt": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "111312520152b5bc"
     },
     {
       "id": "37bd9866fae91761",
@@ -541,6 +480,65 @@
       "content_hash": "8b650ae628a53caa"
     },
     {
+      "id": "bedda3a88515a492",
+      "title": "OpenAI for Healthcare",
+      "url": "https://openai.com/index/openai-for-healthcare",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-08T12:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+      "raw_excerpt": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
+      "score": 88,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "official model or product signal"
+      ],
+      "content_hash": "198b04db804d2305"
+    },
+    {
+      "id": "27d219dd79b5e1d1",
+      "title": "Datadog uses Codex for system-level code review",
+      "url": "https://openai.com/index/datadog",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-09T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+      "raw_excerpt": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "111312520152b5bc"
+    },
+    {
       "id": "aae21d8eeec522a7",
       "title": "How Higgsfield turns simple ideas into cinematic social videos",
       "url": "https://openai.com/index/higgsfield",
@@ -571,39 +569,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "cd48a4b50fbc3c5a"
-    },
-    {
-      "id": "2cc75063d0d1dfc1",
-      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
-      "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-01-21T06:25:31Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "research"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 84,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, research",
-        "no feed summary"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "aa1df14e9e3a2614"
     },
     {
       "id": "3eec9fb139cb49c3",
@@ -819,6 +784,38 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "19b01e590985d01f"
+    },
+    {
+      "id": "2cc75063d0d1dfc1",
+      "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+      "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-01-21T06:25:31Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "research"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 77,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, research",
+        "no feed summary"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "thin feed summary"
+      ],
+      "content_hash": "aa1df14e9e3a2614"
     },
     {
       "id": "ea4e4e11d85eb5d7",
@@ -1103,7 +1100,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-26T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
@@ -1128,7 +1125,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-21T01:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
@@ -1153,7 +1150,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-15T07:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
@@ -1178,7 +1175,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-09T11:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
@@ -1196,37 +1193,6 @@
       "content_hash": "6c7e8ad30ed1b28b"
     },
     {
-      "id": "49b3f6f1a10d15c7",
-      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
-      "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-01-05T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "67916cc7482809f3"
-    },
-    {
       "id": "eec01c0dd80f2b5d",
       "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
       "url": "https://huggingface.co/blog/daggr",
@@ -1234,7 +1200,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-29T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "product"
@@ -1258,37 +1224,6 @@
       "content_hash": "2a7c487325c075c1"
     },
     {
-      "id": "0d2abbb0fa62c353",
-      "title": "Keeping your data safe when an AI agent clicks a link",
-      "url": "https://openai.com/index/ai-agent-link-safety",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-01-28T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "safety"
-      ],
-      "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
-      "raw_excerpt": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
-      "score": 53,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, safety"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: event",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "dc3d5a4a0e0993f3"
-    },
-    {
       "id": "d97821963ad07f68",
       "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
       "url": "https://huggingface.co/blog/waypoint-1",
@@ -1296,7 +1231,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-20T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1319,6 +1254,36 @@
       "content_hash": "8d3f6e7d361ce256"
     },
     {
+      "id": "49b3f6f1a10d15c7",
+      "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+      "url": "https://huggingface.co/blog/nvidia-reachy-mini",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-01-05T00:00:00Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 52,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "67916cc7482809f3"
+    },
+    {
       "id": "c1fc817798240c48",
       "title": "Differential Transformer V2",
       "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
@@ -1326,7 +1291,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-20T03:20:57Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1353,7 +1318,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-15T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1380,7 +1345,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-01-15T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "product"
@@ -1410,7 +1375,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T22:56:51Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1437,7 +1402,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-01-05T09:16:51Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1455,6 +1420,36 @@
         "thin feed summary"
       ],
       "content_hash": "cc18053fabe69d47"
+    },
+    {
+      "id": "0d2abbb0fa62c353",
+      "title": "Keeping your data safe when an AI agent clicks a link",
+      "url": "https://openai.com/index/ai-agent-link-safety",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-01-28T00:00:00Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "safety"
+      ],
+      "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+      "raw_excerpt": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+      "score": 46,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, safety"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "low-signal content: event"
+      ],
+      "content_hash": "dc3d5a4a0e0993f3"
     }
   ]
 }

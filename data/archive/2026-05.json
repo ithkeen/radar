@@ -68,38 +68,6 @@
       "content_hash": "868b5d23b62156fb"
     },
     {
-      "id": "fabc6ef2e8763973",
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-22T00:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent",
-        "product"
-      ],
-      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "raw_excerpt": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: coding-agent, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "deeaa0f11af27862"
-    },
-    {
       "id": "25e141fd02c9e561",
       "title": "How Ramp engineers accelerate code review with Codex",
       "url": "https://openai.com/index/ramp",
@@ -355,38 +323,6 @@
       "content_hash": "def5d997f03832d2"
     },
     {
-      "id": "66be1220771465af",
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-08T12:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "raw_excerpt": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "febc6b1233adafb0"
-    },
-    {
       "id": "24a3c172de484200",
       "title": "Advancing voice intelligence with new models in the API",
       "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
@@ -545,71 +481,9 @@
       "content_hash": "8571ad3f6ced9be4"
     },
     {
-      "id": "2aa7e747964e595a",
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-28T12:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "coding-agent"
-      ],
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "raw_excerpt": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "score": 97,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents, coding-agent"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "ccd096bd34652fc7"
-    },
-    {
-      "id": "c7affab7451ec44b",
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-27T07:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "coding-agent"
-      ],
-      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "raw_excerpt": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "score": 97,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents, coding-agent"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "c6cfbec220f54c99"
-    },
-    {
-      "id": "bc79b84ae366f6d4",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "id": "fabc6ef2e8763973",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
@@ -617,56 +491,56 @@
       "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [
-        "agents",
-        "coding-agent"
+        "coding-agent",
+        "product"
       ],
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "raw_excerpt": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "score": 97,
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "raw_excerpt": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "score": 96,
       "score_reasons": [
         "trusted source weight 56",
         "published in the last 30 days",
         "official source",
-        "matched tags: agents, coding-agent"
+        "matched tags: coding-agent, product"
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
+        "matches AI channel focus: coding agent",
         "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
-      "content_hash": "21c6307708f4df8c"
+      "content_hash": "deeaa0f11af27862"
     },
     {
-      "id": "6f1209c6c0e07aba",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "id": "66be1220771465af",
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-18T10:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
+      "published_at": "2026-05-08T12:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "agents",
-        "coding-agent"
+        "product"
       ],
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "raw_excerpt": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "score": 97,
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "raw_excerpt": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "score": 96,
       "score_reasons": [
         "trusted source weight 56",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
-        "matched tags: agents, coding-agent"
+        "matched tags: agents, product"
       ],
       "tier": "must_read",
       "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
+        "matches AI channel focus: coding agent",
         "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
-      "content_hash": "651dd8033923efa7"
+      "content_hash": "febc6b1233adafb0"
     },
     {
       "id": "8c84b8422093501f",
@@ -826,186 +700,6 @@
       "content_hash": "56480d5d232d5b5c"
     },
     {
-      "id": "53e1da4b0cbcd14f",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-27T11:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "raw_excerpt": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "50d80262f5d11574"
-    },
-    {
-      "id": "5da970c023508896",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-15T00:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "raw_excerpt": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "71f2225cdd872adc"
-    },
-    {
-      "id": "578b3bdf5cbf1347",
-      "title": "How data science teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-15T00:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "raw_excerpt": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "9ae70883b14ad9ba"
-    },
-    {
-      "id": "326607290d218cfb",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-14T20:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "raw_excerpt": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "15a1925b7d4d41e7"
-    },
-    {
-      "id": "4a3442a5ca8c1935",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "url": "https://openai.com/index/building-codex-windows-sandbox",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-13T11:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
-      "raw_excerpt": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "0db74ebc26fbd266"
-    },
-    {
-      "id": "57a55fcb205568a6",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "raw_excerpt": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "ccc7cacc3b225bcd"
-    },
-    {
       "id": "880638aa77e3a8ee",
       "title": "How Braintrust turns customer requests into code with Codex",
       "url": "https://openai.com/index/braintrust",
@@ -1071,50 +765,228 @@
       "content_hash": "50db97f88a05f918"
     },
     {
-      "id": "2a6999bc8c1adf45",
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "id": "2aa7e747964e595a",
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2026-05-28T12:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
       "language": "en",
       "tags": [
-        "agents"
+        "agents",
+        "coding-agent"
       ],
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "raw_excerpt": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "score": 86,
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "raw_excerpt": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "score": 90,
       "score_reasons": [
         "trusted source weight 56",
-        "older than 30 days",
+        "published in the last 30 days",
         "official source",
-        "matched tags: agents"
+        "matched tags: agents, coding-agent"
       ],
-      "tier": "noteworthy",
+      "tier": "must_read",
       "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "same theme appeared across multiple sources"
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords"
       ],
-      "content_hash": "af5a1ddd822a2f78"
+      "content_hash": "ccd096bd34652fc7"
     },
     {
-      "id": "2b843178b595da18",
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "id": "c7affab7451ec44b",
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
       "source_id": "openai-news",
       "source_name": "OpenAI News",
       "source_type": "official",
-      "published_at": "2026-05-04T21:00:00Z",
+      "published_at": "2026-05-27T07:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent"
+      ],
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "raw_excerpt": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "c6cfbec220f54c99"
+    },
+    {
+      "id": "bc79b84ae366f6d4",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-22T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent"
+      ],
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "raw_excerpt": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "21c6307708f4df8c"
+    },
+    {
+      "id": "6f1209c6c0e07aba",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-18T10:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent"
+      ],
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "raw_excerpt": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "651dd8033923efa7"
+    },
+    {
+      "id": "53e1da4b0cbcd14f",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-27T11:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "raw_excerpt": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "50d80262f5d11574"
+    },
+    {
+      "id": "5da970c023508896",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-15T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "raw_excerpt": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, builder opinion",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "71f2225cdd872adc"
+    },
+    {
+      "id": "578b3bdf5cbf1347",
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-15T00:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "raw_excerpt": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "9ae70883b14ad9ba"
+    },
+    {
+      "id": "326607290d218cfb",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-14T20:30:00Z",
       "fetched_at": "2026-06-17T03:09:09Z",
       "language": "en",
       "tags": [
         "agents"
       ],
-      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-      "raw_excerpt": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-      "score": 86,
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "raw_excerpt": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "score": 87,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -1123,10 +995,68 @@
       ],
       "tier": "noteworthy",
       "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "same theme appeared across multiple sources"
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords"
       ],
-      "content_hash": "34bfa4b6b09925d6"
+      "content_hash": "15a1925b7d4d41e7"
+    },
+    {
+      "id": "4a3442a5ca8c1935",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-13T11:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+      "raw_excerpt": "Learn how OpenAI built a safe, effective sandbox to enable Codex on Windows with controlled file access and network limits.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "0db74ebc26fbd266"
+    },
+    {
+      "id": "57a55fcb205568a6",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-06T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "raw_excerpt": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "ccc7cacc3b225bcd"
     },
     {
       "id": "334223edfa48462f",
@@ -1287,6 +1217,62 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "10c912120713d12e"
+    },
+    {
+      "id": "2a6999bc8c1adf45",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-11T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "raw_excerpt": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "score": 79,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice"
+      ],
+      "content_hash": "af5a1ddd822a2f78"
+    },
+    {
+      "id": "2b843178b595da18",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-04T21:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "raw_excerpt": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "score": 79,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice"
+      ],
+      "content_hash": "34bfa4b6b09925d6"
     },
     {
       "id": "1c93d6c1c7251e5f",
@@ -1501,37 +1487,6 @@
       "content_hash": "50e978fc793c7ad2"
     },
     {
-      "id": "48591fe0759e0b6e",
-      "title": "Costa Rican dairy cooperative turns AI agents into coworkers",
-      "url": "https://news.microsoft.com/source/latam/features/ai/costa-rica-dos-pinos-ai-agents-microsoft-copilot-en?lang=en",
-      "source_id": "microsoft-ai",
-      "source_name": "Microsoft AI Blog",
-      "source_type": "official",
-      "published_at": "2026-05-14T13:01:18Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "The post Costa Rican dairy cooperative turns AI agents into coworkers appeared first on Source .",
-      "raw_excerpt": "The post Costa Rican dairy cooperative turns AI agents into coworkers appeared first on Source .",
-      "score": 75,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "ee8bf0c4813947a6"
-    },
-    {
       "id": "3bbc92d9c76ebc83",
       "title": "GPT-5.5 Instant System Card",
       "url": "https://openai.com/index/gpt-5-5-instant-system-card",
@@ -1597,35 +1552,6 @@
         "thin feed summary"
       ],
       "content_hash": "31472cb0d2bdc343"
-    },
-    {
-      "id": "a2a811b50a4c64f5",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-05T10:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "raw_excerpt": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "score": 72,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "987a17ba2bc4ccba"
     },
     {
       "id": "2fd1ae66db94c087",
@@ -1722,7 +1648,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -1813,7 +1739,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "safety",
@@ -1863,6 +1789,36 @@
         "official model or product signal"
       ],
       "content_hash": "bf9e3f799869dcac"
+    },
+    {
+      "id": "48591fe0759e0b6e",
+      "title": "Costa Rican dairy cooperative turns AI agents into coworkers",
+      "url": "https://news.microsoft.com/source/latam/features/ai/costa-rica-dos-pinos-ai-agents-microsoft-copilot-en?lang=en",
+      "source_id": "microsoft-ai",
+      "source_name": "Microsoft AI Blog",
+      "source_type": "official",
+      "published_at": "2026-05-14T13:01:18Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "The post Costa Rican dairy cooperative turns AI agents into coworkers appeared first on Source .",
+      "raw_excerpt": "The post Costa Rican dairy cooperative turns AI agents into coworkers appeared first on Source .",
+      "score": 68,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "ee8bf0c4813947a6"
     },
     {
       "id": "7c1a813822f725a1",
@@ -2062,7 +2018,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-19T10:45:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2144,6 +2100,34 @@
       "content_hash": "f63ad19a826b80ad"
     },
     {
+      "id": "a2a811b50a4c64f5",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-05T10:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "raw_excerpt": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "987a17ba2bc4ccba"
+    },
+    {
       "id": "2de76809a5988efa",
       "title": "Advancing youth safety and wellbeing in EMEA",
       "url": "https://openai.com/index/advancing-youth-safety-in-emea",
@@ -2151,7 +2135,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2179,7 +2163,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-04T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "inference"
@@ -2238,7 +2222,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -2263,7 +2247,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -2288,7 +2272,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
@@ -2313,7 +2297,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2340,7 +2324,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2360,69 +2344,6 @@
       "content_hash": "47aab3051d3ec63d"
     },
     {
-      "id": "54b58833c71340c0",
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "1a2999ca1fff2ccd"
-    },
-    {
-      "id": "7eb8ca74004edf8e",
-      "title": "v0.22.0rc2: Fix early CUDA init (#43791)",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0rc2",
-      "source_id": "github-vllm",
-      "source_name": "vLLM Releases",
-      "source_type": "github_release",
-      "published_at": "2026-05-27T21:20:37Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "open-source",
-        "hardware"
-      ],
-      "summary": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
-      "raw_excerpt": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 44",
-        "published in the last 30 days",
-        "github_release source",
-        "matched tags: open-source, hardware"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "c3c7ebf37c9c6c14"
-    },
-    {
       "id": "5b02604714f8043c",
       "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
       "url": "https://huggingface.co/blog/torch-profiler",
@@ -2430,7 +2351,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2450,36 +2371,34 @@
       "content_hash": "df10b1e777b55828"
     },
     {
-      "id": "43b7524e011327ab",
-      "title": "v2.38.0",
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.38.0",
-      "source_id": "github-openai-python",
-      "source_name": "OpenAI Python Releases",
-      "source_type": "github_release",
-      "published_at": "2026-05-21T21:23:25Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "id": "54b58833c71340c0",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-05-25T00:00:00Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
-        "open-source",
-        "product"
+        "agents"
       ],
-      "summary": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custo...",
-      "raw_excerpt": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custom code sync ( 2638779 ) remove release automation trigger ( bd6eea5 ) trigger release automation ( f62d082 )",
-      "score": 56,
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 52,
       "score_reasons": [
-        "trusted source weight 42",
+        "trusted source weight 50",
         "older than 30 days",
-        "github_release source",
-        "matched tags: open-source, product"
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
       ],
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
+        "thin feed summary"
       ],
-      "content_hash": "e7e5e5ab1fe05d05"
+      "content_hash": "1a2999ca1fff2ccd"
     },
     {
       "id": "9bcec59458e97e4d",
@@ -2489,7 +2408,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -2512,6 +2431,37 @@
       "content_hash": "9a46b15b71d20242"
     },
     {
+      "id": "7eb8ca74004edf8e",
+      "title": "v0.22.0rc2: Fix early CUDA init (#43791)",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0rc2",
+      "source_id": "github-vllm",
+      "source_name": "vLLM Releases",
+      "source_type": "github_release",
+      "published_at": "2026-05-27T21:20:37Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "hardware"
+      ],
+      "summary": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
+      "raw_excerpt": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
+      "score": 51,
+      "score_reasons": [
+        "trusted source weight 44",
+        "published in the last 30 days",
+        "github_release source",
+        "matched tags: open-source, hardware"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update"
+      ],
+      "content_hash": "c3c7ebf37c9c6c14"
+    },
+    {
       "id": "59cf6521ecffda3d",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
@@ -2519,7 +2469,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2546,7 +2496,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2573,7 +2523,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2600,7 +2550,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2627,7 +2577,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2654,7 +2604,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2681,7 +2631,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2708,7 +2658,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2728,6 +2678,37 @@
       "content_hash": "190398d04fc9fcc3"
     },
     {
+      "id": "43b7524e011327ab",
+      "title": "v2.38.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.38.0",
+      "source_id": "github-openai-python",
+      "source_name": "OpenAI Python Releases",
+      "source_type": "github_release",
+      "published_at": "2026-05-21T21:23:25Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "product"
+      ],
+      "summary": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custo...",
+      "raw_excerpt": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custom code sync ( 2638779 ) remove release automation trigger ( bd6eea5 ) trigger release automation ( f62d082 )",
+      "score": 49,
+      "score_reasons": [
+        "trusted source weight 42",
+        "older than 30 days",
+        "github_release source",
+        "matched tags: open-source, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update"
+      ],
+      "content_hash": "e7e5e5ab1fe05d05"
+    },
+    {
       "id": "ed1c2193d6b80a8c",
       "title": "Introducing the Ettin Reranker Family",
       "url": "https://huggingface.co/blog/ettin-reranker",
@@ -2735,7 +2716,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2762,7 +2743,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-18T15:12:46Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2789,7 +2770,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T18:55:01Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2816,7 +2797,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T00:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2932,7 +2913,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
@@ -2958,7 +2939,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-15T22:30:20Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "product"
@@ -2987,7 +2968,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-07T17:33:02Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [
         "product"
@@ -3016,7 +2997,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-27T17:10:31Z",
+      "fetched_at": "2026-06-27T21:04:03Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
