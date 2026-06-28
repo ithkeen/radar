@@ -1066,7 +1066,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-12T12:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1094,7 +1094,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-11T14:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1218,7 +1218,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-22T17:17:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
@@ -1243,7 +1243,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-11T14:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
@@ -1268,7 +1268,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-16T14:30:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1295,7 +1295,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-23T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1325,7 +1325,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-22T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1355,7 +1355,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-19T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1385,7 +1385,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-18T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1415,7 +1415,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-17T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1445,7 +1445,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-16T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [
         "research"
@@ -1475,7 +1475,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-02T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -1505,7 +1505,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-29T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1532,7 +1532,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-26T06:25:50Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1559,7 +1559,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-26T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1586,7 +1586,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-15T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1613,7 +1613,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-11T20:04:44Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1640,7 +1640,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-09T00:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1667,7 +1667,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-02T16:54:29Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1694,7 +1694,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-29T03:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboration to block, report, and prevent AI misuse.",
@@ -1720,7 +1720,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-26T06:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
@@ -1746,7 +1746,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-23T14:00:00Z",
-      "fetched_at": "2026-06-28T07:51:51Z",
+      "fetched_at": "2026-06-28T10:28:03Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
