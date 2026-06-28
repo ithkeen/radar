@@ -4,102 +4,6 @@
   "retention_days": 365,
   "items": [
     {
-      "id": "b117978acb8a29a3",
-      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-13T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "safety"
-      ],
-      "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
-      "raw_excerpt": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, safety"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "c5125e9816cbc40d"
-    },
-    {
-      "id": "4a841ea7ec7ce188",
-      "title": "Introducing GPT-5.3-Codex-Spark",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-12T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product"
-      ],
-      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
-      "raw_excerpt": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update, coding agent",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "d107d3fda5a2fd3b"
-    },
-    {
-      "id": "dbc4cdcd6b0aad55",
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-09T11:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "safety"
-      ],
-      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "raw_excerpt": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, safety"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "70708d467a66b4e0"
-    },
-    {
       "id": "5fa2164fa58ad90f",
       "title": "Making AI work for everyone, everywhere: our approach to localization",
       "url": "https://openai.com/index/our-approach-to-localization",
@@ -128,42 +32,9 @@
       "quality_reasons": [
         "matches AI channel focus: model update",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "efb813d86eb37e66"
-    },
-    {
-      "id": "dd64fe3084a4f825",
-      "title": "GPT-5.3-Codex System Card",
-      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-05T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-      "raw_excerpt": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model, agents"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update, coding agent",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "278c2bc38219dfd0"
     },
     {
       "id": "9aba7995b6a5f362",
@@ -182,7 +53,7 @@
       ],
       "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
       "raw_excerpt": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
-      "score": 100,
+      "score": 99,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -193,8 +64,7 @@
       "quality_reasons": [
         "matches AI channel focus: model update, coding agent",
         "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "b1279612644eafc0"
     },
@@ -262,6 +132,99 @@
       "content_hash": "0e7558dc5b3a5ab0"
     },
     {
+      "id": "b117978acb8a29a3",
+      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-13T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety"
+      ],
+      "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+      "raw_excerpt": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, safety"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "c5125e9816cbc40d"
+    },
+    {
+      "id": "4a841ea7ec7ce188",
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-12T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product"
+      ],
+      "summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "raw_excerpt": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update, coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "d107d3fda5a2fd3b"
+    },
+    {
+      "id": "dbc4cdcd6b0aad55",
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-09T11:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety"
+      ],
+      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "raw_excerpt": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, safety"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "70708d467a66b4e0"
+    },
+    {
       "id": "1ae41af387a9ae94",
       "title": "Introducing OpenAI Frontier",
       "url": "https://openai.com/index/introducing-openai-frontier",
@@ -291,6 +254,37 @@
         "official model or product signal"
       ],
       "content_hash": "711920e2c86145c0"
+    },
+    {
+      "id": "dd64fe3084a4f825",
+      "title": "GPT-5.3-Codex System Card",
+      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-05T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents"
+      ],
+      "summary": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+      "raw_excerpt": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
+      "score": 96,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model, agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update, coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal"
+      ],
+      "content_hash": "278c2bc38219dfd0"
     },
     {
       "id": "e205ffac9d9f156d",
@@ -503,39 +497,6 @@
       "content_hash": "df9b6a25e28c8296"
     },
     {
-      "id": "fc0327c6027c6fa4",
-      "title": "Custom Kernels for All from Codex and Claude",
-      "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-02-13T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "8b134a0f89fbd7a7"
-    },
-    {
       "id": "62d5030d2dd442c9",
       "title": "Joint Statement from OpenAI and Microsoft",
       "url": "https://openai.com/index/continuing-microsoft-partnership",
@@ -595,6 +556,38 @@
       "content_hash": "a57ebf5ea2434692"
     },
     {
+      "id": "fc0327c6027c6fa4",
+      "title": "Custom Kernels for All from Codex and Claude",
+      "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-02-13T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 80,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "thin feed summary"
+      ],
+      "content_hash": "8b134a0f89fbd7a7"
+    },
+    {
       "id": "42435d1a22d3686e",
       "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
       "url": "https://huggingface.co/blog/Photoroom/prx-part2",
@@ -610,7 +603,7 @@
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 82,
+      "score": 75,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -622,7 +615,6 @@
       "quality_reasons": [
         "matches AI channel focus: builder opinion",
         "official model or product signal",
-        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "b8ef8358a6643e4b"
@@ -643,7 +635,7 @@
       ],
       "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
       "raw_excerpt": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-      "score": 81,
+      "score": 74,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -653,8 +645,7 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "13a3abf7e46d5e8c"
     },
@@ -674,7 +665,7 @@
       ],
       "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
       "raw_excerpt": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-      "score": 81,
+      "score": 74,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -684,8 +675,7 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "31c35518109c5655"
     },
@@ -704,7 +694,7 @@
       ],
       "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
       "raw_excerpt": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
-      "score": 78,
+      "score": 71,
       "score_reasons": [
         "trusted source weight 56",
         "older than 30 days",
@@ -714,100 +704,9 @@
       "tier": "raw",
       "quality_reasons": [
         "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
+        "official model or product signal"
       ],
       "content_hash": "d8e65405ae127db8"
-    },
-    {
-      "id": "feae6511a0a2e0f2",
-      "title": "Our First Proof submissions",
-      "url": "https://openai.com/index/first-proof-submissions",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-20T14:30:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-      "raw_excerpt": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
-      "score": 78,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "5fbf46b1565d2531"
-    },
-    {
-      "id": "407f7c69ffbce6bc",
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "url": "https://openai.com/index/new-result-theoretical-physics",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-13T11:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
-      "raw_excerpt": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
-      "score": 78,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "518c52c0a659a3e5"
-    },
-    {
-      "id": "aec434a838fad616",
-      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
-      "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-02-05T11:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
-      "raw_excerpt": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
-      "score": 78,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: model"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "da76c1f0dffac7f1"
     },
     {
       "id": "ef455565a9b47a55",
@@ -837,6 +736,93 @@
         "official model or product signal"
       ],
       "content_hash": "d6d6fb1855409482"
+    },
+    {
+      "id": "feae6511a0a2e0f2",
+      "title": "Our First Proof submissions",
+      "url": "https://openai.com/index/first-proof-submissions",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-20T14:30:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+      "raw_excerpt": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems.",
+      "score": 71,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "5fbf46b1565d2531"
+    },
+    {
+      "id": "407f7c69ffbce6bc",
+      "title": "GPT-5.2 derives a new result in theoretical physics",
+      "url": "https://openai.com/index/new-result-theoretical-physics",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-13T11:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+      "raw_excerpt": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+      "score": 71,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "518c52c0a659a3e5"
+    },
+    {
+      "id": "aec434a838fad616",
+      "title": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-02-05T11:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+      "raw_excerpt": "An autonomous lab combining OpenAI’s GPT-5 with Ginkgo Bioworks’ cloud automation cut cell-free protein synthesis costs by 40% through closed-loop experimentation.",
+      "score": 71,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: model"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "da76c1f0dffac7f1"
     },
     {
       "id": "96d26eaa8234f2f9",
@@ -905,7 +891,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-28T12:30:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [
         "safety"
@@ -933,7 +919,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-27T00:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [
         "safety"
@@ -954,38 +940,6 @@
       "content_hash": "f3a0bfc15fbf1ca1"
     },
     {
-      "id": "3eedf77051b09b76",
-      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
-      "url": "https://huggingface.co/blog/ggml-joins-hf",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-02-20T00:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "03d71266d8f3c5ea"
-    },
-    {
       "id": "d56ac300fb09f6b0",
       "title": "Advancing independent research on AI alignment",
       "url": "https://openai.com/index/advancing-independent-research-ai-alignment",
@@ -993,7 +947,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-19T10:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1014,70 +968,6 @@
       "content_hash": "bcbfae9fc60b6b32"
     },
     {
-      "id": "32b1a88e079e5f29",
-      "title": "H Company's new Holo2 model takes the lead in UI Localization",
-      "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-02-03T17:40:14Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "2a068ad77082fed8"
-    },
-    {
-      "id": "5de818201044ab2f",
-      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
-      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-02-03T15:03:19Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "9a50941576279da4"
-    },
-    {
       "id": "f4bbf1c3572c46ac",
       "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
       "url": "https://openai.com/index/snowflake-partnership",
@@ -1085,7 +975,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-02T06:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1113,7 +1003,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-27T05:30:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [],
       "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
@@ -1138,7 +1028,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-18T21:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
@@ -1163,7 +1053,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-02-05T10:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
@@ -1181,6 +1071,37 @@
       "content_hash": "35ac42197598d667"
     },
     {
+      "id": "3eedf77051b09b76",
+      "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+      "url": "https://huggingface.co/blog/ggml-joins-hf",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-02-20T00:00:00Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 58,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "thin feed summary"
+      ],
+      "content_hash": "03d71266d8f3c5ea"
+    },
+    {
       "id": "31f053c94d55b1a4",
       "title": "One-Shot Any Web App with Gradio's gr.HTML",
       "url": "https://huggingface.co/blog/gradio-html-one-shot-apps",
@@ -1188,7 +1109,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-18T00:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [
         "product"
@@ -1212,6 +1133,68 @@
       "content_hash": "66695c2e7aedf5f5"
     },
     {
+      "id": "32b1a88e079e5f29",
+      "title": "H Company's new Holo2 model takes the lead in UI Localization",
+      "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-02-03T17:40:14Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 58,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "thin feed summary"
+      ],
+      "content_hash": "2a068ad77082fed8"
+    },
+    {
+      "id": "5de818201044ab2f",
+      "title": "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-02-03T15:03:19Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 58,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: model",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "thin feed summary"
+      ],
+      "content_hash": "9a50941576279da4"
+    },
+    {
       "id": "4e0bcba85dced873",
       "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
       "url": "https://huggingface.co/blog/ibm-research/itbenchandmast",
@@ -1219,7 +1202,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-18T16:15:45Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1249,7 +1232,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-04T00:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -1279,7 +1262,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-26T00:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1306,7 +1289,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-09T00:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1333,7 +1316,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-05T16:52:28Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1360,14 +1343,14 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-02-20T00:00:00Z",
-      "fetched_at": "2026-06-28T17:12:07Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
       "language": "en",
       "tags": [
         "model"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 43,
+      "score": 36,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1380,7 +1363,6 @@
         "outside preferred AI focus",
         "official model or product signal",
         "low-signal content: jobs",
-        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "347afdb6e3943c60"
