@@ -1135,7 +1135,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-03-17T10:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1163,7 +1163,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-03-24T09:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
@@ -1188,7 +1188,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-03-09T10:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
@@ -1213,7 +1213,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-03-05T09:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
@@ -1238,7 +1238,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-03-04T00:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
@@ -1263,7 +1263,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-03-05T00:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "Practical insights and frameworks to turn AI progress into business advantage",
@@ -1289,7 +1289,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-31T15:10:41Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1319,7 +1319,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-27T00:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -1349,7 +1349,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-24T02:01:52Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1379,7 +1379,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-17T16:37:55Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -1409,7 +1409,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-17T12:33:39Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1439,7 +1439,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-05T14:16:49Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [
         "research"
@@ -1469,7 +1469,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-31T00:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1496,7 +1496,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-10T00:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1523,7 +1523,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-09T00:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1550,7 +1550,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-09T00:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1577,7 +1577,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-03-05T00:00:00Z",
-      "fetched_at": "2026-06-27T21:04:03Z",
+      "fetched_at": "2026-06-28T03:52:48Z",
       "language": "en",
       "tags": [],
       "summary": "",

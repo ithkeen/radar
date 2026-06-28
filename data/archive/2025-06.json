@@ -31,38 +31,6 @@
         "official model or product signal"
       ],
       "content_hash": "52c5f9831369b69e"
-    },
-    {
-      "id": "601f3341d56ef6f2",
-      "title": "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub",
-      "url": "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-06-27T21:09:27Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 65,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: model",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "e61e6810504a3c00"
     }
   ]
 }
