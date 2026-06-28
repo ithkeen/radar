@@ -1468,78 +1468,6 @@
       "content_hash": "0be6c446d5f14e7a"
     },
     {
-      "id": "46bdbcad08966990",
-      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
-      "url": "https://arxiv.org/abs/2606.22565v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T15:59:41Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "evaluation",
-        "research",
-        "regulation"
-      ],
-      "summary": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks remains unclear. In this paper, we aim t...",
-      "raw_excerpt": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks remains unclear. In this paper, we aim to systematically investigate the key question: What can multimodal Chain-of-Thought reasoning do, and where and why does it fall short? To this end, we evaluate 12 multimodal tasks across perception and reasoning categories using both 14 non-reasoning models and 8 reasoning models. Our analysis reveals several important findings: (1) CoT is not a free lunch...",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, multimodal, evaluation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "ae373947f921b033"
-    },
-    {
-      "id": "9b71b57e4042e079",
-      "title": "Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents",
-      "url": "https://arxiv.org/abs/2606.22528v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T14:30:20Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "evaluation",
-        "research",
-        "safety"
-      ],
-      "summary": "Modern LLM agents increasingly rely on context compaction, summarization, or eviction to keep long-running sessions within a token budget. We show that this context-management layer is a safety-critical failure surface: in-context governan...",
-      "raw_excerpt": "Modern LLM agents increasingly rely on context compaction, summarization, or eviction to keep long-running sessions within a token budget. We show that this context-management layer is a safety-critical failure surface: in-context governance constraints that agents reliably obey while visible can be silently removed by compaction, causing the same agent to perform prohibited tool actions later in the session. We call this failure mode Governance Decay. We introduce ConstraintRot, a benchmark of long-horizon agent scenarios with deterministic tool-call grading, and measure compaction-induced v...",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, agents, evaluation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "b2c6aa9e8eeb1818"
-    },
-    {
       "id": "ba562226725de1d8",
       "title": "Introducing new capabilities to GPT-Rosalind",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
@@ -2709,39 +2637,76 @@
       "content_hash": "bdae7fc376cca311"
     },
     {
-      "id": "57154df236580fc6",
-      "title": "MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop",
-      "url": "https://arxiv.org/abs/2606.22557v1",
+      "id": "46bdbcad08966990",
+      "title": "Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do",
+      "url": "https://arxiv.org/abs/2606.22565v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-21T15:32:57Z",
+      "published_at": "2026-06-21T15:59:41Z",
       "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "agents",
+        "model",
+        "multimodal",
         "evaluation",
         "research",
-        "product",
         "regulation"
       ],
-      "summary": "Computer use agents (CUAs) have advanced rapidly in desktop automation, and a growing number of users deploy CUAs such as OpenClaw on Mac Mini for always-on automation. However, existing benchmarks, including those for macOS, evaluate agen...",
-      "raw_excerpt": "Computer use agents (CUAs) have advanced rapidly in desktop automation, and a growing number of users deploy CUAs such as OpenClaw on Mac Mini for always-on automation. However, existing benchmarks, including those for macOS, evaluate agents without framework augmentation and rely on binary evaluation. As a result, they fail to capture both the framework capabilities leveraged by modern CUAs and the partial progress on long-horizon, multi-application tasks. We present MacAgentBench, a comprehensive macOS agent benchmark comprising 676 tasks across 25 applications, with nearly 60% involving bo...",
-      "score": 83,
+      "summary": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks remains unclear. In this paper, we aim t...",
+      "raw_excerpt": "Chain-of-Thought (CoT) has become a standard method for improving reasoning capabilities in large language models (LLMs) by eliciting step-by-step thinking, but its effectiveness in multimodal tasks remains unclear. In this paper, we aim to systematically investigate the key question: What can multimodal Chain-of-Thought reasoning do, and where and why does it fall short? To this end, we evaluate 12 multimodal tasks across perception and reasoning categories using both 14 non-reasoning models and 8 reasoning models. Our analysis reveals several important findings: (1) CoT is not a free lunch...",
+      "score": 82,
       "score_reasons": [
         "trusted source weight 38",
         "published in the last 7 days",
         "paper source",
-        "matched tags: agents, evaluation, research, product"
+        "matched tags: model, multimodal, evaluation, research"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "matches AI channel focus: model evaluation, agent practice",
+        "matches AI channel focus: model evaluation",
         "high-impact model, eval, or agent keywords",
         "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
         "demoted by source diversity quota"
       ],
-      "content_hash": "afe41eabd0111531"
+      "content_hash": "ae373947f921b033"
+    },
+    {
+      "id": "9b71b57e4042e079",
+      "title": "Governance Decay: How Context Compaction Silently Erases Safety Constraints in Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2606.22528v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T14:30:20Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "evaluation",
+        "research",
+        "safety"
+      ],
+      "summary": "Modern LLM agents increasingly rely on context compaction, summarization, or eviction to keep long-running sessions within a token budget. We show that this context-management layer is a safety-critical failure surface: in-context governan...",
+      "raw_excerpt": "Modern LLM agents increasingly rely on context compaction, summarization, or eviction to keep long-running sessions within a token budget. We show that this context-management layer is a safety-critical failure surface: in-context governance constraints that agents reliably obey while visible can be silently removed by compaction, causing the same agent to perform prohibited tool actions later in the session. We call this failure mode Governance Decay. We introduce ConstraintRot, a benchmark of long-horizon agent scenarios with deterministic tool-call grading, and measure compaction-induced v...",
+      "score": 82,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, agents, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "b2c6aa9e8eeb1818"
     },
     {
       "id": "b27779a86a29d13a",
@@ -3276,7 +3241,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-22T10:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -4222,7 +4187,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-25T16:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product"
@@ -4253,7 +4218,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -4345,7 +4310,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "safety",
@@ -4374,7 +4339,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -4403,7 +4368,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "safety",
@@ -4432,7 +4397,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "safety",
@@ -4487,6 +4452,41 @@
       "content_hash": "f17d08fafad1ffb5"
     },
     {
+      "id": "57154df236580fc6",
+      "title": "MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop",
+      "url": "https://arxiv.org/abs/2606.22557v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T15:32:57Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "evaluation",
+        "research",
+        "product",
+        "regulation"
+      ],
+      "summary": "Computer use agents (CUAs) have advanced rapidly in desktop automation, and a growing number of users deploy CUAs such as OpenClaw on Mac Mini for always-on automation. However, existing benchmarks, including those for macOS, evaluate agen...",
+      "raw_excerpt": "Computer use agents (CUAs) have advanced rapidly in desktop automation, and a growing number of users deploy CUAs such as OpenClaw on Mac Mini for always-on automation. However, existing benchmarks, including those for macOS, evaluate agents without framework augmentation and rely on binary evaluation. As a result, they fail to capture both the framework capabilities leveraged by modern CUAs and the partial progress on long-horizon, multi-application tasks. We present MacAgentBench, a comprehensive macOS agent benchmark comprising 676 tasks across 25 applications, with nearly 60% involving bo...",
+      "score": 75,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: agents, evaluation, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "afe41eabd0111531"
+    },
+    {
       "id": "2e297cf400e7d42e",
       "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
       "url": "https://huggingface.co/blog/cross-origin-storage",
@@ -4494,7 +4494,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product"
@@ -4516,38 +4516,6 @@
         "thin feed summary"
       ],
       "content_hash": "2429231fd06cb8f2"
-    },
-    {
-      "id": "f3223845c53d3f60",
-      "title": "Text2DSL: LLM-Based Code Generation for Domain-Specific Languages",
-      "url": "https://arxiv.org/abs/2606.22586v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T16:44:20Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "research"
-      ],
-      "summary": "Domain-specific languages (DSLs) are widely used for managing operating system security policies, yet manually authoring rules in such languages demands high expertise and is error-prone. This paper formalises the task of automatic DSL cod...",
-      "raw_excerpt": "Domain-specific languages (DSLs) are widely used for managing operating system security policies, yet manually authoring rules in such languages demands high expertise and is error-prone. This paper formalises the task of automatic DSL code generation from natural language descriptions - Text2DSL - as a distinct problem class, separate from Text-to-SQL and general-purpose code generation. We introduce the PolkitBench dataset comprising 4,204 verified natural-language-to-Polkit-rule pairs, each validated through a three-level AST-based pipeline. Controlled prompt experiments on two MoE models...",
-      "score": 74,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "0266074600939de3"
     },
     {
       "id": "719ba12d88d32185",
@@ -4657,7 +4625,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -4685,7 +4653,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-10T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -4742,7 +4710,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "safety"
@@ -4831,7 +4799,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-24T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -4931,7 +4899,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -4956,7 +4924,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -5081,7 +5049,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:06:06Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -5117,7 +5085,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T15:50:42Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -5184,7 +5152,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -5203,6 +5171,38 @@
       "content_hash": "217538cd51c43e67"
     },
     {
+      "id": "f3223845c53d3f60",
+      "title": "Text2DSL: LLM-Based Code Generation for Domain-Specific Languages",
+      "url": "https://arxiv.org/abs/2606.22586v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T16:44:20Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Domain-specific languages (DSLs) are widely used for managing operating system security policies, yet manually authoring rules in such languages demands high expertise and is error-prone. This paper formalises the task of automatic DSL cod...",
+      "raw_excerpt": "Domain-specific languages (DSLs) are widely used for managing operating system security policies, yet manually authoring rules in such languages demands high expertise and is error-prone. This paper formalises the task of automatic DSL code generation from natural language descriptions - Text2DSL - as a distinct problem class, separate from Text-to-SQL and general-purpose code generation. We introduce the PolkitBench dataset comprising 4,204 verified natural-language-to-Polkit-rule pairs, each validated through a three-level AST-based pipeline. Controlled prompt experiments on two MoE models...",
+      "score": 66,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "0266074600939de3"
+    },
+    {
       "id": "b5689f5df3fd2b95",
       "title": "We’re strengthening our presence in Alabama through new investments and community support.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026",
@@ -5210,7 +5210,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -5267,7 +5267,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5294,7 +5294,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5353,7 +5353,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-25T20:15:20Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -5383,7 +5383,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-24T08:01:53Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -5413,7 +5413,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents",
@@ -5444,7 +5444,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -5508,7 +5508,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5538,7 +5538,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5568,7 +5568,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5598,7 +5598,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5628,7 +5628,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model"
@@ -5660,7 +5660,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5690,7 +5690,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5720,7 +5720,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents"
@@ -5750,7 +5750,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-26T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model"
@@ -5783,7 +5783,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5810,7 +5810,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model"
@@ -5842,7 +5842,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-16T19:55:52Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model"
@@ -5874,7 +5874,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T03:05:08Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model"
@@ -5938,7 +5938,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5958,39 +5958,6 @@
       "content_hash": "5e1424694afd8596"
     },
     {
-      "id": "6ff744cfbf1672e2",
-      "title": "Stationary Robust Mean-Field Games under Model Mismatches",
-      "url": "https://arxiv.org/abs/2606.22579v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T16:29:25Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "research",
-        "regulation"
-      ],
-      "summary": "Deploying multi-agent reinforcement learning (MARL) in the real world is often limited by model mismatches between the training simulators and the true environment, which could be further amplified through strategic interactions and result...",
-      "raw_excerpt": "Deploying multi-agent reinforcement learning (MARL) in the real world is often limited by model mismatches between the training simulators and the true environment, which could be further amplified through strategic interactions and result in severe performance degradation upon deployment. Distributional robustness offers a principled response by optimizing policies against worst-case transition models drawn from an uncertainty set, but standard robust MARL frameworks become increasingly intractable as the number of agents grows. This paper develops an infinite-horizon, stationary mean-field...",
-      "score": 57,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, agents, research, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "1ab826efa7d193b7"
-    },
-    {
       "id": "26cac67090219df5",
       "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
       "url": "https://huggingface.co/blog/peft-beyond-lora",
@@ -5998,7 +5965,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6052,7 +6019,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6079,7 +6046,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6106,7 +6073,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product"
@@ -6136,7 +6103,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6163,7 +6130,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-11T23:24:31Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -6193,7 +6160,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:36:35Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6225,7 +6192,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-24T20:55:08Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
@@ -6315,7 +6282,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -6339,6 +6306,39 @@
       "content_hash": "31d5b4e43447e31a"
     },
     {
+      "id": "6ff744cfbf1672e2",
+      "title": "Stationary Robust Mean-Field Games under Model Mismatches",
+      "url": "https://arxiv.org/abs/2606.22579v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T16:29:25Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "research",
+        "regulation"
+      ],
+      "summary": "Deploying multi-agent reinforcement learning (MARL) in the real world is often limited by model mismatches between the training simulators and the true environment, which could be further amplified through strategic interactions and result...",
+      "raw_excerpt": "Deploying multi-agent reinforcement learning (MARL) in the real world is often limited by model mismatches between the training simulators and the true environment, which could be further amplified through strategic interactions and result in severe performance degradation upon deployment. Distributional robustness offers a principled response by optimizing policies against worst-case transition models drawn from an uncertainty set, but standard robust MARL frameworks become increasingly intractable as the number of agents grows. This paper develops an infinite-horizon, stationary mean-field...",
+      "score": 49,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, agents, research, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "1ab826efa7d193b7"
+    },
+    {
       "id": "39bd80a5f481f9f8",
       "title": "v2.43.0",
       "url": "https://github.com/openai/openai-python/releases/tag/v2.43.0",
@@ -6346,7 +6346,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product"
@@ -6408,7 +6408,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product"
@@ -6437,7 +6437,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product"
@@ -6466,7 +6466,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product"
@@ -6495,7 +6495,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -6581,7 +6581,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -6608,7 +6608,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -6635,7 +6635,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -6692,7 +6692,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T18:36:50Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "server: context shift for context windows larger than 8k, add error w…",
@@ -6750,7 +6750,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -6781,7 +6781,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6809,7 +6809,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:59:58Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -6843,7 +6843,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:44:48Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -7283,75 +7283,6 @@
       "content_hash": "383f16a2c35b78c3"
     },
     {
-      "id": "6a8af65fce824695",
-      "title": "Fed-CausalDiff: Decoupled Synchronization for Federated Do-Simulation and Policy Evaluation",
-      "url": "https://arxiv.org/abs/2606.22510v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T14:04:33Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "evaluation",
-        "research",
-        "inference",
-        "safety",
-        "product"
-      ],
-      "summary": "While federated learning enables collaborative modelling on decentralised data, standard methods merely fit historical observations. This purely observational approach is fundamentally insufficient for interventional inference and policy e...",
-      "raw_excerpt": "While federated learning enables collaborative modelling on decentralised data, standard methods merely fit historical observations. This purely observational approach is fundamentally insufficient for interventional inference and policy evaluation, as sequential actions dynamically alter future states. We propose \\textbf{Fed-CausalDiff}, a federated causal diffusion framework for do-simulation. The architecture decomposes the evolution of the latent state into a global causal score function and a local confounding score function. This design enables \\emph{decoupled synchronisation} (DSS), wh...",
-      "score": 27,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, evaluation, research, inference"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "fcd2e00bf729401b"
-    },
-    {
-      "id": "8828d7ac25a966b1",
-      "title": "Imagine to Ensure Safety in Hierarchical Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.22509v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T14:04:04Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "safety",
-        "regulation",
-        "research"
-      ],
-      "summary": "This work investigates the safe exploration problem in reinforcement learning, where an agent must maximize cumulative performance while simultaneously satisfying safety constraints. This challenge becomes even more pronounced in long-hori...",
-      "raw_excerpt": "This work investigates the safe exploration problem in reinforcement learning, where an agent must maximize cumulative performance while simultaneously satisfying safety constraints. This challenge becomes even more pronounced in long-horizon tasks, where existing safe methods face fundamental limitations due to compounding estimation errors and restricted exploration capabilities. To address this problem, we propose a method that combines a learnable world model with two complementary policies a high-level policy and a low-level policy to promote safety at both hierarchical levels. The high-...",
-      "score": 27,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, agents, safety, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "dd7fee934169975d"
-    },
-    {
       "id": "a95f26b8e5a20f1b",
       "title": "VADAOrchestra: Neurosymbolic Orchestration of Adaptive Reasoning Workflows",
       "url": "https://arxiv.org/abs/2606.22485v1",
@@ -7393,7 +7324,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:59:36Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -7426,7 +7357,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:51:59Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -7459,7 +7390,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:34:39Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -7492,7 +7423,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:03:30Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -7525,7 +7456,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:51:18Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8508,138 +8439,6 @@
       "content_hash": "95ac19acd1955c64"
     },
     {
-      "id": "3c04707fc14bb8a7",
-      "title": "Context-Aware Distillation and Ablation for Text2DSL",
-      "url": "https://arxiv.org/abs/2606.22578v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T16:27:24Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "evaluation",
-        "product",
-        "research"
-      ],
-      "summary": "We extend our prior work on Text2DSL automatic generation of domain-specific language (DSL) code from natural language descriptions along two complementary axes. First, we replace prompt-only synthetic generation with context-aware distill...",
-      "raw_excerpt": "We extend our prior work on Text2DSL automatic generation of domain-specific language (DSL) code from natural language descriptions along two complementary axes. First, we replace prompt-only synthetic generation with context-aware distillation, in which a teacher large language model (DeepSeek-V4-Flash) operates under an explicitly defined structured context comprising a BNF grammar, an API specification, and a closed identifier vocabulary; the resulting corpus is verified by a two-tier pipeline combining AST validation through esprima and runtime acceptance through the production polkitd da...",
-      "score": 25,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, evaluation, product, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "a418db4251590edf"
-    },
-    {
-      "id": "59eb89d2fbe9f017",
-      "title": "What are Key Factors for Updates in RL for LLM Reasoning?",
-      "url": "https://arxiv.org/abs/2606.22570v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T16:14:46Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "safety",
-        "regulation",
-        "research"
-      ],
-      "summary": "Reinforcement Learning from Verifiable Rewards (RLVR) has emerged as a promising framework for enhancing the reasoning ability of large language models. However, much of the existing work is guided by heuristic intuition, leading to diverg...",
-      "raw_excerpt": "Reinforcement Learning from Verifiable Rewards (RLVR) has emerged as a promising framework for enhancing the reasoning ability of large language models. However, much of the existing work is guided by heuristic intuition, leading to divergent algorithmic choices, even contradictory ones that nevertheless report empirical gains. To better understand this phenomenon, we conduct a theoretical analysis of RLVR updates. Our study reveals that differences in off-policy degree, determined by the number of gradient steps per rollout, substantially affect the distribution of importance sampling ratios...",
-      "score": 25,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, safety, regulation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "350d9e828b196d9f"
-    },
-    {
-      "id": "cd33a03bc8700bad",
-      "title": "Training-Free Semantic Correction for Autoregressive Visual Models",
-      "url": "https://arxiv.org/abs/2606.22550v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T15:10:32Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "product",
-        "research"
-      ],
-      "summary": "Autoregressive visual models (AVMs) based on next-scale prediction have emerged as a prominent paradigm for image and video synthesis. However, decomposing the generation process into discrete scales with varying granularities in AVM makes...",
-      "raw_excerpt": "Autoregressive visual models (AVMs) based on next-scale prediction have emerged as a prominent paradigm for image and video synthesis. However, decomposing the generation process into discrete scales with varying granularities in AVM makes semantic errors difficult to identify and correct, thereby undermining the quality of the final output. Prior efforts to enhance AVM can be categorized into training-based and training-free approaches. Although training-based efforts to enhance AVM generation quality come at substantial computational cost, existing training-free methods neglect intermediate...",
-      "score": 25,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, multimodal, product, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "61865b7e064cedff"
-    },
-    {
-      "id": "cf87affa108a0e1d",
-      "title": "Generative Robust Optimisation",
-      "url": "https://arxiv.org/abs/2606.22536v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T14:50:40Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "evaluation",
-        "research"
-      ],
-      "summary": "Classical uncertainty sets for robust optimisation impose fixed geometric shapes that cannot represent the complex dependencies present in real-world data. We propose Generative Robust Optimisation (GRO), a framework in which a deep genera...",
-      "raw_excerpt": "Classical uncertainty sets for robust optimisation impose fixed geometric shapes that cannot represent the complex dependencies present in real-world data. We propose Generative Robust Optimisation (GRO), a framework in which a deep generative model defines the uncertainty set as the image of a neural network decoder over a calibrated latent set, naturally accommodating nonlinear correlations, asymmetry, and multimodality. A five-point evaluation framework (reconstruction fidelity, distribution matching, latent regularity, robust relevance, and computational tractability) provides systematic,...",
-      "score": 25,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, multimodal, evaluation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "45ce53c4562d6fd5"
-    },
-    {
       "id": "74520dd015b73a75",
       "title": "Autoregressive Boltzmann Generators",
       "url": "https://arxiv.org/abs/2606.27361v1",
@@ -8647,7 +8446,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:58:21Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8679,7 +8478,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:56:27Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8711,7 +8510,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:45:53Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8743,7 +8542,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:24:26Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8775,7 +8574,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:13:00Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8807,7 +8606,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:57:50Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8839,7 +8638,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:33:57Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8871,7 +8670,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:30:27Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8903,7 +8702,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:22:43Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8935,7 +8734,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:21:38Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8967,7 +8766,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:16:08Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -8999,7 +8798,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:00:11Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -9031,7 +8830,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T15:59:20Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -9920,102 +9719,6 @@
       "content_hash": "dab77dc80e0c66c2"
     },
     {
-      "id": "81183c1776b2d8cf",
-      "title": "Training-free Task Classification for Multi-Task Model Merging",
-      "url": "https://arxiv.org/abs/2606.22589v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T16:51:29Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "research",
-        "inference"
-      ],
-      "summary": "Ever since the advent of foundation models and the pre-training-finetuning paradigm, there have been numerous efforts to merge multiple task-specific experts into a single multi-task model. Prior work largely focuses on finding a single me...",
-      "raw_excerpt": "Ever since the advent of foundation models and the pre-training-finetuning paradigm, there have been numerous efforts to merge multiple task-specific experts into a single multi-task model. Prior work largely focuses on finding a single merged model, but it often underperforms individual experts due to parameter interference. To resolve this, dynamic model merging employs routing to activate task-relevant parameters per input. However, existing routers typically require either additional training with abundant labeled datasets or assume the access to task IDs of each input at inference time....",
-      "score": 22,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, research, inference"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "f0b636a7db2c4046"
-    },
-    {
-      "id": "292684a1ba6388b2",
-      "title": "Robust Diffusion Models via Divergence-Induced Weighted Denoising",
-      "url": "https://arxiv.org/abs/2606.22521v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T14:21:13Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "regulation",
-        "research"
-      ],
-      "summary": "We show that replacing the standard MSE denoising loss in diffusion models with a nonlinear transformation induced by an f-divergence yields a simple robust training surrogate that empirically improves performance under data contamination,...",
-      "raw_excerpt": "We show that replacing the standard MSE denoising loss in diffusion models with a nonlinear transformation induced by an f-divergence yields a simple robust training surrogate that empirically improves performance under data contamination, with small additional computational overhead. The theoretical foundation rests on a local divergence construction: under the Gaussian reverse-kernel structure of DDPM, each per-step likelihood ratio follows a lognormal distribution parameterized by a scalar mismatch, so the conditional f-divergence at each step reduces to a one-dimensional function of the d...",
-      "score": 22,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, regulation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "a8ac3cb51c67b892"
-    },
-    {
-      "id": "560bc6394695fd81",
-      "title": "Breaking the Likelihood Trap: Variance-Calibrated Modulation for Large Language Model Decoding",
-      "url": "https://arxiv.org/abs/2606.22511v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T14:04:51Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "inference",
-        "research"
-      ],
-      "summary": "In open-ended generation, LLMs frequently fall into the \"likelihood trap\", marked by repetitive degeneration and vocabulary dullness, creating a discrepancy between machine-generated and human-written text. While post-hoc tail truncation (...",
-      "raw_excerpt": "In open-ended generation, LLMs frequently fall into the \"likelihood trap\", marked by repetitive degeneration and vocabulary dullness, creating a discrepancy between machine-generated and human-written text. While post-hoc tail truncation (e.g., Top-$p$, Min-$p$) avoids sampling from the unreliable tail, it can over-sample from the uncalibrated head and misalign generation with human lexical preferences; fixed scalar repetition penalties likewise ignore variation in logit scale across inference steps, potentially disrupting semantic coherence. To address both limitations, we propose Variance-C...",
-      "score": 22,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, inference, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "836702de54a664ca"
-    },
-    {
       "id": "d1fa00eee0da82c4",
       "title": "Taxonomy-aware deep learning for hierarchical marine species classification in underwater imagery",
       "url": "https://arxiv.org/abs/2606.25989v1",
@@ -10090,7 +9793,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:29:58Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -10121,7 +9824,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:25:13Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -10152,7 +9855,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:53:30Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -10183,7 +9886,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:33:54Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -10214,7 +9917,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:16:51Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -10245,7 +9948,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:05:38Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -10765,6 +10468,75 @@
       "content_hash": "84e6259ea5d1ad89"
     },
     {
+      "id": "6a8af65fce824695",
+      "title": "Fed-CausalDiff: Decoupled Synchronization for Federated Do-Simulation and Policy Evaluation",
+      "url": "https://arxiv.org/abs/2606.22510v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T14:04:33Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "inference",
+        "safety",
+        "product"
+      ],
+      "summary": "While federated learning enables collaborative modelling on decentralised data, standard methods merely fit historical observations. This purely observational approach is fundamentally insufficient for interventional inference and policy e...",
+      "raw_excerpt": "While federated learning enables collaborative modelling on decentralised data, standard methods merely fit historical observations. This purely observational approach is fundamentally insufficient for interventional inference and policy evaluation, as sequential actions dynamically alter future states. We propose \\textbf{Fed-CausalDiff}, a federated causal diffusion framework for do-simulation. The architecture decomposes the evolution of the latent state into a global causal score function and a local confounding score function. This design enables \\emph{decoupled synchronisation} (DSS), wh...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, evaluation, research, inference"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "fcd2e00bf729401b"
+    },
+    {
+      "id": "8828d7ac25a966b1",
+      "title": "Imagine to Ensure Safety in Hierarchical Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.22509v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T14:04:04Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "safety",
+        "regulation",
+        "research"
+      ],
+      "summary": "This work investigates the safe exploration problem in reinforcement learning, where an agent must maximize cumulative performance while simultaneously satisfying safety constraints. This challenge becomes even more pronounced in long-hori...",
+      "raw_excerpt": "This work investigates the safe exploration problem in reinforcement learning, where an agent must maximize cumulative performance while simultaneously satisfying safety constraints. This challenge becomes even more pronounced in long-horizon tasks, where existing safe methods face fundamental limitations due to compounding estimation errors and restricted exploration capabilities. To address this problem, we propose a method that combines a learnable world model with two complementary policies a high-level policy and a low-level policy to promote safety at both hierarchical levels. The high-...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, agents, safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "dd7fee934169975d"
+    },
+    {
       "id": "97a3445d4b260399",
       "title": "Human and AI collaboration for pulmonary nodule segmentation",
       "url": "https://arxiv.org/abs/2606.22486v1",
@@ -11252,7 +11024,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:49:48Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -11469,36 +11241,136 @@
       "content_hash": "72816494735cc37e"
     },
     {
-      "id": "9d83535f69accbe2",
-      "title": "The Scissors Effect: When Resize-Based Input Diversity Helps or Hurts Transfer Attacks",
-      "url": "https://arxiv.org/abs/2606.22516v1",
+      "id": "3c04707fc14bb8a7",
+      "title": "Context-Aware Distillation and Ablation for Text2DSL",
+      "url": "https://arxiv.org/abs/2606.22578v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-21T14:10:07Z",
+      "published_at": "2026-06-21T16:27:24Z",
       "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "multimodal",
+        "model",
+        "evaluation",
         "product",
-        "regulation",
         "research"
       ],
-      "summary": "Input Diversity (DI), which applies random resizing and padding at each attack iteration, is a near-default ingredient of transfer-based adversarial attacks, widely assumed to improve transferability. We show this assumption is regime-depe...",
-      "raw_excerpt": "Input Diversity (DI), which applies random resizing and padding at each attack iteration, is a near-default ingredient of transfer-based adversarial attacks, widely assumed to improve transferability. We show this assumption is regime-dependent and, for robustly trained surrogates, often reversed. Varying only the surrogate, increasing the DI probability raises transfer success for standard surrogates but lowers it for robust ones: the two response curves separate like a pair of scissors, a pattern we call the Scissors Effect. The effect is strong and consistent on ImageNet, where blind DI co...",
-      "score": 18,
+      "summary": "We extend our prior work on Text2DSL automatic generation of domain-specific language (DSL) code from natural language descriptions along two complementary axes. First, we replace prompt-only synthetic generation with context-aware distill...",
+      "raw_excerpt": "We extend our prior work on Text2DSL automatic generation of domain-specific language (DSL) code from natural language descriptions along two complementary axes. First, we replace prompt-only synthetic generation with context-aware distillation, in which a teacher large language model (DeepSeek-V4-Flash) operates under an explicitly defined structured context comprising a BNF grammar, an API specification, and a closed identifier vocabulary; the resulting corpus is verified by a two-tier pipeline combining AST validation through esprima and runtime acceptance through the production polkitd da...",
+      "score": 17,
       "score_reasons": [
         "trusted source weight 38",
         "published in the last 7 days",
         "paper source",
-        "matched tags: multimodal, product, regulation, research"
+        "matched tags: model, evaluation, product, research"
       ],
       "tier": "raw",
       "quality_reasons": [
         "paper outside AI channel focus",
-        "demoted broad arXiv paper"
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "6fe48085e1c6995a"
+      "content_hash": "a418db4251590edf"
+    },
+    {
+      "id": "59eb89d2fbe9f017",
+      "title": "What are Key Factors for Updates in RL for LLM Reasoning?",
+      "url": "https://arxiv.org/abs/2606.22570v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T16:14:46Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety",
+        "regulation",
+        "research"
+      ],
+      "summary": "Reinforcement Learning from Verifiable Rewards (RLVR) has emerged as a promising framework for enhancing the reasoning ability of large language models. However, much of the existing work is guided by heuristic intuition, leading to diverg...",
+      "raw_excerpt": "Reinforcement Learning from Verifiable Rewards (RLVR) has emerged as a promising framework for enhancing the reasoning ability of large language models. However, much of the existing work is guided by heuristic intuition, leading to divergent algorithmic choices, even contradictory ones that nevertheless report empirical gains. To better understand this phenomenon, we conduct a theoretical analysis of RLVR updates. Our study reveals that differences in off-policy degree, determined by the number of gradient steps per rollout, substantially affect the distribution of importance sampling ratios...",
+      "score": 17,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, safety, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "350d9e828b196d9f"
+    },
+    {
+      "id": "cd33a03bc8700bad",
+      "title": "Training-Free Semantic Correction for Autoregressive Visual Models",
+      "url": "https://arxiv.org/abs/2606.22550v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T15:10:32Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "product",
+        "research"
+      ],
+      "summary": "Autoregressive visual models (AVMs) based on next-scale prediction have emerged as a prominent paradigm for image and video synthesis. However, decomposing the generation process into discrete scales with varying granularities in AVM makes...",
+      "raw_excerpt": "Autoregressive visual models (AVMs) based on next-scale prediction have emerged as a prominent paradigm for image and video synthesis. However, decomposing the generation process into discrete scales with varying granularities in AVM makes semantic errors difficult to identify and correct, thereby undermining the quality of the final output. Prior efforts to enhance AVM can be categorized into training-based and training-free approaches. Although training-based efforts to enhance AVM generation quality come at substantial computational cost, existing training-free methods neglect intermediate...",
+      "score": 17,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, multimodal, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "61865b7e064cedff"
+    },
+    {
+      "id": "cf87affa108a0e1d",
+      "title": "Generative Robust Optimisation",
+      "url": "https://arxiv.org/abs/2606.22536v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T14:50:40Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "evaluation",
+        "research"
+      ],
+      "summary": "Classical uncertainty sets for robust optimisation impose fixed geometric shapes that cannot represent the complex dependencies present in real-world data. We propose Generative Robust Optimisation (GRO), a framework in which a deep genera...",
+      "raw_excerpt": "Classical uncertainty sets for robust optimisation impose fixed geometric shapes that cannot represent the complex dependencies present in real-world data. We propose Generative Robust Optimisation (GRO), a framework in which a deep generative model defines the uncertainty set as the image of a neural network decoder over a calibrated latent set, naturally accommodating nonlinear correlations, asymmetry, and multimodality. A five-point evaluation framework (reconstruction fidelity, distribution matching, latent regularity, robust relevance, and computational tractability) provides systematic,...",
+      "score": 17,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, multimodal, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "45ce53c4562d6fd5"
     },
     {
       "id": "0fc13212ee9d3869",
@@ -12135,7 +12007,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:51:53Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "research",
@@ -12166,7 +12038,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:50:21Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "safety",
@@ -12197,7 +12069,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:20:49Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "agents",
@@ -12228,7 +12100,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:05:55Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "open-source",
@@ -12438,97 +12310,100 @@
       "content_hash": "e9999896a541b4c3"
     },
     {
-      "id": "2efa190ecc3658e8",
-      "title": "The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination",
-      "url": "https://arxiv.org/abs/2606.22574v1",
+      "id": "81183c1776b2d8cf",
+      "title": "Training-free Task Classification for Multi-Task Model Merging",
+      "url": "https://arxiv.org/abs/2606.22589v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-21T16:21:34Z",
+      "published_at": "2026-06-21T16:51:29Z",
       "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "multimodal",
-        "evaluation",
-        "research"
+        "model",
+        "research",
+        "inference"
       ],
-      "summary": "While synthetic data generation resolves the manual labeling bottleneck in computer vision, minimizing the syn-to-real domain gap requires optimizing rendering variables. This paper presents a systematic study analyzing the impact of light...",
-      "raw_excerpt": "While synthetic data generation resolves the manual labeling bottleneck in computer vision, minimizing the syn-to-real domain gap requires optimizing rendering variables. This paper presents a systematic study analyzing the impact of lighting configurations and background complexity on object detection performance. We introduce SmartSDG, an automated, reproducible pipeline built on NVIDIA Isaac Sim using Physically-Based Shading (PBS), alongside ILLUM\\_INTRUCK, a new multi-object industrial benchmark dataset. Through 18 controlled experiments utilizing a state-of-the-art YOLOv12 framework, we...",
-      "score": 15,
+      "summary": "Ever since the advent of foundation models and the pre-training-finetuning paradigm, there have been numerous efforts to merge multiple task-specific experts into a single multi-task model. Prior work largely focuses on finding a single me...",
+      "raw_excerpt": "Ever since the advent of foundation models and the pre-training-finetuning paradigm, there have been numerous efforts to merge multiple task-specific experts into a single multi-task model. Prior work largely focuses on finding a single merged model, but it often underperforms individual experts due to parameter interference. To resolve this, dynamic model merging employs routing to activate task-relevant parameters per input. However, existing routers typically require either additional training with abundant labeled datasets or assume the access to task IDs of each input at inference time....",
+      "score": 14,
       "score_reasons": [
         "trusted source weight 38",
         "published in the last 7 days",
         "paper source",
-        "matched tags: multimodal, evaluation, research"
+        "matched tags: model, research, inference"
       ],
       "tier": "raw",
       "quality_reasons": [
         "paper outside AI channel focus",
-        "demoted broad arXiv paper"
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "a36a8668f6ad1055"
+      "content_hash": "f0b636a7db2c4046"
     },
     {
-      "id": "062cee06cfc9fa10",
-      "title": "Concept-Constrained Prompt Learning for Few-Shot CLIP Adaptation",
-      "url": "https://arxiv.org/abs/2606.22567v1",
+      "id": "292684a1ba6388b2",
+      "title": "Robust Diffusion Models via Divergence-Induced Weighted Denoising",
+      "url": "https://arxiv.org/abs/2606.22521v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-21T16:09:32Z",
+      "published_at": "2026-06-21T14:21:13Z",
       "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
-        "multimodal",
-        "product",
-        "research"
-      ],
-      "summary": "Few-shot prompt learning is an effective strategy for adapting CLIP to downstream tasks, but class-only prompt optimization can overfit base-class supervision and weaken transfer to unseen classes. We propose Concept-Constrained Prompt Lea...",
-      "raw_excerpt": "Few-shot prompt learning is an effective strategy for adapting CLIP to downstream tasks, but class-only prompt optimization can overfit base-class supervision and weaken transfer to unseen classes. We propose Concept-Constrained Prompt Learning (CCPL), a lightweight regularization framework that anchors learnable class prompts to frozen concept-level text prototypes without updating CLIP encoders. CCPL learns a set of shared context tokens, instantiates class prompts by appending class names, and constructs frozen concept prototypes from a class-level concept bank. During training, a text-spa...",
-      "score": 15,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: multimodal, product, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper"
-      ],
-      "content_hash": "d1026cecf23e58a7"
-    },
-    {
-      "id": "8efa3d753a94a318",
-      "title": "Mitigating Measurement-Induced Training Instability in Hybrid Quantum Neural Networks for Protein Classification",
-      "url": "https://arxiv.org/abs/2606.22551v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T15:10:51Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "product",
+        "model",
         "regulation",
         "research"
       ],
-      "summary": "Hybrid Quantum Neural Network (QNN) classifiers produce logits as expectation values of quantum measurement operators. For standard Pauli measurements, these outputs are intrinsically bounded to the interval [-1,1]. When such bounded logit...",
-      "raw_excerpt": "Hybrid Quantum Neural Network (QNN) classifiers produce logits as expectation values of quantum measurement operators. For standard Pauli measurements, these outputs are intrinsically bounded to the interval [-1,1]. When such bounded logits are used directly with the cross-entropy loss applied to softmax-normalized logits for multi-class classification, the loss function operates in a regime of weak sensitivity to logit differences. As a consequence, parameter gradients are suppressed, leading to unstable optimization in variational quantum classifiers (VQCs). In this work, we identify this e...",
-      "score": 15,
+      "summary": "We show that replacing the standard MSE denoising loss in diffusion models with a nonlinear transformation induced by an f-divergence yields a simple robust training surrogate that empirically improves performance under data contamination,...",
+      "raw_excerpt": "We show that replacing the standard MSE denoising loss in diffusion models with a nonlinear transformation induced by an f-divergence yields a simple robust training surrogate that empirically improves performance under data contamination, with small additional computational overhead. The theoretical foundation rests on a local divergence construction: under the Gaussian reverse-kernel structure of DDPM, each per-step likelihood ratio follows a lognormal distribution parameterized by a scalar mismatch, so the conditional f-divergence at each step reduces to a one-dimensional function of the d...",
+      "score": 14,
       "score_reasons": [
         "trusted source weight 38",
         "published in the last 7 days",
         "paper source",
-        "matched tags: product, regulation, research"
+        "matched tags: model, regulation, research"
       ],
       "tier": "raw",
       "quality_reasons": [
         "paper outside AI channel focus",
-        "demoted broad arXiv paper"
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "e4fdb88a959a747f"
+      "content_hash": "a8ac3cb51c67b892"
+    },
+    {
+      "id": "560bc6394695fd81",
+      "title": "Breaking the Likelihood Trap: Variance-Calibrated Modulation for Large Language Model Decoding",
+      "url": "https://arxiv.org/abs/2606.22511v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T14:04:51Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "research"
+      ],
+      "summary": "In open-ended generation, LLMs frequently fall into the \"likelihood trap\", marked by repetitive degeneration and vocabulary dullness, creating a discrepancy between machine-generated and human-written text. While post-hoc tail truncation (...",
+      "raw_excerpt": "In open-ended generation, LLMs frequently fall into the \"likelihood trap\", marked by repetitive degeneration and vocabulary dullness, creating a discrepancy between machine-generated and human-written text. While post-hoc tail truncation (e.g., Top-$p$, Min-$p$) avoids sampling from the unreliable tail, it can over-sample from the uncalibrated head and misalign generation with human lexical preferences; fixed scalar repetition penalties likewise ignore variation in logit scale across inference steps, potentially disrupting semantic coherence. To address both limitations, we propose Variance-C...",
+      "score": 14,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, inference, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "836702de54a664ca"
     },
     {
       "id": "8f35e58e64cde833",
@@ -13370,7 +13245,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:54:49Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product",
@@ -13400,7 +13275,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:29:48Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product",
@@ -13430,7 +13305,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:26:46Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product",
@@ -13931,66 +13806,6 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "4694629b1cd6f815"
-    },
-    {
-      "id": "ed2ea50000c6a7c2",
-      "title": "From CVE to CWE: Syscall-Based HIDS Generalisation",
-      "url": "https://arxiv.org/abs/2606.22581v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T16:34:39Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "evaluation",
-        "research"
-      ],
-      "summary": "Host intrusion detection systems (HIDS) based on system-call traces are typically trained and evaluated against individual Common Vulnerabilities and Exposures (CVE) instances. In operational settings, however, defenders need to recognise...",
-      "raw_excerpt": "Host intrusion detection systems (HIDS) based on system-call traces are typically trained and evaluated against individual Common Vulnerabilities and Exposures (CVE) instances. In operational settings, however, defenders need to recognise new exploits of an already known type of weakness. We empirically examine whether a one-class anomaly detector trained on the normal behaviour of a set of CVEs that share a Common Weakness Enumeration (CWE) class generalises to a different, unseen CVE inside the same class. Using six scenarios drawn from LID-DS-2021 and grouped into three CWE families (CWE-3...",
-      "score": 12,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: evaluation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper"
-      ],
-      "content_hash": "89dfbfd81ea5b7a9"
-    },
-    {
-      "id": "77c5c5624db7b597",
-      "title": "Detecting and Understanding Vulnerabilities in Fully Homomorphic Encryption Frameworks",
-      "url": "https://arxiv.org/abs/2606.22519v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T14:18:49Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "product",
-        "research"
-      ],
-      "summary": "Fully homomorphic encryption (FHE) allows computations to be performed directly on encrypted data without decryption, offering strong privacy guarantees for sensitive data analysis. This capability is important for privacy-sensitive applic...",
-      "raw_excerpt": "Fully homomorphic encryption (FHE) allows computations to be performed directly on encrypted data without decryption, offering strong privacy guarantees for sensitive data analysis. This capability is important for privacy-sensitive applications like secure cloud computing, finance, and healthcare. The complexity of FHE schemes, however, has hindered their practical adoption. To make FHE accessible to a broader range of developers, a new generation of specialized frameworks has emerged to translate high-level FHE programs into complex FHE operations, introducing a new programming paradigm. Ho...",
-      "score": 12,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: product, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper"
-      ],
-      "content_hash": "5d054aea7204f28b"
     },
     {
       "id": "52b288d55f65c339",
@@ -14840,6 +14655,38 @@
       "content_hash": "1c7be2e291ec3fcd"
     },
     {
+      "id": "9d83535f69accbe2",
+      "title": "The Scissors Effect: When Resize-Based Input Diversity Helps or Hurts Transfer Attacks",
+      "url": "https://arxiv.org/abs/2606.22516v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T14:10:07Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "product",
+        "regulation",
+        "research"
+      ],
+      "summary": "Input Diversity (DI), which applies random resizing and padding at each attack iteration, is a near-default ingredient of transfer-based adversarial attacks, widely assumed to improve transferability. We show this assumption is regime-depe...",
+      "raw_excerpt": "Input Diversity (DI), which applies random resizing and padding at each attack iteration, is a near-default ingredient of transfer-based adversarial attacks, widely assumed to improve transferability. We show this assumption is regime-dependent and, for robustly trained surrogates, often reversed. Varying only the surrogate, increasing the DI probability raises transfer success for standard surrogates but lowers it for robust ones: the two response curves separate like a pair of scissors, a pattern we call the Scissors Effect. The effect is strong and consistent on ImageNet, where blind DI co...",
+      "score": 10,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: multimodal, product, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "6fe48085e1c6995a"
+    },
+    {
       "id": "7c46fb44604eaba5",
       "title": "LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents",
       "url": "https://arxiv.org/abs/2606.20529v1",
@@ -14975,7 +14822,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:14:57Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "research"
@@ -15004,7 +14851,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:02:08Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "research"
@@ -15033,7 +14880,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:02:14Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "research"
@@ -15258,33 +15105,97 @@
       "content_hash": "f29694b3ae0b3a03"
     },
     {
-      "id": "a11d4a106afa6d89",
-      "title": "Deep material network for homogenization of piezoelectric composites",
-      "url": "https://arxiv.org/abs/2606.22566v1",
+      "id": "2efa190ecc3658e8",
+      "title": "The Power of Light: Improving Synthetic-to-Real Domain Adaptation through Physically-Based Indirect Illumination",
+      "url": "https://arxiv.org/abs/2606.22574v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-21T16:08:24Z",
+      "published_at": "2026-06-21T16:21:34Z",
       "fetched_at": "2026-06-23T03:36:19Z",
       "language": "en",
       "tags": [
+        "multimodal",
+        "evaluation",
         "research"
       ],
-      "summary": "Piezoelectric composites are widely used in sensors, actuators, transducers, and energy-harvesting devices because their effective electromechanical performance can be tailored by combining constituent phases and microstructural architectu...",
-      "raw_excerpt": "Piezoelectric composites are widely used in sensors, actuators, transducers, and energy-harvesting devices because their effective electromechanical performance can be tailored by combining constituent phases and microstructural architecture. However, conventional computational homogenization based on direct numerical simulation (DNS) is computationally expensive, particularly for multiscale simulations and material design tasks that require repeated homogenization analyses. To address this limitation, this work proposes a piezoelectric deep material network (PDMN) to efficiently homogenize t...",
-      "score": 9,
+      "summary": "While synthetic data generation resolves the manual labeling bottleneck in computer vision, minimizing the syn-to-real domain gap requires optimizing rendering variables. This paper presents a systematic study analyzing the impact of light...",
+      "raw_excerpt": "While synthetic data generation resolves the manual labeling bottleneck in computer vision, minimizing the syn-to-real domain gap requires optimizing rendering variables. This paper presents a systematic study analyzing the impact of lighting configurations and background complexity on object detection performance. We introduce SmartSDG, an automated, reproducible pipeline built on NVIDIA Isaac Sim using Physically-Based Shading (PBS), alongside ILLUM\\_INTRUCK, a new multi-object industrial benchmark dataset. Through 18 controlled experiments utilizing a state-of-the-art YOLOv12 framework, we...",
+      "score": 7,
       "score_reasons": [
         "trusted source weight 38",
         "published in the last 7 days",
         "paper source",
-        "matched tags: research"
+        "matched tags: multimodal, evaluation, research"
       ],
       "tier": "raw",
       "quality_reasons": [
         "paper outside AI channel focus",
         "demoted broad arXiv paper"
       ],
-      "content_hash": "341ed675e5755188"
+      "content_hash": "a36a8668f6ad1055"
+    },
+    {
+      "id": "062cee06cfc9fa10",
+      "title": "Concept-Constrained Prompt Learning for Few-Shot CLIP Adaptation",
+      "url": "https://arxiv.org/abs/2606.22567v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T16:09:32Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "product",
+        "research"
+      ],
+      "summary": "Few-shot prompt learning is an effective strategy for adapting CLIP to downstream tasks, but class-only prompt optimization can overfit base-class supervision and weaken transfer to unseen classes. We propose Concept-Constrained Prompt Lea...",
+      "raw_excerpt": "Few-shot prompt learning is an effective strategy for adapting CLIP to downstream tasks, but class-only prompt optimization can overfit base-class supervision and weaken transfer to unseen classes. We propose Concept-Constrained Prompt Learning (CCPL), a lightweight regularization framework that anchors learnable class prompts to frozen concept-level text prototypes without updating CLIP encoders. CCPL learns a set of shared context tokens, instantiates class prompts by appending class names, and constructs frozen concept prototypes from a class-level concept bank. During training, a text-spa...",
+      "score": 7,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: multimodal, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "d1026cecf23e58a7"
+    },
+    {
+      "id": "8efa3d753a94a318",
+      "title": "Mitigating Measurement-Induced Training Instability in Hybrid Quantum Neural Networks for Protein Classification",
+      "url": "https://arxiv.org/abs/2606.22551v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T15:10:51Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "product",
+        "regulation",
+        "research"
+      ],
+      "summary": "Hybrid Quantum Neural Network (QNN) classifiers produce logits as expectation values of quantum measurement operators. For standard Pauli measurements, these outputs are intrinsically bounded to the interval [-1,1]. When such bounded logit...",
+      "raw_excerpt": "Hybrid Quantum Neural Network (QNN) classifiers produce logits as expectation values of quantum measurement operators. For standard Pauli measurements, these outputs are intrinsically bounded to the interval [-1,1]. When such bounded logits are used directly with the cross-entropy loss applied to softmax-normalized logits for multi-class classification, the loss function operates in a regime of weak sensitivity to logit differences. As a consequence, parameter gradients are suppressed, leading to unstable optimization in variational quantum classifiers (VQCs). In this work, we identify this e...",
+      "score": 7,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: product, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "e4fdb88a959a747f"
     },
     {
       "id": "22d99cafb86889af",
@@ -15666,7 +15577,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:09:12Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -15692,6 +15603,66 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "3dac8053631c2862"
+    },
+    {
+      "id": "ed2ea50000c6a7c2",
+      "title": "From CVE to CWE: Syscall-Based HIDS Generalisation",
+      "url": "https://arxiv.org/abs/2606.22581v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T16:34:39Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "evaluation",
+        "research"
+      ],
+      "summary": "Host intrusion detection systems (HIDS) based on system-call traces are typically trained and evaluated against individual Common Vulnerabilities and Exposures (CVE) instances. In operational settings, however, defenders need to recognise...",
+      "raw_excerpt": "Host intrusion detection systems (HIDS) based on system-call traces are typically trained and evaluated against individual Common Vulnerabilities and Exposures (CVE) instances. In operational settings, however, defenders need to recognise new exploits of an already known type of weakness. We empirically examine whether a one-class anomaly detector trained on the normal behaviour of a set of CVEs that share a Common Weakness Enumeration (CWE) class generalises to a different, unseen CVE inside the same class. Using six scenarios drawn from LID-DS-2021 and grouped into three CWE families (CWE-3...",
+      "score": 4,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "89dfbfd81ea5b7a9"
+    },
+    {
+      "id": "77c5c5624db7b597",
+      "title": "Detecting and Understanding Vulnerabilities in Fully Homomorphic Encryption Frameworks",
+      "url": "https://arxiv.org/abs/2606.22519v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T14:18:49Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "product",
+        "research"
+      ],
+      "summary": "Fully homomorphic encryption (FHE) allows computations to be performed directly on encrypted data without decryption, offering strong privacy guarantees for sensitive data analysis. This capability is important for privacy-sensitive applic...",
+      "raw_excerpt": "Fully homomorphic encryption (FHE) allows computations to be performed directly on encrypted data without decryption, offering strong privacy guarantees for sensitive data analysis. This capability is important for privacy-sensitive applications like secure cloud computing, finance, and healthcare. The complexity of FHE schemes, however, has hindered their practical adoption. To make FHE accessible to a broader range of developers, a new generation of specialized frameworks has emerged to translate high-level FHE programs into complex FHE operations, introducing a new programming paradigm. Ho...",
+      "score": 4,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "5d054aea7204f28b"
     },
     {
       "id": "f4ed844e7ae3ed69",
@@ -16174,6 +16145,35 @@
       "content_hash": "47fe1b493fc7a6b2"
     },
     {
+      "id": "a11d4a106afa6d89",
+      "title": "Deep material network for homogenization of piezoelectric composites",
+      "url": "https://arxiv.org/abs/2606.22566v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T16:08:24Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "research"
+      ],
+      "summary": "Piezoelectric composites are widely used in sensors, actuators, transducers, and energy-harvesting devices because their effective electromechanical performance can be tailored by combining constituent phases and microstructural architectu...",
+      "raw_excerpt": "Piezoelectric composites are widely used in sensors, actuators, transducers, and energy-harvesting devices because their effective electromechanical performance can be tailored by combining constituent phases and microstructural architecture. However, conventional computational homogenization based on direct numerical simulation (DNS) is computationally expensive, particularly for multiscale simulations and material design tasks that require repeated homogenization analyses. To address this limitation, this work proposes a piezoelectric deep material network (PDMN) to efficiently homogenize t...",
+      "score": 1,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "341ed675e5755188"
+    },
+    {
       "id": "ae2c33df9417bc87",
       "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
       "url": "https://arxiv.org/abs/2606.20547v1",
@@ -16587,7 +16587,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T17:38:45Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "model",
@@ -16619,7 +16619,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-25T16:00:11Z",
-      "fetched_at": "2026-06-28T13:46:47Z",
+      "fetched_at": "2026-06-28T17:12:07Z",
       "language": "en",
       "tags": [
         "product",
