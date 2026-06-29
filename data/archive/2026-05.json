@@ -1514,7 +1514,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "safety",
@@ -1603,7 +1603,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T10:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -1635,7 +1635,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -1697,7 +1697,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-19T10:45:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1754,7 +1754,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T10:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -1782,7 +1782,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1810,7 +1810,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-04T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1838,7 +1838,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-28T15:00:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -1849,7 +1849,7 @@
       "score": 63,
       "score_reasons": [
         "trusted source weight 52",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "matched tags: model, product",
         "no feed summary"
@@ -1902,7 +1902,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -1927,7 +1927,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -1952,7 +1952,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -1977,7 +1977,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
@@ -2002,7 +2002,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-11T23:18:26Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model",
@@ -2034,7 +2034,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T17:30:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -2044,7 +2044,7 @@
       "score": 60,
       "score_reasons": [
         "trusted source weight 52",
-        "published in the last 30 days",
+        "older than 30 days",
         "official source",
         "matched tags: model",
         "no feed summary"
@@ -2065,7 +2065,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T19:30:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -2127,7 +2127,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -2158,7 +2158,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T18:38:09Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -2189,7 +2189,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-06T19:06:55Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -2220,7 +2220,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2250,7 +2250,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -2280,7 +2280,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2307,7 +2307,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2365,7 +2365,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2392,7 +2392,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2419,7 +2419,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2446,7 +2446,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2473,7 +2473,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2500,7 +2500,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2527,7 +2527,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2554,7 +2554,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2581,7 +2581,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2608,7 +2608,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-21T21:23:25Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "open-source",
@@ -2639,7 +2639,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2666,7 +2666,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-18T15:12:46Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2693,7 +2693,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T18:55:01Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2720,7 +2720,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T00:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2747,7 +2747,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-05-29T18:58:25Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "model"
@@ -2757,7 +2757,7 @@
       "score": 48,
       "score_reasons": [
         "trusted source weight 44",
-        "published in the last 30 days",
+        "older than 30 days",
         "github_release source",
         "matched tags: model"
       ],
@@ -2866,7 +2866,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
@@ -2892,7 +2892,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-15T22:30:20Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "product"
@@ -2921,7 +2921,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-07T17:33:02Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [
         "product"
@@ -2950,7 +2950,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
+      "fetched_at": "2026-06-29T03:57:43Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
