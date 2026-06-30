@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-30T17:54:07Z",
+  "generated_at": "2026-06-30T21:28:06Z",
   "display_window_days": 30,
   "retention_days": 365,
   "source_status": {
@@ -8,7 +8,7 @@
       "name": "OpenAI News",
       "status": "live",
       "latest_item_at": "2026-06-30T09:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 1028,
       "error": null
     },
@@ -16,7 +16,7 @@
       "name": "Anthropic News",
       "status": "error",
       "latest_item_at": null,
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 0,
       "error": "HTTP Error 404: Not Found"
     },
@@ -24,15 +24,15 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-30T06:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 20,
       "error": null
     },
     "huggingface-blog": {
       "name": "Hugging Face Blog",
       "status": "live",
-      "latest_item_at": "2026-06-30T14:39:11Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "latest_item_at": "2026-06-30T18:32:50Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 813,
       "error": null
     },
@@ -40,7 +40,7 @@
       "name": "Microsoft AI Blog",
       "status": "delayed",
       "latest_item_at": "2026-06-16T13:41:44Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 10,
       "error": null
     },
@@ -48,7 +48,7 @@
       "name": "arXiv AI/ML/CL",
       "status": "live",
       "latest_item_at": "2026-06-29T17:59:55Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 50,
       "error": null
     },
@@ -56,7 +56,7 @@
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-19T13:25:50Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 10,
       "error": null
     },
@@ -64,7 +64,7 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-30T01:19:02Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 10,
       "error": null
     },
@@ -72,7 +72,7 @@
       "name": "Ollama Releases",
       "status": "live",
       "latest_item_at": "2026-06-30T04:15:08Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 10,
       "error": null
     },
@@ -80,12 +80,46 @@
       "name": "OpenAI Python Releases",
       "status": "live",
       "latest_item_at": "2026-06-24T20:55:08Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "item_count": 10,
       "error": null
     }
   },
   "items": [
+    {
+      "id": "d2b47e5ca2b10e4d",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-06-30T18:32:50Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "evaluation",
+        "research"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 24h",
+        "official source",
+        "matched tags: agents, evaluation, research",
+        "no feed summary"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "b2c26fa5e8f4ac72"
+    },
     {
       "id": "068c9bc43551fee5",
       "title": "How ChatGPT adoption has expanded",
@@ -115,40 +149,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "f5bae718dfbc638c"
-    },
-    {
-      "id": "6cc910fb018354bf",
-      "title": "v0.24.0",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0",
-      "source_id": "github-vllm",
-      "source_name": "vLLM Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-29T19:41:59Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "open-source",
-        "product"
-      ],
-      "summary": "vLLM v0.24.0 Release Notes Highlights This release features 571 commits from 256 contributors (77 new)! MiniMax-M3 : Added support for the new MiniMax-M3 model ( #45381 ), with a fast follow-on of BF16/FP8 indexer via MSA ( #45892 ), MXFP4...",
-      "raw_excerpt": "vLLM v0.24.0 Release Notes Highlights This release features 571 commits from 256 contributors (77 new)! MiniMax-M3 : Added support for the new MiniMax-M3 model ( #45381 ), with a fast follow-on of BF16/FP8 indexer via MSA ( #45892 ), MXFP4 support ( #45896 ), FP8 sparse GQA ( #45744 ), and extensive AMD/ROCm tuning — mxfp8 MoE/linear on gfx950 ( #45725 ), fp8_per_channel for bf16 weights on MI300X ( #45854 ), FP8 KV-cache fix ( #45720 ), and packed-modules mapping ( #45794 ). A MiniMax-M2 perf regression was also fixed ( #45935 ). DeepSeek-V4 keeps maturing : Following its debut, DeepSeek-V4...",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 44",
-        "published in the last 24h",
-        "github_release source",
-        "matched tags: model, open-source, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "0c76416d5af267bf"
     },
     {
       "id": "82af0f5a5479a4eb",
@@ -773,6 +773,40 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "462fc92aa526219e"
+    },
+    {
+      "id": "6cc910fb018354bf",
+      "title": "v0.24.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0",
+      "source_id": "github-vllm",
+      "source_name": "vLLM Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-29T19:41:59Z",
+      "fetched_at": "2026-06-29T21:26:43Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "open-source",
+        "product"
+      ],
+      "summary": "vLLM v0.24.0 Release Notes Highlights This release features 571 commits from 256 contributors (77 new)! MiniMax-M3 : Added support for the new MiniMax-M3 model ( #45381 ), with a fast follow-on of BF16/FP8 indexer via MSA ( #45892 ), MXFP4...",
+      "raw_excerpt": "vLLM v0.24.0 Release Notes Highlights This release features 571 commits from 256 contributors (77 new)! MiniMax-M3 : Added support for the new MiniMax-M3 model ( #45381 ), with a fast follow-on of BF16/FP8 indexer via MSA ( #45892 ), MXFP4 support ( #45896 ), FP8 sparse GQA ( #45744 ), and extensive AMD/ROCm tuning — mxfp8 MoE/linear on gfx950 ( #45725 ), fp8_per_channel for bf16 weights on MI300X ( #45854 ), FP8 KV-cache fix ( #45720 ), and packed-modules mapping ( #45794 ). A MiniMax-M2 perf regression was also fixed ( #45935 ). DeepSeek-V4 keeps maturing : Following its debut, DeepSeek-V4...",
+      "score": 99,
+      "score_reasons": [
+        "trusted source weight 44",
+        "published in the last 24h",
+        "github_release source",
+        "matched tags: model, open-source, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "routine versioned release",
+        "open-source AI infrastructure update",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "0c76416d5af267bf"
     },
     {
       "id": "0b8dc2473cab870c",
@@ -1823,7 +1857,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-30T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
@@ -1849,7 +1883,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-29T07:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents",
@@ -2952,7 +2986,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-30T06:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "product"
@@ -4789,7 +4823,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-30T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -4816,7 +4850,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-24T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -5253,7 +5287,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-25T16:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "product"
@@ -5380,7 +5414,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5409,7 +5443,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -5438,7 +5472,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5467,7 +5501,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5628,7 +5662,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -5685,7 +5719,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "safety"
@@ -5774,7 +5808,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-30T14:39:11Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5792,33 +5826,6 @@
         "thin feed summary"
       ],
       "content_hash": "b1d7cdc570e360db"
-    },
-    {
-      "id": "9cc3b14e3b9c7b80",
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-06-29T18:02:48Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
-      "language": "en",
-      "tags": [],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 72,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 24h",
-        "official source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "85c4eee5f4b55a52"
     },
     {
       "id": "d477d698f9b8fc2d",
@@ -5957,7 +5964,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -5982,7 +5989,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6014,7 +6021,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -6107,7 +6114,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-29T16:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6241,7 +6248,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6272,7 +6279,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6303,7 +6310,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6334,7 +6341,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6365,7 +6372,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -6391,7 +6398,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6422,7 +6429,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6453,7 +6460,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6484,7 +6491,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "product"
@@ -6547,7 +6554,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -6597,6 +6604,33 @@
       "content_hash": "01e7775bceb07531"
     },
     {
+      "id": "9cc3b14e3b9c7b80",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-06-29T18:02:48Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 7 days",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "85c4eee5f4b55a52"
+    },
+    {
       "id": "dd3cf1b7a333cfa1",
       "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
       "url": "https://arxiv.org/abs/2606.30616v1",
@@ -6604,7 +6638,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:50:54Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -6617,7 +6651,7 @@
       "score": 65,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
         "matched tags: model, agents, builder-opinion, research"
       ],
@@ -6638,7 +6672,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:51:06Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -6651,7 +6685,7 @@
       "score": 65,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
         "matched tags: model, agents, product, research"
       ],
@@ -6735,7 +6769,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -6757,36 +6791,6 @@
         "thin feed summary"
       ],
       "content_hash": "8fd9b01b928c9180"
-    },
-    {
-      "id": "7c52d573c4d7451b",
-      "title": "v0.31.0",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.0",
-      "source_id": "github-ollama",
-      "source_name": "Ollama Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-29T18:50:11Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "launch: check for min version for hermes desktop ( #16912 )",
-      "raw_excerpt": "launch: check for min version for hermes desktop ( #16912 )",
-      "score": 62,
-      "score_reasons": [
-        "trusted source weight 43",
-        "published in the last 24h",
-        "github_release source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "thin feed summary"
-      ],
-      "content_hash": "4bc2545fc16cc3c8"
     },
     {
       "id": "c8d06973dc54fd4e",
@@ -6829,7 +6833,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model"
@@ -6861,7 +6865,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:40:45Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6872,7 +6876,7 @@
       "score": 59,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
         "matched tags: agents, research"
       ],
@@ -6927,7 +6931,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-26T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model"
@@ -6960,7 +6964,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -6992,7 +6996,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7019,7 +7023,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model"
@@ -7147,7 +7151,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7174,7 +7178,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:39:05Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -7207,7 +7211,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7234,7 +7238,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7261,7 +7265,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7315,7 +7319,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7342,7 +7346,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7369,7 +7373,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "product"
@@ -7399,7 +7403,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7417,6 +7421,36 @@
         "thin feed summary"
       ],
       "content_hash": "625e55f730b396d5"
+    },
+    {
+      "id": "7c52d573c4d7451b",
+      "title": "v0.31.0",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.0",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-29T18:50:11Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "launch: check for min version for hermes desktop ( #16912 )",
+      "raw_excerpt": "launch: check for min version for hermes desktop ( #16912 )",
+      "score": 55,
+      "score_reasons": [
+        "trusted source weight 43",
+        "published in the last 7 days",
+        "github_release source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "thin feed summary"
+      ],
+      "content_hash": "4bc2545fc16cc3c8"
     },
     {
       "id": "41f52fe5b0c8c9c2",
@@ -7522,7 +7556,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-24T20:55:08Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
@@ -7677,7 +7711,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "product"
@@ -7739,7 +7773,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "product"
@@ -7768,7 +7802,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "product"
@@ -7797,7 +7831,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "product"
@@ -7826,7 +7860,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -7976,7 +8010,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -8003,7 +8037,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -8035,7 +8069,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -8062,7 +8096,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -8147,7 +8181,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -8168,104 +8202,6 @@
       "content_hash": "ee6d5b249978569a"
     },
     {
-      "id": "b49ef8b4e5582c31",
-      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
-      "url": "https://arxiv.org/abs/2606.30634v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-29T17:57:50Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "product",
-        "hardware",
-        "research"
-      ],
-      "summary": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates th...",
-      "raw_excerpt": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient staleness. Among asynchronous schedules, PipeDream-2BW is particularly appealing: unlike the original PipeDream schedule, it ensures a constant one-step gradient delay regardless of pipeline depth. However, its adoption remains limited due to the common belief that optimizing under staleness is funda...",
-      "score": 32,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, product, hardware, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "851c603474ad0779"
-    },
-    {
-      "id": "ea27d8f13d3bda76",
-      "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
-      "url": "https://arxiv.org/abs/2606.30627v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-29T17:56:03Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "safety",
-        "regulation",
-        "research"
-      ],
-      "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward...",
-      "raw_excerpt": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical log-ratio percentiles), then adapt each checkpoint online against a learned reward ensemble (3\\,$\\ti...",
-      "score": 32,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, safety, regulation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "98cb61a500b45c57"
-    },
-    {
-      "id": "a2a73848494cfe2b",
-      "title": "Self-Evolving World Models for LLM Agent Planning",
-      "url": "https://arxiv.org/abs/2606.30639v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-29T17:58:43Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "research"
-      ],
-      "summary": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In...",
-      "raw_excerpt": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In this paper, we introduce WorldEvolver, a self-evolving world model framework that revises its deployment-time context while keeping the downstream agent and all model parameters frozen. WorldEvolver integrates three modules: (i) Episodic Memory, which exploits real action transitions through retrieval-based simulation; (ii) Semantic Memory, which extracts p...",
-      "score": 29,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, agents, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "87e0d58b9d7cd864"
-    },
-    {
       "id": "5f468f3e9ef4f06e",
       "title": "$μ$Flow: Leveraging Average Images for Improving Generalisation of Deepfake Faces Detectors",
       "url": "https://arxiv.org/abs/2606.30528v1",
@@ -8273,7 +8209,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:31:57Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -8745,27 +8681,29 @@
       "content_hash": "6520bfb135364b20"
     },
     {
-      "id": "8985c3941f117cb7",
-      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
-      "url": "https://arxiv.org/abs/2606.30642v1",
+      "id": "b49ef8b4e5582c31",
+      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+      "url": "https://arxiv.org/abs/2606.30634v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-29T17:59:20Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "published_at": "2026-06-29T17:57:50Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
+        "product",
+        "hardware",
         "research"
       ],
-      "summary": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling p...",
-      "raw_excerpt": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling preserves vocal-instrument coordination but obscures track-specific details, whereas dual-track prediction improves acoustics but requires longer sequences and weakens global planning. We present LeVo 2, a hybrid LLM-Diffusion framework for controllable full-length song generation. LeVo 2 formulates this trade-off as hierarchical modeling: LeLM first predicts...",
-      "score": 26,
+      "summary": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates th...",
+      "raw_excerpt": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Parallelism eliminates these bubbles, maximizing throughput at the cost of gradient staleness. Among asynchronous schedules, PipeDream-2BW is particularly appealing: unlike the original PipeDream schedule, it ensures a constant one-step gradient delay regardless of pipeline depth. However, its adoption remains limited due to the common belief that optimizing under staleness is funda...",
+      "score": 25,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
-        "matched tags: model, research"
+        "matched tags: model, product, hardware, research"
       ],
       "tier": "raw",
       "quality_reasons": [
@@ -8773,101 +8711,40 @@
         "demoted broad arXiv paper",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "8683131e77bdda4e"
+      "content_hash": "851c603474ad0779"
     },
     {
-      "id": "08853a9d9958f16f",
-      "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
-      "url": "https://arxiv.org/abs/2606.30632v1",
+      "id": "ea27d8f13d3bda76",
+      "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+      "url": "https://arxiv.org/abs/2606.30627v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-29T17:56:53Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "research"
-      ],
-      "summary": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance gro...",
-      "raw_excerpt": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and localize its specific region of action. To this end, we introduce GROW$^2$ (GROunding Which and Where), which leverages object parts as a natural abstraction to split the grounding process hierarchically into semantic and geometric levels, thus bypassing the need for data-heavy, end-to-end trainin...",
-      "score": 26,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: agents, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "970ca889b38d19a8"
-    },
-    {
-      "id": "957ea48b97459b1b",
-      "title": "Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
-      "url": "https://arxiv.org/abs/2606.30625v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-29T17:55:40Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "published_at": "2026-06-29T17:56:03Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
-        "research"
-      ],
-      "summary": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies reveal that despite thi...",
-      "raw_excerpt": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies reveal that despite this, these \"discarded\" norms seem to correlate with semantic properties such as concept specificity, token frequency, and human uncertainty. In this work, we provide a formal theoretical framework explaining this phenomenon. By analyzing the optimization dynamics, we derive an analytic formula demonstrating that embedding length naturally encodes this informat...",
-      "score": 26,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "6fc0dac387f89c58"
-    },
-    {
-      "id": "409ff1204b90d247",
-      "title": "DOPD: Dual On-policy Distillation",
-      "url": "https://arxiv.org/abs/2606.30626v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-29T17:55:53Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
-      "language": "en",
-      "tags": [
-        "multimodal",
         "safety",
         "regulation",
         "research"
       ],
-      "summary": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distilla...",
-      "raw_excerpt": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distillation, an intuitive direction is to infuse privileged information to either teacher or student itself. However, this additional input induces a potential failure mode we dub privilege illusion: a pattern that conflates the transferable capability gap that students are meant to close, and the information asymmetry gap that can only be mimicked but never replic...",
+      "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward...",
+      "raw_excerpt": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfections in a learned reward model. We challenge this intuition empirically and mechanistically. We train a Qwen3-14B policy under Direct Preference Optimisation (DPO) with three levels of conservatism ($β\\in \\{β_{\\mathrm{lo}}, β_{\\mathrm{mid}}, β_{\\mathrm{hi}}\\}$ derived from empirical log-ratio percentiles), then adapt each checkpoint online against a learned reward ensemble (3\\,$\\ti...",
       "score": 25,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
-        "matched tags: multimodal, safety, regulation, research"
+        "matched tags: model, safety, regulation, research"
       ],
       "tier": "raw",
       "quality_reasons": [
         "paper outside AI channel focus",
-        "demoted broad arXiv paper"
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "b92a60f1e05c7353"
+      "content_hash": "98cb61a500b45c57"
     },
     {
       "id": "eeef235291fa5c74",
@@ -8877,7 +8754,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:59:46Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -8910,7 +8787,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:45:04Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -8943,7 +8820,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:42:24Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -8976,7 +8853,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:28:57Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents",
@@ -9009,7 +8886,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:20:02Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -9042,7 +8919,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:02:10Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -10091,35 +9968,36 @@
       "content_hash": "49e1703b0412226f"
     },
     {
-      "id": "0c8db21863e58b98",
-      "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
-      "url": "https://arxiv.org/abs/2606.30645v1",
+      "id": "a2a73848494cfe2b",
+      "title": "Self-Evolving World Models for LLM Agent Planning",
+      "url": "https://arxiv.org/abs/2606.30639v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-29T17:59:55Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "published_at": "2026-06-29T17:58:43Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
-        "multimodal",
-        "product",
+        "model",
+        "agents",
         "research"
       ],
-      "summary": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kine...",
-      "raw_excerpt": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kinematic trajectories, yet no existing data source provides this complete tuple at scale. We address this bottleneck by generating vision-language-kinematics (VLK) supervision synthetically in reconstructed scenes. Our pipeline leverages 3D Gaussian Splatting to reconstruct metric-scale indoor environments, synthesizes navigation and object-interaction trajecto...",
+      "summary": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In...",
+      "raw_excerpt": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstream decision-making. In this paper, we introduce WorldEvolver, a self-evolving world model framework that revises its deployment-time context while keeping the downstream agent and all model parameters frozen. WorldEvolver integrates three modules: (i) Episodic Memory, which exploits real action transitions through retrieval-based simulation; (ii) Semantic Memory, which extracts p...",
       "score": 22,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 24h",
+        "published in the last 7 days",
         "paper source",
-        "matched tags: multimodal, product, research"
+        "matched tags: model, agents, research"
       ],
       "tier": "raw",
       "quality_reasons": [
         "paper outside AI channel focus",
-        "demoted broad arXiv paper"
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
       ],
-      "content_hash": "ee390f18ea00f17e"
+      "content_hash": "87e0d58b9d7cd864"
     },
     {
       "id": "cdf1df4f5ea3e56f",
@@ -10129,7 +10007,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:31:10Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -10161,7 +10039,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:17:55Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -10193,7 +10071,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:15:25Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -10225,7 +10103,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:14:29Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -10257,7 +10135,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:25:13Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -10289,7 +10167,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:02:44Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -10321,7 +10199,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:02:29Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -10353,7 +10231,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:33:04Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -12170,38 +12048,6 @@
       "content_hash": "2dcfd2b492a9e5f0"
     },
     {
-      "id": "dc5f14e9c7771962",
-      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
-      "url": "https://arxiv.org/abs/2606.24884v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-23T17:59:01Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "research"
-      ],
-      "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rend...",
-      "raw_excerpt": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partitions demonstrations into labeled primitives via VLM plan decomposition and end-effector poses to enable VLA primitive steerability, and (2) a VLM-gui...",
-      "score": 22,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, multimodal, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "a49a94edea69cf92"
-    },
-    {
       "id": "d1fa00eee0da82c4",
       "title": "Taxonomy-aware deep learning for hierarchical marine species classification in underwater imagery",
       "url": "https://arxiv.org/abs/2606.25989v1",
@@ -12236,6 +12082,99 @@
       "content_hash": "b014e92b450a7eeb"
     },
     {
+      "id": "8985c3941f117cb7",
+      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+      "url": "https://arxiv.org/abs/2606.30642v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-29T17:59:20Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling p...",
+      "raw_excerpt": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off: mixed-token modeling preserves vocal-instrument coordination but obscures track-specific details, whereas dual-track prediction improves acoustics but requires longer sequences and weakens global planning. We present LeVo 2, a hybrid LLM-Diffusion framework for controllable full-length song generation. LeVo 2 formulates this trade-off as hierarchical modeling: LeLM first predicts...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "8683131e77bdda4e"
+    },
+    {
+      "id": "08853a9d9958f16f",
+      "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
+      "url": "https://arxiv.org/abs/2606.30632v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-29T17:56:53Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "research"
+      ],
+      "summary": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance gro...",
+      "raw_excerpt": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{open-world affordance grounding}$: select an open-category object to act as a tool and localize its specific region of action. To this end, we introduce GROW$^2$ (GROunding Which and Where), which leverages object parts as a natural abstraction to split the grounding process hierarchically into semantic and geometric levels, thus bypassing the need for data-heavy, end-to-end trainin...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: agents, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "970ca889b38d19a8"
+    },
+    {
+      "id": "957ea48b97459b1b",
+      "title": "Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
+      "url": "https://arxiv.org/abs/2606.30625v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-29T17:55:40Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies reveal that despite thi...",
+      "raw_excerpt": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies reveal that despite this, these \"discarded\" norms seem to correlate with semantic properties such as concept specificity, token frequency, and human uncertainty. In this work, we provide a formal theoretical framework explaining this phenomenon. By analyzing the optimization dynamics, we derive an analytic formula demonstrating that embedding length naturally encodes this informat...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "6fc0dac387f89c58"
+    },
+    {
       "id": "d72134dc74daf24e",
       "title": "C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders",
       "url": "https://arxiv.org/abs/2606.30609v1",
@@ -12243,7 +12182,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:45:31Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -12274,7 +12213,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:02:34Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -12305,7 +12244,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:55:45Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -12336,7 +12275,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:48:44Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "agents",
@@ -12367,7 +12306,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:54:35Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -12398,7 +12337,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:42:49Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "model",
@@ -13970,6 +13909,38 @@
       "content_hash": "b158c76a8637a801"
     },
     {
+      "id": "409ff1204b90d247",
+      "title": "DOPD: Dual On-policy Distillation",
+      "url": "https://arxiv.org/abs/2606.30626v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-29T17:55:53Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "safety",
+        "regulation",
+        "research"
+      ],
+      "summary": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distilla...",
+      "raw_excerpt": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performance frontier of distillation, an intuitive direction is to infuse privileged information to either teacher or student itself. However, this additional input induces a potential failure mode we dub privilege illusion: a pattern that conflates the transferable capability gap that students are meant to close, and the information asymmetry gap that can only be mimicked but never replic...",
+      "score": 18,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: multimodal, safety, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "b92a60f1e05c7353"
+    },
+    {
       "id": "f87d0ef9ef8d58f0",
       "title": "Beyond 2D Matching: A Unified Single-Stage Framework for Geometry-Aware Cross-View Object Geo-Localization",
       "url": "https://arxiv.org/abs/2606.30576v1",
@@ -13977,7 +13948,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:19:49Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -14009,7 +13980,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:37:50Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "research",
@@ -15683,6 +15654,37 @@
       "content_hash": "b4708f589be26681"
     },
     {
+      "id": "0c8db21863e58b98",
+      "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+      "url": "https://arxiv.org/abs/2606.30645v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-29T17:59:55Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "product",
+        "research"
+      ],
+      "summary": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kine...",
+      "raw_excerpt": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kinematic trajectories, yet no existing data source provides this complete tuple at scale. We address this bottleneck by generating vision-language-kinematics (VLK) supervision synthetically in reconstructed scenes. Our pipeline leverages 3D Gaussian Splatting to reconstruct metric-scale indoor environments, synthesizes navigation and object-interaction trajecto...",
+      "score": 15,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: multimodal, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "ee390f18ea00f17e"
+    },
+    {
       "id": "22c0c387a673d3ff",
       "title": "ITSPACE: Monotone Gaussian Optimal Transport Updates",
       "url": "https://arxiv.org/abs/2606.30523v1",
@@ -15690,7 +15692,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:29:19Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "safety",
@@ -15929,6 +15931,38 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "5494cb151207922b"
+    },
+    {
+      "id": "dc5f14e9c7771962",
+      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "url": "https://arxiv.org/abs/2606.24884v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-23T17:59:01Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "research"
+      ],
+      "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rend...",
+      "raw_excerpt": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partitions demonstrations into labeled primitives via VLM plan decomposition and end-effector poses to enable VLA primitive steerability, and (2) a VLM-gui...",
+      "score": 14,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, multimodal, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "a49a94edea69cf92"
     },
     {
       "id": "8646021ef2d58293",
@@ -17762,7 +17796,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:36:09Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "research",
@@ -17792,7 +17826,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:03:39Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "inference",
@@ -17822,7 +17856,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:30:02Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "product",
@@ -18473,36 +18507,6 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "2e977422733c3b15"
-    },
-    {
-      "id": "de26e9aacf0a887e",
-      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
-      "url": "https://arxiv.org/abs/2606.24879v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-23T17:55:18Z",
-      "fetched_at": "2026-06-24T21:22:43Z",
-      "language": "en",
-      "tags": [
-        "regulation",
-        "research"
-      ],
-      "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies,...",
-      "raw_excerpt": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the last iterate features an optimization error of order $1/\\sqrt n$, thereby removing the extra $(\\log n)$ factor present in existing generic bounds. On the other hand, we show that without the i.i.d. assumption, the optimization error can be of order $(\\log n)/\\sqrt n$. Thus, under th...",
-      "score": 12,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: regulation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper"
-      ],
-      "content_hash": "7e40c6165f62e33e"
     },
     {
       "id": "bd995d1f0b5c1459",
@@ -19911,7 +19915,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:30:51Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "research"
@@ -19940,7 +19944,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:17:38Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "research"
@@ -19969,7 +19973,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:01:44Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "research"
@@ -19998,7 +20002,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:56:38Z",
-      "fetched_at": "2026-06-30T17:54:07Z",
+      "fetched_at": "2026-06-30T21:28:06Z",
       "language": "en",
       "tags": [
         "research"
@@ -20653,6 +20657,36 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "3dac8053631c2862"
+    },
+    {
+      "id": "de26e9aacf0a887e",
+      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
+      "url": "https://arxiv.org/abs/2606.24879v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-23T17:55:18Z",
+      "fetched_at": "2026-06-24T21:22:43Z",
+      "language": "en",
+      "tags": [
+        "regulation",
+        "research"
+      ],
+      "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies,...",
+      "raw_excerpt": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $η=Θ(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the last iterate features an optimization error of order $1/\\sqrt n$, thereby removing the extra $(\\log n)$ factor present in existing generic bounds. On the other hand, we show that without the i.i.d. assumption, the optimization error can be of order $(\\log n)/\\sqrt n$. Thus, under th...",
+      "score": 4,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "7e40c6165f62e33e"
     },
     {
       "id": "80d6b5fdb6d22806",
