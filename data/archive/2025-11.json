@@ -877,6 +877,36 @@
       "content_hash": "94868670ba46e3c5"
     },
     {
+      "id": "f688037bba7de7ed",
+      "title": "Introducing IndQA",
+      "url": "https://openai.com/index/introducing-indqa",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-11-03T22:30:00Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
+      "language": "en",
+      "tags": [
+        "evaluation",
+        "research"
+      ],
+      "summary": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
+      "raw_excerpt": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
+      "score": 75,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "4ec3b5666e2c40f5"
+    },
+    {
       "id": "43cb7efd66ff2048",
       "title": "How evals drive the next chapter in AI for businesses",
       "url": "https://openai.com/index/evals-drive-next-chapter-of-ai",
@@ -999,35 +1029,6 @@
       "content_hash": "3bbdc936c7cf3c57"
     },
     {
-      "id": "f688037bba7de7ed",
-      "title": "Introducing IndQA",
-      "url": "https://openai.com/index/introducing-indqa",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-11-03T22:30:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
-      "language": "en",
-      "tags": [
-        "evaluation",
-        "research"
-      ],
-      "summary": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-      "raw_excerpt": "OpenAI introduces IndQA, a new benchmark for evaluating AI systems in Indian languages. Built with domain experts, IndQA tests cultural understanding and reasoning across 12 languages and 10 knowledge areas.",
-      "score": 68,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: evaluation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus"
-      ],
-      "content_hash": "4ec3b5666e2c40f5"
-    },
-    {
       "id": "2ae3590a0d085afa",
       "title": "Building Deep Research: How we Achieved State of the Art",
       "url": "https://huggingface.co/blog/Tavily/tavily-deep-research",
@@ -1097,7 +1098,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-06T00:00:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1125,7 +1126,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-20T14:50:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and Foxconn are collaborating to design and manufacture next-generation AI infrastructure hardware in the U.S. The partnership will develop multiple generations of data-center systems, strengthen U.S. supply chains, and build key co...",
@@ -1150,7 +1151,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-11-20T06:00:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
@@ -1168,6 +1169,37 @@
       "content_hash": "d87197dc990b7ee5"
     },
     {
+      "id": "471dd21523259cb7",
+      "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-11-21T00:00:00Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
+      "language": "en",
+      "tags": [
+        "evaluation"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: evaluation",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "3a3fcd4ca286c5f9"
+    },
+    {
       "id": "f482b0e9fc5aae7b",
       "title": "20x Faster TRL Fine-tuning with RapidFire AI",
       "url": "https://huggingface.co/blog/rapidfireai",
@@ -1175,7 +1207,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [
         "product"
@@ -1206,7 +1238,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-24T16:08:47Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1229,36 +1261,6 @@
       "content_hash": "55e7ac8a4a2fa9b0"
     },
     {
-      "id": "471dd21523259cb7",
-      "title": "Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-11-21T00:00:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
-      "language": "en",
-      "tags": [
-        "evaluation"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: evaluation",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "3a3fcd4ca286c5f9"
-    },
-    {
       "id": "d9d18db7ab400830",
       "title": "Continuous batching from first principles",
       "url": "https://huggingface.co/blog/continuous_batching",
@@ -1266,7 +1268,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1293,7 +1295,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-25T00:00:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1320,7 +1322,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-17T00:00:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1347,7 +1349,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T21:37:26Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1374,7 +1376,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-11-13T00:00:00Z",
-      "fetched_at": "2026-06-30T14:18:58Z",
+      "fetched_at": "2026-06-30T17:54:07Z",
       "language": "en",
       "tags": [],
       "summary": "",
