@@ -2244,7 +2244,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-29T07:00:00Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents",
@@ -2255,7 +2255,7 @@
       "score": 89,
       "score_reasons": [
         "trusted source weight 56",
-        "published in the last 24h",
+        "published in the last 7 days",
         "official source",
         "matched tags: agents, product"
       ],
@@ -3215,7 +3215,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-30T06:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product"
@@ -4961,7 +4961,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-25T16:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product"
@@ -5025,7 +5025,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -5117,7 +5117,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5146,7 +5146,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -5175,7 +5175,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5204,7 +5204,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5266,7 +5266,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-29T16:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5428,7 +5428,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -5485,7 +5485,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "safety"
@@ -5574,7 +5574,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-29T18:02:48Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5601,7 +5601,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:50:54Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -5635,7 +5635,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:51:06Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -5731,7 +5731,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-24T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -5798,7 +5798,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -5823,7 +5823,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents",
@@ -5855,7 +5855,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -6019,7 +6019,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6050,7 +6050,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6081,7 +6081,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6112,7 +6112,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6143,7 +6143,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -6169,7 +6169,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6200,7 +6200,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6231,7 +6231,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6262,7 +6262,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:40:45Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6328,7 +6328,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product"
@@ -6391,7 +6391,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -6480,7 +6480,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:39:05Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -6544,7 +6544,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -6575,7 +6575,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-29T18:50:11Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product"
@@ -6702,7 +6702,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model"
@@ -6734,7 +6734,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-26T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model"
@@ -6767,7 +6767,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -6799,7 +6799,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6826,7 +6826,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model"
@@ -6858,7 +6858,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-16T19:55:52Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model"
@@ -6954,7 +6954,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7012,7 +7012,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7039,7 +7039,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7066,7 +7066,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7120,7 +7120,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7147,7 +7147,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7174,7 +7174,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product"
@@ -7204,7 +7204,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7263,7 +7263,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-24T20:55:08Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
@@ -7418,7 +7418,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product"
@@ -7480,7 +7480,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product"
@@ -7509,7 +7509,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product"
@@ -7538,7 +7538,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product"
@@ -7567,7 +7567,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -7717,7 +7717,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -7744,7 +7744,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -7776,7 +7776,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -7803,7 +7803,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -7857,7 +7857,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7885,7 +7885,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:31:57Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8021,7 +8021,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:57:50Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8054,7 +8054,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:56:03Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8087,7 +8087,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:45:04Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8120,7 +8120,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:42:24Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8153,7 +8153,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:28:57Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents",
@@ -8186,7 +8186,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:20:02Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8450,7 +8450,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:58:43Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8482,7 +8482,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:31:10Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8514,7 +8514,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:17:55Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8546,7 +8546,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:15:25Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8578,7 +8578,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:14:29Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8610,7 +8610,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:25:13Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8642,7 +8642,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:02:44Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8674,7 +8674,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:02:29Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -8706,7 +8706,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:33:04Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -9634,7 +9634,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:59:20Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -9665,7 +9665,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:56:53Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents",
@@ -9696,7 +9696,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:55:40Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -9727,7 +9727,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:45:31Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -9758,7 +9758,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:02:34Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -9789,7 +9789,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:55:45Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -9820,7 +9820,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:48:44Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "agents",
@@ -9851,7 +9851,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:54:35Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -9882,7 +9882,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:42:49Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "model",
@@ -10006,7 +10006,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:55:53Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -10038,7 +10038,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:19:49Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -10070,7 +10070,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:59:46Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -10102,7 +10102,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:37:50Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "research",
@@ -10134,7 +10134,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:02:10Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -11156,7 +11156,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:59:55Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -11187,7 +11187,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:29:19Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "safety",
@@ -12946,7 +12946,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:36:09Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "research",
@@ -12976,7 +12976,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:03:39Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "inference",
@@ -13006,7 +13006,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:30:02Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "product",
@@ -16032,7 +16032,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T17:30:51Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "research"
@@ -16061,7 +16061,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:17:38Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "research"
@@ -16090,7 +16090,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T16:01:44Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "research"
@@ -16119,7 +16119,7 @@
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
       "published_at": "2026-06-29T15:56:38Z",
-      "fetched_at": "2026-06-30T07:54:04Z",
+      "fetched_at": "2026-06-30T10:57:04Z",
       "language": "en",
       "tags": [
         "research"
