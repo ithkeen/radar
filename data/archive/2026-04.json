@@ -233,6 +233,39 @@
       "content_hash": "3de730e6d5106d4c"
     },
     {
+      "id": "20e34cbfb714919c",
+      "title": "Codex for (almost) everything",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-16T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "agents",
+        "product"
+      ],
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "raw_excerpt": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: multimodal, agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "3c3e48d60f95a065"
+    },
+    {
       "id": "078f0d540d88f110",
       "title": "Introducing GPT-Rosalind for life sciences research",
       "url": "https://openai.com/index/introducing-gpt-rosalind",
@@ -456,38 +489,6 @@
       "content_hash": "03aac6fde2387ad1"
     },
     {
-      "id": "20e34cbfb714919c",
-      "title": "Codex for (almost) everything",
-      "url": "https://openai.com/index/codex-for-almost-everything",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-16T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "multimodal",
-        "agents",
-        "product"
-      ],
-      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-      "raw_excerpt": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-      "score": 99,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: multimodal, agents, product"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice, builder opinion",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal"
-      ],
-      "content_hash": "3c3e48d60f95a065"
-    },
-    {
       "id": "1ecdad90bfb46efd",
       "title": "The next evolution of the Agents SDK",
       "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
@@ -706,6 +707,246 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "3318f3f159379fe4"
+    },
+    {
+      "id": "f9ff221789e0942d",
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-27T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "raw_excerpt": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "4c1b0fb17e0f7164"
+    },
+    {
+      "id": "9fab69c8c968c73d",
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-23T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "raw_excerpt": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "3bd6e704fc8d3d44"
+    },
+    {
+      "id": "72f200cf8d8a54af",
+      "title": "Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-23T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "raw_excerpt": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "edd5fe7b802c56c7"
+    },
+    {
+      "id": "0bd514e3244e4be3",
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-23T10:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "raw_excerpt": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "56230d246844fde9"
+    },
+    {
+      "id": "8c64d006cc9deae4",
+      "title": "How to use Codex for everyday work",
+      "url": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-23T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "raw_excerpt": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "dec8ac220b42ae97"
+    },
+    {
+      "id": "277cf65bf8c8d0a7",
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-23T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "raw_excerpt": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "d3b5d64f0c576740"
+    },
+    {
+      "id": "34f009d107cc6ed8",
+      "title": "What is Codex?",
+      "url": "https://openai.com/academy/what-is-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-23T10:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "raw_excerpt": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "027eb34b170cfcda"
+    },
+    {
+      "id": "40d5894d1daf7129",
+      "title": "Working with Codex",
+      "url": "https://openai.com/academy/working-with-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-23T10:00:00Z",
+      "fetched_at": "2026-06-17T04:02:23Z",
+      "language": "en",
+      "tags": [
+        "coding-agent"
+      ],
+      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "raw_excerpt": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "score": 94,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: coding-agent"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "50fb1a559c76f024"
     },
     {
       "id": "1b257354b88be076",
@@ -946,238 +1187,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "c85436efcabfc057"
-    },
-    {
-      "id": "f9ff221789e0942d",
-      "title": "An open-source spec for orchestration: Symphony",
-      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-27T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-      "raw_excerpt": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice, builder opinion",
-        "high-impact model, eval, or agent keywords"
-      ],
-      "content_hash": "4c1b0fb17e0f7164"
-    },
-    {
-      "id": "9fab69c8c968c73d",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-23T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "raw_excerpt": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords"
-      ],
-      "content_hash": "3bd6e704fc8d3d44"
-    },
-    {
-      "id": "72f200cf8d8a54af",
-      "title": "Codex settings",
-      "url": "https://openai.com/academy/codex-settings",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-23T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-      "raw_excerpt": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords"
-      ],
-      "content_hash": "edd5fe7b802c56c7"
-    },
-    {
-      "id": "0bd514e3244e4be3",
-      "title": "How to get started with Codex",
-      "url": "https://openai.com/academy/codex-how-to-start",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-23T10:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "raw_excerpt": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords"
-      ],
-      "content_hash": "56230d246844fde9"
-    },
-    {
-      "id": "8c64d006cc9deae4",
-      "title": "How to use Codex for everyday work",
-      "url": "https://openai.com/academy/how-to-use-codex-for-everyday-work",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-23T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "raw_excerpt": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords"
-      ],
-      "content_hash": "dec8ac220b42ae97"
-    },
-    {
-      "id": "277cf65bf8c8d0a7",
-      "title": "Plugins and skills",
-      "url": "https://openai.com/academy/codex-plugins-and-skills",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-23T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "raw_excerpt": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords"
-      ],
-      "content_hash": "d3b5d64f0c576740"
-    },
-    {
-      "id": "34f009d107cc6ed8",
-      "title": "What is Codex?",
-      "url": "https://openai.com/academy/what-is-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-23T10:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "raw_excerpt": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords"
-      ],
-      "content_hash": "027eb34b170cfcda"
-    },
-    {
-      "id": "40d5894d1daf7129",
-      "title": "Working with Codex",
-      "url": "https://openai.com/academy/working-with-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-23T10:00:00Z",
-      "fetched_at": "2026-06-17T04:02:23Z",
-      "language": "en",
-      "tags": [
-        "coding-agent"
-      ],
-      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "raw_excerpt": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "score": 87,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: coding-agent"
-      ],
-      "tier": "noteworthy",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords"
-      ],
-      "content_hash": "50fb1a559c76f024"
     },
     {
       "id": "aef8afa7768165e1",
@@ -2077,7 +2086,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-06T10:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2105,7 +2114,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-29T15:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
@@ -2130,7 +2139,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-29T04:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
@@ -2148,6 +2157,38 @@
       "content_hash": "e53d390bf25617c1"
     },
     {
+      "id": "39c0a1c4f9c26195",
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-04-28T15:58:57Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 62,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: multimodal, agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "9bc788f929408869"
+    },
+    {
       "id": "414538245782acfe",
       "title": "The next phase of the Microsoft OpenAI partnership",
       "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
@@ -2155,7 +2196,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-27T06:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
@@ -2180,7 +2221,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-26T16:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
@@ -2205,7 +2246,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-02T10:30:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
@@ -2223,6 +2264,100 @@
       "content_hash": "4da0ae052c4c8adb"
     },
     {
+      "id": "d385c9eee6daddf4",
+      "title": "Choco automates food distribution with AI agents",
+      "url": "https://openai.com/index/choco",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-04-27T00:00:00Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "raw_excerpt": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "low-signal content: customer story",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "d9183adc9f413303"
+    },
+    {
+      "id": "f5afeabfec92889e",
+      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+      "url": "https://huggingface.co/blog/ecom-rlve",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-04-16T00:00:00Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "4a5b926845ec3cad"
+    },
+    {
+      "id": "4b7acb24964fa61f",
+      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
+      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-04-15T12:07:25Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "527cfae348d152b1"
+    },
+    {
       "id": "a97b57794a66ff80",
       "title": "How to build scalable web apps with OpenAI's Privacy Filter",
       "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
@@ -2230,7 +2365,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-27T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -2254,37 +2389,6 @@
       "content_hash": "247330f9defca2be"
     },
     {
-      "id": "39c0a1c4f9c26195",
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-04-28T15:58:57Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
-      "language": "en",
-      "tags": [
-        "multimodal",
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 55,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: multimodal, agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "9bc788f929408869"
-    },
-    {
       "id": "82356b62524ebed4",
       "title": "DeepInfra on Hugging Face Inference Providers 🔥",
       "url": "https://huggingface.co/blog/inference-providers-deepinfra",
@@ -2292,7 +2396,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-29T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "inference"
@@ -2315,97 +2419,6 @@
       "content_hash": "73955b8e5868166b"
     },
     {
-      "id": "d385c9eee6daddf4",
-      "title": "Choco automates food distribution with AI agents",
-      "url": "https://openai.com/index/choco",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-04-27T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "raw_excerpt": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "low-signal content: customer story"
-      ],
-      "content_hash": "d9183adc9f413303"
-    },
-    {
-      "id": "f5afeabfec92889e",
-      "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
-      "url": "https://huggingface.co/blog/ecom-rlve",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-04-16T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "4a5b926845ec3cad"
-    },
-    {
-      "id": "4b7acb24964fa61f",
-      "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-      "url": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-04-15T12:07:25Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "527cfae348d152b1"
-    },
-    {
       "id": "e2e5378dde946b54",
       "title": "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs",
       "url": "https://huggingface.co/blog/waypoint-1-5",
@@ -2413,7 +2426,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-09T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -2443,7 +2456,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-02T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -2473,7 +2486,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-04-30T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -2503,7 +2516,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-23T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2530,7 +2543,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-21T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2557,7 +2570,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-16T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2584,7 +2597,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-15T09:25:20Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2611,7 +2624,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-08T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2638,7 +2651,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-01T07:13:20Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2665,7 +2678,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-04-01T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",

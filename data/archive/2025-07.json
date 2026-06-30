@@ -384,6 +384,68 @@
       "content_hash": "51b1576efb1527c5"
     },
     {
+      "id": "bebc5e244986c3e0",
+      "title": "Building the Hugging Face MCP Server",
+      "url": "https://huggingface.co/blog/building-hf-mcp",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-07-10T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 73,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "c2f71281f023f6c5"
+    },
+    {
+      "id": "cd612edd6d0b074c",
+      "title": "ScreenEnv: Deploy your full stack Desktop Agent",
+      "url": "https://huggingface.co/blog/screenenv",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-07-10T00:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 73,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: agent practice",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "e11b2b5d40493c62"
+    },
+    {
       "id": "8e3ab43c26712146",
       "title": "A $50 million fund to build with communities",
       "url": "https://openai.com/index/50-million-fund-to-build-with-communities",
@@ -541,66 +603,6 @@
       "content_hash": "ca9b527d557017aa"
     },
     {
-      "id": "bebc5e244986c3e0",
-      "title": "Building the Hugging Face MCP Server",
-      "url": "https://huggingface.co/blog/building-hf-mcp",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-10T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 66,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "thin feed summary"
-      ],
-      "content_hash": "c2f71281f023f6c5"
-    },
-    {
-      "id": "cd612edd6d0b074c",
-      "title": "ScreenEnv: Deploy your full stack Desktop Agent",
-      "url": "https://huggingface.co/blog/screenenv",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-10T00:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 66,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: agent practice",
-        "thin feed summary"
-      ],
-      "content_hash": "e11b2b5d40493c62"
-    },
-    {
       "id": "355ec6ca266df51c",
       "title": "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM",
       "url": "https://huggingface.co/blog/nvidia/multi-llm-nim",
@@ -736,7 +738,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "We’re hosting our third annual OpenAI DevDay on October 6, 2025 at Fort Mason in San Francisco.",
@@ -761,7 +763,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-22T10:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
@@ -786,7 +788,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-21T10:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI partners with the UK Government to boost AI adoption, drive economic growth, and enhance public services for a thriving AI ecosystem in the UK.",
@@ -811,7 +813,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-21T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "I’ve always considered myself a pragmatic technologist—someone who loves technology not for its own sake, but for the direct impact it can have on people’s lives. That’s what makes this job so exciting, since I believe AI will unlock more...",
@@ -836,7 +838,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "The Board of Directors thanks the members of the independent OpenAI Nonprofit Commission for their extensive work and engagement.",
@@ -861,7 +863,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-11T09:30:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI joins the EU Code of Practice, advancing responsible AI while partnering with European governments to drive innovation, infrastructure, and economic growth.",
@@ -879,6 +881,68 @@
       "content_hash": "14418b9bf11c4eb0"
     },
     {
+      "id": "77f78ba0e8dc6fdc",
+      "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
+      "url": "https://huggingface.co/blog/gradio-vton-mcp",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-07-31T00:00:00Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "45c0691c267f0789"
+    },
+    {
+      "id": "ad7edac907f66dee",
+      "title": "Five Big Improvements to Gradio MCP Servers",
+      "url": "https://huggingface.co/blog/gradio-mcp-updates",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2025-07-17T00:00:00Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "agents"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 59,
+      "score_reasons": [
+        "trusted source weight 50",
+        "older than 30 days",
+        "official source",
+        "matched tags: agents",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "same theme appeared across multiple sources",
+        "thin feed summary"
+      ],
+      "content_hash": "72bf925bbb92d795"
+    },
+    {
       "id": "41fa4883c950de16",
       "title": "Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure",
       "url": "https://huggingface.co/blog/infrastructure-alerting",
@@ -886,7 +950,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "product"
@@ -917,7 +981,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of loca...",
@@ -936,36 +1000,6 @@
       "content_hash": "d9daeefe1ef08731"
     },
     {
-      "id": "77f78ba0e8dc6fdc",
-      "title": "Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio",
-      "url": "https://huggingface.co/blog/gradio-vton-mcp",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-31T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "45c0691c267f0789"
-    },
-    {
       "id": "2582595d10e57ccb",
       "title": "Fast LoRA inference for Flux with Diffusers and PEFT",
       "url": "https://huggingface.co/blog/lora-fast",
@@ -973,7 +1007,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-23T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "inference"
@@ -996,36 +1030,6 @@
       "content_hash": "d183c3b5a047009f"
     },
     {
-      "id": "ad7edac907f66dee",
-      "title": "Five Big Improvements to Gradio MCP Servers",
-      "url": "https://huggingface.co/blog/gradio-mcp-updates",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
-      "language": "en",
-      "tags": [
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 52,
-      "score_reasons": [
-        "trusted source weight 50",
-        "older than 30 days",
-        "official source",
-        "matched tags: agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "thin feed summary"
-      ],
-      "content_hash": "72bf925bbb92d795"
-    },
-    {
       "id": "80bccfbea26d2b70",
       "title": "Asynchronous Robot Inference: Decoupling Action Prediction and Execution",
       "url": "https://huggingface.co/blog/async-robot-inference",
@@ -1033,7 +1037,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-10T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1063,7 +1067,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-08T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1093,7 +1097,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-29T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1120,7 +1124,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1147,7 +1151,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-25T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1174,7 +1178,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-18T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1201,7 +1205,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-16T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1228,7 +1232,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-15T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1255,7 +1259,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1282,7 +1286,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-09T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1309,7 +1313,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-07-22T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "multimodal"
@@ -1338,14 +1342,14 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-07-17T00:00:00Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "agents"
       ],
       "summary": "",
       "raw_excerpt": "",
-      "score": 30,
+      "score": 37,
       "score_reasons": [
         "trusted source weight 50",
         "older than 30 days",
@@ -1357,6 +1361,7 @@
       "quality_reasons": [
         "outside preferred AI focus",
         "low-signal content: event",
+        "same theme appeared across multiple sources",
         "thin feed summary"
       ],
       "content_hash": "65289f8298011e53"
