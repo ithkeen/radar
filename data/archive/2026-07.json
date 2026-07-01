@@ -38,6 +38,89 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "f68e9bae2d1e2d2f"
+    },
+    {
+      "id": "18429c0d3940373b",
+      "title": "New AI-powered library lets people meet Theodore Roosevelt in a whole new way",
+      "url": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library",
+      "source_id": "microsoft-ai",
+      "source_name": "Microsoft AI Blog",
+      "source_type": "official",
+      "published_at": "2026-07-01T15:35:36Z",
+      "fetched_at": "2026-07-01T17:56:01Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "The post New AI-powered library lets people meet Theodore Roosevelt in a whole new way appeared first on Source .",
+      "raw_excerpt": "The post New AI-powered library lets people meet Theodore Roosevelt in a whole new way appeared first on Source .",
+      "score": 88,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 24h",
+        "official source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal"
+      ],
+      "content_hash": "1fa65837b6d5e9eb"
+    },
+    {
+      "id": "f64e2fd8a1805bea",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
+      "source_id": "google-ai",
+      "source_name": "Google AI Blog",
+      "source_type": "official",
+      "published_at": "2026-07-01T16:00:00Z",
+      "fetched_at": "2026-07-01T17:56:01Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 74,
+      "score_reasons": [
+        "trusted source weight 52",
+        "published in the last 24h",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "7f09df0c9ee029d8"
+    },
+    {
+      "id": "e4a022908747a557",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-07-01T00:00:00Z",
+      "fetched_at": "2026-07-01T17:56:01Z",
+      "language": "en",
+      "tags": [],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 72,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 24h",
+        "official source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "thin feed summary"
+      ],
+      "content_hash": "e916d76ea0c4964a"
     }
   ]
 }
