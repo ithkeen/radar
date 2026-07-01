@@ -294,36 +294,6 @@
       "content_hash": "1555bca6fa31d938"
     },
     {
-      "id": "6deeebce1719b9f2",
-      "title": "Introducing upgrades to Codex",
-      "url": "https://openai.com/index/introducing-upgrades-to-codex",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2025-09-15T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
-      "raw_excerpt": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
-      "score": 94,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: open-source"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent",
-        "high-impact model, eval, or agent keywords",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "f9494e9ab0fbabab"
-    },
-    {
       "id": "c4005453f6ec0617",
       "title": "Building OpenAI with OpenAI",
       "url": "https://openai.com/index/building-openai-with-openai",
@@ -385,6 +355,35 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "1d2c38d504d39a95"
+    },
+    {
+      "id": "6deeebce1719b9f2",
+      "title": "Introducing upgrades to Codex",
+      "url": "https://openai.com/index/introducing-upgrades-to-codex",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2025-09-15T10:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
+      "raw_excerpt": "Codex just got faster, more reliable, and better at real-time collaboration and tackling tasks independently anywhere you develop—whether via the terminal, IDE, web, or even your phone.",
+      "score": 87,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: open-source"
+      ],
+      "tier": "noteworthy",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "high-impact model, eval, or agent keywords"
+      ],
+      "content_hash": "f9494e9ab0fbabab"
     },
     {
       "id": "381b65107dc1c38e",
@@ -1067,7 +1066,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-12T12:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1095,7 +1094,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-11T14:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1219,7 +1218,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-22T17:17:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "In this Executive Function series from OpenAI, discover how CNA is transforming its newsroom with AI. Editor-in-Chief Walter Fernandez shares insights on AI adoption, culture, and the future of journalism.",
@@ -1244,7 +1243,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-11T14:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI reaffirms its nonprofit leadership with a new structure granting equity in its PBC, enabling over $100B in resources to advance safe, beneficial AI for humanity.",
@@ -1269,7 +1268,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-23T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1300,7 +1299,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-22T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -1331,7 +1330,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-16T14:30:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1358,7 +1357,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-19T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1388,7 +1387,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-18T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety"
@@ -1418,7 +1417,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-17T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "inference"
@@ -1448,7 +1447,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-16T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "research"
@@ -1478,7 +1477,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-02T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "hardware"
@@ -1508,7 +1507,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-29T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1535,7 +1534,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-26T06:25:50Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1562,7 +1561,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-26T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1589,7 +1588,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-15T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1616,7 +1615,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-11T20:04:44Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1643,7 +1642,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-09T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1670,7 +1669,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2025-09-02T16:54:29Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -1697,7 +1696,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-29T03:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Discover how OpenAI combats online child sexual exploitation and abuse with strict usage policies, advanced detection tools, and industry collaboration to block, report, and prevent AI misuse.",
@@ -1723,7 +1722,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-26T06:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI and AARP are partnering to help older adults stay safe online with new AI training, scam-spotting tools, and nationwide programs through OpenAI Academy and OATS’s Senior Planet initiative.",
@@ -1749,7 +1748,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2025-09-23T14:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",

@@ -1630,7 +1630,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-29T07:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents",
@@ -2173,41 +2173,6 @@
       "content_hash": "f52f0fb63f9f3b72"
     },
     {
-      "id": "67e3fbcc41024069",
-      "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
-      "url": "https://arxiv.org/abs/2606.26094v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-24T17:59:46Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "evaluation",
-        "research"
-      ],
-      "summary": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computa...",
-      "raw_excerpt": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent in a game environment, can a learner reconstruct the underlying decision program as executable code, and how much does this reconstruction improve with the ability to design controlled experiments? We introduce RevengeBench, a benchmark of 75 LLM generated, Elo-calibrated policies across five game env...",
-      "score": 88,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, agents, evaluation, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "e6f7cb4297d2a371"
-    },
-    {
       "id": "0508a21ff80d603b",
       "title": "Patch release v5.12.1",
       "url": "https://github.com/huggingface/transformers/releases/tag/v5.12.1",
@@ -2670,7 +2635,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-30T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
@@ -3833,6 +3798,41 @@
       "content_hash": "caf547136fb1f457"
     },
     {
+      "id": "67e3fbcc41024069",
+      "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+      "url": "https://arxiv.org/abs/2606.26094v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-24T17:59:46Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "evaluation",
+        "research"
+      ],
+      "summary": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computa...",
+      "raw_excerpt": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent in a game environment, can a learner reconstruct the underlying decision program as executable code, and how much does this reconstruction improve with the ability to design controlled experiments? We introduce RevengeBench, a benchmark of 75 LLM generated, Elo-calibrated policies across five game env...",
+      "score": 80,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "e6f7cb4297d2a371"
+    },
+    {
       "id": "a3d13af5a701f2fe",
       "title": "Real-Time Voice AI Hears but Does Not Listen",
       "url": "https://arxiv.org/abs/2606.26083v1",
@@ -4216,35 +4216,6 @@
         "demoted by source diversity quota"
       ],
       "content_hash": "39f81c6fcefa09aa"
-    },
-    {
-      "id": "3696e67c2c9e8aaa",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-22T10:00:00Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "raw_excerpt": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
-      "score": 80,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "8b696257967df794"
     },
     {
       "id": "299d5cff69f14f11",
@@ -4735,35 +4706,6 @@
         "demoted by source diversity quota"
       ],
       "content_hash": "c82a0c81a74a2b70"
-    },
-    {
-      "id": "c7866bf4d0809ad4",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "url": "https://openai.com/index/lseg",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-10T00:00:00Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "raw_excerpt": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
-      "score": 80,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "8b9bc1b4f395aa85"
     },
     {
       "id": "2e1330afaf2dde1f",
@@ -5299,7 +5241,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-30T06:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -5365,7 +5307,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-25T16:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -5492,7 +5434,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5521,7 +5463,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -5550,7 +5492,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5579,7 +5521,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5764,6 +5706,34 @@
       "content_hash": "4c633d51fb09eeb7"
     },
     {
+      "id": "3696e67c2c9e8aaa",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-22T10:00:00Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "raw_excerpt": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "score": 73,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "8b696257967df794"
+    },
+    {
       "id": "d38f7a49e86de9da",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
       "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
@@ -5771,7 +5741,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -5790,6 +5760,34 @@
         "outside preferred AI focus"
       ],
       "content_hash": "71bc77978591fad5"
+    },
+    {
+      "id": "c7866bf4d0809ad4",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-10T00:00:00Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "raw_excerpt": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "score": 73,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "8b9bc1b4f395aa85"
     },
     {
       "id": "2bbd640798bc11c5",
@@ -5828,7 +5826,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety"
@@ -5885,7 +5883,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-30T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5903,37 +5901,6 @@
         "thin feed summary"
       ],
       "content_hash": "844921d2e2fd4dfa"
-    },
-    {
-      "id": "d477d698f9b8fc2d",
-      "title": "v0.24.0rc2: Fix P/D with DP Supervisor (#46628)",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc2",
-      "source_id": "github-vllm",
-      "source_name": "vLLM Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-25T20:15:20Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "Signed-off-by: Robert Shaw 114415538+robertgshaw2-redhat@users.noreply.github.com (cherry picked from commit c5e3c40 )",
-      "raw_excerpt": "Signed-off-by: Robert Shaw 114415538+robertgshaw2-redhat@users.noreply.github.com (cherry picked from commit c5e3c40 )",
-      "score": 71,
-      "score_reasons": [
-        "trusted source weight 44",
-        "published in the last 7 days",
-        "github_release source",
-        "matched tags: open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "593117bc9f9de168"
     },
     {
       "id": "5de5d065c4729e4c",
@@ -5974,7 +5941,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-24T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -6042,7 +6009,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -6067,7 +6034,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6099,7 +6066,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -6225,7 +6192,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-29T16:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6359,7 +6326,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6390,7 +6357,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6421,7 +6388,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6452,7 +6419,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6483,7 +6450,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -6509,7 +6476,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6540,7 +6507,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6571,7 +6538,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6602,7 +6569,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -6665,7 +6632,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -6722,7 +6689,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-30T14:39:11Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6749,7 +6716,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-29T18:02:48Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6901,21 +6868,21 @@
       "content_hash": "3db94acb307337b3"
     },
     {
-      "id": "4a57651c4ee13669",
-      "title": "v0.24.0rc1: [CI/Build] Fix topk histogram build on SM75 (#46550)",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc1",
+      "id": "d477d698f9b8fc2d",
+      "title": "v0.24.0rc2: Fix P/D with DP Supervisor (#46628)",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc2",
       "source_id": "github-vllm",
       "source_name": "vLLM Releases",
       "source_type": "github_release",
-      "published_at": "2026-06-24T08:01:53Z",
+      "published_at": "2026-06-25T20:15:20Z",
       "fetched_at": "2026-06-30T03:40:21Z",
       "language": "en",
       "tags": [
         "open-source"
       ],
-      "summary": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 191826e )",
-      "raw_excerpt": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 191826e )",
-      "score": 63,
+      "summary": "Signed-off-by: Robert Shaw 114415538+robertgshaw2-redhat@users.noreply.github.com (cherry picked from commit c5e3c40 )",
+      "raw_excerpt": "Signed-off-by: Robert Shaw 114415538+robertgshaw2-redhat@users.noreply.github.com (cherry picked from commit c5e3c40 )",
+      "score": 64,
       "score_reasons": [
         "trusted source weight 44",
         "published in the last 7 days",
@@ -6926,41 +6893,9 @@
       "quality_reasons": [
         "outside preferred AI focus",
         "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
+        "open-source AI infrastructure update"
       ],
-      "content_hash": "bd89d0fbdd4a01f3"
-    },
-    {
-      "id": "e70593614d4d4340",
-      "title": "v0.23.0rc2: [Docker] Fix CUTLASS DSL cu13 install order in Dockerfile (#45204)",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0rc2",
-      "source_id": "github-vllm",
-      "source_name": "vLLM Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-11T23:24:31Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 40e065e )",
-      "raw_excerpt": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 40e065e )",
-      "score": 63,
-      "score_reasons": [
-        "trusted source weight 44",
-        "published in the last 30 days",
-        "github_release source",
-        "matched tags: open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "f87ccb496abbf16f"
+      "content_hash": "593117bc9f9de168"
     },
     {
       "id": "1b410cadf65e0a2a",
@@ -6970,7 +6905,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -7034,7 +6969,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "model"
@@ -7132,7 +7067,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-26T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "model"
@@ -7158,38 +7093,6 @@
       "content_hash": "a4afd4b190ff1422"
     },
     {
-      "id": "03565b0b529fc9cd",
-      "title": "v0.30.10-rc1",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.10-rc1",
-      "source_id": "github-ollama",
-      "source_name": "Ollama Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "ci: pin darwin release xcode ( #16788 )",
-      "raw_excerpt": "ci: pin darwin release xcode ( #16788 )",
-      "score": 59,
-      "score_reasons": [
-        "trusted source weight 43",
-        "published in the last 30 days",
-        "github_release source",
-        "matched tags: open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "31d5b4e43447e31a"
-    },
-    {
       "id": "4ca5042e690d6cce",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
@@ -7197,7 +7100,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7224,7 +7127,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "model"
@@ -7352,7 +7255,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7478,7 +7381,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7505,7 +7408,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7532,7 +7435,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7586,7 +7489,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7613,7 +7516,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7640,7 +7543,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -7670,7 +7573,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7690,6 +7593,66 @@
       "content_hash": "625e55f730b396d5"
     },
     {
+      "id": "4a57651c4ee13669",
+      "title": "v0.24.0rc1: [CI/Build] Fix topk histogram build on SM75 (#46550)",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.24.0rc1",
+      "source_id": "github-vllm",
+      "source_name": "vLLM Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-24T08:01:53Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 191826e )",
+      "raw_excerpt": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 191826e )",
+      "score": 56,
+      "score_reasons": [
+        "trusted source weight 44",
+        "published in the last 7 days",
+        "github_release source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update"
+      ],
+      "content_hash": "bd89d0fbdd4a01f3"
+    },
+    {
+      "id": "e70593614d4d4340",
+      "title": "v0.23.0rc2: [Docker] Fix CUTLASS DSL cu13 install order in Dockerfile (#45204)",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.23.0rc2",
+      "source_id": "github-vllm",
+      "source_name": "vLLM Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-11T23:24:31Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 40e065e )",
+      "raw_excerpt": "Signed-off-by: Mohammad Miadh Angkad 176301910+mmangkad@users.noreply.github.com (cherry picked from commit 40e065e )",
+      "score": 56,
+      "score_reasons": [
+        "trusted source weight 44",
+        "published in the last 30 days",
+        "github_release source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update"
+      ],
+      "content_hash": "f87ccb496abbf16f"
+    },
+    {
       "id": "7c52d573c4d7451b",
       "title": "v0.31.0",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.31.0",
@@ -7697,7 +7660,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-29T18:50:11Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -7816,32 +7779,6 @@
       "content_hash": "d6f3c6e25bc3b797"
     },
     {
-      "id": "833f566801f5cc28",
-      "title": "v2.44.0",
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.44.0",
-      "source_id": "github-openai-python",
-      "source_name": "OpenAI Python Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-24T20:55:08Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
-      "language": "en",
-      "tags": [],
-      "summary": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
-      "raw_excerpt": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
-      "score": 54,
-      "score_reasons": [
-        "trusted source weight 42",
-        "published in the last 7 days",
-        "github_release source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release"
-      ],
-      "content_hash": "beb5b0d3bd7dc733"
-    },
-    {
       "id": "37cc65adbe22aa0e",
       "title": "LangMAP: A Language-Adaptive Approach to Tokenization",
       "url": "https://arxiv.org/abs/2606.23566v1",
@@ -7873,6 +7810,37 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "610f486667dc0454"
+    },
+    {
+      "id": "03565b0b529fc9cd",
+      "title": "v0.30.10-rc1",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.10-rc1",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-17T20:01:10Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "ci: pin darwin release xcode ( #16788 )",
+      "raw_excerpt": "ci: pin darwin release xcode ( #16788 )",
+      "score": 52,
+      "score_reasons": [
+        "trusted source weight 43",
+        "published in the last 30 days",
+        "github_release source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update",
+        "thin feed summary"
+      ],
+      "content_hash": "31d5b4e43447e31a"
     },
     {
       "id": "98e50805d526c78e",
@@ -7977,7 +7945,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -8039,7 +8007,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -8068,7 +8036,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -8088,35 +8056,6 @@
         "routine versioned release"
       ],
       "content_hash": "bbc1b175110829a2"
-    },
-    {
-      "id": "a5d345f37eecd450",
-      "title": "v2.39.0",
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.39.0",
-      "source_id": "github-openai-python",
-      "source_name": "OpenAI Python Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "2.39.0 (2026-06-01) Full Changelog: v2.38.0...v2.39.0 Features api: workload identity in audit logs, additional_tools item in responses, fix ActionSearch.query to be optional. ( ab60d7a )",
-      "raw_excerpt": "2.39.0 (2026-06-01) Full Changelog: v2.38.0...v2.39.0 Features api: workload identity in audit logs, additional_tools item in responses, fix ActionSearch.query to be optional. ( ab60d7a )",
-      "score": 49,
-      "score_reasons": [
-        "trusted source weight 42",
-        "published in the last 30 days",
-        "github_release source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release"
-      ],
-      "content_hash": "dd876dc6f86d717e"
     },
     {
       "id": "51824cb6a706b4cc",
@@ -8177,6 +8116,32 @@
         "thin feed summary"
       ],
       "content_hash": "5b8a7e864ebc7ba5"
+    },
+    {
+      "id": "833f566801f5cc28",
+      "title": "v2.44.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.44.0",
+      "source_id": "github-openai-python",
+      "source_name": "OpenAI Python Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-24T20:55:08Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
+      "language": "en",
+      "tags": [],
+      "summary": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
+      "raw_excerpt": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
+      "score": 46,
+      "score_reasons": [
+        "trusted source weight 42",
+        "published in the last 30 days",
+        "github_release source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release"
+      ],
+      "content_hash": "beb5b0d3bd7dc733"
     },
     {
       "id": "a24fa677b5a7ea93",
@@ -8282,7 +8247,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -8302,38 +8267,6 @@
       "content_hash": "dc856f4c3c10f23e"
     },
     {
-      "id": "0e6454a49e231542",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 45,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: open-source",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: jobs",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "a69310261cfd4638"
-    },
-    {
       "id": "a65f9e60ef0b265b",
       "title": "v5.10.0",
       "url": "https://github.com/huggingface/transformers/releases/tag/v5.10.0",
@@ -8341,7 +8274,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -8368,7 +8301,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -8446,6 +8379,35 @@
       "content_hash": "3066a418fd9f67a4"
     },
     {
+      "id": "a5d345f37eecd450",
+      "title": "v2.39.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.39.0",
+      "source_id": "github-openai-python",
+      "source_name": "OpenAI Python Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-01T18:58:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "2.39.0 (2026-06-01) Full Changelog: v2.38.0...v2.39.0 Features api: workload identity in audit logs, additional_tools item in responses, fix ActionSearch.query to be optional. ( ab60d7a )",
+      "raw_excerpt": "2.39.0 (2026-06-01) Full Changelog: v2.38.0...v2.39.0 Features api: workload identity in audit logs, additional_tools item in responses, fix ActionSearch.query to be optional. ( ab60d7a )",
+      "score": 41,
+      "score_reasons": [
+        "trusted source weight 42",
+        "older than 30 days",
+        "github_release source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release"
+      ],
+      "content_hash": "dd876dc6f86d717e"
+    },
+    {
       "id": "04c1d26ba61347ee",
       "title": "Building the infrastructure for the Intelligence Age in Michigan",
       "url": "https://openai.com/index/stargate-michigan-data-center",
@@ -8453,7 +8415,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -8472,6 +8434,37 @@
       "content_hash": "898cef51186807f9"
     },
     {
+      "id": "0e6454a49e231542",
+      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+      "source_id": "huggingface-blog",
+      "source_name": "Hugging Face Blog",
+      "source_type": "official",
+      "published_at": "2026-06-09T00:00:00Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "",
+      "raw_excerpt": "",
+      "score": 38,
+      "score_reasons": [
+        "trusted source weight 50",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: open-source",
+        "no feed summary"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "low-signal content: jobs",
+        "thin feed summary"
+      ],
+      "content_hash": "a69310261cfd4638"
+    },
+    {
       "id": "a46eeb915ebf2473",
       "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments",
@@ -8479,7 +8472,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -8498,38 +8491,6 @@
         "thin feed summary"
       ],
       "content_hash": "ee6d5b249978569a"
-    },
-    {
-      "id": "84759a74be1fd00e",
-      "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
-      "url": "https://arxiv.org/abs/2606.32038v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-30T17:59:32Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "research"
-      ],
-      "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavio...",
-      "raw_excerpt": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even from behaviorally similar models in different families, frequently produce explanations more faithful to their own current behaviors than to those of th...",
-      "score": 29,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, multimodal, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "c9ac64506d066a5b"
     },
     {
       "id": "7ebea1b549ab49d1",
@@ -8943,40 +8904,6 @@
       "content_hash": "b6ad0257305b518d"
     },
     {
-      "id": "56b63530c20f5755",
-      "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
-      "url": "https://arxiv.org/abs/2606.26095v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-24T17:59:56Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "safety",
-        "regulation",
-        "research"
-      ],
-      "summary": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leave...",
-      "raw_excerpt": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result, the policy lacks an explicit motion prior, forcing early optimization to simultaneously discover temporal action dynamics and cross-modal alignment, a challenge further amplified in cross-embodiment settings. In this work, we propose to pretrain the action module with motion prior...",
-      "score": 27,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: model, multimodal, safety, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "f61d8c49197bfd86"
-    },
-    {
       "id": "a95f26b8e5a20f1b",
       "title": "VADAOrchestra: Neurosymbolic Orchestration of Adaptive Reasoning Workflows",
       "url": "https://arxiv.org/abs/2606.22485v1",
@@ -9009,37 +8936,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "6520bfb135364b20"
-    },
-    {
-      "id": "c0d6281e9af0f8f8",
-      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
-      "url": "https://arxiv.org/abs/2606.32032v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-30T17:56:01Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "research"
-      ],
-      "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confi...",
-      "raw_excerpt": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misrepresent their internal uncertainty--undermining trustworthiness and reliability. Since monitoring task performance and adapting behavior accordingly are central to metacognition, we posit that models capable of accurately judging their own performance are better positioned to improve it. We operationali...",
-      "score": 26,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "cf984a4ab750810f"
     },
     {
       "id": "d22b98c099326f48",
@@ -10164,29 +10060,28 @@
       "content_hash": "d7b7566833dc5289"
     },
     {
-      "id": "fedd21a0f9dd0e75",
-      "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
-      "url": "https://arxiv.org/abs/2606.26091v1",
+      "id": "84759a74be1fd00e",
+      "title": "Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+      "url": "https://arxiv.org/abs/2606.32038v1",
       "source_id": "arxiv-ai",
       "source_name": "arXiv AI/ML/CL",
       "source_type": "paper",
-      "published_at": "2026-06-24T17:59:02Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
+      "published_at": "2026-06-30T17:59:32Z",
+      "fetched_at": "2026-07-01T17:56:01Z",
       "language": "en",
       "tags": [
         "model",
-        "safety",
-        "regulation",
+        "multimodal",
         "research"
       ],
-      "summary": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at...",
-      "raw_excerpt": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at a hidden cost: rollout diversity decreases and pass@k curves flatten (i.e., generating more rollouts fails to improve accuracy). We trace this to compounding biases in the design of self-distillation with sampled demonstrations. The teacher scores each student rollout while conditioned on a sampled correct rollout, channeling its feedback through the model'...",
-      "score": 25,
+      "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavio...",
+      "raw_excerpt": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even from behaviorally similar models in different families, frequently produce explanations more faithful to their own current behaviors than to those of th...",
+      "score": 22,
       "score_reasons": [
         "trusted source weight 38",
-        "published in the last 7 days",
+        "published in the last 24h",
         "paper source",
-        "matched tags: model, safety, regulation, research"
+        "matched tags: model, multimodal, research"
       ],
       "tier": "raw",
       "quality_reasons": [
@@ -10194,7 +10089,7 @@
         "demoted broad arXiv paper",
         "same theme appeared across multiple sources"
       ],
-      "content_hash": "015ef8eb5e3e6c69"
+      "content_hash": "c9ac64506d066a5b"
     },
     {
       "id": "4c5fd31144f56462",
@@ -12245,38 +12140,6 @@
       "content_hash": "f17a130c3f657e4d"
     },
     {
-      "id": "8d37c2c4a74c473a",
-      "title": "Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization",
-      "url": "https://arxiv.org/abs/2606.27216v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-25T16:05:55Z",
-      "fetched_at": "2026-06-28T21:01:38Z",
-      "language": "en",
-      "tags": [
-        "open-source",
-        "product",
-        "research"
-      ],
-      "summary": "Muon-type optimizers construct update directions for dense neural-network weights by applying a finite Newton-Schulz map to momentum-gradient matrices. For an $H \\times W$ matrix, with $r=\\min\\{H,W\\}$ and $s=\\max\\{H,W\\}$, $K$ steps of the...",
-      "raw_excerpt": "Muon-type optimizers construct update directions for dense neural-network weights by applying a finite Newton-Schulz map to momentum-gradient matrices. For an $H \\times W$ matrix, with $r=\\min\\{H,W\\}$ and $s=\\max\\{H,W\\}$, $K$ steps of the full-matrix Newton-Schulz update require $O(r^2 s K)$ work and couple all rows and columns through repeated Gram matrix products. We introduce Hierarchical Muon (HiMuon), a tiled Newton-Schulz scheme for Muon-type optimization. HiMuon partitions each momentum-gradient matrix into $T \\times T$ tiles, applies the same finite Newton-Schulz map independently to...",
-      "score": 22,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: open-source, product, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "5a47add2ab20d482"
-    },
-    {
       "id": "728fb2da822b205f",
       "title": "Graph Neural Networks Applications Across Domains: All Insights You Need",
       "url": "https://arxiv.org/abs/2606.27202v1",
@@ -12339,6 +12202,37 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "486d6b32ba9bfcdb"
+    },
+    {
+      "id": "c0d6281e9af0f8f8",
+      "title": "Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "url": "https://arxiv.org/abs/2606.32032v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-30T17:56:01Z",
+      "fetched_at": "2026-07-01T17:56:01Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confi...",
+      "raw_excerpt": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive faculties: they hallucinate with high confidence, fail to recognize knowledge boundaries, and misrepresent their internal uncertainty--undermining trustworthiness and reliability. Since monitoring task performance and adapting behavior accordingly are central to metacognition, we posit that models capable of accurately judging their own performance are better positioned to improve it. We operationali...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "cf984a4ab750810f"
     },
     {
       "id": "5c854c3498ee1fa7",
@@ -13240,6 +13134,40 @@
       "content_hash": "004611f61146b7fd"
     },
     {
+      "id": "56b63530c20f5755",
+      "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+      "url": "https://arxiv.org/abs/2606.26095v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-24T17:59:56Z",
+      "fetched_at": "2026-06-25T21:42:55Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "safety",
+        "regulation",
+        "research"
+      ],
+      "summary": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leave...",
+      "raw_excerpt": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result, the policy lacks an explicit motion prior, forcing early optimization to simultaneously discover temporal action dynamics and cross-modal alignment, a challenge further amplified in cross-embodiment settings. In this work, we propose to pretrain the action module with motion prior...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, multimodal, safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "f61d8c49197bfd86"
+    },
+    {
       "id": "94ef13ac4172d4c5",
       "title": "The Tatoxa System for Text Detoxification in Low-Resource Languages: The Case of Tatar",
       "url": "https://arxiv.org/abs/2606.26015v1",
@@ -13616,40 +13544,6 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "383f16a2c35b78c3"
-    },
-    {
-      "id": "0baf836ffe0bf3dd",
-      "title": "On the Position Bias of On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2606.22600v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-21T17:20:21Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "multimodal",
-        "open-source",
-        "safety",
-        "regulation",
-        "research"
-      ],
-      "summary": "On-Policy Distillation (OPD) improves the learning efficiency of standard reinforcement learning through dense, token-level supervision from teachers. In the standard KL objective of OPD, token-level losses are uniformly averaged, implying...",
-      "raw_excerpt": "On-Policy Distillation (OPD) improves the learning efficiency of standard reinforcement learning through dense, token-level supervision from teachers. In the standard KL objective of OPD, token-level losses are uniformly averaged, implying equal weights for all tokens. However, we discover that not all tokens are created equal: as student rollouts grow longer, they deviate further from the teacher's distribution, leading to degraded supervision quality at later positions. As a result, OPD using only the first 30% of tokens can perform comparably to using all tokens, whereas OPD using only the...",
-      "score": 19,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: multimodal, open-source, safety, regulation"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "096c309a1b32c93d"
     },
     {
       "id": "6a8af65fce824695",
@@ -14497,6 +14391,39 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "7b518fb644c08de9"
+    },
+    {
+      "id": "fedd21a0f9dd0e75",
+      "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+      "url": "https://arxiv.org/abs/2606.26091v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-24T17:59:02Z",
+      "fetched_at": "2026-06-25T21:42:55Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety",
+        "regulation",
+        "research"
+      ],
+      "summary": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at...",
+      "raw_excerpt": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at a hidden cost: rollout diversity decreases and pass@k curves flatten (i.e., generating more rollouts fails to improve accuracy). We trace this to compounding biases in the design of self-distillation with sampled demonstrations. The teacher scores each student rollout while conditioned on a sampled correct rollout, channeling its feedback through the model'...",
+      "score": 17,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: model, safety, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "015ef8eb5e3e6c69"
     },
     {
       "id": "50837aee066528c3",
@@ -16754,6 +16681,37 @@
       "content_hash": "9b6337286bbeb1ad"
     },
     {
+      "id": "8d37c2c4a74c473a",
+      "title": "Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization",
+      "url": "https://arxiv.org/abs/2606.27216v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-25T16:05:55Z",
+      "fetched_at": "2026-06-28T21:01:38Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "product",
+        "research"
+      ],
+      "summary": "Muon-type optimizers construct update directions for dense neural-network weights by applying a finite Newton-Schulz map to momentum-gradient matrices. For an $H \\times W$ matrix, with $r=\\min\\{H,W\\}$ and $s=\\max\\{H,W\\}$, $K$ steps of the...",
+      "raw_excerpt": "Muon-type optimizers construct update directions for dense neural-network weights by applying a finite Newton-Schulz map to momentum-gradient matrices. For an $H \\times W$ matrix, with $r=\\min\\{H,W\\}$ and $s=\\max\\{H,W\\}$, $K$ steps of the full-matrix Newton-Schulz update require $O(r^2 s K)$ work and couple all rows and columns through repeated Gram matrix products. We introduce Hierarchical Muon (HiMuon), a tiled Newton-Schulz scheme for Muon-type optimization. HiMuon partitions each momentum-gradient matrix into $T \\times T$ tiles, applies the same finite Newton-Schulz map independently to...",
+      "score": 15,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: open-source, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "5a47add2ab20d482"
+    },
+    {
       "id": "e70ff87cd9fec7cd",
       "title": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
       "url": "https://arxiv.org/abs/2606.26071v1",
@@ -18322,38 +18280,6 @@
       "content_hash": "e869a9f7f1de9189"
     },
     {
-      "id": "05d5275346ccac48",
-      "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
-      "url": "https://arxiv.org/abs/2606.19329v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-17T17:54:52Z",
-      "fetched_at": "2026-06-18T22:09:08Z",
-      "language": "en",
-      "tags": [
-        "open-source",
-        "product",
-        "research"
-      ],
-      "summary": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to...",
-      "raw_excerpt": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to identify true counterparts, detect chance coincidences, and resolve ambiguities when multiple plausible candidates exist. We define a training set of high-confidence matches using NWAY, a Bayesian cross-matching framework that accounts for positional errors and source densities. We train a gradient-boosted classifier (LightGBM) on a variety of features from...",
-      "score": 14,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: open-source, product, research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "7f70980242fe363c"
-    },
-    {
       "id": "cdee2bf7a7bcbe30",
       "title": "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
       "url": "https://arxiv.org/abs/2606.19328v1",
@@ -19526,6 +19452,39 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "b014e92b450a7eeb"
+    },
+    {
+      "id": "0baf836ffe0bf3dd",
+      "title": "On the Position Bias of On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2606.22600v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-21T17:20:21Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "safety",
+        "regulation",
+        "research"
+      ],
+      "summary": "On-Policy Distillation (OPD) improves the learning efficiency of standard reinforcement learning through dense, token-level supervision from teachers. In the standard KL objective of OPD, token-level losses are uniformly averaged, implying...",
+      "raw_excerpt": "On-Policy Distillation (OPD) improves the learning efficiency of standard reinforcement learning through dense, token-level supervision from teachers. In the standard KL objective of OPD, token-level losses are uniformly averaged, implying equal weights for all tokens. However, we discover that not all tokens are created equal: as student rollouts grow longer, they deviate further from the teacher's distribution, leading to degraded supervision quality at later positions. As a result, OPD using only the first 30% of tokens can perform comparably to using all tokens, whereas OPD using only the...",
+      "score": 12,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: multimodal, open-source, safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "096c309a1b32c93d"
     },
     {
       "id": "0f1c30f620077d8b",
@@ -21794,6 +21753,37 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "9b90d9f8fb0ad976"
+    },
+    {
+      "id": "05d5275346ccac48",
+      "title": "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
+      "url": "https://arxiv.org/abs/2606.19329v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-17T17:54:52Z",
+      "fetched_at": "2026-06-18T22:09:08Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "product",
+        "research"
+      ],
+      "summary": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to...",
+      "raw_excerpt": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such as magnitudes, colors, and distances to identify true counterparts, detect chance coincidences, and resolve ambiguities when multiple plausible candidates exist. We define a training set of high-confidence matches using NWAY, a Bayesian cross-matching framework that accounts for positional errors and source densities. We train a gradient-boosted classifier (LightGBM) on a variety of features from...",
+      "score": 7,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: open-source, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "7f70980242fe363c"
     },
     {
       "id": "6ee4abee04184ae9",

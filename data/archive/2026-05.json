@@ -1565,35 +1565,6 @@
       "content_hash": "31472cb0d2bdc343"
     },
     {
-      "id": "a2a811b50a4c64f5",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-05-05T10:00:00Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
-      "language": "en",
-      "tags": [
-        "open-source"
-      ],
-      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "raw_excerpt": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
-      "score": 72,
-      "score_reasons": [
-        "trusted source weight 56",
-        "older than 30 days",
-        "official source",
-        "matched tags: open-source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "987a17ba2bc4ccba"
-    },
-    {
       "id": "2fd1ae66db94c087",
       "title": "Introducing OpenAI for Singapore",
       "url": "https://openai.com/index/introducing-openai-for-singapore",
@@ -1754,7 +1725,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-28T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety",
@@ -2035,7 +2006,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-19T10:45:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2117,6 +2088,34 @@
       "content_hash": "f63ad19a826b80ad"
     },
     {
+      "id": "a2a811b50a4c64f5",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-05-05T10:00:00Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "open-source"
+      ],
+      "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "raw_excerpt": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+      "score": 65,
+      "score_reasons": [
+        "trusted source weight 56",
+        "older than 30 days",
+        "official source",
+        "matched tags: open-source"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus"
+      ],
+      "content_hash": "987a17ba2bc4ccba"
+    },
+    {
       "id": "2de76809a5988efa",
       "title": "Advancing youth safety and wellbeing in EMEA",
       "url": "https://openai.com/index/advancing-youth-safety-in-emea",
@@ -2124,7 +2123,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-05T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "safety"
@@ -2152,7 +2151,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-04T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "inference"
@@ -2180,7 +2179,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
@@ -2205,7 +2204,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
@@ -2230,7 +2229,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-20T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
@@ -2255,7 +2254,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
@@ -2280,7 +2279,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-25T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "agents"
@@ -2311,7 +2310,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-06T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "evaluation"
@@ -2333,70 +2332,6 @@
         "thin feed summary"
       ],
       "content_hash": "9a46b15b71d20242"
-    },
-    {
-      "id": "7eb8ca74004edf8e",
-      "title": "v0.22.0rc2: Fix early CUDA init (#43791)",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0rc2",
-      "source_id": "github-vllm",
-      "source_name": "vLLM Releases",
-      "source_type": "github_release",
-      "published_at": "2026-05-27T21:20:37Z",
-      "fetched_at": "2026-06-23T03:36:19Z",
-      "language": "en",
-      "tags": [
-        "open-source",
-        "hardware"
-      ],
-      "summary": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
-      "raw_excerpt": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
-      "score": 58,
-      "score_reasons": [
-        "trusted source weight 44",
-        "published in the last 30 days",
-        "github_release source",
-        "matched tags: open-source, hardware"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "c3c7ebf37c9c6c14"
-    },
-    {
-      "id": "43b7524e011327ab",
-      "title": "v2.38.0",
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.38.0",
-      "source_id": "github-openai-python",
-      "source_name": "OpenAI Python Releases",
-      "source_type": "github_release",
-      "published_at": "2026-05-21T21:23:25Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
-      "language": "en",
-      "tags": [
-        "open-source",
-        "product"
-      ],
-      "summary": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custo...",
-      "raw_excerpt": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custom code sync ( 2638779 ) remove release automation trigger ( bd6eea5 ) trigger release automation ( f62d082 )",
-      "score": 56,
-      "score_reasons": [
-        "trusted source weight 42",
-        "older than 30 days",
-        "github_release source",
-        "matched tags: open-source, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "e7e5e5ab1fe05d05"
     },
     {
       "id": "41409da86d3e1896",
@@ -2437,7 +2372,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T19:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2464,7 +2399,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-29T12:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2484,6 +2419,37 @@
       "content_hash": "47aab3051d3ec63d"
     },
     {
+      "id": "7eb8ca74004edf8e",
+      "title": "v0.22.0rc2: Fix early CUDA init (#43791)",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.22.0rc2",
+      "source_id": "github-vllm",
+      "source_name": "vLLM Releases",
+      "source_type": "github_release",
+      "published_at": "2026-05-27T21:20:37Z",
+      "fetched_at": "2026-06-23T03:36:19Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "hardware"
+      ],
+      "summary": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
+      "raw_excerpt": "Signed-off-by: Harry Mellor 19981378+hmellor@users.noreply.github.com (cherry picked from commit 41688e2 )",
+      "score": 51,
+      "score_reasons": [
+        "trusted source weight 44",
+        "published in the last 30 days",
+        "github_release source",
+        "matched tags: open-source, hardware"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update"
+      ],
+      "content_hash": "c3c7ebf37c9c6c14"
+    },
+    {
       "id": "59cf6521ecffda3d",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap",
@@ -2491,7 +2457,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-22T18:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2518,7 +2484,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T20:40:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2545,7 +2511,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-20T16:45:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2599,7 +2565,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-05-19T17:45:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2653,7 +2619,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-29T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2680,7 +2646,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2707,7 +2673,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-27T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2727,6 +2693,37 @@
       "content_hash": "190398d04fc9fcc3"
     },
     {
+      "id": "43b7524e011327ab",
+      "title": "v2.38.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.38.0",
+      "source_id": "github-openai-python",
+      "source_name": "OpenAI Python Releases",
+      "source_type": "github_release",
+      "published_at": "2026-05-21T21:23:25Z",
+      "fetched_at": "2026-06-30T03:40:21Z",
+      "language": "en",
+      "tags": [
+        "open-source",
+        "product"
+      ],
+      "summary": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custo...",
+      "raw_excerpt": "2.38.0 (2026-05-21) Full Changelog: v2.37.0...v2.38.0 Features api: api update ( 33d1d01 ) api: manual updates ( a21700a ) api: update OpenAPI spec or Stainless config ( 00265c5 ) Chores api: docs updates ( ee10152 ) check release PR custom code sync ( 2638779 ) remove release automation trigger ( bd6eea5 ) trigger release automation ( f62d082 )",
+      "score": 49,
+      "score_reasons": [
+        "trusted source weight 42",
+        "older than 30 days",
+        "github_release source",
+        "matched tags: open-source, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release",
+        "open-source AI infrastructure update"
+      ],
+      "content_hash": "e7e5e5ab1fe05d05"
+    },
+    {
       "id": "ed1c2193d6b80a8c",
       "title": "Introducing the Ettin Reranker Family",
       "url": "https://huggingface.co/blog/ettin-reranker",
@@ -2734,7 +2731,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-19T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2761,7 +2758,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-18T15:12:46Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2788,7 +2785,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T18:55:01Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2815,7 +2812,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-05-14T00:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -2931,7 +2928,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-05-18T04:47:43Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Clean: revert remaining rebase-noise files (75 files) to origin/main",
@@ -2957,7 +2954,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-15T22:30:20Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -2986,7 +2983,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-05-07T17:33:02Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [
         "product"
@@ -3015,7 +3012,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-05-11T10:00:00Z",
-      "fetched_at": "2026-07-01T17:56:01Z",
+      "fetched_at": "2026-07-01T21:28:39Z",
       "language": "en",
       "tags": [],
       "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
