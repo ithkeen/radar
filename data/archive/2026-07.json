@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "month": "2026-07",
+  "retention_days": 365,
+  "items": [
+    {
+      "id": "c1d771a81e1be010",
+      "title": "v0.31.1",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.31.1",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
+      "source_type": "github_release",
+      "published_at": "2026-07-01T00:25:40Z",
+      "fetched_at": "2026-07-01T03:56:15Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "evaluation",
+        "research",
+        "product"
+      ],
+      "summary": "Faster Gemma 4 on Apple Silicon Gemma 4 is now significantly faster in Ollama on Apple Silicon, generating tokens nearly 90% faster on average across a coding-agent benchmark by leveraging multi-token prediction (MTP). Ollama auto-tunes ho...",
+      "raw_excerpt": "Faster Gemma 4 on Apple Silicon Gemma 4 is now significantly faster in Ollama on Apple Silicon, generating tokens nearly 90% faster on average across a coding-agent benchmark by leveraging multi-token prediction (MTP). Ollama auto-tunes how many tokens to draft as it runs, so the speedup is on by default, requires no configuration, and does not change the model's output. What's Changed Tightened Gemma 4 MoE model loading in the MLX engine Updated the MLX engine to the latest version, including a new small-batch matmul kernel Updated the underlying llama.cpp engine to build 9840 Improved Gemma...",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 43",
+        "published in the last 24h",
+        "github_release source",
+        "matched tags: model, agents, evaluation, research"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "routine versioned release",
+        "open-source AI infrastructure update",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "f68e9bae2d1e2d2f"
+    }
+  ]
+}
