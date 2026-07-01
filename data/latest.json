@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-07-01T08:15:54Z",
+  "generated_at": "2026-07-01T14:36:16Z",
   "display_window_days": 30,
   "retention_days": 365,
   "source_status": {
@@ -8,7 +8,7 @@
       "name": "OpenAI News",
       "status": "live",
       "latest_item_at": "2026-06-30T09:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "item_count": 1028,
       "error": null
     },
@@ -16,7 +16,7 @@
       "name": "Anthropic News",
       "status": "error",
       "latest_item_at": null,
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "item_count": 0,
       "error": "HTTP Error 404: Not Found"
     },
@@ -24,7 +24,7 @@
       "name": "Google AI Blog",
       "status": "live",
       "latest_item_at": "2026-06-30T06:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "item_count": 20,
       "error": null
     },
@@ -32,7 +32,7 @@
       "name": "Hugging Face Blog",
       "status": "live",
       "latest_item_at": "2026-06-30T18:32:50Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "item_count": 813,
       "error": null
     },
@@ -40,23 +40,23 @@
       "name": "Microsoft AI Blog",
       "status": "delayed",
       "latest_item_at": "2026-06-16T13:41:44Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "item_count": 10,
       "error": null
     },
     "arxiv-ai": {
       "name": "arXiv AI/ML/CL",
-      "status": "live",
-      "latest_item_at": "2026-06-30T17:59:32Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
-      "item_count": 50,
-      "error": null
+      "status": "error",
+      "latest_item_at": null,
+      "fetched_at": "2026-07-01T14:36:16Z",
+      "item_count": 0,
+      "error": "The read operation timed out"
     },
     "github-transformers": {
       "name": "Hugging Face Transformers Releases",
       "status": "live",
       "latest_item_at": "2026-06-19T13:25:50Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "item_count": 10,
       "error": null
     },
@@ -64,7 +64,7 @@
       "name": "vLLM Releases",
       "status": "live",
       "latest_item_at": "2026-06-30T01:19:02Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "item_count": 10,
       "error": null
     },
@@ -72,7 +72,7 @@
       "name": "Ollama Releases",
       "status": "live",
       "latest_item_at": "2026-07-01T00:25:40Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "item_count": 10,
       "error": null
     },
@@ -80,7 +80,7 @@
       "name": "OpenAI Python Releases",
       "status": "live",
       "latest_item_at": "2026-06-24T20:55:08Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "item_count": 10,
       "error": null
     }
@@ -2098,41 +2098,6 @@
       "content_hash": "927c138ded16830b"
     },
     {
-      "id": "4df8e51cae93fe19",
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-01T10:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents",
-        "research",
-        "product"
-      ],
-      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with Open...",
-      "raw_excerpt": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model, agents, research, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: model update, coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "8e2d7d19a84bc4da"
-    },
-    {
       "id": "247324a6d137edef",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
@@ -2140,7 +2105,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-29T07:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "agents",
@@ -3278,7 +3243,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-30T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
@@ -5483,7 +5448,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-30T06:00:00Z",
-      "fetched_at": "2026-07-01T03:56:15Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "product"
@@ -5493,7 +5458,7 @@
       "score": 76,
       "score_reasons": [
         "trusted source weight 52",
-        "published in the last 24h",
+        "published in the last 7 days",
         "official source",
         "matched tags: product",
         "no feed summary"
@@ -5549,7 +5514,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-25T16:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "product"
@@ -5676,7 +5641,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5705,7 +5670,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -5734,7 +5699,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5763,7 +5728,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5783,39 +5748,6 @@
         "outside preferred AI focus"
       ],
       "content_hash": "328255d871da61cc"
-    },
-    {
-      "id": "088cdea1352ec333",
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "source_id": "huggingface-blog",
-      "source_name": "Hugging Face Blog",
-      "source_type": "official",
-      "published_at": "2026-06-01T13:51:18Z",
-      "fetched_at": "2026-06-29T21:26:43Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "agents"
-      ],
-      "summary": "",
-      "raw_excerpt": "",
-      "score": 76,
-      "score_reasons": [
-        "trusted source weight 50",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: model, agents",
-        "no feed summary"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "thin feed summary"
-      ],
-      "content_hash": "f17d08fafad1ffb5"
     },
     {
       "id": "730baeba5515aec5",
@@ -5924,7 +5856,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -5981,7 +5913,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "safety"
@@ -6070,7 +6002,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-30T14:39:11Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6097,7 +6029,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-30T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6186,7 +6118,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-24T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -6254,7 +6186,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -6279,7 +6211,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6311,7 +6243,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -6404,7 +6336,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-29T16:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6538,7 +6470,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6569,7 +6501,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6600,7 +6532,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6631,7 +6563,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6662,7 +6594,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -6688,7 +6620,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6719,7 +6651,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6750,7 +6682,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6781,7 +6713,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "product"
@@ -6844,7 +6776,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -6901,7 +6833,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-29T18:02:48Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7156,7 +7088,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -7220,7 +7152,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "model"
@@ -7318,7 +7250,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-26T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "model"
@@ -7351,7 +7283,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -7383,7 +7315,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7410,7 +7342,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "model"
@@ -7538,7 +7470,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7629,7 +7561,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7656,7 +7588,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7683,7 +7615,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7737,7 +7669,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7764,7 +7696,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7791,7 +7723,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "product"
@@ -7821,7 +7753,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7848,7 +7780,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-29T18:50:11Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "product"
@@ -7974,7 +7906,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-24T20:55:08Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
@@ -8129,7 +8061,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "product"
@@ -8191,7 +8123,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "product"
@@ -8220,7 +8152,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "product"
@@ -8249,7 +8181,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "product"
@@ -8269,32 +8201,6 @@
         "routine versioned release"
       ],
       "content_hash": "dd876dc6f86d717e"
-    },
-    {
-      "id": "04c1d26ba61347ee",
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
-      "language": "en",
-      "tags": [],
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "raw_excerpt": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "score": 48,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "low-signal content: jobs"
-      ],
-      "content_hash": "898cef51186807f9"
     },
     {
       "id": "51824cb6a706b4cc",
@@ -8428,7 +8334,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -8455,7 +8361,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -8487,7 +8393,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -8514,7 +8420,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -8599,7 +8505,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-07-01T08:15:54Z",
+      "fetched_at": "2026-07-01T14:36:16Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -21850,35 +21756,6 @@
       "content_hash": "0b221dfc1b6bfb59"
     },
     {
-      "id": "7c998b5f6ec33026",
-      "title": "A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors",
-      "url": "https://arxiv.org/abs/2606.25886v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-24T14:27:16Z",
-      "fetched_at": "2026-06-25T21:42:55Z",
-      "language": "en",
-      "tags": [
-        "research"
-      ],
-      "summary": "Existing texture datasets for tactile sensing primarily consist of sensor readings from a specific sensor interacting with available surfaces/objects rather than describing the textures themselves, limiting fair comparison between tactile...",
-      "raw_excerpt": "Existing texture datasets for tactile sensing primarily consist of sensor readings from a specific sensor interacting with available surfaces/objects rather than describing the textures themselves, limiting fair comparison between tactile sensors and hindering reproducible research. In this work, we introduce a 3D-printable dataset of mathematically defined textures designed to be fabricated reliably across different printers and filament types. The dataset consists of six parametrically generated surface patterns derived from combinations of sine-wave and Fourier-based functions, giving cont...",
-      "score": 9,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 7 days",
-        "paper source",
-        "matched tags: research"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "paper outside AI channel focus",
-        "demoted broad arXiv paper"
-      ],
-      "content_hash": "d9caa16d82427b38"
-    },
-    {
       "id": "04f060bac406d03f",
       "title": "Sequential RC-TGAN: Generating Relational Time Series with Spectral Envelope Loss",
       "url": "https://arxiv.org/abs/2606.31904v1",
@@ -22975,6 +22852,35 @@
         "demoted broad arXiv paper"
       ],
       "content_hash": "47fe1b493fc7a6b2"
+    },
+    {
+      "id": "7c998b5f6ec33026",
+      "title": "A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors",
+      "url": "https://arxiv.org/abs/2606.25886v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-24T14:27:16Z",
+      "fetched_at": "2026-06-25T21:42:55Z",
+      "language": "en",
+      "tags": [
+        "research"
+      ],
+      "summary": "Existing texture datasets for tactile sensing primarily consist of sensor readings from a specific sensor interacting with available surfaces/objects rather than describing the textures themselves, limiting fair comparison between tactile...",
+      "raw_excerpt": "Existing texture datasets for tactile sensing primarily consist of sensor readings from a specific sensor interacting with available surfaces/objects rather than describing the textures themselves, limiting fair comparison between tactile sensors and hindering reproducible research. In this work, we introduce a 3D-printable dataset of mathematically defined textures designed to be fabricated reliably across different printers and filament types. The dataset consists of six parametrically generated surface patterns derived from combinations of sine-wave and Fourier-based functions, giving cont...",
+      "score": 1,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 7 days",
+        "paper source",
+        "matched tags: research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "d9caa16d82427b38"
     },
     {
       "id": "f1e9807c6fc6c639",
