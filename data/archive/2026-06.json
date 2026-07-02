@@ -38,77 +38,6 @@
       "content_hash": "b2c26fa5e8f4ac72"
     },
     {
-      "id": "e7a53803f87b0aed",
-      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
-      "url": "https://arxiv.org/abs/2606.32034v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-30T17:58:23Z",
-      "fetched_at": "2026-07-01T03:56:15Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "agents",
-        "evaluation",
-        "research"
-      ],
-      "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of...",
-      "raw_excerpt": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve this problem by scoring intermediate steps, from intrinsic confidence to self-distillation and embedding similarities. However, it is common practice to evaluate them by measuring the downstream performance of a training pipeline that integrates them. This is expensive, conflates supervision qualit...",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, multimodal, agents, evaluation"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "b95c65199ae3ca4e"
-    },
-    {
-      "id": "601bbffe1b7292a6",
-      "title": "DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching",
-      "url": "https://arxiv.org/abs/2606.31980v1",
-      "source_id": "arxiv-ai",
-      "source_name": "arXiv AI/ML/CL",
-      "source_type": "paper",
-      "published_at": "2026-06-30T17:18:47Z",
-      "fetched_at": "2026-07-01T03:56:15Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "multimodal",
-        "agents",
-        "evaluation",
-        "research",
-        "product"
-      ],
-      "summary": "Agents are increasingly capable of automating software tasks, but can they teach humans how to use software themselves? We introduce DigitalCoach, a multimodal dataset of 72 human expert-novice computer use coaching sessions consisting of...",
-      "raw_excerpt": "Agents are increasingly capable of automating software tasks, but can they teach humans how to use software themselves? We introduce DigitalCoach, a multimodal dataset of 72 human expert-novice computer use coaching sessions consisting of 22,752 dialogue turns grounded in 28.1 hours of screen and input event recordings across five software applications. We use DigitalCoach to evaluate whether state-of-the-art models can teach humans how to use computers. Automated evaluation shows that models differ from humans in how they coach: models provide more direct instructions, but fewer explanations...",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 38",
-        "published in the last 24h",
-        "paper source",
-        "matched tags: model, multimodal, agents, evaluation"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model evaluation",
-        "high-impact model, eval, or agent keywords",
-        "targeted model, eval, or coding-agent paper",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "9a6710be686d8984"
-    },
-    {
       "id": "068c9bc43551fee5",
       "title": "How ChatGPT adoption has expanded",
       "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
@@ -214,73 +143,6 @@
       "source_type": "github_release",
       "published_at": "2026-06-26T07:23:18Z",
       "fetched_at": "2026-06-26T07:53:15Z",
-      "language": "en",
-      "tags": [
-        "model",
-        "coding-agent",
-        "product",
-        "hardware"
-      ],
-      "summary": "What's Changed launch: add thinking capability detection to opencode by @hoyyeva in #15434 launch: auto-install Claude Code by @hoyyeva in #16802 launch: auto-install opencode when missing by @hoyyeva in #16806 discover: fix inverted iGPU/...",
-      "raw_excerpt": "What's Changed launch: add thinking capability detection to opencode by @hoyyeva in #15434 launch: auto-install Claude Code by @hoyyeva in #16802 launch: auto-install opencode when missing by @hoyyeva in #16806 discover: fix inverted iGPU/dGPU Vulkan classification on Windows hybrid graphics by @Sahil170595 in #16669 mlxrunner: unify and tune speculative decoding by @jessegross in #16791 launch/codex: detect model drift when Codex App UI switches by @BruceMacD in #16864 llama: add sm_86 architecture to cuda_v13_windows preset by @anishesg in #16834 llm: size mmproj offload by projector memory...",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 43",
-        "published in the last 24h",
-        "github_release source",
-        "matched tags: model, coding-agent, product, hardware"
-      ],
-      "tier": "must_read",
-      "quality_reasons": [
-        "matches AI channel focus: model update, coding agent",
-        "high-impact model, eval, or agent keywords",
-        "routine versioned release",
-        "open-source AI infrastructure update",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "4d04e1e2f6dcb3a9"
-    },
-    {
-      "id": "3d99cf87d464b7af",
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-25T02:00:00Z",
-      "fetched_at": "2026-06-25T10:42:22Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "research",
-        "product"
-      ],
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "raw_excerpt": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "score": 100,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 24h",
-        "official source",
-        "matched tags: agents, research, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "official model or product signal",
-        "same theme appeared across multiple sources"
-      ],
-      "content_hash": "d0910cd4850e347f"
-    },
-    {
-      "id": "aec3ecd84ed77ce3",
-      "title": "v0.30.11",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.11-rc0",
-      "source_id": "github-ollama",
-      "source_name": "Ollama Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-25T01:52:05Z",
-      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "model",
@@ -661,6 +523,38 @@
       "content_hash": "462fc92aa526219e"
     },
     {
+      "id": "473eced4d0d7fe18",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-02T02:00:00Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "product"
+      ],
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "raw_excerpt": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 30 days",
+        "official source",
+        "matched tags: agents, product"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "927c138ded16830b"
+    },
+    {
       "id": "4df8e51cae93fe19",
       "title": "OpenAI frontier models and Codex are now available on AWS",
       "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
@@ -870,6 +764,74 @@
       "content_hash": "35ab4bbcb10a0511"
     },
     {
+      "id": "d945a8647eb86080",
+      "title": "v0.30.6",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.6",
+      "source_id": "github-ollama",
+      "source_name": "Ollama Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-07T00:12:11Z",
+      "fetched_at": "2026-06-17T03:09:09Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "open-source",
+        "inference",
+        "product"
+      ],
+      "summary": "New models Gemma 4 QAT weights : the Gemma 4 family is now optimized with Quantization-Aware Training (QAT) to dramatically reduce memory requirements and maximize on-device performance. Look for the tags ending in -qat : gemma4:e2b-it-qat...",
+      "raw_excerpt": "New models Gemma 4 QAT weights : the Gemma 4 family is now optimized with Quantization-Aware Training (QAT) to dramatically reduce memory requirements and maximize on-device performance. Look for the tags ending in -qat : gemma4:e2b-it-qat gemma4:e4b-it-qat gemma4:12b-it-qat gemma4:26b-a4b-it-qat gemma4:31b-it-qat What's Changed ollama launch omp now integrates with Oh My Pi , an AI coding agent with IDE integration MLX embedding layers now use NVFP4 global scale for improved quantization on Apple Silicon Full Changelog : v0.30.5...v0.30.6",
+      "score": 95,
+      "score_reasons": [
+        "trusted source weight 43",
+        "published in the last 30 days",
+        "github_release source",
+        "matched tags: model, agents, open-source, inference"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model update, builder opinion",
+        "high-impact model, eval, or agent keywords",
+        "routine versioned release",
+        "open-source AI infrastructure update",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "cd783f35e543ffa0"
+    },
+    {
+      "id": "3d99cf87d464b7af",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "source_id": "openai-news",
+      "source_name": "OpenAI News",
+      "source_type": "official",
+      "published_at": "2026-06-25T02:00:00Z",
+      "fetched_at": "2026-06-25T10:42:22Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "research",
+        "product"
+      ],
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "raw_excerpt": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "score": 92,
+      "score_reasons": [
+        "trusted source weight 56",
+        "published in the last 24h",
+        "official source",
+        "matched tags: agents, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "official model or product signal",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "d0910cd4850e347f"
+    },
+    {
       "id": "855db08b75f6ecde",
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
@@ -1032,6 +994,79 @@
         "same theme appeared across multiple sources"
       ],
       "content_hash": "f4dd85d9df9db31a"
+    },
+    {
+      "id": "e7a53803f87b0aed",
+      "title": "QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2606.32034v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-30T17:58:23Z",
+      "fetched_at": "2026-07-01T03:56:15Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "agents",
+        "evaluation",
+        "research"
+      ],
+      "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of...",
+      "raw_excerpt": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to inform the model about the goodness of intermediate actions. Dense supervision methods aim to solve this problem by scoring intermediate steps, from intrinsic confidence to self-distillation and embedding similarities. However, it is common practice to evaluate them by measuring the downstream performance of a training pipeline that integrates them. This is expensive, conflates supervision qualit...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, agents, evaluation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "b95c65199ae3ca4e"
+    },
+    {
+      "id": "601bbffe1b7292a6",
+      "title": "DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching",
+      "url": "https://arxiv.org/abs/2606.31980v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-06-30T17:18:47Z",
+      "fetched_at": "2026-07-01T03:56:15Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "agents",
+        "evaluation",
+        "research",
+        "product"
+      ],
+      "summary": "Agents are increasingly capable of automating software tasks, but can they teach humans how to use software themselves? We introduce DigitalCoach, a multimodal dataset of 72 human expert-novice computer use coaching sessions consisting of...",
+      "raw_excerpt": "Agents are increasingly capable of automating software tasks, but can they teach humans how to use software themselves? We introduce DigitalCoach, a multimodal dataset of 72 human expert-novice computer use coaching sessions consisting of 22,752 dialogue turns grounded in 28.1 hours of screen and input event recordings across five software applications. We use DigitalCoach to evaluate whether state-of-the-art models can teach humans how to use computers. Automated evaluation shows that models differ from humans in how they coach: models provide more direct instructions, but fewer explanations...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, agents, evaluation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "9a6710be686d8984"
     },
     {
       "id": "d86b1241175cd1f4",
@@ -1590,39 +1625,6 @@
       "content_hash": "db1a86429371a6ff"
     },
     {
-      "id": "473eced4d0d7fe18",
-      "title": "Codex is becoming a productivity tool for everyone",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "source_id": "openai-news",
-      "source_name": "OpenAI News",
-      "source_type": "official",
-      "published_at": "2026-06-02T02:00:00Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
-      "language": "en",
-      "tags": [
-        "agents",
-        "product"
-      ],
-      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-      "raw_excerpt": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
-      "score": 90,
-      "score_reasons": [
-        "trusted source weight 56",
-        "published in the last 30 days",
-        "official source",
-        "matched tags: agents, product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "matches AI channel focus: coding agent, agent practice",
-        "high-impact model, eval, or agent keywords",
-        "official model or product signal",
-        "same theme appeared across multiple sources",
-        "demoted by source diversity quota"
-      ],
-      "content_hash": "927c138ded16830b"
-    },
-    {
       "id": "247324a6d137edef",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
@@ -1630,7 +1632,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-29T07:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "agents",
@@ -2561,41 +2563,40 @@
       "content_hash": "4c4c89bce70c1128"
     },
     {
-      "id": "d945a8647eb86080",
-      "title": "v0.30.6",
-      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.6",
+      "id": "aec3ecd84ed77ce3",
+      "title": "v0.30.11",
+      "url": "https://github.com/ollama/ollama/releases/tag/v0.30.11-rc0",
       "source_id": "github-ollama",
       "source_name": "Ollama Releases",
       "source_type": "github_release",
-      "published_at": "2026-06-07T00:12:11Z",
-      "fetched_at": "2026-06-17T03:09:09Z",
+      "published_at": "2026-06-25T01:52:05Z",
+      "fetched_at": "2026-06-25T03:35:50Z",
       "language": "en",
       "tags": [
         "model",
-        "agents",
-        "open-source",
-        "inference",
-        "product"
+        "coding-agent",
+        "product",
+        "hardware"
       ],
-      "summary": "New models Gemma 4 QAT weights : the Gemma 4 family is now optimized with Quantization-Aware Training (QAT) to dramatically reduce memory requirements and maximize on-device performance. Look for the tags ending in -qat : gemma4:e2b-it-qat...",
-      "raw_excerpt": "New models Gemma 4 QAT weights : the Gemma 4 family is now optimized with Quantization-Aware Training (QAT) to dramatically reduce memory requirements and maximize on-device performance. Look for the tags ending in -qat : gemma4:e2b-it-qat gemma4:e4b-it-qat gemma4:12b-it-qat gemma4:26b-a4b-it-qat gemma4:31b-it-qat What's Changed ollama launch omp now integrates with Oh My Pi , an AI coding agent with IDE integration MLX embedding layers now use NVFP4 global scale for improved quantization on Apple Silicon Full Changelog : v0.30.5...v0.30.6",
-      "score": 85,
+      "summary": "What's Changed launch: add thinking capability detection to opencode by @hoyyeva in #15434 launch: auto-install Claude Code by @hoyyeva in #16802 launch: auto-install opencode when missing by @hoyyeva in #16806 discover: fix inverted iGPU/...",
+      "raw_excerpt": "What's Changed launch: add thinking capability detection to opencode by @hoyyeva in #15434 launch: auto-install Claude Code by @hoyyeva in #16802 launch: auto-install opencode when missing by @hoyyeva in #16806 discover: fix inverted iGPU/dGPU Vulkan classification on Windows hybrid graphics by @Sahil170595 in #16669 mlxrunner: unify and tune speculative decoding by @jessegross in #16791 launch/codex: detect model drift when Codex App UI switches by @BruceMacD in #16864 llama: add sm_86 architecture to cuda_v13_windows preset by @anishesg in #16834 llm: size mmproj offload by projector memory...",
+      "score": 83,
       "score_reasons": [
         "trusted source weight 43",
-        "published in the last 30 days",
+        "published in the last 24h",
         "github_release source",
-        "matched tags: model, agents, open-source, inference"
+        "matched tags: model, coding-agent, product, hardware"
       ],
       "tier": "raw",
       "quality_reasons": [
-        "matches AI channel focus: model update, builder opinion",
+        "matches AI channel focus: model update, coding agent",
         "high-impact model, eval, or agent keywords",
         "routine versioned release",
         "open-source AI infrastructure update",
         "same theme appeared across multiple sources",
         "demoted by source diversity quota"
       ],
-      "content_hash": "cd783f35e543ffa0"
+      "content_hash": "4d04e1e2f6dcb3a9"
     },
     {
       "id": "381e7f583722c98d",
@@ -2635,7 +2636,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-30T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
@@ -5241,7 +5242,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-30T06:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "product"
@@ -5307,7 +5308,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-25T16:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "product"
@@ -5434,7 +5435,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5463,7 +5464,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T01:30:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -5492,7 +5493,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5521,7 +5522,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T07:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "safety",
@@ -5713,7 +5714,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-22T10:00:00Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -5741,7 +5742,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "regulation"
@@ -5769,7 +5770,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-10T00:00:00Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -5826,7 +5827,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-03T10:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "safety"
@@ -5883,7 +5884,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-30T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -5941,7 +5942,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-24T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "evaluation",
@@ -6009,7 +6010,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T14:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
@@ -6034,7 +6035,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "agents",
@@ -6066,7 +6067,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-02T12:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
@@ -6192,7 +6193,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-29T16:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6326,7 +6327,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T18:13:13Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6357,7 +6358,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T10:18:05Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6388,7 +6389,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6419,7 +6420,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T10:46:19Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6450,7 +6451,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "An action plan for AI-powered biological resilience",
@@ -6476,7 +6477,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6507,7 +6508,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6538,7 +6539,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-02T14:13:23Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "agents"
@@ -6569,7 +6570,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "product"
@@ -6632,7 +6633,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-15T15:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
@@ -6689,7 +6690,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-30T14:39:11Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6716,7 +6717,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-29T18:02:48Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -6875,7 +6876,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-25T20:15:20Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -6905,7 +6906,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-04T18:57:45Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "multimodal",
@@ -6969,7 +6970,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-04T00:11:47Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "model"
@@ -7067,7 +7068,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-26T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "model"
@@ -7100,7 +7101,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-17T15:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7127,7 +7128,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T06:15:52Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "model"
@@ -7255,7 +7256,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-03T13:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7381,7 +7382,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-23T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7408,7 +7409,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-22T13:18:56Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7435,7 +7436,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-18T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7489,7 +7490,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-17T09:01:25Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7516,7 +7517,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-11T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7543,7 +7544,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-08T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "product"
@@ -7573,7 +7574,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-03T12:55:11Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -7600,7 +7601,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-24T08:01:53Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -7610,7 +7611,7 @@
       "score": 56,
       "score_reasons": [
         "trusted source weight 44",
-        "published in the last 7 days",
+        "published in the last 30 days",
         "github_release source",
         "matched tags: open-source"
       ],
@@ -7630,7 +7631,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-11T23:24:31Z",
-      "fetched_at": "2026-06-30T03:40:21Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -7660,7 +7661,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-29T18:50:11Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "product"
@@ -7819,7 +7820,7 @@
       "source_name": "Ollama Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T20:01:10Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -7945,7 +7946,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-17T17:05:59Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "product"
@@ -8007,7 +8008,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T22:39:25Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "product"
@@ -8027,35 +8028,6 @@
         "routine versioned release"
       ],
       "content_hash": "94f314f4137ee8dc"
-    },
-    {
-      "id": "c197fbaf3d54b263",
-      "title": "v2.40.0",
-      "url": "https://github.com/openai/openai-python/releases/tag/v2.40.0",
-      "source_id": "github-openai-python",
-      "source_name": "OpenAI Python Releases",
-      "source_type": "github_release",
-      "published_at": "2026-06-01T21:48:03Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
-      "language": "en",
-      "tags": [
-        "product"
-      ],
-      "summary": "2.40.0 (2026-06-01) Full Changelog: v2.39.0...v2.40.0 Features api: Add Amazon Bedrock Responses support Bug Fixes api: allow setting bedrock api keys on the client directly ( 4d5bfde )",
-      "raw_excerpt": "2.40.0 (2026-06-01) Full Changelog: v2.39.0...v2.40.0 Features api: Add Amazon Bedrock Responses support Bug Fixes api: allow setting bedrock api keys on the client directly ( 4d5bfde )",
-      "score": 49,
-      "score_reasons": [
-        "trusted source weight 42",
-        "published in the last 30 days",
-        "github_release source",
-        "matched tags: product"
-      ],
-      "tier": "raw",
-      "quality_reasons": [
-        "outside preferred AI focus",
-        "routine versioned release"
-      ],
-      "content_hash": "bbc1b175110829a2"
     },
     {
       "id": "51824cb6a706b4cc",
@@ -8125,7 +8097,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-24T20:55:08Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "2.44.0 (2026-06-24) Full Changelog: v2.43.0...v2.44.0 Bug Fixes auth: prioritize first auth header ( 797e336 )",
@@ -8247,7 +8219,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-15T02:35:24Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: sfeng33 4florafeng@gmail.com",
@@ -8274,7 +8246,7 @@
       "source_name": "Hugging Face Transformers Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T15:08:54Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "v5.10.0",
@@ -8301,7 +8273,7 @@
       "source_name": "vLLM Releases",
       "source_type": "github_release",
       "published_at": "2026-06-03T02:02:03Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "Signed-off-by: Kevin H. Luu khluu000@gmail.com",
@@ -8379,6 +8351,35 @@
       "content_hash": "3066a418fd9f67a4"
     },
     {
+      "id": "c197fbaf3d54b263",
+      "title": "v2.40.0",
+      "url": "https://github.com/openai/openai-python/releases/tag/v2.40.0",
+      "source_id": "github-openai-python",
+      "source_name": "OpenAI Python Releases",
+      "source_type": "github_release",
+      "published_at": "2026-06-01T21:48:03Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "product"
+      ],
+      "summary": "2.40.0 (2026-06-01) Full Changelog: v2.39.0...v2.40.0 Features api: Add Amazon Bedrock Responses support Bug Fixes api: allow setting bedrock api keys on the client directly ( 4d5bfde )",
+      "raw_excerpt": "2.40.0 (2026-06-01) Full Changelog: v2.39.0...v2.40.0 Features api: Add Amazon Bedrock Responses support Bug Fixes api: allow setting bedrock api keys on the client directly ( 4d5bfde )",
+      "score": 41,
+      "score_reasons": [
+        "trusted source weight 42",
+        "older than 30 days",
+        "github_release source",
+        "matched tags: product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "outside preferred AI focus",
+        "routine versioned release"
+      ],
+      "content_hash": "bbc1b175110829a2"
+    },
+    {
       "id": "a5d345f37eecd450",
       "title": "v2.39.0",
       "url": "https://github.com/openai/openai-python/releases/tag/v2.39.0",
@@ -8386,7 +8387,7 @@
       "source_name": "OpenAI Python Releases",
       "source_type": "github_release",
       "published_at": "2026-06-01T18:58:01Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "product"
@@ -8415,7 +8416,7 @@
       "source_name": "OpenAI News",
       "source_type": "official",
       "published_at": "2026-06-01T12:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
@@ -8441,7 +8442,7 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-06-09T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [
         "open-source"
@@ -8472,7 +8473,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-06-11T20:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",

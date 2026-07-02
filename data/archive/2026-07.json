@@ -4,6 +4,74 @@
   "retention_days": 365,
   "items": [
     {
+      "id": "cb456d5bdc04ac94",
+      "title": "Measuring the Gap Between Human and LLM Research Ideas",
+      "url": "https://arxiv.org/abs/2607.01233v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:59:56Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research"
+      ],
+      "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers?...",
+      "raw_excerpt": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation framework for ideation from high-quality human research papers. For each paper, we reverse-engineer a small set of closely related prior works that likely inspired its core idea. LLMs are then prompted to generate a new idea from the set of paper titles and summaries. We introduce a two-axis researc...",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "32eab94727f5db03"
+    },
+    {
+      "id": "13f64a4049ca41cc",
+      "title": "Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
+      "url": "https://arxiv.org/abs/2607.01211v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:50:48Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent",
+        "evaluation",
+        "research",
+        "product"
+      ],
+      "summary": "Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized baselines and official reference patches...",
+      "raw_excerpt": "Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized baselines and official reference patches. Their leaderboard scores are increasingly used as evidence of coding-agent progress, but those scores can conflate runtime instability, benchmark-specific scoring rules, and how many tasks are already solved by at least one public submission. We audit these issues across the three benchmarks. First, we replay the official reference patches for 740 code opt...",
+      "score": 100,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: agents, coding-agent, evaluation, research"
+      ],
+      "tier": "must_read",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation, coding agent",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "530e6dc1a176d00f"
+    },
+    {
       "id": "c1d771a81e1be010",
       "title": "v0.31.1",
       "url": "https://github.com/ollama/ollama/releases/tag/v0.31.1",
@@ -74,6 +142,258 @@
       "content_hash": "8e59c826adab2378"
     },
     {
+      "id": "9d4a4c2cf675b8bd",
+      "title": "Disentangling Speaker and Language Effects in Cross-Lingual Speaker Verification for Iberian Languages",
+      "url": "https://arxiv.org/abs/2607.01161v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:44:19Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "product",
+        "regulation"
+      ],
+      "summary": "Cross-lingual speaker verification (SV) systems typically exhibit performance degradation when enrollment and test utterances are spoken in different languages. However, standard evaluation protocols confound language mismatch with inter-s...",
+      "raw_excerpt": "Cross-lingual speaker verification (SV) systems typically exhibit performance degradation when enrollment and test utterances are spoken in different languages. However, standard evaluation protocols confound language mismatch with inter-speaker variability, as evaluation is generally performed with different speakers across languages. In this work, we introduce a bilingual same-speaker evaluation set for five Iberian languages, enabling analysis of cross-lingual SV under constant speaker identity. We apply this setup to a HuBERT-based SV system previously shown to exhibit strong language dep...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "3f5e27251affc21a"
+    },
+    {
+      "id": "208dde1c136ba547",
+      "title": "Adversarial Pragmatics for AI Safety Evaluation: A Benchmark for Instruction Conflict, Embedded Commands, and Policy Ambiguity",
+      "url": "https://arxiv.org/abs/2607.01153v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:33:14Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "evaluation",
+        "research",
+        "safety",
+        "product"
+      ],
+      "summary": "Safety evaluations for language models increasingly depend on judgments about ambiguous natural-language behaviour: whether a model has followed an instruction, refused appropriately, complied with a policy, resisted an embedded command, o...",
+      "raw_excerpt": "Safety evaluations for language models increasingly depend on judgments about ambiguous natural-language behaviour: whether a model has followed an instruction, refused appropriately, complied with a policy, resisted an embedded command, or misreported progress in an agentic task. Existing benchmarks often compress these distinctions into pass/fail labels, obscuring whether failures arise from capability limits, policy ambiguity, instruction conflict, scaffold failure, or unstable evaluator judgments. This paper introduces adversarial pragmatics as a benchmark and annotation protocol for eval...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "5aa0232dd6edb55f"
+    },
+    {
+      "id": "adf8f9c267a0808a",
+      "title": "AGC-Bench: Measuring Artificial General Creativity",
+      "url": "https://arxiv.org/abs/2607.01152v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:31:11Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "evaluation",
+        "research",
+        "open-source",
+        "product"
+      ],
+      "summary": "Creativity research has debated whether creativity is domain-specific (e.g., visual, writing, science), and if it is psychometrically separable from general intelligence. Both questions now apply to LLMs, but a unified benchmark of AI crea...",
+      "raw_excerpt": "Creativity research has debated whether creativity is domain-specific (e.g., visual, writing, science), and if it is psychometrically separable from general intelligence. Both questions now apply to LLMs, but a unified benchmark of AI creativity remains elusive. We introduce AGC-Bench, an artificial general creativity benchmark built from a systematic review of the AI creativity literature (3,101 papers screened, 497 benchmarks identified), paired with an agentic harness that converts idiosyncratic codebases into HELM-standardized benchmarks. The first release covers 78 datasets spanning brai...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "01b0bc2e51014640"
+    },
+    {
+      "id": "52e9542230279ce3",
+      "title": "Clinician-Level Agreement Without Clinical Caution: LLM Evaluator Limits in Medical AI Benchmarking",
+      "url": "https://arxiv.org/abs/2607.01103v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:55:31Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "product",
+        "regulation"
+      ],
+      "summary": "Open-response evaluation provides stronger clinical validity than multiple-choice benchmarks but creates a scoring bottleneck that motivates automated LLM-asa-Judge approaches. Whether such evaluators replicate clinical calibration and cau...",
+      "raw_excerpt": "Open-response evaluation provides stronger clinical validity than multiple-choice benchmarks but creates a scoring bottleneck that motivates automated LLM-asa-Judge approaches. Whether such evaluators replicate clinical calibration and caution, however, remains untested. We introduce MedQADE, the first standardised open-response clinical benchmark for German, a major clinical language lacking native evaluation infrastructure, comprising 3,800 items annotated by ten practising physicians and nine Large Language Model (LLM) evaluators. The top-performing evaluator model, Gemini 3 Flash, reached...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "b878cacff76dbf4d"
+    },
+    {
+      "id": "e1f093f5ae14f3ae",
+      "title": "LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models",
+      "url": "https://arxiv.org/abs/2607.01086v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:40:42Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "evaluation",
+        "research"
+      ],
+      "summary": "The evaluation of long-term video quality understanding remains an open challenge for large vision-language models (LVLMs). Existing video quality benchmarks predominantly focus on short clips and isolated distortions, overlooking the temp...",
+      "raw_excerpt": "The evaluation of long-term video quality understanding remains an open challenge for large vision-language models (LVLMs). Existing video quality benchmarks predominantly focus on short clips and isolated distortions, overlooking the temporal continuity, cumulative degradation, and reasoning complexity inherent in long-duration content. To address these limitations, we present LongVQUBench, a comprehensive benchmark for long-term video quality understanding. LongVQUBench contains over 1200 diverse videos spanning movies, documentaries, surveillance footage, egocentric recordings, and animate...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "44b7ae10a79d95af"
+    },
+    {
+      "id": "eda9cc1bedd4c67a",
+      "title": "Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use",
+      "url": "https://arxiv.org/abs/2607.01084v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:40:25Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "evaluation",
+        "research"
+      ],
+      "summary": "While Large Language Model (LLM) agents demonstrate proficiency in static benchmarks, their deployment in real-world scenarios is hindered by the dynamic nature of user queries, tool sets, and interaction dynamics. To address this generali...",
+      "raw_excerpt": "While Large Language Model (LLM) agents demonstrate proficiency in static benchmarks, their deployment in real-world scenarios is hindered by the dynamic nature of user queries, tool sets, and interaction dynamics. To address this generalization gap, we formalize OpenAgent (Tool-Use Agent in Open-World), a problem setting characterized by distributional shifts across query, action, observation, and domain dimensions. To systematically diagnose its impact, we construct a controlled sandbox environment where we define fine-grained environmental shifts across a four-tier hierarchy, Perception, I...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation, agent practice",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "77d816edd3b03e84"
+    },
+    {
+      "id": "bfe6afd31d6e8977",
+      "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+      "url": "https://arxiv.org/abs/2607.01071v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:30:33Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "evaluation",
+        "research",
+        "safety"
+      ],
+      "summary": "Memory has emerged as a cornerstone of modern LLM-based agents, supporting their evolution from single-turn assistants to long-term collaborators. However, memory is not always beneficial: retrieved memories often induce a critical issue o...",
+      "raw_excerpt": "Memory has emerged as a cornerstone of modern LLM-based agents, supporting their evolution from single-turn assistants to long-term collaborators. However, memory is not always beneficial: retrieved memories often induce a critical issue of sycophancy, causing agents to over-align with the user at the cost of factual accuracy or objective reasoning. Despite this emerging risk, existing memory benchmarks primarily evaluate whether memories are correctly stored, retrieved, or updated, while overlooking how retrieved memories influence downstream reasoning and decision-making. To bridge this gap...",
+      "score": 90,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model evaluation",
+        "high-impact model, eval, or agent keywords",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "dddc68810e3ec3d5"
+    },
+    {
       "id": "18429c0d3940373b",
       "title": "New AI-powered library lets people meet Theodore Roosevelt in a whole new way",
       "url": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library",
@@ -103,6 +423,73 @@
       "content_hash": "1fa65837b6d5e9eb"
     },
     {
+      "id": "dffc6e21c209c842",
+      "title": "Agentic generation of verifiable rules for deterministic, self-expanding reaction classification",
+      "url": "https://arxiv.org/abs/2607.01061v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:24:06Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "research"
+      ],
+      "summary": "Computer-assisted synthesis planning breaks target molecules into accessible precursors using large libraries of reaction rules that assign each transformation a deterministic, interpretable label. But chemistry is long-tailed, making manu...",
+      "raw_excerpt": "Computer-assisted synthesis planning breaks target molecules into accessible precursors using large libraries of reaction rules that assign each transformation a deterministic, interpretable label. But chemistry is long-tailed, making manual encoding intractable, and existing tools rely on fixed rulesets that cannot adapt to new chemistries. Here we present a fully automated pipeline in which a multi-agent framework of large language models (LLMs) classifies reactions and writes the rules themselves across 665,901 US patent reactions, generating each rule under a verification loop that tests...",
+      "score": 84,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "targeted model, eval, or coding-agent paper",
+        "same theme appeared across multiple sources",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "b1ac99b000e58cc6"
+    },
+    {
+      "id": "9b9effa27872e08d",
+      "title": "Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2607.01087v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:44:15Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "coding-agent",
+        "product",
+        "research"
+      ],
+      "summary": "Generative AI is shifting software engineering from a practice organized around scarce implementation effort toward one organized around abundant, low-cost code production. This shift changes the central engineering problem: not whether AI...",
+      "raw_excerpt": "Generative AI is shifting software engineering from a practice organized around scarce implementation effort toward one organized around abundant, low-cost code production. This shift changes the central engineering problem: not whether AI can generate useful code, but how engineers organize architectures, tools, evidence, and feedback loops so that AI-mediated development remains inspectable, correctable, and maintainable. We study this problem through a first-person case study: a 12-week development effort in which a single expert software engineer used frontier AI coding agents to build a...",
+      "score": 75,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: agents, coding-agent, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent, agent practice",
+        "targeted model, eval, or coding-agent paper",
+        "low-signal content: case study",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "52613661b1b40140"
+    },
+    {
       "id": "f64e2fd8a1805bea",
       "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit",
@@ -110,7 +497,7 @@
       "source_name": "Google AI Blog",
       "source_type": "official",
       "published_at": "2026-07-01T16:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
@@ -130,6 +517,69 @@
       "content_hash": "7f09df0c9ee029d8"
     },
     {
+      "id": "0935ca8e1d328e8b",
+      "title": "Right in the Right Way: LM Training with Verifiable Rewards and Human Demonstrations",
+      "url": "https://arxiv.org/abs/2607.01181v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:13:35Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "research"
+      ],
+      "summary": "RL with verifiable rewards (RLVR) has emerged as a powerful paradigm for training LMs on tasks with well-defined success metrics, such as code generation and mathematical reasoning. However, current RLVR methods optimize only what can be o...",
+      "raw_excerpt": "RL with verifiable rewards (RLVR) has emerged as a powerful paradigm for training LMs on tasks with well-defined success metrics, such as code generation and mathematical reasoning. However, current RLVR methods optimize only what can be objectively scored, often neglecting subjective, non-verifiable aspects of human-like outputs, such as style and structure. This limitation leads to well-documented failure modes such as diversity collapse, unnatural-sounding responses, and reward hacking. We propose an adversarial generator-discriminator framework that augments verifiable rewards with a lear...",
+      "score": 71,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: coding agent",
+        "targeted model, eval, or coding-agent paper",
+        "demoted by source diversity quota"
+      ],
+      "content_hash": "15bf9244cb0d07f3"
+    },
+    {
+      "id": "53dee214ac8e211a",
+      "title": "ZO-Act: Efficient Zeroth-Order Fine-Tuning via One-Shot Activation-Informed Low-Rank Subspaces",
+      "url": "https://arxiv.org/abs/2607.01125v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:12:50Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "open-source",
+        "research"
+      ],
+      "summary": "Zeroth-order (ZO) optimization enables fine-tuning large language models when backpropagation is unavailable or memory-prohibitive, but existing methods often perturb full model weights or randomly constructed low-dimensional subspaces, yi...",
+      "raw_excerpt": "Zeroth-order (ZO) optimization enables fine-tuning large language models when backpropagation is unavailable or memory-prohibitive, but existing methods often perturb full model weights or randomly constructed low-dimensional subspaces, yielding high-variance estimates and limited performance. We propose ZO-Act, an activation-informed ZO fine-tuning method that restricts perturbations to a fixed low-rank subspace derived from input activations. For each linear layer, ZO-Act computes a small activation basis once at initialization and optimizes only lightweight coefficient matrices using forwa...",
+      "score": 69,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, open-source, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "matches AI channel focus: model update",
+        "high-impact model, eval, or agent keywords",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "6d3283fbfac3eae4"
+    },
+    {
       "id": "e4a022908747a557",
       "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
@@ -137,15 +587,15 @@
       "source_name": "Hugging Face Blog",
       "source_type": "official",
       "published_at": "2026-07-01T00:00:00Z",
-      "fetched_at": "2026-07-01T21:28:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
       "language": "en",
       "tags": [],
       "summary": "",
       "raw_excerpt": "",
-      "score": 72,
+      "score": 65,
       "score_reasons": [
         "trusted source weight 50",
-        "published in the last 24h",
+        "published in the last 7 days",
         "official source",
         "no feed summary"
       ],
@@ -155,6 +605,1183 @@
         "thin feed summary"
       ],
       "content_hash": "e916d76ea0c4964a"
+    },
+    {
+      "id": "20ade82fefa1839f",
+      "title": "$\\text{Log}_\\text{b}$Quant: Quantizing Language Models in Logarithmic Space",
+      "url": "https://arxiv.org/abs/2607.01127v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:13:03Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "open-source",
+        "inference",
+        "product",
+        "research"
+      ],
+      "summary": "Quantization has become an invaluable tool to reduce memory requirements and inference speed of modern language models, in particular to make them available for consumer setups and edge devices. While previous work has primarily focused on...",
+      "raw_excerpt": "Quantization has become an invaluable tool to reduce memory requirements and inference speed of modern language models, in particular to make them available for consumer setups and edge devices. While previous work has primarily focused on uniform quantization codebooks, such approaches are prone to suboptimal representations due to low-frequency high-magnitude weights. We introduce Log$_\\text{b}$Quant, a novel logarithmic quantization approach with adjustable bases, to adapt to common parameter distributions. We show that our method exhibits superior performance at 4-bit precision on several...",
+      "score": 34,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, open-source, inference, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "bab42f8be3999a94"
+    },
+    {
+      "id": "97d23ef57b165884",
+      "title": "GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache",
+      "url": "https://arxiv.org/abs/2607.01065v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:25:21Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "product",
+        "regulation",
+        "research"
+      ],
+      "summary": "The deployment of Large Language Models (LLMs) with extended context windows is increasingly constrained by the linear growth of Key-Value (KV) cache memory. Vector Quantization (VQ), particularly Residual Quantization (RQ), is a promising...",
+      "raw_excerpt": "The deployment of Large Language Models (LLMs) with extended context windows is increasingly constrained by the linear growth of Key-Value (KV) cache memory. Vector Quantization (VQ), particularly Residual Quantization (RQ), is a promising approach for pushing KV cache storage toward the sub-1-bit regime by progressively encoding residuals with small codebooks. However, most VQ methods still rely on standard $\\ell_2$ $K$-means as the core codebook-learning primitive. We identify a subtle high-dimensional issue of this primitive: Euclidean centroid averaging can induce centroid shrinkage, whic...",
+      "score": 34,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, inference, product, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ba7727dced084ab2"
+    },
+    {
+      "id": "ffb10872e7c363c0",
+      "title": "The State-Prediction Separation Hypothesis",
+      "url": "https://arxiv.org/abs/2607.01218v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:55:09Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "regulation",
+        "research"
+      ],
+      "summary": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}: disentangling the two roles yields bet...",
+      "raw_excerpt": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}: disentangling the two roles yields better language modeling performance. We design a Transformer variant that uses two computation streams to separate the two functions, and conduct pretraining experiments across various scales. Our experiments show that state-prediction separation consistently offers better data and compute efficiencies, improving validation loss and outperforming standard Tran...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "10276ded0d21e6fe"
+    },
+    {
+      "id": "f28f5016e04811a8",
+      "title": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+      "url": "https://arxiv.org/abs/2607.01212v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:51:21Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "evaluation",
+        "research"
+      ],
+      "summary": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembly using Vision-Language-Action models (...",
+      "raw_excerpt": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembly using Vision-Language-Action models (VLAs). We formalize the task, develop a scalable simulation pipeline for expert data generation and evaluation, and build a VR teleoperation system for single-operator bimanual control to collect high-quality real-world demonstrations. To address extreme long-horizon assembly with up to 7 subtasks and 1550 control steps, we propose a progress-enhanced VLA, f...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "d2aa95bb93d7cbf2"
+    },
+    {
+      "id": "144dafc116f0e5d1",
+      "title": "World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video",
+      "url": "https://arxiv.org/abs/2607.01202v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:41:00Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "research",
+        "product"
+      ],
+      "summary": "We present World from Motion, a method for generating freely renderable dynamic 3D Gaussian representations from monocular videos. Our approach conditions a video model on dense, pixel-aligned renderings that encode appearance, geometry, a...",
+      "raw_excerpt": "We present World from Motion, a method for generating freely renderable dynamic 3D Gaussian representations from monocular videos. Our approach conditions a video model on dense, pixel-aligned renderings that encode appearance, geometry, and 3D scene motion along both input and target camera trajectories to correct rendering artifacts and fill in missing regions from an initial reconstruction. To train this model, we construct a dataset of aligned multiview video pairs and dynamic 3DGS representations, with simulated artifacts characteristic of monocular reconstruction. At test time, we disti...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "72ea0095447adaf2"
+    },
+    {
+      "id": "4b5f1272f0fdbcbc",
+      "title": "Quantum vs. Classical Machine Learning: A Unified Empirical Comparison",
+      "url": "https://arxiv.org/abs/2607.01197v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:31:46Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research",
+        "product"
+      ],
+      "summary": "Quantum computing has emerged as a promising computational paradigm for machine learning (ML), with the potential to offer computational advantages over classical approaches. At this stage, the evidence supporting the performance and advan...",
+      "raw_excerpt": "Quantum computing has emerged as a promising computational paradigm for machine learning (ML), with the potential to offer computational advantages over classical approaches. At this stage, the evidence supporting the performance and advantages of quantum machine learning (QML) models relative to classical models is insufficient.To address this gap, this paper presents an empirical study on the performance of QML models and their classical counterparts. We compare seven model pairs spanning supervised learning and reinforcement learning. Our results indicate that the evaluated quantum machine...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "b139eeb07c0ab0a8"
+    },
+    {
+      "id": "80e833aa6b069327",
+      "title": "Sequentially-Controlled Interactive Multi-Particle Flow-Maps for Online Feedback-Driven Search",
+      "url": "https://arxiv.org/abs/2607.01144v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:27:17Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "safety",
+        "product",
+        "research"
+      ],
+      "summary": "While generative models have enabled training-free reward alignment, current methods typically excel in local exploration within narrow regions of the underlying distribution. These approaches struggle when preferences are unknown a priori...",
+      "raw_excerpt": "While generative models have enabled training-free reward alignment, current methods typically excel in local exploration within narrow regions of the underlying distribution. These approaches struggle when preferences are unknown a priori and only revealed through sequential feedback-a scenario demanding broad exploration to uncover high-utility regions. To address this, we propose Sequentially-Controlled Interactive Multi-Particle Flow-Maps (IMPFM), a framework for sample-efficient online feedback-driven search. IMPFM progressively transports a group of interactive particles toward the targ...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, safety, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "6316037446ce2018"
+    },
+    {
+      "id": "bf80d511341b4eeb",
+      "title": "Skills Are Not Islands: Measuring Dependency and Risk in Agent Skill Supply Chains",
+      "url": "https://arxiv.org/abs/2607.01136v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:21:49Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "safety",
+        "research"
+      ],
+      "summary": "Agent skills package reusable operational knowledge for Large Language Model (LLM) agents, yet as they grow in scope, they become dependency-bearing artifacts whose identities, versions, and provenance remain implicit. This opacity already...",
+      "raw_excerpt": "Agent skills package reusable operational knowledge for Large Language Model (LLM) agents, yet as they grow in scope, they become dependency-bearing artifacts whose identities, versions, and provenance remain implicit. This opacity already causes duplicated dependencies and inconsistent installations, exposing a gap that dependency management has yet to close. We introduce Agent Skill Supply Chains (ASSCs) to characterize mixed skill-package-service dependency graphs and help close this gap. Borrowing from Software Bill of Materials (SBOMs), we design SkillDepAnalyzer to capture natural-langu...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, safety, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "b9af7f783a2a2178"
+    },
+    {
+      "id": "89511470c14de336",
+      "title": "Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach",
+      "url": "https://arxiv.org/abs/2607.01115v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:03:03Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "multimodal",
+        "product",
+        "research"
+      ],
+      "summary": "University stakeholders often face difficulties in accessing timely and reliable information, especially in developing countries, where there are very few intelligent support systems. Existing rule-based chatbots are unable to handle compl...",
+      "raw_excerpt": "University stakeholders often face difficulties in accessing timely and reliable information, especially in developing countries, where there are very few intelligent support systems. Existing rule-based chatbots are unable to handle complex, domain-specific queries and are not well-equipped to adapt to evolving institutional policies. As a fill-in-the-gap solution, we present the multimodal university chatbot with retrieval-augmented generation. The system combines the large language model with semantic retrieval to produce context-based responses from institution-centric resources, such as...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, multimodal, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "be99a79fb6867823"
+    },
+    {
+      "id": "49c543502ad1fc83",
+      "title": "CausalMix: Data Mixture as Causal Inference for Language Model Training",
+      "url": "https://arxiv.org/abs/2607.01104v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:56:11Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research",
+        "open-source",
+        "inference"
+      ],
+      "summary": "In Large Language Model (LLM) training, data mixing plays a pivotal role in determining model performance. Recent methods optimize mixture weights via proxy models, but they rely on the assumption of static data distributions. As a result,...",
+      "raw_excerpt": "In Large Language Model (LLM) training, data mixing plays a pivotal role in determining model performance. Recent methods optimize mixture weights via proxy models, but they rely on the assumption of static data distributions. As a result, when the underlying data pool shifts, these methods require costly retraining from scratch. This limitation restricts their ability to scale seamlessly from small settings to larger data pools and model sizes. In this paper, we propose CausalMix to address this limitation by casting data mixture optimization as a causal inference problem. We formulate the s...",
+      "score": 32,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research, open-source, inference"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "8590d71da58ab964"
+    },
+    {
+      "id": "9fa1fc8e8d4537f5",
+      "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+      "url": "https://arxiv.org/abs/2607.01232v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:59:54Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product",
+        "research"
+      ],
+      "summary": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all m...",
+      "raw_excerpt": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Existing approaches typically update all model parameters uniformly, implicitly assuming that every layer contributes similarly to the gains obtained during RL post-training. In this work, we challenge this assumption through a systematic layer-wise study of RL training. Surprisingly, we find that training a single transformer layer can recover most of the gains achieved by full-parameter RL trainin...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "3d0ce9bb1d8f21b4"
+    },
+    {
+      "id": "d2c1bc3e434461e8",
+      "title": "AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "url": "https://arxiv.org/abs/2607.01224v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:57:03Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "builder-opinion",
+        "research"
+      ],
+      "summary": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainab...",
+      "raw_excerpt": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by treating memory management as a trainable skill. We promote file-system operations to first-class memory actions alongside task actions, letting the model itself decide how to manage its memory. This memory skill improves along two axes: the structure that supports it (prompts, file schemas, action vocabulary), and the proficiency of the model exercising it. Both axes resist manual optimization:...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, builder-opinion, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "806c58466b4817d8"
+    },
+    {
+      "id": "d8548f0b47cac9a7",
+      "title": "QuasiMoTTo: Quasi-Monte Carlo Test-Time Scaling",
+      "url": "https://arxiv.org/abs/2607.01179v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:10:08Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "research"
+      ],
+      "summary": "Scaling inference compute, by generating many parallel attempts per problem, is a costly but reliable lever for improving language model capabilities. By default these attempts are generated independently, wasting inference compute on redu...",
+      "raw_excerpt": "Scaling inference compute, by generating many parallel attempts per problem, is a costly but reliable lever for improving language model capabilities. By default these attempts are generated independently, wasting inference compute on redundant solutions. This waste seems unavoidable. After all, independence is what makes parallel sampling trivial to scale. However, this tradeoff is not fundamental: there is a rich design space of samplers that generate correlated but exact samples entirely in parallel. We explore this design space as an avenue for improving sample efficiency in scaling infer...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, inference, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "1c40babe4624196f"
+    },
+    {
+      "id": "2cb0c9bbbb357ffb",
+      "title": "Diffusion-GR2: Diffusion Generative Reasoning Re-ranker",
+      "url": "https://arxiv.org/abs/2607.01170v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:02:20Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "research"
+      ],
+      "summary": "Generative reasoning re-rankers achieve strong recommendation accuracy by emitting a chain-of-thought before re-ordering a candidate list, but they are slow at inference: an autoregressive (AR) decoder spends one sequential forward pass pe...",
+      "raw_excerpt": "Generative reasoning re-rankers achieve strong recommendation accuracy by emitting a chain-of-thought before re-ordering a candidate list, but they are slow at inference: an autoregressive (AR) decoder spends one sequential forward pass per reasoning token, and the reasoning trace far exceeds the ranking it produces. To reduce this cost, block-diffusion language models decode many positions in parallel over a few denoising steps and are substantially faster, yet naively converting an AR re-ranker into one opens two accuracy gaps: (1) a structural gap: answer positions are denoised in parallel...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, inference, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "5acc3e954d7c1a38"
+    },
+    {
+      "id": "497923f2965b23ec",
+      "title": "Autonomous Scientific Discovery via Iterative Meta-Reflection",
+      "url": "https://arxiv.org/abs/2607.01131v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:16:07Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research"
+      ],
+      "summary": "Autonomous scientific discovery systems offer the potential to accelerate research by automating the process of hypothesis generation and validation. However, current systems operate within constrained search spaces or require predefined r...",
+      "raw_excerpt": "Autonomous scientific discovery systems offer the potential to accelerate research by automating the process of hypothesis generation and validation. However, current systems operate within constrained search spaces or require predefined research questions, limiting their capacity for true open-ended inquiry. Furthermore, while they generate hypotheses iteratively, they largely lack the ability to explicitly synthesize their own accumulated findings to uncover complex, interconnected phenomena. We introduce DiscoPER, an autonomous large language model-powered framework that conducts open-ende...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "d21dbbeb40fd234e"
+    },
+    {
+      "id": "dabe972d4f2a44ea",
+      "title": "GAIA: Geometry-Adaptive Operator Learning for Forward and Inverse Problems",
+      "url": "https://arxiv.org/abs/2607.01128v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:14:22Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "product",
+        "research"
+      ],
+      "summary": "Operator learning for partial differential equations (PDEs) on arbitrary geometries builds fast neural surrogates for large-scale simulation. Although recent geometry-adaptive neural operators have made substantial progress, they are mainl...",
+      "raw_excerpt": "Operator learning for partial differential equations (PDEs) on arbitrary geometries builds fast neural surrogates for large-scale simulation. Although recent geometry-adaptive neural operators have made substantial progress, they are mainly designed for forward problems in which inputs and outputs share the same spatial domain. This limits their applicability for boundary value problems (BVPs) and inverse problems, where inputs and outputs may live on different domains. We introduce the Geometry-Adaptive Integral Autoencoder (GAIA), an operator learning model that encodes the domain boundary...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, product, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "ddd798dbcea1bdcb"
+    },
+    {
+      "id": "61f1f80ef2b29218",
+      "title": "Message Passing Enables Efficient Reasoning",
+      "url": "https://arxiv.org/abs/2607.01077v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:35:04Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "inference",
+        "research"
+      ],
+      "summary": "While inference-time scaling has improved the reasoning abilities of large language models (LLMs), the need to generate long chains-of-thought (CoTs) is a computational bottleneck. Thus, in contrast to sequential scaling methods like CoT,...",
+      "raw_excerpt": "While inference-time scaling has improved the reasoning abilities of large language models (LLMs), the need to generate long chains-of-thought (CoTs) is a computational bottleneck. Thus, in contrast to sequential scaling methods like CoT, recent parallel scaling techniques instead use fork and join (FJ) primitives to divide work across multiple LLM threads. However, in the fork-join paradigm, threads are typically transient and do not communicate pointwise with one another which limits scalability. To tackle this, we introduce Message Passing Language Models (MPLMs), a framework for LLM reaso...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, inference, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "5ade73433fa86965"
+    },
+    {
+      "id": "5faaa7c9cc6166ff",
+      "title": "Conversable Complexity: Agentic LLM Collectives as Interpretable Substrates",
+      "url": "https://arxiv.org/abs/2607.01047v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:08:02Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "agents",
+        "research"
+      ],
+      "summary": "Complexity and interpretability rarely coincide: systems rich enough for complex behaviours to emerge are usually too opaque to question, while transparent ones are too simple for anything complex to emerge. A single large language model (...",
+      "raw_excerpt": "Complexity and interpretability rarely coincide: systems rich enough for complex behaviours to emerge are usually too opaque to question, while transparent ones are too simple for anything complex to emerge. A single large language model (LLM) is a static artefact, hardly exhibiting any of the emergent properties we associate with life. This changes through interaction: populations of LLMs display emergent dynamics absent from isolated models. Furthermore, LLMs can be endowed with persistent memory, tools and shared skills, and the capacity to initiate actions unprompted, i.e., turning LLMs a...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, agents, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "2186b4127d51353e"
+    },
+    {
+      "id": "3f3b622ce1562f43",
+      "title": "DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation",
+      "url": "https://arxiv.org/abs/2607.01043v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:07:07Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "agents",
+        "research"
+      ],
+      "summary": "Memory-based discrete vision-language navigation (VLN) agents must act under partial observability, yet even strong frozen backbones remain vulnerable at test time. Two common failure modes are stale historical evidence at memory readout a...",
+      "raw_excerpt": "Memory-based discrete vision-language navigation (VLN) agents must act under partial observability, yet even strong frozen backbones remain vulnerable at test time. Two common failure modes are stale historical evidence at memory readout and inefficient local backtracking during action selection. We present DART-VLN, a training-free test-time control framework for discrete VLN. DART-VLN combines Test-Time Memory Decay, a read-side memory reweighting rule that suppresses stale and redundant evidence without rewriting stored content, with Anti-Loop Regularization, a lightweight next-hop penalty...",
+      "score": 29,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: multimodal, agents, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "bf8e9349c8f8a5ac"
+    },
+    {
+      "id": "65269fa6d4d7cb72",
+      "title": "Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+      "url": "https://arxiv.org/abs/2607.01223v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:56:42Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and a...",
+      "raw_excerpt": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that cannot be audited after the fact and are subject to the same coherence issues as any LLM. We present Theoria, a verification architecture that closes this gap. A candidate solution is rewritten into a sequence of typed state transitions, each licensed by an explicit justification, whether that be a citation, computation, or problem-given fact, and every transition is independently auditable. The...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "cbfa7cc64575a76a"
+    },
+    {
+      "id": "2fe94100dc700811",
+      "title": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+      "url": "https://arxiv.org/abs/2607.01208v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:46:33Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor in the model's supply chain and are most...",
+      "raw_excerpt": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor in the model's supply chain and are most dangerous when the model reveals its preference only on the relevant topic while behaving identically to its unmodified base on all other inputs. Recent work has shown that these biases can transfer through context distillation on semantically unrelated data, with the signal residing entirely in the soft logit distribution and remaining invisible to text-ba...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "2e6e0a6a8f3f6acd"
+    },
+    {
+      "id": "3fc1a21a9906b1c1",
+      "title": "TiRex-2: Generalizing TiRex to Multivariate Data and Streaming",
+      "url": "https://arxiv.org/abs/2607.01204v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:45:04Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "We introduce TiRex-2, a recurrent xLSTM-based time series foundation model that generalizes the univariate TiRex to multivariate forecasting with both past and future covariates. Real-world forecasting is inherently sequential: observation...",
+      "raw_excerpt": "We introduce TiRex-2, a recurrent xLSTM-based time series foundation model that generalizes the univariate TiRex to multivariate forecasting with both past and future covariates. Real-world forecasting is inherently sequential: observations arrive continuously, variables evolve jointly, and a subset of covariates is known ahead of time. Existing Transformer-based time series foundation models capture cross-variate dependencies but incur quadratic complexity in context length and require full-history recomputation as new observations arrive. TiRex-2 addresses these limitations through a memory...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "b4ed08a16fe368cd"
+    },
+    {
+      "id": "0418b75ddebefb8a",
+      "title": "Optimal Resource Utilization for Autonomous Laboratory Orchestrators",
+      "url": "https://arxiv.org/abs/2607.01188v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:20:45Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "agents",
+        "research"
+      ],
+      "summary": "In autonomous laboratories, AI agents suggest the next batch of experiments to do. However, planning and executing those tasks taking full advantage of the available resources is a completely different question. This can be challenging whe...",
+      "raw_excerpt": "In autonomous laboratories, AI agents suggest the next batch of experiments to do. However, planning and executing those tasks taking full advantage of the available resources is a completely different question. This can be challenging when dealing with real-world hardware constraints, especially so when there are multiple instruments with different capacities and throughputs. Here we demonstrate a 2-step method to address resource utilization for our autonomous platform for metal-organic framework synthesis. First, we use constraint programming to find optimal schedules. This finds schedules...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: agents, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "35ad745f8670982b"
+    },
+    {
+      "id": "c614a15ea54544d6",
+      "title": "Decision-Aware Training for Sample-Based Generative Models",
+      "url": "https://arxiv.org/abs/2607.01171v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:02:23Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Sample-based generative models are increasingly used for probabilistic forecasting in high-stakes decision settings, yet their training objectives are blind to the decision maker's cost structure. These models are commonly trained with str...",
+      "raw_excerpt": "Sample-based generative models are increasingly used for probabilistic forecasting in high-stakes decision settings, yet their training objectives are blind to the decision maker's cost structure. These models are commonly trained with strictly proper scoring rules, such as the energy score, which allocate their training signal in proportion to data density, with no awareness of where forecast errors are most costly for downstream decisions. We therefore propose decision-aware training for sample-based generative models, augmenting the energy score objective with a differentiable decision los...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "b645f2c337622481"
+    },
+    {
+      "id": "06c158519290d910",
+      "title": "Efficient Compression of Structured and Unstructured Volumes via Learned 3D Gaussian Representation",
+      "url": "https://arxiv.org/abs/2607.01164v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:48:46Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "Recent work has shown that implicit neural representations (INRs) can be trained to effectively compress structured and unstructured volume data, allowing for direct data querying with a reduced memory footprint. However, as existing INRs...",
+      "raw_excerpt": "Recent work has shown that implicit neural representations (INRs) can be trained to effectively compress structured and unstructured volume data, allowing for direct data querying with a reduced memory footprint. However, as existing INRs for unstructured volumes do not encode geometry, they require partial mesh storage for later sampling, limiting achievable compression. At the same time, novel view synthesis methods have shown that explicit collections of 3D Gaussians can be used to accurately visualize volume data. In this work, we introduce an explicit model for volume data compression ba...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "7e9fad28abee85fa"
+    },
+    {
+      "id": "b78dfbb93f29601e",
+      "title": "SynLaD: Latent Diffusion for Generating Synthesizable Molecules Conditioned on 3D Pharmacophore Profiles",
+      "url": "https://arxiv.org/abs/2607.01105v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:57:19Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "We present SynLaD, a latent diffusion framework for small-molecule generation that unifies ligand-based drug design objectives (what to make) with synthetic accessibility (how to make it). Current models typically optimize one objective at...",
+      "raw_excerpt": "We present SynLaD, a latent diffusion framework for small-molecule generation that unifies ligand-based drug design objectives (what to make) with synthetic accessibility (how to make it). Current models typically optimize one objective at the expense of the other, creating a bottleneck for discovering high-scoring and synthesizable molecules. SynLaD combines reaction-constrained generation with pharmacophore-conditioned 3D design by learning a latent space that decodes to both 3D structures and synthesis pathways. An encoder maps molecules to a latent representation used by two decoder heads...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "e5dea237f7491188"
+    },
+    {
+      "id": "11633aaaa5d8e288",
+      "title": "Balancing Expressivity and Learnability in Quantum Kernel Bandit Optimization",
+      "url": "https://arxiv.org/abs/2607.01080v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:38:00Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "We investigate Gaussian process (GP) bandit optimization with quantum kernels, assuming the mean reward function lies in the reproducing kernel Hilbert space (RKHS) induced by the quantum kernel. This setting is motivated by NISQ-era tasks...",
+      "raw_excerpt": "We investigate Gaussian process (GP) bandit optimization with quantum kernels, assuming the mean reward function lies in the reproducing kernel Hilbert space (RKHS) induced by the quantum kernel. This setting is motivated by NISQ-era tasks such as quantum control, state preparation and variational quantum algorithms. While quantum kernels can offer a `quantum advantage' via domain-specific inductive biases, naïvely using full, high-dimensional kernels increases model complexity and information gain, leading to higher cumulative regret and poor learnability. To address this, we propose project...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "02add81a9559e3cd"
+    },
+    {
+      "id": "b815fedd767d9d52",
+      "title": "Characterizing and Identifying Separable Graphical Models",
+      "url": "https://arxiv.org/abs/2607.01057v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:22:03Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "research"
+      ],
+      "summary": "We study a broad class of graphical models whose independencies correspond to vertex separation in mixed graphs with directed, undirected, and bidirected edges, that are capable of encoding independence structures arising from feedback, la...",
+      "raw_excerpt": "We study a broad class of graphical models whose independencies correspond to vertex separation in mixed graphs with directed, undirected, and bidirected edges, that are capable of encoding independence structures arising from feedback, latent and selection mechanisms. In particular, we introduce separable graphs, in which each missing edge implies the existence of a separating set for its endpoints, and essentially separable graphs, those graphs separation equivalent to a separable graph. We show that these models include many existing graph families used to define graphical models an provid...",
+      "score": 26,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "7af68f9a45c9e117"
+    },
+    {
+      "id": "390425bba6e37e36",
+      "title": "GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics",
+      "url": "https://arxiv.org/abs/2607.01203v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:42:37Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "research",
+        "product",
+        "regulation",
+        "hardware"
+      ],
+      "summary": "This paper studies real-time robust optimal control for uncertain nonlinear systems, where linear time-varying (LTV) approximations make planning tractable but require sound linearization error bounds (LEBs) to guarantee robust constraint...",
+      "raw_excerpt": "This paper studies real-time robust optimal control for uncertain nonlinear systems, where linear time-varying (LTV) approximations make planning tractable but require sound linearization error bounds (LEBs) to guarantee robust constraint satisfaction. We develop tight, differentiable, GPU-parallel LEBs for LTV approximations of nonlinear and neural network (NN) dynamics. For analytic dynamics, we introduce path-based Hessian bounds that are tighter than standard interval methods. For NN dynamics, we derive certified LEBs using NN verifier-generated affine relaxations and local Jacobian corre...",
+      "score": 25,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: research, product, regulation, hardware"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "6428911eeaaffeb8"
+    },
+    {
+      "id": "135de89f8d9dae9f",
+      "title": "Staleness-Learning Rate Scaling Laws for Asynchronous RLHF",
+      "url": "https://arxiv.org/abs/2607.01083v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:40:12Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "safety",
+        "product",
+        "regulation",
+        "research"
+      ],
+      "summary": "High-throughput RLHF systems often decouple rollout generation from policy optimization, leading to the use of stale rollouts during learner updates. In this work, we study the effect of such staleness in asynchronous GRPO. We make the beh...",
+      "raw_excerpt": "High-throughput RLHF systems often decouple rollout generation from policy optimization, leading to the use of stale rollouts during learner updates. In this work, we study the effect of such staleness in asynchronous GRPO. We make the behavior policy explicit in the GRPO surrogate objective and distinguish between the surrogate-gradient mapping used by the learner and the true total derivative of a distribution-dependent population objective. Under assumptions of local boundedness, distributional smoothness, and behavior-policy smoothness, we show that stale rollouts introduce a per-step sur...",
+      "score": 25,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: safety, product, regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "e10dbd81053d0a22"
+    },
+    {
+      "id": "620479529756f06b",
+      "title": "Language-Critique Imitation Learning from Suboptimal Demonstrations",
+      "url": "https://arxiv.org/abs/2607.01225v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:57:22Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "multimodal",
+        "open-source",
+        "research"
+      ],
+      "summary": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scalar signals are inherently limited, as t...",
+      "raw_excerpt": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scalar signals are inherently limited, as they cannot explicitly express intermediate reasoning about task progress, failure modes, or corrective actions. We propose a language-critique framework for imitation learning from suboptimal demonstrations that instead leverages natural language as a structured supervision signal, avoiding the collapse of expressive feedback into scalars. Our method first c...",
+      "score": 22,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: multimodal, open-source, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "b1c19202260bc340"
+    },
+    {
+      "id": "4f599f29de1e96f6",
+      "title": "FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement",
+      "url": "https://arxiv.org/abs/2607.01111v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:01:54Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "research",
+        "safety",
+        "regulation"
+      ],
+      "summary": "Robot policies inevitably encounter failures when deployed in real environments. Naive retries often repeat the same mistakes, while many existing recovery methods rely on human intervention. In this paper, we propose Failure-Aware Retry (...",
+      "raw_excerpt": "Robot policies inevitably encounter failures when deployed in real environments. Naive retries often repeat the same mistakes, while many existing recovery methods rely on human intervention. In this paper, we propose Failure-Aware Retry (FAR), a framework that enables robots to learn from previous failures at test time, adapt their behavior accordingly, and eventually complete the task autonomously. FAR combines Failure-Contrastive Preference Adaptation, which constructs preference learning data from failures to steer the policy away from previously unsuccessful behaviors, with lightweight a...",
+      "score": 22,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: research, safety, regulation"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "dd812c07a16cc905"
+    },
+    {
+      "id": "b94823504d10f536",
+      "title": "A Lightweight Self-Supervised Learning Framework for Multivariate Time Series using Hierarchical-JEPA on ECG Data",
+      "url": "https://arxiv.org/abs/2607.01145v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:27:21Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "research",
+        "product"
+      ],
+      "summary": "Data analysis in the medical domain often encounters scenarios involving a limited target dataset and a large, unannotated dataset with a general distribution. Under such circumstances, self-supervised learning (SSL) methods are highly eff...",
+      "raw_excerpt": "Data analysis in the medical domain often encounters scenarios involving a limited target dataset and a large, unannotated dataset with a general distribution. Under such circumstances, self-supervised learning (SSL) methods are highly effective for utilizing large datasets, making them a popular choice for electrocardiogram (ECG) analysis. This work presents the Event Reconstruction Joint-Embedding Predictive Architecture (ER-JEPA), a lightweight SSL framework for multivariate time series, whose name and two-fold hierarchical structure are inspired by the diagnostic approach of cardiologists...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: research, product"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "c8f76866d5b00c91"
+    },
+    {
+      "id": "80e07f6c29dfcb4e",
+      "title": "Muon as a Residual Connection",
+      "url": "https://arxiv.org/abs/2607.01124v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T16:12:24Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "research",
+        "builder-opinion"
+      ],
+      "summary": "Muon has recently emerged as one of the most effective optimizers for training large neural networks, yet its empirical success has been explained from several different perspectives. In this paper, we propose a simple mechanistic interpre...",
+      "raw_excerpt": "Muon has recently emerged as one of the most effective optimizers for training large neural networks, yet its empirical success has been explained from several different perspectives. In this paper, we propose a simple mechanistic interpretation: Muon can be understood as an implicit residual connection during training. Specifically, orthogonalizing the update can sacrifice some immediate gradient fidelity while improving representation preservation for downstream layers. We study this trade-off in controlled linear optimization settings, where Muon can learn representations that are slower t...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: research, builder-opinion"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "4d64bcec3d38b065"
+    },
+    {
+      "id": "4537c1b6bd604c6d",
+      "title": "Group-invariant Coresets for Data-efficient Active Learning",
+      "url": "https://arxiv.org/abs/2607.01089v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:46:16Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "regulation",
+        "research"
+      ],
+      "summary": "Active learning reduces labeling cost by querying the most informative unlabeled samples, but standard coreset methods ignore known data symmetries and can waste budget on transformed versions of the same instance. We propose GRINCO, a gro...",
+      "raw_excerpt": "Active learning reduces labeling cost by querying the most informative unlabeled samples, but standard coreset methods ignore known data symmetries and can waste budget on transformed versions of the same instance. We propose GRINCO, a group-invariant coreset framework that performs acquisition in the quotient space induced by a transformation group, so that selection operates on orbits rather than raw samples. The method uses either canonical representatives or learned orbit-separating invariant embeddings to define practical quotient metrics, and combines quotient-space k-center selection w...",
+      "score": 19,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: regulation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "c2bb76771804e7f6"
+    },
+    {
+      "id": "28757df33c126c16",
+      "title": "Neural Certificate Pricing for Combinatorial Optimization Problems",
+      "url": "https://arxiv.org/abs/2607.01185v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T17:17:55Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "research"
+      ],
+      "summary": "Combinatorial optimization (CO) problems are difficult because certifiable discrete structure induces exponential search. One needs to search over the set exponentially many candidates to certify optimality, however, the structural feasibi...",
+      "raw_excerpt": "Combinatorial optimization (CO) problems are difficult because certifiable discrete structure induces exponential search. One needs to search over the set exponentially many candidates to certify optimality, however, the structural feasibility of a path, packing, or cover can be verified in polynomial time once supplied. In this study, we introduce Neural Certificate Pricing (NCP) that exploits this asymmetry under an unsupervised learning framework. A neural network is trained to predict certificate-level dual prices, while a structured recovery layer constructs the induced primal marginal....",
+      "score": 16,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper"
+      ],
+      "content_hash": "c07951ee49a5e9c0"
+    },
+    {
+      "id": "f1fd79ac99a27fda",
+      "title": "When Context Compensates for Sparse Event History: AlphaEarth for Spatio-Temporal Point-Process Forecasting",
+      "url": "https://arxiv.org/abs/2607.01082v1",
+      "source_id": "arxiv-ai",
+      "source_name": "arXiv AI/ML/CL",
+      "source_type": "paper",
+      "published_at": "2026-07-01T15:38:39Z",
+      "fetched_at": "2026-07-02T03:37:02Z",
+      "language": "en",
+      "tags": [
+        "model",
+        "evaluation",
+        "research"
+      ],
+      "summary": "Spatio-temporal point-process models must often generalise across space when local event histories are sparse. We study whether exogenous spatial context can compensate in such regimes. Using a fixed log-Gaussian Cox process backbone, we c...",
+      "raw_excerpt": "Spatio-temporal point-process models must often generalise across space when local event histories are sparse. We study whether exogenous spatial context can compensate in such regimes. Using a fixed log-Gaussian Cox process backbone, we compare an event-only model with the same model augmented by AlphaEarth embeddings as linear spatial context. We evaluate spatial transfer on emergency medical services (EMS) forecasting across eight held-out regions, fixed forecast anchors, and a sweep over history length $w$, using only AlphaEarth (AE) embeddings available strictly before each anchor. AE im...",
+      "score": 7,
+      "score_reasons": [
+        "trusted source weight 38",
+        "published in the last 24h",
+        "paper source",
+        "matched tags: model, evaluation, research"
+      ],
+      "tier": "raw",
+      "quality_reasons": [
+        "paper outside AI channel focus",
+        "demoted broad arXiv paper",
+        "low-signal content: event",
+        "same theme appeared across multiple sources"
+      ],
+      "content_hash": "77f6d49a5582a0ec"
     }
   ]
 }
